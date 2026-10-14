@@ -1,23 +1,19 @@
 # Bloque 1 · Crear un workflow (15:15–15:50)
 
-Vamos a montar en Studio un workflow que recibe **facturas y albaranes** mezclados, los separa,
-extrae los datos de cada uno, comprueba que la factura cuadra y avisa cuando no.
+Dos partes:
 
-Los documentos son **facturas reales de proveedores de recambios, anonimizadas** (`samples/facturas/`).
-Cada factura agrupa sus líneas por albarán, así que el extract lee también **a qué albarán pertenece
-cada línea**. Van de 1 a 91 páginas. Para ir rápido en directo, usad estas:
+1. **Construir en Studio** un workflow sencillo, nodo a nodo, para aprender las piezas: parse, classify,
+   extract, validate y mensajes (*Formación IBM · Factura y albarán*).
+2. **Ver la versión de producción**, `demo_facturas`: la misma idea afinada para facturas de proveedor
+   largas y difíciles. Con esta se ejecutan las facturas de verdad y es la que usa la app del bloque 3.
 
-| PDF | Páginas | Por qué |
-|---|---|---|
-| `134900_anon.pdf` | 1 | Un albarán, una línea: la más sencilla |
-| `133285_anon.pdf` | 2 | Formato distinto, con destino de mercancía y de factura |
-| `137181_anon.pdf` | 7 | Muchos albaranes en una factura |
-| `133004_anon.pdf` | 12 | Proveedor italiano, factura bilingüe |
+Los documentos son **facturas reales de proveedores de recambios, anonimizadas** (`samples/facturas/`), de
+1 a 91 páginas. Cada factura agrupa sus líneas por albarán.
 
-Las de 39–91 páginas son para ver cómo escala, no para esperar en directo.
+## Parte 1 · El workflow sencillo, en Studio
 
 ```
-parse → classify ─┬─ factura → extract_factura → validate → ¿falla? → aviso (Slack)
+parse → classify ─┬─ factura → extract_factura → validate
                   └─ albarán → extract_albaran
 ```
 
@@ -29,6 +25,8 @@ curl -X POST https://api.anyformat.ai/v3/workflows/ \
   -H "Authorization: Bearer $ANYFORMAT_API_KEY" -H "Content-Type: application/json" \
   -d @workflows/factura-albaran.json
 ```
+
+Para probarlo, `134900_anon.pdf` (1 página) o `133285_anon.pdf` (2 páginas).
 
 ## 1. Parse: leer el documento
 
@@ -88,7 +86,9 @@ decide qué va a revisión humana y qué pasa directo.
 ## 5. Mensajes: avisar cuando algo falla
 
 Nodo **If/else** con la condición "cualquiera de las dos reglas en `fail`" y, en la rama `true`, un
-nodo **Slack alert**. Su plantilla puede usar campos y validaciones:
+nodo de aviso (por ejemplo **Slack alert**, con el canal de vuestro espacio de trabajo). No va en el JSON
+porque depende del Slack conectado a cada cuenta: se añade en Studio. Su plantilla puede usar campos y
+validaciones:
 
 ```
 :warning: La factura ${field.numero_factura} de ${field.proveedor_nombre} no cuadra
@@ -110,6 +110,40 @@ Sube los PDFs de `samples/facturas/` desde la pestaña **Data** del workflow.
 
 El cruce **factura ↔ albarán** (¿se ha facturado lo que se entregó?) no es una regla de un documento:
 compara dos. Eso lo haremos en la app del bloque 3, con los dos resultados en la mano.
+
+## Parte 2 · La versión de producción: `demo_facturas`
+
+Es el workflow que usamos con este tipo de facturas en un cliente real. Está en la cuenta como
+**demo_facturas** y en [`workflows/facturas-proveedor.json`](../workflows/facturas-proveedor.json).
+
+| Pieza | Qué cambia respecto al sencillo |
+|---|---|
+| **Parse** | Un *prompt hint* de 16.000 caracteres: cómo convertir cada bloque de la factura en tablas fieles |
+| **Extract** | Modo **max**. La descripción del workflow fija el contexto (quién es el proveedor, abonos en negativo) |
+| **Campos** | 7 de cabecera (`total`, `ibruto`, `portes`, `idto`, tasas `tnfu`, `tsigaus`, `tgases`) y `lineas` con 9 por línea (`albaran`, `fechaalb`, `npedido`, `referencia`, `descripcion`, `cantidad`, `precio`, `importe`, `dto1`) |
+| **Validate** | Una regla determinista: líneas + portes + tasas − descuento = base imponible, con tolerancia |
+
+La descripción de `lineas` es lo que más trabaja: qué filas son líneas y cuáles no («Suma y sigue»,
+subtotales, cabeceras repetidas), cómo arrastrar el albarán y el pedido de una página a la siguiente, y
+una comprobación (`cantidad × precio × descuentos = importe`) antes de responder. Leedla en Studio.
+
+`max` no se puede crear por la API (solo acepta `standard`, `agentic` o `lite`): este workflow se importa
+desde la app.
+
+### Las facturas, una a una
+
+| PDF | Páginas | Qué tiene | Resultado con `demo_facturas` |
+|---|---|---|---|
+| `134900_anon.pdf` | 1 | Fácil | 7 líneas, 5 albaranes, validación `pass` |
+| `133285_anon.pdf` · `136909_anon.pdf` | 2 · 16 | Fáciles | — |
+| `137181_anon.pdf` | 7 | **«Suma y sigue»** entre páginas: no son líneas | 71 líneas, 25 albaranes, todas con pedido; validación `pass` |
+| `133004_anon.pdf` | 12 | La que suele fallar en otras soluciones: **al final de la página 8 queda un pedido sin artículos** y sus líneas empiezan en la 9 | 284 líneas, 6 albaranes; la primera línea de la página 9 hereda bien el pedido 156458; validación `pass` |
+| `132783_anon.pdf` | 39 | **La validación no pasa**: se cuela una línea inventada | 186 líneas que suman 7.302,11 € frente a una base de 7.236,64 €: **65,47 € de más**. Validación `fail`: va a revisión |
+| `141067_anon.pdf` · `143492_anon.pdf` | 90 | Para ver cómo escala | — |
+
+**El mensaje de la 132783:** ninguna extracción acierta el 100 %; en estas facturas estamos en torno al
+92–94 % de líneas perfectas. Lo importante es que la regla de cuadre **caza** ese 6 % y manda la factura a
+revisión en vez de dejarla pasar.
 
 ## Lo que pasó al probarlo (134900_anon.pdf, 1 página)
 

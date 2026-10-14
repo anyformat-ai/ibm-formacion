@@ -61,9 +61,9 @@ src/
 
 Abre `claude` en esta carpeta y prueba:
 
-1. «Añade una vista "Por albarán": agrupa las líneas de todas las facturas procesadas por su albarán, con el
-   subtotal de cada uno, y marca en rojo los albaranes que aparezcan en dos facturas distintas (posible doble
-   facturación).»
+1. «Añade una vista "Por albarán": agrupa las líneas de todas las facturas procesadas por su albarán
+   (`lineas.albaran`), con su fecha (`fechaalb`), su pedido (`npedido`) y el subtotal de `importe`, y marca en
+   rojo los albaranes que aparezcan en dos facturas distintas (posible doble facturación).»
 2. «Añade un botón "Exportar CSV" en cada documento que descargue los campos (campo, valor, confianza) y las
    filas de los campos objeto.»
 3. «Guarda el histórico de documentos procesados en SQLite (bun:sqlite) y añade una página /historico que los

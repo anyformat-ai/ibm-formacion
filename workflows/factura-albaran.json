@@ -213,33 +213,6 @@
           "description": "La suma del importe de todas las filas de lineas debe ser igual a base_imponible, con un margen de 0,02. Calcula la suma exacta y falla si no coincide."
         }
       ]
-    },
-    {
-      "id": "check_failed",
-      "type": "if_else",
-      "condition": {
-        "type": "any_of",
-        "checks": [
-          {
-            "type": "validation",
-            "rule_id": "base_mas_iva_es_total",
-            "status": "fail"
-          },
-          {
-            "type": "validation",
-            "rule_id": "lineas_suman_base",
-            "status": "fail"
-          }
-        ]
-      }
-    },
-    {
-      "id": "aviso",
-      "type": "slack_alert",
-      "channel_id": "C0BQJK90D40",
-      "channel_name": "test-alerts",
-      "severity": "warning",
-      "message_template": ":warning: La factura ${field.numero_factura} de ${field.proveedor_nombre} no cuadra\nBase ${field.base_imponible} + IVA ${field.iva_importe} vs total ${field.total}\nBase + IVA: ${validation.base_mas_iva_es_total.status} · Líneas: ${validation.lineas_suman_base.status}"
     }
   ],
   "edges": [
@@ -262,16 +235,6 @@
       "source": "extract_factura",
       "target": "validate_factura",
       "branch": null
-    },
-    {
-      "source": "validate_factura",
-      "target": "check_failed",
-      "branch": null
-    },
-    {
-      "source": "check_failed",
-      "target": "aviso",
-      "branch": "true"
     }
   ]
 }

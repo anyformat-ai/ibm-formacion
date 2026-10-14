@@ -1,0 +1,2548 @@
+{
+  "id": "06acf52a-c445-7bd2-8000-5be9631be18a",
+  "workflow_id": "06acf527-787f-7de5-8000-4c0a5f3a366f",
+  "document_packet_id": "06acf52a-c2cd-7ff9-8000-02663ac343e1",
+  "status": "processed",
+  "created_at": "2026-10-14T10:00:12.281590Z",
+  "updated_at": "2026-10-14T10:00:44.674484Z",
+  "results": {
+    "document_packet_id": "06acf52a-c2cd-7ff9-8000-02663ac343e1",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf527-787f-7de5-8000-4c0a5f3a366f/files/06acf52a-c008-7ff9-8000-711b6806c424?versionId=9UJZCaAnsw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\nD I S T R I B U C I O N E S\n\n      S U M I N I S T R O S D E H I G I E N E Y L I M P I E Z A\nP A R A I N D U S T R I A , H O S T E L E R I A Y C O L E C T I V I D A D E S\n\nNORLIM\nDISTRIBUCIONES\nSUMINISTROS DE HIGIENE Y LIMPIEZA\nPARA INDUSTRIA, HOSTELERIA Y COLECTIVIDADES\n\n<table id=\"customer_info\">\n  <tr>\n    <td data-cell-id=\"r0c0\">IBERCLEAN</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">IBERCLEAN PARTS, S.L.</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">AV. DE LA INDUSTRIA, 100</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">28080 - GETAFE</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">MADRID</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">CIF : B-99887766</td>\n  </tr>\n</table>\n\n<table id=\"invoice_header\">\n  <thead>\n    <tr>\n      <th data-cell-id=\"r6c0\">Nº FACTURA</th>\n      <th data-cell-id=\"r6c1\">FECHA</th>\n      <th data-cell-id=\"r6c2\">Nº CLIENTE</th>\n      <th data-cell-id=\"r6c3\">AGENTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r7c0\">F- 5462560</td>\n      <td data-cell-id=\"r7c1\">01/02/2024</td>\n      <td data-cell-id=\"r7c2\">1504</td>\n      <td data-cell-id=\"r7c3\">6</td>\n    </tr>\n  </tbody>\n</table>\n\n/\n\n·\n\n    VTRO. PEDIDO Nº\n\nM\n\n·\n\n·\n\n/\n\n<table id=\"line_items_page_1\">\n  <thead>\n    <tr>\n      <th data-cell-id=\"r8c0\">CODIGO</th>\n      <th data-cell-id=\"r8c1\">CONCEPTO</th>\n      <th data-cell-id=\"r8c2\">CANTIDAD</th>\n      <th data-cell-id=\"r8c3\">PRECIO</th>\n      <th data-cell-id=\"r8c4\">DTO</th>\n      <th data-cell-id=\"r8c5\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r9c0\">ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r10c0\"></td>\n      <td data-cell-id=\"r10c1\">NTRO. PEDIDO Nº 8.336/32</td>\n      <td data-cell-id=\"r10c2\"></td>\n      <td data-cell-id=\"r10c3\"></td>\n      <td data-cell-id=\"r10c4\"></td>\n      <td data-cell-id=\"r10c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r11c0\"></td>\n      <td data-cell-id=\"r11c1\">VTRO. PEDIDO Nº 370521</td>\n      <td data-cell-id=\"r11c2\"></td>\n      <td data-cell-id=\"r11c3\"></td>\n      <td data-cell-id=\"r11c4\"></td>\n      <td data-cell-id=\"r11c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\">047810</td>\n      <td data-cell-id=\"r12c1\">BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652</td>\n      <td data-cell-id=\"r12c2\">31</td>\n      <td data-cell-id=\"r12c3\">21,751</td>\n      <td data-cell-id=\"r12c4\"></td>\n      <td data-cell-id=\"r12c5\">674,28</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r13c0\">ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r14c0\"></td>\n      <td data-cell-id=\"r14c1\">NTRO. PEDIDO Nº 6.414/26</td>\n      <td data-cell-id=\"r14c2\"></td>\n      <td data-cell-id=\"r14c3\"></td>\n      <td data-cell-id=\"r14c4\"></td>\n      <td data-cell-id=\"r14c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r15c0\"></td>\n      <td data-cell-id=\"r15c1\">VTRO. PEDIDO Nº 923104</td>\n      <td data-cell-id=\"r15c2\"></td>\n      <td data-cell-id=\"r15c3\"></td>\n      <td data-cell-id=\"r15c4\"></td>\n      <td data-cell-id=\"r15c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r16c0\">092140</td>\n      <td data-cell-id=\"r16c1\">FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211</td>\n      <td data-cell-id=\"r16c2\">3</td>\n      <td data-cell-id=\"r16c3\">26,069</td>\n      <td data-cell-id=\"r16c4\"></td>\n      <td data-cell-id=\"r16c5\">78,21</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r17c0\">ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r18c0\"></td>\n      <td data-cell-id=\"r18c1\">NTRO. PEDIDO Nº 7.737/21</td>\n      <td data-cell-id=\"r18c2\"></td>\n      <td data-cell-id=\"r18c3\"></td>\n      <td data-cell-id=\"r18c4\"></td>\n      <td data-cell-id=\"r18c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r19c0\"></td>\n      <td data-cell-id=\"r19c1\">VTRO. PEDIDO Nº 033637</td>\n      <td data-cell-id=\"r19c2\"></td>\n      <td data-cell-id=\"r19c3\"></td>\n      <td data-cell-id=\"r19c4\"></td>\n      <td data-cell-id=\"r19c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r20c0\">055200</td>\n      <td data-cell-id=\"r20c1\">DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272</td>\n      <td data-cell-id=\"r20c2\">15</td>\n      <td data-cell-id=\"r20c3\">33,756</td>\n      <td data-cell-id=\"r20c4\"></td>\n      <td data-cell-id=\"r20c5\">506,34</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r21c0\">ALBARAN: 1654 DEL: 03/07/25</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r22c0\"></td>\n      <td data-cell-id=\"r22c1\">NTRO. PEDIDO Nº 0.880/25</td>\n      <td data-cell-id=\"r22c2\"></td>\n      <td data-cell-id=\"r22c3\"></td>\n      <td data-cell-id=\"r22c4\"></td>\n      <td data-cell-id=\"r22c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r23c0\"></td>\n      <td data-cell-id=\"r23c1\">VTRO. PEDIDO Nº</td>\n      <td data-cell-id=\"r23c2\"></td>\n      <td data-cell-id=\"r23c3\"></td>\n      <td data-cell-id=\"r23c4\"></td>\n      <td data-cell-id=\"r23c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r24c0\">084512</td>\n      <td data-cell-id=\"r24c1\">HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867</td>\n      <td data-cell-id=\"r24c2\">56</td>\n      <td data-cell-id=\"r24c3\">10,929</td>\n      <td data-cell-id=\"r24c4\"></td>\n      <td data-cell-id=\"r24c5\">612,02</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r25c0\">ALBARAN: 7352 DEL: 18/07/26</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r26c0\"></td>\n      <td data-cell-id=\"r26c1\">NTRO. PEDIDO Nº 8.937/83</td>\n      <td data-cell-id=\"r26c2\"></td>\n      <td data-cell-id=\"r26c3\"></td>\n      <td data-cell-id=\"r26c4\"></td>\n      <td data-cell-id=\"r26c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r27c0\"></td>\n      <td data-cell-id=\"r27c1\">VTRO. PEDIDO Nº 61/77</td>\n      <td data-cell-id=\"r27c2\"></td>\n      <td data-cell-id=\"r27c3\"></td>\n      <td data-cell-id=\"r27c4\"></td>\n      <td data-cell-id=\"r27c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r28c0\">030120</td>\n      <td data-cell-id=\"r28c1\">GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162</td>\n      <td data-cell-id=\"r28c2\">25</td>\n      <td data-cell-id=\"r28c3\">32,385</td>\n      <td data-cell-id=\"r28c4\"></td>\n      <td data-cell-id=\"r28c5\">809,62</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r29c0\">063310</td>\n      <td data-cell-id=\"r29c1\">TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582</td>\n      <td data-cell-id=\"r29c2\">67</td>\n      <td data-cell-id=\"r29c3\">15,525</td>\n      <td data-cell-id=\"r29c4\"></td>\n      <td data-cell-id=\"r29c5\">1.040,17</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r30c0\">021045</td>\n      <td data-cell-id=\"r30c1\">BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204</td>\n      <td data-cell-id=\"r30c2\">74</td>\n      <td data-cell-id=\"r30c3\">25,207</td>\n      <td data-cell-id=\"r30c4\"></td>\n      <td data-cell-id=\"r30c5\">1.865,32</td>\n    </tr>\n  </tbody>\n</table>\n\n<table id=\"issuer_legal\">\n  <tr>\n    <td data-cell-id=\"r31c0\">Reg. Mercantil de Madrid / Libro 000 - Folio 00 - Hoja M 0000 - Inscripción 1ª / CIF: B-11.223.344</td>\n  </tr>\n</table>\n\nMercantil\nReg.\n\n<table id=\"vat_summary\">\n  <thead>\n    <tr>\n      <th data-cell-id=\"r32c0\">BASE DTO</th>\n      <th data-cell-id=\"r32c1\">%DTO</th>\n      <th data-cell-id=\"r32c2\">IMPORTE DTO</th>\n      <th data-cell-id=\"r32c3\">PORTES</th>\n      <th data-cell-id=\"r32c4\">BASE IMPONIBLE</th>\n      <th data-cell-id=\"r32c5\">% IVA</th>\n      <th data-cell-id=\"r32c6\">IMPORTE</th>\n      <th data-cell-id=\"r32c7\">% R.E.</th>\n      <th data-cell-id=\"r32c8\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r33c0\"></td>\n      <td data-cell-id=\"r33c1\"></td>\n      <td data-cell-id=\"r33c2\"></td>\n      <td data-cell-id=\"r33c3\"></td>\n      <td data-cell-id=\"r33c4\">5.585,96</td>\n      <td data-cell-id=\"r33c5\">21,00</td>\n      <td data-cell-id=\"r33c6\">1.173,05</td>\n      <td data-cell-id=\"r33c7\"></td>\n      <td data-cell-id=\"r33c8\"></td>\n    </tr>\n    <tr>\n      <td colspan=\"4\" data-cell-id=\"r34c0\"></td>\n      <td data-cell-id=\"r34c4\">TOTAL FACTURA</td>\n      <td colspan=\"4\" data-cell-id=\"r34c5\">6.759,01 Euros</td>\n    </tr>\n  </tbody>\n</table>\n\n<table id=\"payment_info\">\n  <tr>\n    <td data-cell-id=\"r35c0\">FORMA DE PAGO..: GIRO 60 DIAS F/F</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r36c0\">DOMICILIACION BANCARIA.: 0000 0000 00 00000*****</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r37c0\">VENCIMIENTOS :09/09/2026 - 6.759,01</td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b5\"></a>\n\n<figure-description>\n\n***figure-description:***\nA brand logo featuring the word NORLIM in bold, white, sans-serif capital letters against a dark gray rectangular background.\n\n</figure-description>\n\n\n<a id=\"p1_b3\"></a>\n\n**NORTE LIMPIEZA S.L.U.**\nPolígono Industrial Los Olivos, Nave 5\nParcela 12, 28840, Mejorada del Campo, Madrid\nTel. +34 900 000 000 · Móv. +34 600 000 000\ninfo@nortelimpieza.example · www.nortelimpieza.example",
+      "text": "<a id=\"p1_b0\"></a>\n\nD I S T R I B U C I O N E S\n\n      S U M I N I S T R O S D E H I G I E N E Y L I M P I E Z A\nP A R A I N D U S T R I A , H O S T E L E R I A Y C O L E C T I V I D A D E S\n\nNORLIM\nDISTRIBUCIONES\nSUMINISTROS DE HIGIENE Y LIMPIEZA\nPARA INDUSTRIA, HOSTELERIA Y COLECTIVIDADES\n\n<table id=\"customer_info\">\n  <tr>\n    <td data-cell-id=\"r0c0\">IBERCLEAN</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">IBERCLEAN PARTS, S.L.</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">AV. DE LA INDUSTRIA, 100</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">28080 - GETAFE</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">MADRID</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">CIF : B-99887766</td>\n  </tr>\n</table>\n\n<table id=\"invoice_header\">\n  <thead>\n    <tr>\n      <th data-cell-id=\"r6c0\">Nº FACTURA</th>\n      <th data-cell-id=\"r6c1\">FECHA</th>\n      <th data-cell-id=\"r6c2\">Nº CLIENTE</th>\n      <th data-cell-id=\"r6c3\">AGENTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r7c0\">F- 5462560</td>\n      <td data-cell-id=\"r7c1\">01/02/2024</td>\n      <td data-cell-id=\"r7c2\">1504</td>\n      <td data-cell-id=\"r7c3\">6</td>\n    </tr>\n  </tbody>\n</table>\n\n/\n\n·\n\n    VTRO. PEDIDO Nº\n\nM\n\n·\n\n·\n\n/\n\n<table id=\"line_items_page_1\">\n  <thead>\n    <tr>\n      <th data-cell-id=\"r8c0\">CODIGO</th>\n      <th data-cell-id=\"r8c1\">CONCEPTO</th>\n      <th data-cell-id=\"r8c2\">CANTIDAD</th>\n      <th data-cell-id=\"r8c3\">PRECIO</th>\n      <th data-cell-id=\"r8c4\">DTO</th>\n      <th data-cell-id=\"r8c5\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r9c0\">ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r10c0\"></td>\n      <td data-cell-id=\"r10c1\">NTRO. PEDIDO Nº 8.336/32</td>\n      <td data-cell-id=\"r10c2\"></td>\n      <td data-cell-id=\"r10c3\"></td>\n      <td data-cell-id=\"r10c4\"></td>\n      <td data-cell-id=\"r10c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r11c0\"></td>\n      <td data-cell-id=\"r11c1\">VTRO. PEDIDO Nº 370521</td>\n      <td data-cell-id=\"r11c2\"></td>\n      <td data-cell-id=\"r11c3\"></td>\n      <td data-cell-id=\"r11c4\"></td>\n      <td data-cell-id=\"r11c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\">047810</td>\n      <td data-cell-id=\"r12c1\">BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652</td>\n      <td data-cell-id=\"r12c2\">31</td>\n      <td data-cell-id=\"r12c3\">21,751</td>\n      <td data-cell-id=\"r12c4\"></td>\n      <td data-cell-id=\"r12c5\">674,28</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r13c0\">ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r14c0\"></td>\n      <td data-cell-id=\"r14c1\">NTRO. PEDIDO Nº 6.414/26</td>\n      <td data-cell-id=\"r14c2\"></td>\n      <td data-cell-id=\"r14c3\"></td>\n      <td data-cell-id=\"r14c4\"></td>\n      <td data-cell-id=\"r14c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r15c0\"></td>\n      <td data-cell-id=\"r15c1\">VTRO. PEDIDO Nº 923104</td>\n      <td data-cell-id=\"r15c2\"></td>\n      <td data-cell-id=\"r15c3\"></td>\n      <td data-cell-id=\"r15c4\"></td>\n      <td data-cell-id=\"r15c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r16c0\">092140</td>\n      <td data-cell-id=\"r16c1\">FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211</td>\n      <td data-cell-id=\"r16c2\">3</td>\n      <td data-cell-id=\"r16c3\">26,069</td>\n      <td data-cell-id=\"r16c4\"></td>\n      <td data-cell-id=\"r16c5\">78,21</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r17c0\">ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r18c0\"></td>\n      <td data-cell-id=\"r18c1\">NTRO. PEDIDO Nº 7.737/21</td>\n      <td data-cell-id=\"r18c2\"></td>\n      <td data-cell-id=\"r18c3\"></td>\n      <td data-cell-id=\"r18c4\"></td>\n      <td data-cell-id=\"r18c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r19c0\"></td>\n      <td data-cell-id=\"r19c1\">VTRO. PEDIDO Nº 033637</td>\n      <td data-cell-id=\"r19c2\"></td>\n      <td data-cell-id=\"r19c3\"></td>\n      <td data-cell-id=\"r19c4\"></td>\n      <td data-cell-id=\"r19c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r20c0\">055200</td>\n      <td data-cell-id=\"r20c1\">DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272</td>\n      <td data-cell-id=\"r20c2\">15</td>\n      <td data-cell-id=\"r20c3\">33,756</td>\n      <td data-cell-id=\"r20c4\"></td>\n      <td data-cell-id=\"r20c5\">506,34</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r21c0\">ALBARAN: 1654 DEL: 03/07/25</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r22c0\"></td>\n      <td data-cell-id=\"r22c1\">NTRO. PEDIDO Nº 0.880/25</td>\n      <td data-cell-id=\"r22c2\"></td>\n      <td data-cell-id=\"r22c3\"></td>\n      <td data-cell-id=\"r22c4\"></td>\n      <td data-cell-id=\"r22c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r23c0\"></td>\n      <td data-cell-id=\"r23c1\">VTRO. PEDIDO Nº</td>\n      <td data-cell-id=\"r23c2\"></td>\n      <td data-cell-id=\"r23c3\"></td>\n      <td data-cell-id=\"r23c4\"></td>\n      <td data-cell-id=\"r23c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r24c0\">084512</td>\n      <td data-cell-id=\"r24c1\">HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867</td>\n      <td data-cell-id=\"r24c2\">56</td>\n      <td data-cell-id=\"r24c3\">10,929</td>\n      <td data-cell-id=\"r24c4\"></td>\n      <td data-cell-id=\"r24c5\">612,02</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r25c0\">ALBARAN: 7352 DEL: 18/07/26</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r26c0\"></td>\n      <td data-cell-id=\"r26c1\">NTRO. PEDIDO Nº 8.937/83</td>\n      <td data-cell-id=\"r26c2\"></td>\n      <td data-cell-id=\"r26c3\"></td>\n      <td data-cell-id=\"r26c4\"></td>\n      <td data-cell-id=\"r26c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r27c0\"></td>\n      <td data-cell-id=\"r27c1\">VTRO. PEDIDO Nº 61/77</td>\n      <td data-cell-id=\"r27c2\"></td>\n      <td data-cell-id=\"r27c3\"></td>\n      <td data-cell-id=\"r27c4\"></td>\n      <td data-cell-id=\"r27c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r28c0\">030120</td>\n      <td data-cell-id=\"r28c1\">GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162</td>\n      <td data-cell-id=\"r28c2\">25</td>\n      <td data-cell-id=\"r28c3\">32,385</td>\n      <td data-cell-id=\"r28c4\"></td>\n      <td data-cell-id=\"r28c5\">809,62</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r29c0\">063310</td>\n      <td data-cell-id=\"r29c1\">TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582</td>\n      <td data-cell-id=\"r29c2\">67</td>\n      <td data-cell-id=\"r29c3\">15,525</td>\n      <td data-cell-id=\"r29c4\"></td>\n      <td data-cell-id=\"r29c5\">1.040,17</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r30c0\">021045</td>\n      <td data-cell-id=\"r30c1\">BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204</td>\n      <td data-cell-id=\"r30c2\">74</td>\n      <td data-cell-id=\"r30c3\">25,207</td>\n      <td data-cell-id=\"r30c4\"></td>\n      <td data-cell-id=\"r30c5\">1.865,32</td>\n    </tr>\n  </tbody>\n</table>\n\n<table id=\"issuer_legal\">\n  <tr>\n    <td data-cell-id=\"r31c0\">Reg. Mercantil de Madrid / Libro 000 - Folio 00 - Hoja M 0000 - Inscripción 1ª / CIF: B-11.223.344</td>\n  </tr>\n</table>\n\nMercantil\nReg.\n\n<table id=\"vat_summary\">\n  <thead>\n    <tr>\n      <th data-cell-id=\"r32c0\">BASE DTO</th>\n      <th data-cell-id=\"r32c1\">%DTO</th>\n      <th data-cell-id=\"r32c2\">IMPORTE DTO</th>\n      <th data-cell-id=\"r32c3\">PORTES</th>\n      <th data-cell-id=\"r32c4\">BASE IMPONIBLE</th>\n      <th data-cell-id=\"r32c5\">% IVA</th>\n      <th data-cell-id=\"r32c6\">IMPORTE</th>\n      <th data-cell-id=\"r32c7\">% R.E.</th>\n      <th data-cell-id=\"r32c8\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r33c0\"></td>\n      <td data-cell-id=\"r33c1\"></td>\n      <td data-cell-id=\"r33c2\"></td>\n      <td data-cell-id=\"r33c3\"></td>\n      <td data-cell-id=\"r33c4\">5.585,96</td>\n      <td data-cell-id=\"r33c5\">21,00</td>\n      <td data-cell-id=\"r33c6\">1.173,05</td>\n      <td data-cell-id=\"r33c7\"></td>\n      <td data-cell-id=\"r33c8\"></td>\n    </tr>\n    <tr>\n      <td colspan=\"4\" data-cell-id=\"r34c0\"></td>\n      <td data-cell-id=\"r34c4\">TOTAL FACTURA</td>\n      <td colspan=\"4\" data-cell-id=\"r34c5\">6.759,01 Euros</td>\n    </tr>\n  </tbody>\n</table>\n\n<table id=\"payment_info\">\n  <tr>\n    <td data-cell-id=\"r35c0\">FORMA DE PAGO..: GIRO 60 DIAS F/F</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r36c0\">DOMICILIACION BANCARIA.: 0000 0000 00 00000*****</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r37c0\">VENCIMIENTOS :09/09/2026 - 6.759,01</td>\n  </tr>\n</table>\n\n<a id=\"p1_b5\"></a>\n\n<figure-description>\n\n***figure-description:***\nA brand logo featuring the word NORLIM in bold, white, sans-serif capital letters against a dark gray rectangular background.\n\n</figure-description>\n\n<a id=\"p1_b3\"></a>\n\n**NORTE LIMPIEZA S.L.U.**\nPolígono Industrial Los Olivos, Nave 5\nParcela 12, 28840, Mejorada del Campo, Madrid\nTel. +34 900 000 000 · Móv. +34 600 000 000\ninfo@nortelimpieza.example · www.nortelimpieza.example",
+      "layout_confidence": 0.468,
+      "parse_confidence": 98.8,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.02019053707603647,
+            "y0": 0.05247030915104012,
+            "x1": 0.9956660238959467,
+            "y1": 0.9190447849307931
+          },
+          "layout_confidence": 0.4645073115825653,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.03604107976176129,
+                "y0": 0.060618132696848945,
+                "x1": 0.9956660238959467,
+                "y1": 0.9190447849307931
+              },
+              "type": "table",
+              "text": "D I S T R I B U C I O N E S S U M I N I S T R O S D E H I G I E N E Y L I M P I E Z A P A R A I N D U S T R I A , H O S T E L E R I A Y C O L E C T I V I D A D E S NORLIM DISTRIBUCIONES SUMINISTROS DE HIGIENE Y LIMPIEZA PARA INDUSTRIA, HOSTELERIA Y COLECTIVIDADES IBERCLEAN IBERCLEAN PARTS, S.L. AV. DE LA INDUSTRIA, 100 28080 - GETAFE MADRID CIF : B-99887766 Nº FACTURA FECHA Nº CLIENTE AGENTE F- 5462560 01/02/2024 1504 6 / · VTRO. PEDIDO Nº M · · / CODIGO CONCEPTO CANTIDAD PRECIO DTO IMPORTE ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964 NTRO. PEDIDO Nº 8.336/32 VTRO. PEDIDO Nº 370521 047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28 ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976 NTRO. PEDIDO Nº 6.414/26 VTRO. PEDIDO Nº 923104 092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21 ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163 NTRO. PEDIDO Nº 7.737/21 VTRO. PEDIDO Nº 033637 055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34 ALBARAN: 1654 DEL: 03/07/25 NTRO. PEDIDO Nº 0.880/25 VTRO. PEDIDO Nº 084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02 ALBARAN: 7352 DEL: 18/07/26 NTRO. PEDIDO Nº 8.937/83 VTRO. PEDIDO Nº 61/77 030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62 063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17 021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32 Reg. Mercantil de Madrid / Libro 000 - Folio 00 - Hoja M 0000 - Inscripción 1ª / CIF: B-11.223.344 Mercantil Reg. BASE DTO %DTO IMPORTE DTO PORTES BASE IMPONIBLE % IVA IMPORTE % R.E. IMPORTE 5.585,96 21,00 1.173,05 TOTAL FACTURA 6.759,01 Euros FORMA DE PAGO..: GIRO 60 DIAS F/F DOMICILIACION BANCARIA.: 0000 0000 00 00000* VENCIMIENTOS :09/09/2026 - 6.759,01"
+            },
+            {
+              "bbox": {
+                "x0": 0.01870725000546473,
+                "y0": 0.354578664844084,
+                "x1": 0.039359824843501874,
+                "y1": 0.719695144659844
+              },
+              "type": "other",
+              "text": "Reg. Mercantil de Madrid / Libro 000 · Folio 00 · Hoja M 0000 · Inscripción 1ª / CIF: B-11.223.344"
+            },
+            {
+              "bbox": {
+                "x0": 0.05474296426744225,
+                "y0": 0.8245389301484342,
+                "x1": 0.4459561199689012,
+                "y1": 0.8582392607350898
+              },
+              "type": "other",
+              "text": "FORMA DE PAGO..: GIRO 60 DIAS F/F DOMICILIACION BANCARIA.: 0000 0000 00 00000***** VENCIMIENTOS :09/09/2026 - 6.759,01"
+            }
+          ],
+          "content": "D I S T R I B U C I O N E S\n\n      S U M I N I S T R O S D E H I G I E N E Y L I M P I E Z A\nP A R A I N D U S T R I A , H O S T E L E R I A Y C O L E C T I V I D A D E S\n\nNORLIM\nDISTRIBUCIONES\nSUMINISTROS DE HIGIENE Y LIMPIEZA\nPARA INDUSTRIA, HOSTELERIA Y COLECTIVIDADES\n\n<table id=\"customer_info\">\n  <tr>\n    <td data-cell-id=\"r0c0\">IBERCLEAN</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">IBERCLEAN PARTS, S.L.</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">AV. DE LA INDUSTRIA, 100</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">28080 - GETAFE</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">MADRID</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">CIF : B-99887766</td>\n  </tr>\n</table>\n\n<table id=\"invoice_header\">\n  <thead>\n    <tr>\n      <th data-cell-id=\"r6c0\">Nº FACTURA</th>\n      <th data-cell-id=\"r6c1\">FECHA</th>\n      <th data-cell-id=\"r6c2\">Nº CLIENTE</th>\n      <th data-cell-id=\"r6c3\">AGENTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r7c0\">F- 5462560</td>\n      <td data-cell-id=\"r7c1\">01/02/2024</td>\n      <td data-cell-id=\"r7c2\">1504</td>\n      <td data-cell-id=\"r7c3\">6</td>\n    </tr>\n  </tbody>\n</table>\n\n/\n\n·\n\n    VTRO. PEDIDO Nº\n\nM\n\n·\n\n·\n\n/\n\n<table id=\"line_items_page_1\">\n  <thead>\n    <tr>\n      <th data-cell-id=\"r8c0\">CODIGO</th>\n      <th data-cell-id=\"r8c1\">CONCEPTO</th>\n      <th data-cell-id=\"r8c2\">CANTIDAD</th>\n      <th data-cell-id=\"r8c3\">PRECIO</th>\n      <th data-cell-id=\"r8c4\">DTO</th>\n      <th data-cell-id=\"r8c5\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r9c0\">ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r10c0\"></td>\n      <td data-cell-id=\"r10c1\">NTRO. PEDIDO Nº 8.336/32</td>\n      <td data-cell-id=\"r10c2\"></td>\n      <td data-cell-id=\"r10c3\"></td>\n      <td data-cell-id=\"r10c4\"></td>\n      <td data-cell-id=\"r10c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r11c0\"></td>\n      <td data-cell-id=\"r11c1\">VTRO. PEDIDO Nº 370521</td>\n      <td data-cell-id=\"r11c2\"></td>\n      <td data-cell-id=\"r11c3\"></td>\n      <td data-cell-id=\"r11c4\"></td>\n      <td data-cell-id=\"r11c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\">047810</td>\n      <td data-cell-id=\"r12c1\">BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652</td>\n      <td data-cell-id=\"r12c2\">31</td>\n      <td data-cell-id=\"r12c3\">21,751</td>\n      <td data-cell-id=\"r12c4\"></td>\n      <td data-cell-id=\"r12c5\">674,28</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r13c0\">ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r14c0\"></td>\n      <td data-cell-id=\"r14c1\">NTRO. PEDIDO Nº 6.414/26</td>\n      <td data-cell-id=\"r14c2\"></td>\n      <td data-cell-id=\"r14c3\"></td>\n      <td data-cell-id=\"r14c4\"></td>\n      <td data-cell-id=\"r14c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r15c0\"></td>\n      <td data-cell-id=\"r15c1\">VTRO. PEDIDO Nº 923104</td>\n      <td data-cell-id=\"r15c2\"></td>\n      <td data-cell-id=\"r15c3\"></td>\n      <td data-cell-id=\"r15c4\"></td>\n      <td data-cell-id=\"r15c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r16c0\">092140</td>\n      <td data-cell-id=\"r16c1\">FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211</td>\n      <td data-cell-id=\"r16c2\">3</td>\n      <td data-cell-id=\"r16c3\">26,069</td>\n      <td data-cell-id=\"r16c4\"></td>\n      <td data-cell-id=\"r16c5\">78,21</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r17c0\">ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r18c0\"></td>\n      <td data-cell-id=\"r18c1\">NTRO. PEDIDO Nº 7.737/21</td>\n      <td data-cell-id=\"r18c2\"></td>\n      <td data-cell-id=\"r18c3\"></td>\n      <td data-cell-id=\"r18c4\"></td>\n      <td data-cell-id=\"r18c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r19c0\"></td>\n      <td data-cell-id=\"r19c1\">VTRO. PEDIDO Nº 033637</td>\n      <td data-cell-id=\"r19c2\"></td>\n      <td data-cell-id=\"r19c3\"></td>\n      <td data-cell-id=\"r19c4\"></td>\n      <td data-cell-id=\"r19c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r20c0\">055200</td>\n      <td data-cell-id=\"r20c1\">DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272</td>\n      <td data-cell-id=\"r20c2\">15</td>\n      <td data-cell-id=\"r20c3\">33,756</td>\n      <td data-cell-id=\"r20c4\"></td>\n      <td data-cell-id=\"r20c5\">506,34</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r21c0\">ALBARAN: 1654 DEL: 03/07/25</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r22c0\"></td>\n      <td data-cell-id=\"r22c1\">NTRO. PEDIDO Nº 0.880/25</td>\n      <td data-cell-id=\"r22c2\"></td>\n      <td data-cell-id=\"r22c3\"></td>\n      <td data-cell-id=\"r22c4\"></td>\n      <td data-cell-id=\"r22c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r23c0\"></td>\n      <td data-cell-id=\"r23c1\">VTRO. PEDIDO Nº</td>\n      <td data-cell-id=\"r23c2\"></td>\n      <td data-cell-id=\"r23c3\"></td>\n      <td data-cell-id=\"r23c4\"></td>\n      <td data-cell-id=\"r23c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r24c0\">084512</td>\n      <td data-cell-id=\"r24c1\">HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867</td>\n      <td data-cell-id=\"r24c2\">56</td>\n      <td data-cell-id=\"r24c3\">10,929</td>\n      <td data-cell-id=\"r24c4\"></td>\n      <td data-cell-id=\"r24c5\">612,02</td>\n    </tr>\n    <tr class=\"albaran_header\">\n      <td colspan=\"6\" data-cell-id=\"r25c0\">ALBARAN: 7352 DEL: 18/07/26</td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r26c0\"></td>\n      <td data-cell-id=\"r26c1\">NTRO. PEDIDO Nº 8.937/83</td>\n      <td data-cell-id=\"r26c2\"></td>\n      <td data-cell-id=\"r26c3\"></td>\n      <td data-cell-id=\"r26c4\"></td>\n      <td data-cell-id=\"r26c5\"></td>\n    </tr>\n    <tr class=\"customer_po\">\n      <td data-cell-id=\"r27c0\"></td>\n      <td data-cell-id=\"r27c1\">VTRO. PEDIDO Nº 61/77</td>\n      <td data-cell-id=\"r27c2\"></td>\n      <td data-cell-id=\"r27c3\"></td>\n      <td data-cell-id=\"r27c4\"></td>\n      <td data-cell-id=\"r27c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r28c0\">030120</td>\n      <td data-cell-id=\"r28c1\">GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162</td>\n      <td data-cell-id=\"r28c2\">25</td>\n      <td data-cell-id=\"r28c3\">32,385</td>\n      <td data-cell-id=\"r28c4\"></td>\n      <td data-cell-id=\"r28c5\">809,62</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r29c0\">063310</td>\n      <td data-cell-id=\"r29c1\">TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582</td>\n      <td data-cell-id=\"r29c2\">67</td>\n      <td data-cell-id=\"r29c3\">15,525</td>\n      <td data-cell-id=\"r29c4\"></td>\n      <td data-cell-id=\"r29c5\">1.040,17</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r30c0\">021045</td>\n      <td data-cell-id=\"r30c1\">BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204</td>\n      <td data-cell-id=\"r30c2\">74</td>\n      <td data-cell-id=\"r30c3\">25,207</td>\n      <td data-cell-id=\"r30c4\"></td>\n      <td data-cell-id=\"r30c5\">1.865,32</td>\n    </tr>\n  </tbody>\n</table>\n\n<table id=\"issuer_legal\">\n  <tr>\n    <td data-cell-id=\"r31c0\">Reg. Mercantil de Madrid / Libro 000 - Folio 00 - Hoja M 0000 - Inscripción 1ª / CIF: B-11.223.344</td>\n  </tr>\n</table>\n\nMercantil\nReg.\n\n<table id=\"vat_summary\">\n  <thead>\n    <tr>\n      <th data-cell-id=\"r32c0\">BASE DTO</th>\n      <th data-cell-id=\"r32c1\">%DTO</th>\n      <th data-cell-id=\"r32c2\">IMPORTE DTO</th>\n      <th data-cell-id=\"r32c3\">PORTES</th>\n      <th data-cell-id=\"r32c4\">BASE IMPONIBLE</th>\n      <th data-cell-id=\"r32c5\">% IVA</th>\n      <th data-cell-id=\"r32c6\">IMPORTE</th>\n      <th data-cell-id=\"r32c7\">% R.E.</th>\n      <th data-cell-id=\"r32c8\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r33c0\"></td>\n      <td data-cell-id=\"r33c1\"></td>\n      <td data-cell-id=\"r33c2\"></td>\n      <td data-cell-id=\"r33c3\"></td>\n      <td data-cell-id=\"r33c4\">5.585,96</td>\n      <td data-cell-id=\"r33c5\">21,00</td>\n      <td data-cell-id=\"r33c6\">1.173,05</td>\n      <td data-cell-id=\"r33c7\"></td>\n      <td data-cell-id=\"r33c8\"></td>\n    </tr>\n    <tr>\n      <td colspan=\"4\" data-cell-id=\"r34c0\"></td>\n      <td data-cell-id=\"r34c4\">TOTAL FACTURA</td>\n      <td colspan=\"4\" data-cell-id=\"r34c5\">6.759,01 Euros</td>\n    </tr>\n  </tbody>\n</table>\n\n<table id=\"payment_info\">\n  <tr>\n    <td data-cell-id=\"r35c0\">FORMA DE PAGO..: GIRO 60 DIAS F/F</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r36c0\">DOMICILIACION BANCARIA.: 0000 0000 00 00000*****</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r37c0\">VENCIMIENTOS :09/09/2026 - 6.759,01</td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "IBERCLEAN"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "IBERCLEAN PARTS, S.L."
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "AV. DE LA INDUSTRIA, 100"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "28080 - GETAFE"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "MADRID"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "CIF : B-99887766"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "Nº FACTURA"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": "FECHA"
+              },
+              {
+                "cell_id": "r6c2",
+                "text": "Nº CLIENTE"
+              },
+              {
+                "cell_id": "r6c3",
+                "text": "AGENTE"
+              }
+            ],
+            [
+              {
+                "cell_id": "r7c0",
+                "text": "F- 5462560"
+              },
+              {
+                "cell_id": "r7c1",
+                "text": "01/02/2024"
+              },
+              {
+                "cell_id": "r7c2",
+                "text": "1504"
+              },
+              {
+                "cell_id": "r7c3",
+                "text": "6"
+              }
+            ],
+            [
+              {
+                "cell_id": "r8c0",
+                "text": "CODIGO"
+              },
+              {
+                "cell_id": "r8c1",
+                "text": "CONCEPTO"
+              },
+              {
+                "cell_id": "r8c2",
+                "text": "CANTIDAD"
+              },
+              {
+                "cell_id": "r8c3",
+                "text": "PRECIO"
+              },
+              {
+                "cell_id": "r8c4",
+                "text": "DTO"
+              },
+              {
+                "cell_id": "r8c5",
+                "text": "IMPORTE"
+              }
+            ],
+            [
+              {
+                "cell_id": "r9c0",
+                "text": "ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964"
+              }
+            ],
+            [
+              {
+                "cell_id": "r10c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r10c1",
+                "text": "NTRO. PEDIDO Nº 8.336/32"
+              },
+              {
+                "cell_id": "r10c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r10c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r10c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r10c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r11c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r11c1",
+                "text": "VTRO. PEDIDO Nº 370521"
+              },
+              {
+                "cell_id": "r11c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r11c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r11c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r11c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r12c0",
+                "text": "047810"
+              },
+              {
+                "cell_id": "r12c1",
+                "text": "BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652"
+              },
+              {
+                "cell_id": "r12c2",
+                "text": "31"
+              },
+              {
+                "cell_id": "r12c3",
+                "text": "21,751"
+              },
+              {
+                "cell_id": "r12c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r12c5",
+                "text": "674,28"
+              }
+            ],
+            [
+              {
+                "cell_id": "r13c0",
+                "text": "ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976"
+              }
+            ],
+            [
+              {
+                "cell_id": "r14c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r14c1",
+                "text": "NTRO. PEDIDO Nº 6.414/26"
+              },
+              {
+                "cell_id": "r14c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r14c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r14c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r14c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r15c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r15c1",
+                "text": "VTRO. PEDIDO Nº 923104"
+              },
+              {
+                "cell_id": "r15c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r15c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r15c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r15c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r16c0",
+                "text": "092140"
+              },
+              {
+                "cell_id": "r16c1",
+                "text": "FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211"
+              },
+              {
+                "cell_id": "r16c2",
+                "text": "3"
+              },
+              {
+                "cell_id": "r16c3",
+                "text": "26,069"
+              },
+              {
+                "cell_id": "r16c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r16c5",
+                "text": "78,21"
+              }
+            ],
+            [
+              {
+                "cell_id": "r17c0",
+                "text": "ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163"
+              }
+            ],
+            [
+              {
+                "cell_id": "r18c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r18c1",
+                "text": "NTRO. PEDIDO Nº 7.737/21"
+              },
+              {
+                "cell_id": "r18c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r18c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r18c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r18c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r19c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r19c1",
+                "text": "VTRO. PEDIDO Nº 033637"
+              },
+              {
+                "cell_id": "r19c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r19c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r19c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r19c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r20c0",
+                "text": "055200"
+              },
+              {
+                "cell_id": "r20c1",
+                "text": "DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272"
+              },
+              {
+                "cell_id": "r20c2",
+                "text": "15"
+              },
+              {
+                "cell_id": "r20c3",
+                "text": "33,756"
+              },
+              {
+                "cell_id": "r20c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r20c5",
+                "text": "506,34"
+              }
+            ],
+            [
+              {
+                "cell_id": "r21c0",
+                "text": "ALBARAN: 1654 DEL: 03/07/25"
+              }
+            ],
+            [
+              {
+                "cell_id": "r22c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r22c1",
+                "text": "NTRO. PEDIDO Nº 0.880/25"
+              },
+              {
+                "cell_id": "r22c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r22c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r22c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r22c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r23c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r23c1",
+                "text": "VTRO. PEDIDO Nº"
+              },
+              {
+                "cell_id": "r23c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r23c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r23c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r23c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r24c0",
+                "text": "084512"
+              },
+              {
+                "cell_id": "r24c1",
+                "text": "HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867"
+              },
+              {
+                "cell_id": "r24c2",
+                "text": "56"
+              },
+              {
+                "cell_id": "r24c3",
+                "text": "10,929"
+              },
+              {
+                "cell_id": "r24c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r24c5",
+                "text": "612,02"
+              }
+            ],
+            [
+              {
+                "cell_id": "r25c0",
+                "text": "ALBARAN: 7352 DEL: 18/07/26"
+              }
+            ],
+            [
+              {
+                "cell_id": "r26c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r26c1",
+                "text": "NTRO. PEDIDO Nº 8.937/83"
+              },
+              {
+                "cell_id": "r26c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r26c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r26c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r26c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r27c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r27c1",
+                "text": "VTRO. PEDIDO Nº 61/77"
+              },
+              {
+                "cell_id": "r27c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r27c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r27c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r27c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r28c0",
+                "text": "030120"
+              },
+              {
+                "cell_id": "r28c1",
+                "text": "GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162"
+              },
+              {
+                "cell_id": "r28c2",
+                "text": "25"
+              },
+              {
+                "cell_id": "r28c3",
+                "text": "32,385"
+              },
+              {
+                "cell_id": "r28c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r28c5",
+                "text": "809,62"
+              }
+            ],
+            [
+              {
+                "cell_id": "r29c0",
+                "text": "063310"
+              },
+              {
+                "cell_id": "r29c1",
+                "text": "TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582"
+              },
+              {
+                "cell_id": "r29c2",
+                "text": "67"
+              },
+              {
+                "cell_id": "r29c3",
+                "text": "15,525"
+              },
+              {
+                "cell_id": "r29c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r29c5",
+                "text": "1.040,17"
+              }
+            ],
+            [
+              {
+                "cell_id": "r30c0",
+                "text": "021045"
+              },
+              {
+                "cell_id": "r30c1",
+                "text": "BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204"
+              },
+              {
+                "cell_id": "r30c2",
+                "text": "74"
+              },
+              {
+                "cell_id": "r30c3",
+                "text": "25,207"
+              },
+              {
+                "cell_id": "r30c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r30c5",
+                "text": "1.865,32"
+              }
+            ],
+            [
+              {
+                "cell_id": "r31c0",
+                "text": "Reg. Mercantil de Madrid / Libro 000 - Folio 00 - Hoja M 0000 - Inscripción 1ª / CIF: B-11.223.344"
+              }
+            ],
+            [
+              {
+                "cell_id": "r32c0",
+                "text": "BASE DTO"
+              },
+              {
+                "cell_id": "r32c1",
+                "text": "%DTO"
+              },
+              {
+                "cell_id": "r32c2",
+                "text": "IMPORTE DTO"
+              },
+              {
+                "cell_id": "r32c3",
+                "text": "PORTES"
+              },
+              {
+                "cell_id": "r32c4",
+                "text": "BASE IMPONIBLE"
+              },
+              {
+                "cell_id": "r32c5",
+                "text": "% IVA"
+              },
+              {
+                "cell_id": "r32c6",
+                "text": "IMPORTE"
+              },
+              {
+                "cell_id": "r32c7",
+                "text": "% R.E."
+              },
+              {
+                "cell_id": "r32c8",
+                "text": "IMPORTE"
+              }
+            ],
+            [
+              {
+                "cell_id": "r33c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r33c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r33c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r33c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r33c4",
+                "text": "5.585,96"
+              },
+              {
+                "cell_id": "r33c5",
+                "text": "21,00"
+              },
+              {
+                "cell_id": "r33c6",
+                "text": "1.173,05"
+              },
+              {
+                "cell_id": "r33c7",
+                "text": ""
+              },
+              {
+                "cell_id": "r33c8",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r34c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r34c4",
+                "text": "TOTAL FACTURA"
+              },
+              {
+                "cell_id": "r34c5",
+                "text": "6.759,01 Euros"
+              }
+            ],
+            [
+              {
+                "cell_id": "r35c0",
+                "text": "FORMA DE PAGO..: GIRO 60 DIAS F/F"
+              }
+            ],
+            [
+              {
+                "cell_id": "r36c0",
+                "text": "DOMICILIACION BANCARIA.: 0000 0000 00 00000*****"
+              }
+            ],
+            [
+              {
+                "cell_id": "r37c0",
+                "text": "VENCIMIENTOS :09/09/2026 - 6.759,01"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.014249438166401996,
+            "y0": 0.9502256851015068,
+            "x1": 0.10983748992716841,
+            "y1": 0.9719119290094592
+          },
+          "layout_confidence": 0.6021533608436584,
+          "parse_confidence": null,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.014249438166401996,
+                "y0": 0.9510148901774262,
+                "x1": 0.10983748992716841,
+                "y1": 0.9719119290094592
+              },
+              "type": "text",
+              "text": "NORLIM"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nA brand logo featuring the word NORLIM in bold, white, sans-serif capital letters against a dark gray rectangular background.\n\n</figure-description>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b3",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6762919071149047,
+            "y0": 0.9287358838913532,
+            "x1": 0.994282781897497,
+            "y1": 0.9921984597116823
+          },
+          "layout_confidence": 0.49593618512153625,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6762919071149047,
+                "y0": 0.9287358838913532,
+                "x1": 0.994282781897497,
+                "y1": 0.9921984597116823
+              },
+              "type": "text",
+              "text": "NORTE LIMPIEZA S.L.U. Polígono Industrial Los Olivos, Nave 5 Parcela 12, 28840, Mejorada del Campo, Madrid Tel. +34 900 000 000 · Móv. +34 600 000 000 info@nortelimpieza.example · www.nortelimpieza.example"
+            }
+          ],
+          "content": "**NORTE LIMPIEZA S.L.U.**\nPolígono Industrial Los Olivos, Nave 5\nParcela 12, 28840, Mejorada del Campo, Madrid\nTel. +34 900 000 000 · Móv. +34 600 000 000\ninfo@nortelimpieza.example · www.nortelimpieza.example",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "total": {
+            "value": "6759.01",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "ibruto": {
+            "value": "5585.96",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "portes": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "tnfu": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "tsigaus": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "tgases": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "idto": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "lineas": [
+            {
+              "albaran": {
+                "value": "5622",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-10-25",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "370521",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "047810",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "31.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "21.751",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "674.28",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": "0.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "4758",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2024-10-27",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "923104",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "092140",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "3.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "26.069",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "78.21",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": "0.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "2211",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-05-06",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "033637",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "055200",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "15.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "33.756",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "506.34",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": "0.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "1654",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2025-07-03",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "033637",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "084512",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "56.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "10.929",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "612.02",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": "0.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "7352",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-07-18",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "61/77",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "030120",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "25.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "32.385",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "809.62",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": "0.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "7352",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-07-18",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "61/77",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "063310",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "67.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "15.525",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "1040.17",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": "0.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "7352",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-07-18",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "61/77",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "021045",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "74.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "25.207",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "1865.32",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": "0.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": [
+                  {
+                    "text": "",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "validations": [
+          {
+            "rule_id": "QxcORiyrds",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "(has(data.ibruto) && type(data.ibruto) != null_type) ? [0.0, -(has(data.idto) && type(data.idto) != null_type ? num(data.idto) : 0.0)].exists(a, [0.0, (has(data.portes) && type(data.portes) != null_type ? num(data.portes) : 0.0)].exists(b, [0.0, ((has(data.tsigaus) && type(data.tsigaus) != null_type ? num(data.tsigaus) : 0.0) + (has(data.tnfu) && type(data.tnfu) != null_type ? num(data.tnfu) : 0.0) + (has(data.tgases) && type(data.tgases) != null_type ? num(data.tgases) : 0.0))].exists(c, abs(sum((has(data.lineas) && type(data.lineas) != null_type ? data.lineas : []).map(l, has(l.importe) && type(l.importe) != null_type ? num(l.importe) : 0.0)) + a + b + c - num(data.ibruto)) <= (0.005 * abs(num(data.ibruto)) < 10.0 ? 0.005 * abs(num(data.ibruto)) : 10.0)))) : true is true.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "total": {
+        "value": "6759.01",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": [
+          {
+            "text": "",
+            "page_number": 1
+          }
+        ]
+      },
+      "ibruto": {
+        "value": "5585.96",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": [
+          {
+            "text": "",
+            "page_number": 1
+          }
+        ]
+      },
+      "portes": {
+        "value": "0.0",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": [
+          {
+            "text": "",
+            "page_number": 1
+          }
+        ]
+      },
+      "tnfu": {
+        "value": "0.0",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": [
+          {
+            "text": "",
+            "page_number": 1
+          }
+        ]
+      },
+      "tsigaus": {
+        "value": "0.0",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": [
+          {
+            "text": "",
+            "page_number": 1
+          }
+        ]
+      },
+      "tgases": {
+        "value": "0.0",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": [
+          {
+            "text": "",
+            "page_number": 1
+          }
+        ]
+      },
+      "idto": {
+        "value": "0.0",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": [
+          {
+            "text": "",
+            "page_number": 1
+          }
+        ]
+      },
+      "lineas": [
+        {
+          "albaran": {
+            "value": "5622",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-10-25",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "370521",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "047810",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "31.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "21.751",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "674.28",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "4758",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2024-10-27",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "923104",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "092140",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "3.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "26.069",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "78.21",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "2211",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-05-06",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "033637",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "055200",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "15.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "33.756",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "506.34",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "1654",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2025-07-03",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "033637",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "084512",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "56.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "10.929",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "612.02",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "7352",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-07-18",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "61/77",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "030120",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "25.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "32.385",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "809.62",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "7352",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-07-18",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "61/77",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "063310",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "67.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "15.525",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "1040.17",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "7352",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-07-18",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "61/77",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "021045",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "74.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "25.207",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "1865.32",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": [
+              {
+                "text": "",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

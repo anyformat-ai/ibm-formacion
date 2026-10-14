@@ -13,12 +13,12 @@ cp .env.example .env.local   # ANYFORMAT_API_KEY y, si quieres, ANYFORMAT_WORKFL
 bun dev                      # http://localhost:3000
 ```
 
-Elige el workflow **Formación IBM · Factura y albarán** (o el de calas), suelta
-`samples/facturas/134900_anon.pdf` y espera un minuto. Verás:
+Elige el workflow **demo_facturas** (o el de calas), suelta `samples/facturas/134900_anon.pdf` y espera
+un minuto. Verás:
 
 - El tipo de documento con su confianza.
 - Cada campo con su valor, su confianza y la evidencia (el texto y la página de donde salió).
-- Las líneas como subtabla, cada una con su albarán.
+- Las líneas como subtabla, cada una con su albarán, su fecha y su pedido.
 - Las validaciones, y el enlace **Revisar en anyformat**.
 - El deslizador de umbral: por debajo, el campo se marca **a revisar**.
 
@@ -65,8 +65,9 @@ claude
 Haremos el primero juntos en directo. Los demás, por parejas:
 
 1. **Vista por albarán.** «Añade una vista "Por albarán": agrupa las líneas de todas las facturas
-   procesadas por su albarán, con el subtotal de cada uno, y marca en rojo los albaranes que aparezcan
-   en dos facturas distintas (posible doble facturación).»
+   procesadas por su albarán (`lineas.albaran`), con su fecha (`fechaalb`), su pedido (`npedido`) y el
+   subtotal de `importe`, y marca en rojo los albaranes que aparezcan en dos facturas distintas (posible
+   doble facturación).» Probadlo con `134900`, `137181` y `133004` procesadas.
 2. **Exportar.** «Añade un botón "Exportar CSV" en cada documento que descargue los campos y las filas
    de los campos objeto.»
 3. **Histórico.** «Guarda los documentos procesados en SQLite (bun:sqlite) y añade una página
@@ -78,7 +79,7 @@ Haremos el primero juntos en directo. Los demás, por parejas:
    documentos.»
 
 Con el MCP, Claude Code también puede **consultar y cambiar el workflow**: «lista mis workflows», «enséñame
-el esquema del extract de factura», «añade una regla que falle si proveedor_nif = cliente_nif».
+el esquema del extract de factura», «añade una regla a Factura y albarán que falle si proveedor_nif = cliente_nif».
 
 ## Qué llevarse
 
