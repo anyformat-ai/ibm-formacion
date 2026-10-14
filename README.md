@@ -25,6 +25,18 @@ Trabajamos con dos casos:
 | 16:30 | Una app ad-hoc con el SDK y Claude Code | [`docs/03-app.md`](docs/03-app.md) |
 | 16:55 | Cierre y siguientes pasos | |
 
+## Los workflows en anyformat
+
+Están en la cuenta de la formación; los enlaces abren si tu usuario tiene acceso a ella.
+
+| Workflow | Para qué | Bloque |
+|---|---|---|
+| [Formación IBM · Factura y albarán](https://app.anyformat.ai/workflows/06acf4a9-7264-763f-8000-c49a3c779210) | El sencillo: aprender parse, classify, extract y validate en Studio | 1 |
+| [demo_facturas](https://app.anyformat.ai/workflows/06acf527-787f-7de5-8000-4c0a5f3a366f) | La versión de producción para facturas de proveedor; la usa la app | 1 y 3 |
+| [Calas y canalizaciones](https://app.anyformat.ai/workflows/06a2bbef-6dfd-7c28-8000-52a06458ebc0) | El original de IBM (junio), sin tocar | 2 |
+| [Formación IBM · Calas y canalizaciones (punto de partida)](https://app.anyformat.ai/workflows/06acf4a9-7b63-71c3-8000-09e272982895) | Copia del original para practicar con Annie | 2 |
+| [Formación IBM · Calas y canalizaciones (v2)](https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a) | La revisión: de 70 % a 97 % ([`docs/calas-v2.md`](docs/calas-v2.md)) | 2 |
+
 ## Antes de empezar (10 minutos, mejor antes de la sesión)
 
 1. **Una cuenta y una API key** en https://app.anyformat.ai (menú → API key).
