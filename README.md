@@ -1,5 +1,7 @@
 # anyformat × IBM Consulting: formación inicial
 
+![Página → bloque → celda → campo: un parte escaneado se divide en bloques de maquetación, la extracción lee el número de póliza de la celda r13c1 y lo devuelve con confianza 89 y su posición en la página](docs/grounding.gif)
+
 Formación práctica para el equipo IAM del Ayuntamiento de Madrid (IBM Consulting / Viewnext).
 14 de octubre de 2026, 15:00–17:00, Patio Madrid + Google Meet.
 
