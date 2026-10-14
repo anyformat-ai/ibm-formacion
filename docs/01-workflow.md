@@ -113,23 +113,24 @@ compara dos. Eso lo haremos en la app del bloque 3, con los dos resultados en la
 
 ## Lo que pasó al probarlo (134900_anon.pdf, 1 página)
 
-Clasificada como **Factura** con confianza 100. Las dos reglas pasan: las 7 líneas suman la base
-(5.585,96 €) y base + IVA = total (6.759,01 €). Cada línea sale con su albarán (5622, 4758, 2211,
-1654, 7352).
+La ejecutamos dos veces en el mismo workflow. Las dos veces: clasificada como **Factura** (confianza 100),
+las 7 líneas con su albarán (5622, 4758, 2211, 1654, 7352) y las dos reglas en `pass` (las líneas suman
+5.585,96 € y base + IVA = 6.759,01 €).
 
-Pero:
+Pero en la primera, **proveedor y cliente salieron cruzados**:
 
-| Campo | Salió | Correcto | Confianza |
+| Campo | 1.ª ejecución | 2.ª ejecución | Confianza (1.ª) |
 |---|---|---|---|
-| `proveedor_nombre` | IBERCLEAN PARTS, S.L. | NORLIM Distribuciones | 91 |
-| `proveedor_nif` | B99887766 | B11223344 (el del pie) | 91 |
-| `cliente_nombre` | null | IBERCLEAN PARTS, S.L. | — |
-| `cliente_nif` | B11223344 | B99887766 | 88 |
+| `proveedor_nombre` | IBERCLEAN PARTS, S.L. ✗ | NORTE LIMPIEZA S.L.U. ✓ | 91 |
+| `cliente_nombre` | null ✗ | IBERCLEAN PARTS, S.L. ✓ | — |
+| `cliente_nif` | B11223344 ✗ | — | 88 |
 
-**Proveedor y cliente se han cruzado, con confianza alta.** La factura pone el logo del proveedor
-arriba, el bloque del cliente en la zona donde suele ir el emisor, y el CIF del proveedor solo en el
-pie. Las reglas de totales no lo detectan, porque los importes están bien.
+La factura pone el logo del proveedor arriba, el bloque del cliente donde suele ir el emisor y el CIF del
+proveedor solo en el pie. Es un documento ambiguo, y el modelo no es determinista: **la misma factura,
+dos respuestas, la mala con confianza 91.** Las reglas de totales no lo detectan, porque los importes
+están bien.
 
-Ese es el ejercicio: arreglarlo con la descripción ("el proveedor es quien emite la factura: su logo,
-su registro mercantil y su CIF en el pie; el cliente es el destinatario, IBERCLEAN PARTS") o con una
-regla (`proveedor_nif != cliente_nif`, o "el cliente siempre es B99887766"). Después, volver a ejecutar.
+El ejercicio: blindarlo para que no dependa de la suerte.
+- **Descripción**: "el proveedor es quien emite la factura: su logo, su registro mercantil y su CIF en el
+  pie; el cliente es el destinatario, IBERCLEAN PARTS".
+- **Regla**: `data.proveedor_nif != data.cliente_nif`, o "el cliente siempre es B99887766".

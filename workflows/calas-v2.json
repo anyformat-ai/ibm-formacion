@@ -1,0 +1,787 @@
+{
+  "name": "Formación IBM · Calas y canalizaciones (v2)",
+  "description": "Revisión del workflow de calas: un extract por tipo de documento, null cuando el dato no está, fechas solo literales, categoría 'Otro' y validaciones.",
+  "nodes": [
+    {
+      "id": "parse",
+      "type": "parse",
+      "mode": "standard",
+      "figure_enhancement": true,
+      "effort": "mid",
+      "ocr_effort": "high",
+      "scanned_pages": "ocr"
+    },
+    {
+      "id": "classify",
+      "type": "classify",
+      "user_prompt": "Cada documento es de un solo tipo: uno de los cuatro que el Ayuntamiento exige en una solicitud de calas y canalizaciones, u 'Otro' si no es ninguno de ellos.",
+      "categories": [
+        {
+          "id": "memoria",
+          "name": "Memoria",
+          "description": "Memoria descriptiva o técnica de la obra: describe el objeto, la ubicación, el plazo y las unidades de obra. Puede incluir un resumen del presupuesto."
+        },
+        {
+          "id": "plano",
+          "name": "Plano",
+          "description": "Plano o documentación gráfica de la obra: situación, trazado, secciones tipo o detalles."
+        },
+        {
+          "id": "presupuestos",
+          "name": "Presupuestos",
+          "description": "Presupuesto o valoración económica de la obra: partidas, mediciones e importe total."
+        },
+        {
+          "id": "residuos_acopio",
+          "name": "Residuos/Acopio",
+          "description": "Plan o estudio de gestión de residuos y acopio de materiales de la obra."
+        },
+        {
+          "id": "otro",
+          "name": "Otro",
+          "description": "Cualquier documento que no sea memoria, plano, presupuesto ni gestión de residuos o acopios de una obra de cala o canalización (fichas de empresa, capturas, certificados, facturas…)."
+        }
+      ]
+    },
+    {
+      "id": "extract_memoria",
+      "type": "extract",
+      "mode": "standard",
+      "extraction_schema": {
+        "fields": [
+          {
+            "name": "Descripción de la obra",
+            "data_type": "string",
+            "description": "Objeto de la obra tal como lo redacta el documento: qué se hace (cala, canalización, acometida…), dónde y para qué. Copia la frase principal sin resumirla. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Plazo de ejecución",
+            "data_type": "integer",
+            "description": "Plazo de ejecución de la obra en días, como número entero (p. ej. 'PLAZO DE EJECUCIÓN: 30 días' → 30). Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Duración (días)",
+            "data_type": "integer",
+            "description": "Duración de la obra en días. Es el mismo dato que 'Plazo de ejecución': el número entero de días que indica el documento. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Id Proyecto contratista",
+            "data_type": "string",
+            "description": "Código interno del proyecto que asigna el contratista o la distribuidora (nº de proyecto, nº de solicitud), cuando es distinto del ID de obra. Si el documento solo trae un código, va en 'ID Obra' y este campo es null."
+          },
+          {
+            "name": "Ubicación de la obra",
+            "data_type": "string",
+            "description": "Dirección donde se hace la obra, calle y número tal como aparece (p. ej. 'Calle SAN MATEO, 17'). Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "ID Obra",
+            "data_type": "string",
+            "description": "Número que identifica el expediente u obra: nº de expediente, de solicitud o de obra (p. ej. '9045838454', 'SP250600117588'). Cópialo como texto exacto, sin quitar letras, barras ni guiones. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Total Presupuesto",
+            "data_type": "float",
+            "description": "Importe total del presupuesto de la obra en euros, con sus decimales (p. ej. 2.092,38 € → 2092.38). Solo si el documento contiene un importe de presupuesto. Si no hay importe, null: nunca 0."
+          },
+          {
+            "name": "Presupuesto",
+            "data_type": "float",
+            "description": "Mismo dato que 'Total Presupuesto': el importe total de la obra en euros, con decimales. Si el documento no trae importe, null: nunca 0."
+          },
+          {
+            "name": "Tipo de suministro",
+            "data_type": "string",
+            "description": "Servicio que se canaliza o al que da servicio la obra: electricidad (baja o media tensión), gas, agua o telecomunicaciones. El agua que se usa durante la obra (amasado, riego, limpieza) NO es el suministro. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Municipio",
+            "data_type": "string",
+            "description": "Municipio donde está la obra (p. ej. 'Madrid'). Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Potencia",
+            "data_type": "string",
+            "description": "Potencia eléctrica con su unidad, tal como figura (p. ej. '3,45 kW'). Solo en obras eléctricas que la indiquen. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Motivo de la obra",
+            "data_type": "string",
+            "description": "Por qué se hace la obra: nueva acometida, avería, renovación o desplazamiento de red, nuevo suministro… Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Subcontratista",
+            "data_type": "string",
+            "description": "Empresa que ejecuta materialmente la obra (suele figurar como 'Contratista', 'Empresa instaladora' o 'Subcontrata'). No es el promotor ni la distribuidora (i-DE, Nedgia, Telefónica…), ni quien redacta o dibuja el proyecto. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Fecha inicio prevista",
+            "data_type": "date",
+            "description": "Fecha prevista de inicio de la obra (YYYY-MM-DD), solo si el documento la escribe literalmente como fecha de inicio. La fecha de firma, del documento o del plano no cuenta, y no se calcula a partir del plazo. Si no figura, null."
+          },
+          {
+            "name": "Fecha fin prevista",
+            "data_type": "date",
+            "description": "Fecha prevista de fin de la obra (YYYY-MM-DD), solo si el documento la escribe literalmente como fecha de fin. No se calcula a partir del plazo ni de otras fechas. Si no figura, null."
+          },
+          {
+            "name": "Dirección",
+            "data_type": "object",
+            "description": "Dirección principal de la obra, una sola fila aunque el documento cite varias ubicaciones.",
+            "nested_fields": [
+              {
+                "name": "Tipo",
+                "data_type": "string",
+                "description": "Tipo de vía (Calle, Avenida, Plaza, Paseo…)."
+              },
+              {
+                "name": "Nombre",
+                "data_type": "string",
+                "description": "Nombre de la vía, sin el tipo."
+              },
+              {
+                "name": "Número",
+                "data_type": "string",
+                "description": "Número de portal. Null si no tiene."
+              },
+              {
+                "name": "Categoría fiscal",
+                "data_type": "string",
+                "description": "Categoría fiscal de la vía, solo si figura; null si no."
+              },
+              {
+                "name": "Distrito",
+                "data_type": "string",
+                "description": "Distrito, solo si figura; null si no."
+              },
+              {
+                "name": "Barrio",
+                "data_type": "string",
+                "description": "Barrio, solo si figura; null si no."
+              },
+              {
+                "name": "Descripción ubicación",
+                "data_type": "string",
+                "description": "Referencias extra (tramo, cruce, frente a…), si las hay."
+              }
+            ]
+          },
+          {
+            "name": "Medidas Acera",
+            "data_type": "object",
+            "description": "Cada tramo de cala o zanja en acera con su longitud en metros (p. ej. 'cala de 6 m en acera'), una fila por tramo. Las cotas de secciones tipo o detalles constructivos (normalmente en mm o cm) NO son tramos de la cala. Si el documento no da longitudes de acera, la lista va vacía.",
+            "nested_fields": [
+              {
+                "name": "Largo",
+                "data_type": "float",
+                "description": "Longitud del tramo en metros (convierte cm o mm a metros)."
+              },
+              {
+                "name": "Ancho",
+                "data_type": "float",
+                "description": "Ancho del tramo en metros, si se indica; null si no."
+              },
+              {
+                "name": "Tipo pavimento",
+                "data_type": "string",
+                "description": "Pavimento del tramo (p. ej. baldosa hidráulica, adoquín, terrazo), si se indica; null si no."
+              }
+            ]
+          },
+          {
+            "name": "Medidas Calzada",
+            "data_type": "object",
+            "description": "Cada tramo de cala o zanja en calzada con su longitud en metros (p. ej. 'cala de 6 m en calzada'), una fila por tramo. Las cotas de secciones tipo o detalles constructivos (normalmente en mm o cm) NO son tramos de la cala. Si el documento no da longitudes de calzada, la lista va vacía.",
+            "nested_fields": [
+              {
+                "name": "Largo",
+                "data_type": "float",
+                "description": "Longitud del tramo en metros (convierte cm o mm a metros)."
+              },
+              {
+                "name": "Ancho",
+                "data_type": "float",
+                "description": "Ancho del tramo en metros, si se indica; null si no."
+              },
+              {
+                "name": "Tipo pavimento",
+                "data_type": "string",
+                "description": "Pavimento del tramo (p. ej. aglomerado asfáltico, mezcla bituminosa, adoquín), si se indica; null si no."
+              }
+            ]
+          },
+          {
+            "name": "Profundidad (m)",
+            "data_type": "float",
+            "description": "Profundidad de la zanja o cala en metros, cuando el documento la indica para esta obra. Si viene en mm o cm, conviértela (1160 mm = 1.16). Una zanja de calas no suele pasar de 2 m: un valor mayor es casi seguro una cota mal leída. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Otras unidades",
+            "data_type": "string",
+            "description": "Otras superficies afectadas distintas de acera y calzada (zonas verdes, aparcamiento, terrizo…), si el documento las menciona. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Gestion residuos",
+            "data_type": "string",
+            "description": "Cómo se tratan los residuos de la obra: tipos de residuo (tierras, hormigón, asfalto…), transporte y destino (vertedero, planta de reciclaje, gestor). Resume lo que dice el documento. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Gestores Autorizados",
+            "data_type": "boolean",
+            "description": "true si el documento dice que los residuos se entregan a un gestor autorizado; false solo si dice expresamente que no. Si no menciona gestores, null."
+          }
+        ]
+      }
+    },
+    {
+      "id": "validate_memoria",
+      "type": "validate",
+      "rules": [
+        {
+          "id": "fechas_coherentes",
+          "name": "Fecha fin ≥ fecha inicio",
+          "kind": "deterministic",
+          "severity": "error",
+          "check": {
+            "type": "expression",
+            "expression": "data.fecha_inicio_prevista == null || data.fecha_fin_prevista == null || data.fecha_fin_prevista >= data.fecha_inicio_prevista"
+          }
+        },
+        {
+          "id": "profundidad_razonable",
+          "name": "Profundidad entre 0,2 y 3 m",
+          "kind": "deterministic",
+          "severity": "warning",
+          "check": {
+            "type": "expression",
+            "expression": "data.profundidad_m == null || (data.profundidad_m >= 0.2 && data.profundidad_m <= 3.0)"
+          }
+        },
+        {
+          "id": "presupuesto_positivo",
+          "name": "Presupuesto > 0",
+          "kind": "deterministic",
+          "severity": "error",
+          "check": {
+            "type": "expression",
+            "expression": "data.total_presupuesto == null || data.total_presupuesto > 0.0"
+          }
+        },
+        {
+          "id": "plazo_positivo",
+          "name": "Plazo > 0",
+          "kind": "deterministic",
+          "severity": "error",
+          "check": {
+            "type": "expression",
+            "expression": "data.plazo_de_ejecucion == null || data.plazo_de_ejecucion > 0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extract_plano",
+      "type": "extract",
+      "mode": "standard",
+      "extraction_schema": {
+        "fields": [
+          {
+            "name": "Descripción de la obra",
+            "data_type": "string",
+            "description": "Objeto de la obra tal como lo redacta el documento: qué se hace (cala, canalización, acometida…), dónde y para qué. Copia la frase principal sin resumirla. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Id Proyecto contratista",
+            "data_type": "string",
+            "description": "Código interno del proyecto que asigna el contratista o la distribuidora (nº de proyecto, nº de solicitud), cuando es distinto del ID de obra. Si el documento solo trae un código, va en 'ID Obra' y este campo es null."
+          },
+          {
+            "name": "Ubicación de la obra",
+            "data_type": "string",
+            "description": "Dirección donde se hace la obra, calle y número tal como aparece (p. ej. 'Calle SAN MATEO, 17'). Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "ID Obra",
+            "data_type": "string",
+            "description": "Número que identifica el expediente u obra: nº de expediente, de solicitud o de obra (p. ej. '9045838454', 'SP250600117588'). Cópialo como texto exacto, sin quitar letras, barras ni guiones. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Tipo de suministro",
+            "data_type": "string",
+            "description": "Servicio que se canaliza o al que da servicio la obra: electricidad (baja o media tensión), gas, agua o telecomunicaciones. El agua que se usa durante la obra (amasado, riego, limpieza) NO es el suministro. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Municipio",
+            "data_type": "string",
+            "description": "Municipio donde está la obra (p. ej. 'Madrid'). Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Potencia",
+            "data_type": "string",
+            "description": "Potencia eléctrica con su unidad, tal como figura (p. ej. '3,45 kW'). Solo en obras eléctricas que la indiquen. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Motivo de la obra",
+            "data_type": "string",
+            "description": "Por qué se hace la obra: nueva acometida, avería, renovación o desplazamiento de red, nuevo suministro… Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Dirección",
+            "data_type": "object",
+            "description": "Dirección principal de la obra, una sola fila aunque el documento cite varias ubicaciones.",
+            "nested_fields": [
+              {
+                "name": "Tipo",
+                "data_type": "string",
+                "description": "Tipo de vía (Calle, Avenida, Plaza, Paseo…)."
+              },
+              {
+                "name": "Nombre",
+                "data_type": "string",
+                "description": "Nombre de la vía, sin el tipo."
+              },
+              {
+                "name": "Número",
+                "data_type": "string",
+                "description": "Número de portal. Null si no tiene."
+              },
+              {
+                "name": "Categoría fiscal",
+                "data_type": "string",
+                "description": "Categoría fiscal de la vía, solo si figura; null si no."
+              },
+              {
+                "name": "Distrito",
+                "data_type": "string",
+                "description": "Distrito, solo si figura; null si no."
+              },
+              {
+                "name": "Barrio",
+                "data_type": "string",
+                "description": "Barrio, solo si figura; null si no."
+              },
+              {
+                "name": "Descripción ubicación",
+                "data_type": "string",
+                "description": "Referencias extra (tramo, cruce, frente a…), si las hay."
+              }
+            ]
+          },
+          {
+            "name": "Medidas Acera",
+            "data_type": "object",
+            "description": "Cada tramo de cala o zanja en acera con su longitud en metros (p. ej. 'cala de 6 m en acera'), una fila por tramo. Las cotas de secciones tipo o detalles constructivos (normalmente en mm o cm) NO son tramos de la cala. Si el documento no da longitudes de acera, la lista va vacía.",
+            "nested_fields": [
+              {
+                "name": "Largo",
+                "data_type": "float",
+                "description": "Longitud del tramo en metros (convierte cm o mm a metros)."
+              },
+              {
+                "name": "Ancho",
+                "data_type": "float",
+                "description": "Ancho del tramo en metros, si se indica; null si no."
+              },
+              {
+                "name": "Tipo pavimento",
+                "data_type": "string",
+                "description": "Pavimento del tramo (p. ej. baldosa hidráulica, adoquín, terrazo), si se indica; null si no."
+              }
+            ]
+          },
+          {
+            "name": "Medidas Calzada",
+            "data_type": "object",
+            "description": "Cada tramo de cala o zanja en calzada con su longitud en metros (p. ej. 'cala de 6 m en calzada'), una fila por tramo. Las cotas de secciones tipo o detalles constructivos (normalmente en mm o cm) NO son tramos de la cala. Si el documento no da longitudes de calzada, la lista va vacía.",
+            "nested_fields": [
+              {
+                "name": "Largo",
+                "data_type": "float",
+                "description": "Longitud del tramo en metros (convierte cm o mm a metros)."
+              },
+              {
+                "name": "Ancho",
+                "data_type": "float",
+                "description": "Ancho del tramo en metros, si se indica; null si no."
+              },
+              {
+                "name": "Tipo pavimento",
+                "data_type": "string",
+                "description": "Pavimento del tramo (p. ej. aglomerado asfáltico, mezcla bituminosa, adoquín), si se indica; null si no."
+              }
+            ]
+          },
+          {
+            "name": "Profundidad (m)",
+            "data_type": "float",
+            "description": "Profundidad de la zanja o cala en metros, cuando el documento la indica para esta obra. Si viene en mm o cm, conviértela (1160 mm = 1.16). Una zanja de calas no suele pasar de 2 m: un valor mayor es casi seguro una cota mal leída. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Otras unidades",
+            "data_type": "string",
+            "description": "Otras superficies afectadas distintas de acera y calzada (zonas verdes, aparcamiento, terrizo…), si el documento las menciona. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          }
+        ]
+      }
+    },
+    {
+      "id": "validate_plano",
+      "type": "validate",
+      "rules": [
+        {
+          "id": "profundidad_razonable",
+          "name": "Profundidad entre 0,2 y 3 m",
+          "kind": "deterministic",
+          "severity": "warning",
+          "check": {
+            "type": "expression",
+            "expression": "data.profundidad_m == null || (data.profundidad_m >= 0.2 && data.profundidad_m <= 3.0)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extract_presupuestos",
+      "type": "extract",
+      "mode": "standard",
+      "extraction_schema": {
+        "fields": [
+          {
+            "name": "Descripción de la obra",
+            "data_type": "string",
+            "description": "Objeto de la obra tal como lo redacta el documento: qué se hace (cala, canalización, acometida…), dónde y para qué. Copia la frase principal sin resumirla. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Id Proyecto contratista",
+            "data_type": "string",
+            "description": "Código interno del proyecto que asigna el contratista o la distribuidora (nº de proyecto, nº de solicitud), cuando es distinto del ID de obra. Si el documento solo trae un código, va en 'ID Obra' y este campo es null."
+          },
+          {
+            "name": "Ubicación de la obra",
+            "data_type": "string",
+            "description": "Dirección donde se hace la obra, calle y número tal como aparece (p. ej. 'Calle SAN MATEO, 17'). Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "ID Obra",
+            "data_type": "string",
+            "description": "Número que identifica el expediente u obra: nº de expediente, de solicitud o de obra (p. ej. '9045838454', 'SP250600117588'). Cópialo como texto exacto, sin quitar letras, barras ni guiones. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Total Presupuesto",
+            "data_type": "float",
+            "description": "Importe total del presupuesto de la obra en euros, con sus decimales (p. ej. 2.092,38 € → 2092.38). Solo si el documento contiene un importe de presupuesto. Si no hay importe, null: nunca 0."
+          },
+          {
+            "name": "Presupuesto",
+            "data_type": "float",
+            "description": "Mismo dato que 'Total Presupuesto': el importe total de la obra en euros, con decimales. Si el documento no trae importe, null: nunca 0."
+          },
+          {
+            "name": "Municipio",
+            "data_type": "string",
+            "description": "Municipio donde está la obra (p. ej. 'Madrid'). Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Motivo de la obra",
+            "data_type": "string",
+            "description": "Por qué se hace la obra: nueva acometida, avería, renovación o desplazamiento de red, nuevo suministro… Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Dirección",
+            "data_type": "object",
+            "description": "Dirección principal de la obra, una sola fila aunque el documento cite varias ubicaciones.",
+            "nested_fields": [
+              {
+                "name": "Tipo",
+                "data_type": "string",
+                "description": "Tipo de vía (Calle, Avenida, Plaza, Paseo…)."
+              },
+              {
+                "name": "Nombre",
+                "data_type": "string",
+                "description": "Nombre de la vía, sin el tipo."
+              },
+              {
+                "name": "Número",
+                "data_type": "string",
+                "description": "Número de portal. Null si no tiene."
+              },
+              {
+                "name": "Categoría fiscal",
+                "data_type": "string",
+                "description": "Categoría fiscal de la vía, solo si figura; null si no."
+              },
+              {
+                "name": "Distrito",
+                "data_type": "string",
+                "description": "Distrito, solo si figura; null si no."
+              },
+              {
+                "name": "Barrio",
+                "data_type": "string",
+                "description": "Barrio, solo si figura; null si no."
+              },
+              {
+                "name": "Descripción ubicación",
+                "data_type": "string",
+                "description": "Referencias extra (tramo, cruce, frente a…), si las hay."
+              }
+            ]
+          },
+          {
+            "name": "Medidas Acera",
+            "data_type": "object",
+            "description": "Cada tramo de cala o zanja en acera con su longitud en metros (p. ej. 'cala de 6 m en acera'), una fila por tramo. Las cotas de secciones tipo o detalles constructivos (normalmente en mm o cm) NO son tramos de la cala. Si el documento no da longitudes de acera, la lista va vacía.",
+            "nested_fields": [
+              {
+                "name": "Largo",
+                "data_type": "float",
+                "description": "Longitud del tramo en metros (convierte cm o mm a metros)."
+              },
+              {
+                "name": "Ancho",
+                "data_type": "float",
+                "description": "Ancho del tramo en metros, si se indica; null si no."
+              },
+              {
+                "name": "Tipo pavimento",
+                "data_type": "string",
+                "description": "Pavimento del tramo (p. ej. baldosa hidráulica, adoquín, terrazo), si se indica; null si no."
+              }
+            ]
+          },
+          {
+            "name": "Medidas Calzada",
+            "data_type": "object",
+            "description": "Cada tramo de cala o zanja en calzada con su longitud en metros (p. ej. 'cala de 6 m en calzada'), una fila por tramo. Las cotas de secciones tipo o detalles constructivos (normalmente en mm o cm) NO son tramos de la cala. Si el documento no da longitudes de calzada, la lista va vacía.",
+            "nested_fields": [
+              {
+                "name": "Largo",
+                "data_type": "float",
+                "description": "Longitud del tramo en metros (convierte cm o mm a metros)."
+              },
+              {
+                "name": "Ancho",
+                "data_type": "float",
+                "description": "Ancho del tramo en metros, si se indica; null si no."
+              },
+              {
+                "name": "Tipo pavimento",
+                "data_type": "string",
+                "description": "Pavimento del tramo (p. ej. aglomerado asfáltico, mezcla bituminosa, adoquín), si se indica; null si no."
+              }
+            ]
+          },
+          {
+            "name": "Plazo de ejecución",
+            "data_type": "integer",
+            "description": "Plazo de ejecución de la obra en días, como número entero (p. ej. 'PLAZO DE EJECUCIÓN: 30 días' → 30). Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Duración (días)",
+            "data_type": "integer",
+            "description": "Duración de la obra en días. Es el mismo dato que 'Plazo de ejecución': el número entero de días que indica el documento. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          }
+        ]
+      }
+    },
+    {
+      "id": "validate_presupuestos",
+      "type": "validate",
+      "rules": [
+        {
+          "id": "presupuesto_positivo",
+          "name": "Presupuesto > 0",
+          "kind": "deterministic",
+          "severity": "error",
+          "check": {
+            "type": "expression",
+            "expression": "data.total_presupuesto == null || data.total_presupuesto > 0.0"
+          }
+        },
+        {
+          "id": "plazo_positivo",
+          "name": "Plazo > 0",
+          "kind": "deterministic",
+          "severity": "error",
+          "check": {
+            "type": "expression",
+            "expression": "data.plazo_de_ejecucion == null || data.plazo_de_ejecucion > 0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extract_residuos_acopio",
+      "type": "extract",
+      "mode": "standard",
+      "extraction_schema": {
+        "fields": [
+          {
+            "name": "Gestion residuos",
+            "data_type": "string",
+            "description": "Cómo se tratan los residuos de la obra: tipos de residuo (tierras, hormigón, asfalto…), transporte y destino (vertedero, planta de reciclaje, gestor). Resume lo que dice el documento. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Gestores Autorizados",
+            "data_type": "boolean",
+            "description": "true si el documento dice que los residuos se entregan a un gestor autorizado; false solo si dice expresamente que no. Si no menciona gestores, null."
+          },
+          {
+            "name": "Id Proyecto contratista",
+            "data_type": "string",
+            "description": "Código interno del proyecto que asigna el contratista o la distribuidora (nº de proyecto, nº de solicitud), cuando es distinto del ID de obra. Si el documento solo trae un código, va en 'ID Obra' y este campo es null."
+          },
+          {
+            "name": "ID Obra",
+            "data_type": "string",
+            "description": "Número que identifica el expediente u obra: nº de expediente, de solicitud o de obra (p. ej. '9045838454', 'SP250600117588'). Cópialo como texto exacto, sin quitar letras, barras ni guiones. Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Municipio",
+            "data_type": "string",
+            "description": "Municipio donde está la obra (p. ej. 'Madrid'). Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Ubicación de la obra",
+            "data_type": "string",
+            "description": "Dirección donde se hace la obra, calle y número tal como aparece (p. ej. 'Calle SAN MATEO, 17'). Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Motivo de la obra",
+            "data_type": "string",
+            "description": "Por qué se hace la obra: nueva acometida, avería, renovación o desplazamiento de red, nuevo suministro… Si el documento no lo indica de forma explícita, devuelve null: nunca 0, false ni un valor por defecto."
+          },
+          {
+            "name": "Dirección",
+            "data_type": "object",
+            "description": "Dirección principal de la obra, una sola fila aunque el documento cite varias ubicaciones.",
+            "nested_fields": [
+              {
+                "name": "Tipo",
+                "data_type": "string",
+                "description": "Tipo de vía (Calle, Avenida, Plaza, Paseo…)."
+              },
+              {
+                "name": "Nombre",
+                "data_type": "string",
+                "description": "Nombre de la vía, sin el tipo."
+              },
+              {
+                "name": "Número",
+                "data_type": "string",
+                "description": "Número de portal. Null si no tiene."
+              },
+              {
+                "name": "Categoría fiscal",
+                "data_type": "string",
+                "description": "Categoría fiscal de la vía, solo si figura; null si no."
+              },
+              {
+                "name": "Distrito",
+                "data_type": "string",
+                "description": "Distrito, solo si figura; null si no."
+              },
+              {
+                "name": "Barrio",
+                "data_type": "string",
+                "description": "Barrio, solo si figura; null si no."
+              },
+              {
+                "name": "Descripción ubicación",
+                "data_type": "string",
+                "description": "Referencias extra (tramo, cruce, frente a…), si las hay."
+              }
+            ]
+          },
+          {
+            "name": "Medidas Acera",
+            "data_type": "object",
+            "description": "Cada tramo de cala o zanja en acera con su longitud en metros (p. ej. 'cala de 6 m en acera'), una fila por tramo. Las cotas de secciones tipo o detalles constructivos (normalmente en mm o cm) NO son tramos de la cala. Si el documento no da longitudes de acera, la lista va vacía.",
+            "nested_fields": [
+              {
+                "name": "Largo",
+                "data_type": "float",
+                "description": "Longitud del tramo en metros (convierte cm o mm a metros)."
+              },
+              {
+                "name": "Ancho",
+                "data_type": "float",
+                "description": "Ancho del tramo en metros, si se indica; null si no."
+              },
+              {
+                "name": "Tipo pavimento",
+                "data_type": "string",
+                "description": "Pavimento del tramo (p. ej. baldosa hidráulica, adoquín, terrazo), si se indica; null si no."
+              }
+            ]
+          },
+          {
+            "name": "Medidas Calzada",
+            "data_type": "object",
+            "description": "Cada tramo de cala o zanja en calzada con su longitud en metros (p. ej. 'cala de 6 m en calzada'), una fila por tramo. Las cotas de secciones tipo o detalles constructivos (normalmente en mm o cm) NO son tramos de la cala. Si el documento no da longitudes de calzada, la lista va vacía.",
+            "nested_fields": [
+              {
+                "name": "Largo",
+                "data_type": "float",
+                "description": "Longitud del tramo en metros (convierte cm o mm a metros)."
+              },
+              {
+                "name": "Ancho",
+                "data_type": "float",
+                "description": "Ancho del tramo en metros, si se indica; null si no."
+              },
+              {
+                "name": "Tipo pavimento",
+                "data_type": "string",
+                "description": "Pavimento del tramo (p. ej. aglomerado asfáltico, mezcla bituminosa, adoquín), si se indica; null si no."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "parse",
+      "target": "classify",
+      "branch": null
+    },
+    {
+      "source": "classify",
+      "target": "extract_memoria",
+      "branch": "memoria"
+    },
+    {
+      "source": "extract_memoria",
+      "target": "validate_memoria",
+      "branch": null
+    },
+    {
+      "source": "classify",
+      "target": "extract_plano",
+      "branch": "plano"
+    },
+    {
+      "source": "extract_plano",
+      "target": "validate_plano",
+      "branch": null
+    },
+    {
+      "source": "classify",
+      "target": "extract_presupuestos",
+      "branch": "presupuestos"
+    },
+    {
+      "source": "extract_presupuestos",
+      "target": "validate_presupuestos",
+      "branch": null
+    },
+    {
+      "source": "classify",
+      "target": "extract_residuos_acopio",
+      "branch": "residuos_acopio"
+    }
+  ]
+}

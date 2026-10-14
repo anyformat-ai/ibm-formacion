@@ -1,20 +1,25 @@
 # Bloque 2 · Ground truth y Annie: medir y mejorar (15:50–16:20)
 
-Un workflow que "parece que funciona" no está terminado hasta que se mide. Vamos a medir el workflow
-de **calas y canalizaciones** que ya existe, ver dónde falla y arreglarlo con **Annie**, el asistente
-de la app.
+Un workflow que "parece que funciona" no está terminado hasta que se mide. Vamos a medir la primera
+versión del workflow de **calas y canalizaciones**, ver dónde falla y arreglarlo con **Annie**, el
+asistente de la app.
+
+**Adónde se llega:** la versión revisada pasa del **70 % al 97 %** con los mismos PDFs y el mismo motor,
+y los errores con confianza ≥ 90 bajan de 68 a 8. Está en la cuenta como *Formación IBM · Calas y
+canalizaciones (v2)* y explicada en [`calas-v2.md`](calas-v2.md).
 
 ## El punto de partida
 
 [`workflows/calas-punto-de-partida.json`](../workflows/calas-punto-de-partida.json) es el workflow de
-calas tal como está hoy:
+calas en su primera versión:
 
 - **Parse** standard.
 - **Classify** en cuatro tipos: Memoria, Plano, Presupuestos, Residuos/Acopio.
 - **Un solo extract** de 22 campos para los cuatro tipos.
 - **Sin validaciones.**
 
-Si no lo tienes en tu cuenta, créalo:
+En la cuenta de IBM ya está como *Formación IBM · Calas y canalizaciones (punto de partida)*. En otra
+cuenta, créalo:
 
 ```bash
 curl -X POST https://api.anyformat.ai/v3/workflows/ \
@@ -37,7 +42,7 @@ revisa. En la app, cada documento revisado y verificado se puede añadir al **da
 
 ## 2. Medir (10 min)
 
-Ya hemos ejecutado el workflow sobre 11 de los 13 PDFs. El informe completo está en
+Las ejecuciones de la primera versión sobre 11 de los 13 PDFs están en `results/calas/baseline/`. El informe completo está en
 [`calas-baseline.md`](calas-baseline.md):
 
 ```bash
@@ -64,7 +69,8 @@ Además, **68 de los 86 errores tienen confianza ≥ 90.** Tres patrones:
    aparece como "tipo de suministro: Agua".
 
 ¿Por qué? **Un solo esquema para cuatro documentos distintos.** Si a un plano le pides el presupuesto,
-el modelo tiende a rellenar algo. Y las descripciones no dicen cuándo devolver null.
+el modelo tiende a rellenar algo. Y las descripciones no dicen cuándo devolver null. Es lo que le pasa a
+casi cualquier primera versión, y por eso se mide.
 
 ## 3. Mejorar con Annie (12 min)
 
@@ -98,6 +104,15 @@ python3 tools/score_calas.py results/calas/v2
 
 El script funciona aunque el extract se haya dividido en cuatro. Fíjate sobre todo en la fila
 "el documento no trae el dato": ahí es donde debe subir.
+
+Para comparar con la versión de referencia: `python3 tools/score_calas.py results/calas/v2`.
+
+| | Primera versión | v2 |
+|---|---|---|
+| Total | 70 % | 97 % |
+| El documento trae el dato | 90 % | 96 % |
+| El documento no trae el dato y se pide | 55 % | 95 % |
+| Errores con confianza ≥ 90 | 68 | 8 |
 
 ## Qué llevarse
 

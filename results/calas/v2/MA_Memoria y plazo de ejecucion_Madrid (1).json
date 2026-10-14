@@ -1,0 +1,1530 @@
+{
+  "id": "06acf4aa-e7d1-768e-8000-bb1756b6196b",
+  "workflow_id": "06acf4a9-8548-7384-8000-f0b4ea0c800a",
+  "document_packet_id": "06acf4aa-e64d-7d25-8000-04a1835e491f",
+  "status": "processed",
+  "created_at": "2026-10-14T09:26:06.519748Z",
+  "updated_at": "2026-10-14T09:26:46.256508Z",
+  "results": {
+    "document_packet_id": "06acf4aa-e64d-7d25-8000-04a1835e491f",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a/files/06acf4aa-e2aa-7229-8000-286de2724ffb?versionId=pm8d3Iz-lw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nLogo for Nedgia Madrid, part of Grupo Naturgy, featuring a stylized butterfly icon in yellow and orange next to the company name in blue text.\n\n</figure-description>\n\n\n<a id=\"p1_b1\"></a>\n\n# SOLICITUD LICENCIA DE OBRAS\n\n\n<a id=\"p1_b3\"></a>\n\n# MEMORIA DESCRIPTIVA\n\n\n<a id=\"p1_b5\"></a>\n\n# DESCRIPCIÓN DE LA SOLICITUD\n\n\n<a id=\"p1_b6\"></a>\n\n**SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1):**\nC/ PASTRANA 8B (DESPLAZAMIENTO RED)\n**DISTRITO:** San Blas\n**CÓDIGO GODA:** ACT250600117588\n**DESCRIPCIÓN DE LA OBRA (2):** a partir de la tubería existente se canaliza hasta el punto de suministro indicado en (1) y segùn trazado indicado en los planos adjuntos.\n\n\n<a id=\"p1_b8\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" data-cell-id=\"r0c0\">LONGITUD TOTAL<br>DE LA OBRA</th>\n      <th colspan=\"5\" data-cell-id=\"r0c1\">PAVIMENTOS AFECTADOS (4)</th>\n    </tr>\n    <tr>\n      <th colspan=\"3\" data-cell-id=\"r1c1\">ACERA</th>\n      <th colspan=\"2\" data-cell-id=\"r1c4\">CALZADA</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r2c0\"></th>\n      <th data-cell-id=\"r2c1\">LOSETA</th>\n      <th data-cell-id=\"r2c2\">TERRAZO</th>\n      <th data-cell-id=\"r2c3\">TIERRA</th>\n      <th data-cell-id=\"r2c4\">ASFALTO</th>\n      <th data-cell-id=\"r2c5\">TIERRA</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r3c0\">13,8</td>\n      <td data-cell-id=\"r3c1\">13,8</td>\n      <td data-cell-id=\"r3c2\"></td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\">0</td>\n      <td data-cell-id=\"r3c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\"></td>\n      <td data-cell-id=\"r4c1\"></td>\n      <td data-cell-id=\"r4c2\"></td>\n      <td data-cell-id=\"r4c3\"></td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\"></td>\n      <td data-cell-id=\"r5c1\"></td>\n      <td data-cell-id=\"r5c2\"></td>\n      <td data-cell-id=\"r5c3\"></td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\"></td>\n    </tr>\n  </tbody>\n</table>\n\n\n<a id=\"p1_b9\"></a>\n\n<table>\n  <tr>\n    <th colspan=\"3\" data-cell-id=\"r0c0\">CARACTERISTICAS TECNICAS</th>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">TIPO DE TUBERIA</td>\n    <td data-cell-id=\"r1c1\">DIAMETRO</td>\n    <td data-cell-id=\"r1c2\">ESPESOR en mm.</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r2c1\">200</td>\n    <td data-cell-id=\"r2c2\">11,36</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r3c1\">160</td>\n    <td data-cell-id=\"r3c2\">9,09</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r4c1\">110</td>\n    <td data-cell-id=\"r4c2\">6,25</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r5c1\">90</td>\n    <td data-cell-id=\"r5c2\">5,11</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r6c1\">63</td>\n    <td data-cell-id=\"r6c2\">3,58/5,72</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r7c0\">PE100-SDR11</td>\n    <td data-cell-id=\"r7c1\">32</td>\n    <td data-cell-id=\"r7c2\">2,9</td>\n  </tr>\n  <tr>\n    <td colspan=\"3\" data-cell-id=\"r8c0\">La construcción de la canalización se ajustará en todo momento a los requerimientos que establece<br>el Nuevo Reglamento Técnico de Distribución y Utilización de Combustibles Gaseosos (B.O.E. 211 del<br><br><br>La presión de la canalización será en Baja Presión (MOP &lt; de 0,05 bar) o bien<br>en Media Presión (0,05 bar&lt;MOP&lt;0,4 bar ó 0,4 bar&lt;MOP&lt;5 bar)</td>\n  </tr>\n</table>\n\nLa presión de la canalización será en Baja Presión (MOP < de 0,05 bar) o bien en Media Presión (0,05 bar<MOP<0,4 bar ó 0,4 bar<MOP<5 bar)\n\n\n<a id=\"p1_b10\"></a>\n\n<u>**OBSERVACIONES:**</u> La tuberia irá enterrada en toda su longitud, sobre un lecho de arena, quedando a una profundidad mínima de 0,80 m. e instalando sobre ella una malla de señalización.\n\n\n<a id=\"p1_b11\"></a>\n\n<u>**OBJETO DE LA PETICIÓN:**</u> Atender la solicitud de suministro de gas definida en el apartado (1).\n\n\n<a id=\"p1_b12\"></a>\n\n<u>**TENDIDO A EFECTUAR:**</u> Las canalizaciones se ejecutaran conforme al trazado (2) representado en el plano adjunto y de acuerdo a la longitud descrita en el apartado (3)\n\n\n<a id=\"p1_b13\"></a>\n\n<u>**SUPERFICIE DE PAVIMENTOS AFECTADOS:**</u> Los citados en el apartado(4).Todos ellos quedarán repuestos al finalizar los trabajos de canalización con las mismas características que los existentes antes de iniciar las obras.\n\n<a id=\"p2_b0\"></a>\n\n# SOLICITUD LICENCIA DE OBRAS PROGRAMA DE EJECUCIÓN\n\n\n<a id=\"p2_b1\"></a>\n\nDISTRITO: **San Blas**\nSITUACIÓN: **PASTRANA 8B (DESPLAZAMIENTO RED)**\nTIPO DE OBRA: **Desplazamiento Terceros**\nCÓDIGO: **ACT250600117588**\n\n\n<a id=\"p2_b3\"></a>\n\nEl plazo de ejecución de la obra previsto es de **9,00** días, con la siguiente planificación semanal por unidades de obra:\n\n\n<a id=\"p2_b4\"></a>\n\n<table>\n  <tr>\n    <td rowspan=\"2\" data-cell-id=\"r0c0\"></td>\n    <th colspan=\"5\" data-cell-id=\"r0c1\">DÍAS</th>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r1c1\">LUNES</th>\n    <th data-cell-id=\"r1c2\">MARTES</th>\n    <th data-cell-id=\"r1c3\">MIÉRCOLES</th>\n    <th data-cell-id=\"r1c4\">JUEVES</th>\n    <th data-cell-id=\"r1c5\">VIERNES</th>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r2c0\">A</th>\n    <td colspan=\"3\" style=\"background-color: #C6EFCE;\" data-cell-id=\"r2c1\"></td>\n    <td data-cell-id=\"r2c4\"></td>\n    <td data-cell-id=\"r2c5\"></td>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r3c0\">M</th>\n    <td data-cell-id=\"r3c1\"></td>\n    <td colspan=\"3\" style=\"background-color: #FFFFCC;\" data-cell-id=\"r3c2\"></td>\n    <td data-cell-id=\"r3c5\"></td>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r4c0\">R</th>\n    <td data-cell-id=\"r4c1\"></td>\n    <td data-cell-id=\"r4c2\"></td>\n    <td data-cell-id=\"r4c3\"></td>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r4c4\"></td>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r4c5\"></td>\n  </tr>\n</table>\n\n\n<a id=\"p2_b5\"></a>\n\n<table>\n  <tr>\n    <td rowspan=\"3\" data-cell-id=\"r0c0\">LEYENDA:</td>\n    <td style=\"background-color: #C6EFCE;\" data-cell-id=\"r0c1\">A_</td>\n    <td style=\"background-color: #C6EFCE;\" data-cell-id=\"r0c2\">APERTURA (EXCAVACIÓN DE ZANJA Y RETIRADA DE TIERRAS A VERTEDERO)</td>\n  </tr>\n  <tr>\n    <td style=\"background-color: #FFF2CC;\" data-cell-id=\"r1c1\">M_</td>\n    <td style=\"background-color: #FFF2CC;\" data-cell-id=\"r1c2\">MONTAJE DE TUBERÍAS, TAPADO Y COMPACTACIÓN</td>\n  </tr>\n  <tr>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r2c1\">R_</td>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r2c2\">REPOSICIÓN DE PAVIMENTOS</td>\n  </tr>\n</table>\n\n\n<a id=\"p2_b7\"></a>\n\nEl viernes la zanja quedará perfectamente repuesta.",
+      "text": "<a id=\"p1_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nLogo for Nedgia Madrid, part of Grupo Naturgy, featuring a stylized butterfly icon in yellow and orange next to the company name in blue text.\n\n</figure-description>\n\n<a id=\"p1_b1\"></a>\n\n# SOLICITUD LICENCIA DE OBRAS\n\n<a id=\"p1_b3\"></a>\n\n# MEMORIA DESCRIPTIVA\n\n<a id=\"p1_b5\"></a>\n\n# DESCRIPCIÓN DE LA SOLICITUD\n\n<a id=\"p1_b6\"></a>\n\n**SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1):**\nC/ PASTRANA 8B (DESPLAZAMIENTO RED)\n**DISTRITO:** San Blas\n**CÓDIGO GODA:** ACT250600117588\n**DESCRIPCIÓN DE LA OBRA (2):** a partir de la tubería existente se canaliza hasta el punto de suministro indicado en (1) y segùn trazado indicado en los planos adjuntos.\n\n<a id=\"p1_b8\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" data-cell-id=\"r0c0\">LONGITUD TOTAL<br>DE LA OBRA</th>\n      <th colspan=\"5\" data-cell-id=\"r0c1\">PAVIMENTOS AFECTADOS (4)</th>\n    </tr>\n    <tr>\n      <th colspan=\"3\" data-cell-id=\"r1c1\">ACERA</th>\n      <th colspan=\"2\" data-cell-id=\"r1c4\">CALZADA</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r2c0\"></th>\n      <th data-cell-id=\"r2c1\">LOSETA</th>\n      <th data-cell-id=\"r2c2\">TERRAZO</th>\n      <th data-cell-id=\"r2c3\">TIERRA</th>\n      <th data-cell-id=\"r2c4\">ASFALTO</th>\n      <th data-cell-id=\"r2c5\">TIERRA</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r3c0\">13,8</td>\n      <td data-cell-id=\"r3c1\">13,8</td>\n      <td data-cell-id=\"r3c2\"></td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\">0</td>\n      <td data-cell-id=\"r3c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\"></td>\n      <td data-cell-id=\"r4c1\"></td>\n      <td data-cell-id=\"r4c2\"></td>\n      <td data-cell-id=\"r4c3\"></td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\"></td>\n      <td data-cell-id=\"r5c1\"></td>\n      <td data-cell-id=\"r5c2\"></td>\n      <td data-cell-id=\"r5c3\"></td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\"></td>\n    </tr>\n  </tbody>\n</table>\n\n<a id=\"p1_b9\"></a>\n\n<table>\n  <tr>\n    <th colspan=\"3\" data-cell-id=\"r0c0\">CARACTERISTICAS TECNICAS</th>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">TIPO DE TUBERIA</td>\n    <td data-cell-id=\"r1c1\">DIAMETRO</td>\n    <td data-cell-id=\"r1c2\">ESPESOR en mm.</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r2c1\">200</td>\n    <td data-cell-id=\"r2c2\">11,36</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r3c1\">160</td>\n    <td data-cell-id=\"r3c2\">9,09</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r4c1\">110</td>\n    <td data-cell-id=\"r4c2\">6,25</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r5c1\">90</td>\n    <td data-cell-id=\"r5c2\">5,11</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r6c1\">63</td>\n    <td data-cell-id=\"r6c2\">3,58/5,72</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r7c0\">PE100-SDR11</td>\n    <td data-cell-id=\"r7c1\">32</td>\n    <td data-cell-id=\"r7c2\">2,9</td>\n  </tr>\n  <tr>\n    <td colspan=\"3\" data-cell-id=\"r8c0\">La construcción de la canalización se ajustará en todo momento a los requerimientos que establece<br>el Nuevo Reglamento Técnico de Distribución y Utilización de Combustibles Gaseosos (B.O.E. 211 del<br><br><br>La presión de la canalización será en Baja Presión (MOP &lt; de 0,05 bar) o bien<br>en Media Presión (0,05 bar&lt;MOP&lt;0,4 bar ó 0,4 bar&lt;MOP&lt;5 bar)</td>\n  </tr>\n</table>\n\nLa presión de la canalización será en Baja Presión (MOP < de 0,05 bar) o bien en Media Presión (0,05 bar<MOP<0,4 bar ó 0,4 bar<MOP<5 bar)\n\n<a id=\"p1_b10\"></a>\n\n<u>**OBSERVACIONES:**</u> La tuberia irá enterrada en toda su longitud, sobre un lecho de arena, quedando a una profundidad mínima de 0,80 m. e instalando sobre ella una malla de señalización.\n\n<a id=\"p1_b11\"></a>\n\n<u>**OBJETO DE LA PETICIÓN:**</u> Atender la solicitud de suministro de gas definida en el apartado (1).\n\n<a id=\"p1_b12\"></a>\n\n<u>**TENDIDO A EFECTUAR:**</u> Las canalizaciones se ejecutaran conforme al trazado (2) representado en el plano adjunto y de acuerdo a la longitud descrita en el apartado (3)\n\n<a id=\"p1_b13\"></a>\n\n<u>**SUPERFICIE DE PAVIMENTOS AFECTADOS:**</u> Los citados en el apartado(4).Todos ellos quedarán repuestos al finalizar los trabajos de canalización con las mismas características que los existentes antes de iniciar las obras.\n\n<a id=\"p2_b0\"></a>\n\n# SOLICITUD LICENCIA DE OBRAS PROGRAMA DE EJECUCIÓN\n\n<a id=\"p2_b1\"></a>\n\nDISTRITO: **San Blas**\nSITUACIÓN: **PASTRANA 8B (DESPLAZAMIENTO RED)**\nTIPO DE OBRA: **Desplazamiento Terceros**\nCÓDIGO: **ACT250600117588**\n\n<a id=\"p2_b3\"></a>\n\nEl plazo de ejecución de la obra previsto es de **9,00** días, con la siguiente planificación semanal por unidades de obra:\n\n<a id=\"p2_b4\"></a>\n\n<table>\n  <tr>\n    <td rowspan=\"2\" data-cell-id=\"r0c0\"></td>\n    <th colspan=\"5\" data-cell-id=\"r0c1\">DÍAS</th>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r1c1\">LUNES</th>\n    <th data-cell-id=\"r1c2\">MARTES</th>\n    <th data-cell-id=\"r1c3\">MIÉRCOLES</th>\n    <th data-cell-id=\"r1c4\">JUEVES</th>\n    <th data-cell-id=\"r1c5\">VIERNES</th>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r2c0\">A</th>\n    <td colspan=\"3\" style=\"background-color: #C6EFCE;\" data-cell-id=\"r2c1\"></td>\n    <td data-cell-id=\"r2c4\"></td>\n    <td data-cell-id=\"r2c5\"></td>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r3c0\">M</th>\n    <td data-cell-id=\"r3c1\"></td>\n    <td colspan=\"3\" style=\"background-color: #FFFFCC;\" data-cell-id=\"r3c2\"></td>\n    <td data-cell-id=\"r3c5\"></td>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r4c0\">R</th>\n    <td data-cell-id=\"r4c1\"></td>\n    <td data-cell-id=\"r4c2\"></td>\n    <td data-cell-id=\"r4c3\"></td>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r4c4\"></td>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r4c5\"></td>\n  </tr>\n</table>\n\n<a id=\"p2_b5\"></a>\n\n<table>\n  <tr>\n    <td rowspan=\"3\" data-cell-id=\"r0c0\">LEYENDA:</td>\n    <td style=\"background-color: #C6EFCE;\" data-cell-id=\"r0c1\">A_</td>\n    <td style=\"background-color: #C6EFCE;\" data-cell-id=\"r0c2\">APERTURA (EXCAVACIÓN DE ZANJA Y RETIRADA DE TIERRAS A VERTEDERO)</td>\n  </tr>\n  <tr>\n    <td style=\"background-color: #FFF2CC;\" data-cell-id=\"r1c1\">M_</td>\n    <td style=\"background-color: #FFF2CC;\" data-cell-id=\"r1c2\">MONTAJE DE TUBERÍAS, TAPADO Y COMPACTACIÓN</td>\n  </tr>\n  <tr>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r2c1\">R_</td>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r2c2\">REPOSICIÓN DE PAVIMENTOS</td>\n  </tr>\n</table>\n\n<a id=\"p2_b7\"></a>\n\nEl viernes la zanja quedará perfectamente repuesta.",
+      "layout_confidence": 0.846,
+      "parse_confidence": 98.0,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "picture",
+          "page": 1,
+          "bbox": {
+            "x0": 0.11950146676263036,
+            "y0": 0.03583889325595707,
+            "x1": 0.2679245283018868,
+            "y1": 0.09666666666666666
+          },
+          "layout_confidence": 0.921974778175354,
+          "parse_confidence": null,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.11950146676263036,
+                "y0": 0.03583889325595707,
+                "x1": 0.26632225470214255,
+                "y1": 0.09635524741601312
+              },
+              "type": "picture",
+              "text": "nedgia Madrid Grupo Naturgy"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nLogo for Nedgia Madrid, part of Grupo Naturgy, featuring a stylized butterfly icon in yellow and orange next to the company name in blue text.\n\n</figure-description>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b1",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.3339622641509434,
+            "y0": 0.08466666666666667,
+            "x1": 0.6655925118793455,
+            "y1": 0.10093579367726926
+          },
+          "layout_confidence": 0.22396482527256012,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.33412519129761187,
+                "y0": 0.08487620196723693,
+                "x1": 0.6655925118793455,
+                "y1": 0.10093579367726926
+              },
+              "type": "title",
+              "text": "SOLICITUD LICENCIA DE OBRAS"
+            }
+          ],
+          "content": "# SOLICITUD LICENCIA DE OBRAS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b3",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.37264150943396224,
+            "y0": 0.114,
+            "x1": 0.6253540334274864,
+            "y1": 0.13239369549370056
+          },
+          "layout_confidence": 0.3884311020374298,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.37428569678383844,
+                "y0": 0.11592680697463525,
+                "x1": 0.6253540334274864,
+                "y1": 0.13239369549370056
+              },
+              "type": "title",
+              "text": "MEMORIA DESCRIPTIVA"
+            }
+          ],
+          "content": "# MEMORIA DESCRIPTIVA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.3424528301886792,
+            "y0": 0.17666666666666667,
+            "x1": 0.656371701297045,
+            "y1": 0.195617258268424
+          },
+          "layout_confidence": 0.37759914994239807,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3438039869610603,
+                "y0": 0.1777680630661474,
+                "x1": 0.656371701297045,
+                "y1": 0.195617258268424
+              },
+              "type": "title",
+              "text": "DESCRIPCIÓN DE LA SOLICITUD"
+            }
+          ],
+          "content": "# DESCRIPCIÓN DE LA SOLICITUD",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b6",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.13862331256612756,
+            "y0": 0.2092140983852274,
+            "x1": 0.842573062107958,
+            "y1": 0.33414070745878316
+          },
+          "layout_confidence": 0.6723771095275879,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.13862331256612756,
+                "y0": 0.2092140983852274,
+                "x1": 0.842573062107958,
+                "y1": 0.33414070745878316
+              },
+              "type": "text",
+              "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas CÓDIGO GODA: ACT250600117588"
+            },
+            {
+              "bbox": {
+                "x0": 0.1401468113226931,
+                "y0": 0.2999761547987254,
+                "x1": 0.8408693915555093,
+                "y1": 0.3343805163882134
+              },
+              "type": "text",
+              "text": "DESCRIPCIÓN DE LA OBRA (2): a partir de la tubería existente se canaliza hasta el punto de suministro indicado en (1) y segùn trazado indicado en los planos adjuntos."
+            }
+          ],
+          "content": "**SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1):**\nC/ PASTRANA 8B (DESPLAZAMIENTO RED)\n**DISTRITO:** San Blas\n**CÓDIGO GODA:** ACT250600117588\n**DESCRIPCIÓN DE LA OBRA (2):** a partir de la tubería existente se canaliza hasta el punto de suministro indicado en (1) y segùn trazado indicado en los planos adjuntos.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b8",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.10608198910843504,
+            "y0": 0.3444064084461175,
+            "x1": 0.9105294722311442,
+            "y1": 0.45037124196705325
+          },
+          "layout_confidence": 0.9708032608032227,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.10608198910843504,
+                "y0": 0.3444064084461175,
+                "x1": 0.9105294722311442,
+                "y1": 0.45037124196705325
+              },
+              "type": "table",
+              "text": "LONGITUD TOTAL DE LA OBRA PAVIMENTOS AFECTADOS (4) ACERA CALZADA LOSETA TERRAZO TIERRA ASFALTO TIERRA 13,8 13,8 0"
+            }
+          ],
+          "content": "<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\" data-cell-id=\"r0c0\">LONGITUD TOTAL<br>DE LA OBRA</th>\n      <th colspan=\"5\" data-cell-id=\"r0c1\">PAVIMENTOS AFECTADOS (4)</th>\n    </tr>\n    <tr>\n      <th colspan=\"3\" data-cell-id=\"r1c1\">ACERA</th>\n      <th colspan=\"2\" data-cell-id=\"r1c4\">CALZADA</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r2c0\"></th>\n      <th data-cell-id=\"r2c1\">LOSETA</th>\n      <th data-cell-id=\"r2c2\">TERRAZO</th>\n      <th data-cell-id=\"r2c3\">TIERRA</th>\n      <th data-cell-id=\"r2c4\">ASFALTO</th>\n      <th data-cell-id=\"r2c5\">TIERRA</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r3c0\">13,8</td>\n      <td data-cell-id=\"r3c1\">13,8</td>\n      <td data-cell-id=\"r3c2\"></td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\">0</td>\n      <td data-cell-id=\"r3c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\"></td>\n      <td data-cell-id=\"r4c1\"></td>\n      <td data-cell-id=\"r4c2\"></td>\n      <td data-cell-id=\"r4c3\"></td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\"></td>\n      <td data-cell-id=\"r5c1\"></td>\n      <td data-cell-id=\"r5c2\"></td>\n      <td data-cell-id=\"r5c3\"></td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\"></td>\n    </tr>\n  </tbody>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "LONGITUD TOTAL<br>DE LA OBRA"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "PAVIMENTOS AFECTADOS (4)"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c1",
+                "text": "ACERA"
+              },
+              {
+                "cell_id": "r1c4",
+                "text": "CALZADA"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "LOSETA"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "TERRAZO"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "TIERRA"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": "ASFALTO"
+              },
+              {
+                "cell_id": "r2c5",
+                "text": "TIERRA"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "13,8"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "13,8"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c4",
+                "text": "0"
+              },
+              {
+                "cell_id": "r3c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c5",
+                "text": ""
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b9",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.10532133755113078,
+            "y0": 0.46336251887157975,
+            "x1": 0.9108226919116535,
+            "y1": 0.7065685414105921
+          },
+          "layout_confidence": 0.9017404913902283,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.10532133755113078,
+                "y0": 0.46336251887157975,
+                "x1": 0.9108226919116535,
+                "y1": 0.7065685414105921
+              },
+              "type": "table",
+              "text": "CARACTERISTICAS TECNICAS TIPO DE TUBERIA DIAMETRO ESPESOR en mm. PE100-SDR17,6 200 11,36 PE100-SDR17,6 160 9,09 PE100-SDR17,6 110 6,25 PE100-SDR17,6 90 5,11 PE100-SDR17,6 63 3,58/5,72 PE100-SDR11 32 2,9 La construcción de la canalización se ajustará en todo momento a los requerimientos que establece el Nuevo Reglamento Técnico de Distribución y Utilización de Combustibles Gaseosos (B.O.E. 211 del La presión de la canalización será en Baja Presión (MOP < de 0,05 bar) o bien en Media Presión (0,05 bar<MOP<0,4 bar ó 0,4 bar<MOP<5 bar) La presión de la canalización será en Baja Presión (MOP < de 0,05 bar) o bien en Media Presión (0,05 bar<MOP<0,4 bar ó 0,4 bar<MOP<5 bar)"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <th colspan=\"3\" data-cell-id=\"r0c0\">CARACTERISTICAS TECNICAS</th>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">TIPO DE TUBERIA</td>\n    <td data-cell-id=\"r1c1\">DIAMETRO</td>\n    <td data-cell-id=\"r1c2\">ESPESOR en mm.</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r2c1\">200</td>\n    <td data-cell-id=\"r2c2\">11,36</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r3c1\">160</td>\n    <td data-cell-id=\"r3c2\">9,09</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r4c1\">110</td>\n    <td data-cell-id=\"r4c2\">6,25</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r5c1\">90</td>\n    <td data-cell-id=\"r5c2\">5,11</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\">PE100-SDR17,6</td>\n    <td data-cell-id=\"r6c1\">63</td>\n    <td data-cell-id=\"r6c2\">3,58/5,72</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r7c0\">PE100-SDR11</td>\n    <td data-cell-id=\"r7c1\">32</td>\n    <td data-cell-id=\"r7c2\">2,9</td>\n  </tr>\n  <tr>\n    <td colspan=\"3\" data-cell-id=\"r8c0\">La construcción de la canalización se ajustará en todo momento a los requerimientos que establece<br>el Nuevo Reglamento Técnico de Distribución y Utilización de Combustibles Gaseosos (B.O.E. 211 del<br><br><br>La presión de la canalización será en Baja Presión (MOP &lt; de 0,05 bar) o bien<br>en Media Presión (0,05 bar&lt;MOP&lt;0,4 bar ó 0,4 bar&lt;MOP&lt;5 bar)</td>\n  </tr>\n</table>\n\nLa presión de la canalización será en Baja Presión (MOP < de 0,05 bar) o bien en Media Presión (0,05 bar<MOP<0,4 bar ó 0,4 bar<MOP<5 bar)",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "CARACTERISTICAS TECNICAS"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "TIPO DE TUBERIA"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "DIAMETRO"
+              },
+              {
+                "cell_id": "r1c2",
+                "text": "ESPESOR en mm."
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "PE100-SDR17,6"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "200"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "11,36"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "PE100-SDR17,6"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "160"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "9,09"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "PE100-SDR17,6"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": "110"
+              },
+              {
+                "cell_id": "r4c2",
+                "text": "6,25"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "PE100-SDR17,6"
+              },
+              {
+                "cell_id": "r5c1",
+                "text": "90"
+              },
+              {
+                "cell_id": "r5c2",
+                "text": "5,11"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "PE100-SDR17,6"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": "63"
+              },
+              {
+                "cell_id": "r6c2",
+                "text": "3,58/5,72"
+              }
+            ],
+            [
+              {
+                "cell_id": "r7c0",
+                "text": "PE100-SDR11"
+              },
+              {
+                "cell_id": "r7c1",
+                "text": "32"
+              },
+              {
+                "cell_id": "r7c2",
+                "text": "2,9"
+              }
+            ],
+            [
+              {
+                "cell_id": "r8c0",
+                "text": "La construcción de la canalización se ajustará en todo momento a los requerimientos que establece<br>el Nuevo Reglamento Técnico de Distribución y Utilización de Combustibles Gaseosos (B.O.E. 211 del<br><br><br>La presión de la canalización será en Baja Presión (MOP &lt; de 0,05 bar) o bien<br>en Media Presión (0,05 bar&lt;MOP&lt;0,4 bar ó 0,4 bar&lt;MOP&lt;5 bar)"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b10",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.10566037735849057,
+            "y0": 0.722643254913291,
+            "x1": 0.8684474663694075,
+            "y1": 0.755863967641086
+          },
+          "layout_confidence": 0.8275232911109924,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.10616227764604746,
+                "y0": 0.722643254913291,
+                "x1": 0.8684474663694075,
+                "y1": 0.755863967641086
+              },
+              "type": "text",
+              "text": "OBSERVACIONES: La tuberia irá enterrada en toda su longitud, sobre un lecho de arena, quedando a una profundidad mínima de 0,80 m. e instalando sobre ella una malla de señalización."
+            }
+          ],
+          "content": "<u>**OBSERVACIONES:**</u> La tuberia irá enterrada en toda su longitud, sobre un lecho de arena, quedando a una profundidad mínima de 0,80 m. e instalando sobre ella una malla de señalización.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b11",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.10566037735849057,
+            "y0": 0.7729885171447467,
+            "x1": 0.8603773584905661,
+            "y1": 0.790670968162142
+          },
+          "layout_confidence": 0.5980883836746216,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.17967727827189767,
+                "y0": 0.7729885171447467,
+                "x1": 0.8419935602374924,
+                "y1": 0.790670968162142
+              },
+              "type": "text",
+              "text": "OBJETO DE LA PETICIÓN: Atender la solicitud de suministro de gas definida en el apartado (1)."
+            }
+          ],
+          "content": "<u>**OBJETO DE LA PETICIÓN:**</u> Atender la solicitud de suministro de gas definida en el apartado (1).",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b12",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.10566037735849057,
+            "y0": 0.8068341943839514,
+            "x1": 0.8924435081620314,
+            "y1": 0.8415142188168021
+          },
+          "layout_confidence": 0.8516106605529785,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.1064295555400733,
+                "y0": 0.8068341943839514,
+                "x1": 0.8924435081620314,
+                "y1": 0.8415142188168021
+              },
+              "type": "text",
+              "text": "TENDIDO A EFECTUAR: Las canalizaciones se ejecutaran conforme al trazado (2) representado en el plano adjunto y de acuerdo a la longitud descrita en el apartado (3)"
+            }
+          ],
+          "content": "<u>**TENDIDO A EFECTUAR:**</u> Las canalizaciones se ejecutaran conforme al trazado (2) representado en el plano adjunto y de acuerdo a la longitud descrita en el apartado (3)",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b13",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.10593730737393252,
+            "y0": 0.8580731428194475,
+            "x1": 0.8959025114306227,
+            "y1": 0.908244980660806
+          },
+          "layout_confidence": 0.9341340661048889,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.10593730737393252,
+                "y0": 0.8580731428194475,
+                "x1": 0.8959025114306227,
+                "y1": 0.908244980660806
+              },
+              "type": "text",
+              "text": "SUPERFICIE DE PAVIMENTOS AFECTADOS: Los citados en el apartado(4).Todos ellos quedarán repuestos al finalizar los trabajos de canalización con las mismas características que los existentes antes de iniciar las obras."
+            }
+          ],
+          "content": "<u>**SUPERFICIE DE PAVIMENTOS AFECTADOS:**</u> Los citados en el apartado(4).Todos ellos quedarán repuestos al finalizar los trabajos de canalización con las mismas características que los existentes antes de iniciar las obras.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p2_b0",
+          "type": "title",
+          "page": 2,
+          "bbox": {
+            "x0": 0.3466000991175449,
+            "y0": 0.14150943396226415,
+            "x1": 0.6535512492818779,
+            "y1": 0.21381369870980388
+          },
+          "layout_confidence": 0.9271831512451172,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3466000991175449,
+                "y0": 0.14154872871223642,
+                "x1": 0.6535512492818779,
+                "y1": 0.21381369870980388
+              },
+              "type": "title",
+              "text": "SOLICITUD LICENCIA DE OBRAS PROGRAMA DE EJECUCIÓN"
+            }
+          ],
+          "content": "# SOLICITUD LICENCIA DE OBRAS PROGRAMA DE EJECUCIÓN",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p2_b1",
+          "type": "text",
+          "page": 2,
+          "bbox": {
+            "x0": 0.082,
+            "y0": 0.24639540168365515,
+            "x1": 0.39240008187426517,
+            "y1": 0.3537039704882104
+          },
+          "layout_confidence": 0.31793683767318726,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.0829034408171394,
+                "y0": 0.24639540168365515,
+                "x1": 0.39240008187426517,
+                "y1": 0.3537039704882104
+              },
+              "type": "text",
+              "text": "DISTRITO: San Blas SITUACIÓN: PASTRANA 8B (DESPLAZAMIENTO RED) TIPO DE OBRA: Desplazamiento Terceros CÓDIGO: ACT250600117588"
+            }
+          ],
+          "content": "DISTRITO: **San Blas**\nSITUACIÓN: **PASTRANA 8B (DESPLAZAMIENTO RED)**\nTIPO DE OBRA: **Desplazamiento Terceros**\nCÓDIGO: **ACT250600117588**",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p2_b3",
+          "type": "text",
+          "page": 2,
+          "bbox": {
+            "x0": 0.08333333333333333,
+            "y0": 0.3974879863328484,
+            "x1": 0.7091069150144292,
+            "y1": 0.42027347292548367
+          },
+          "layout_confidence": 0.8363578915596008,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.08371815186068766,
+                "y0": 0.3974879863328484,
+                "x1": 0.7091069150144292,
+                "y1": 0.42027347292548367
+              },
+              "type": "text",
+              "text": "El plazo de ejecución de la obra previsto es de 9,00 días, con la siguiente planificación semanal por unidades de obra:"
+            }
+          ],
+          "content": "El plazo de ejecución de la obra previsto es de **9,00** días, con la siguiente planificación semanal por unidades de obra:",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p2_b4",
+          "type": "table",
+          "page": 2,
+          "bbox": {
+            "x0": 0.08291175845546975,
+            "y0": 0.4357501656141362,
+            "x1": 0.7446759808211308,
+            "y1": 0.5776520328913808
+          },
+          "layout_confidence": 0.9724171161651611,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.08291175845546975,
+                "y0": 0.4357501656141362,
+                "x1": 0.7446759808211308,
+                "y1": 0.5776520328913808
+              },
+              "type": "table",
+              "text": "DÍAS LUNES MARTES MIÉRCOLES JUEVES VIERNES A M R"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <td rowspan=\"2\" data-cell-id=\"r0c0\"></td>\n    <th colspan=\"5\" data-cell-id=\"r0c1\">DÍAS</th>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r1c1\">LUNES</th>\n    <th data-cell-id=\"r1c2\">MARTES</th>\n    <th data-cell-id=\"r1c3\">MIÉRCOLES</th>\n    <th data-cell-id=\"r1c4\">JUEVES</th>\n    <th data-cell-id=\"r1c5\">VIERNES</th>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r2c0\">A</th>\n    <td colspan=\"3\" style=\"background-color: #C6EFCE;\" data-cell-id=\"r2c1\"></td>\n    <td data-cell-id=\"r2c4\"></td>\n    <td data-cell-id=\"r2c5\"></td>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r3c0\">M</th>\n    <td data-cell-id=\"r3c1\"></td>\n    <td colspan=\"3\" style=\"background-color: #FFFFCC;\" data-cell-id=\"r3c2\"></td>\n    <td data-cell-id=\"r3c5\"></td>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r4c0\">R</th>\n    <td data-cell-id=\"r4c1\"></td>\n    <td data-cell-id=\"r4c2\"></td>\n    <td data-cell-id=\"r4c3\"></td>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r4c4\"></td>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r4c5\"></td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "DÍAS"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c1",
+                "text": "LUNES"
+              },
+              {
+                "cell_id": "r1c2",
+                "text": "MARTES"
+              },
+              {
+                "cell_id": "r1c3",
+                "text": "MIÉRCOLES"
+              },
+              {
+                "cell_id": "r1c4",
+                "text": "JUEVES"
+              },
+              {
+                "cell_id": "r1c5",
+                "text": "VIERNES"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "A"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "M"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "R"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c5",
+                "text": ""
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p2_b5",
+          "type": "table",
+          "page": 2,
+          "bbox": {
+            "x0": 0.08983698498749132,
+            "y0": 0.60238684362483,
+            "x1": 0.742311449120217,
+            "y1": 0.6798377630932587
+          },
+          "layout_confidence": 0.49737927317619324,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.08983698498749132,
+                "y0": 0.60238684362483,
+                "x1": 0.742311449120217,
+                "y1": 0.6798377630932587
+              },
+              "type": "table",
+              "text": "LEYENDA: A_ APERTURA (EXCAVACIÓN DE ZANJA Y RETIRADA DE TIERRAS A VERTEDERO) M_ MONTAJE DE TUBERÍAS, TAPADO Y COMPACTACIÓN R_ REPOSICIÓN DE PAVIMENTOS"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <td rowspan=\"3\" data-cell-id=\"r0c0\">LEYENDA:</td>\n    <td style=\"background-color: #C6EFCE;\" data-cell-id=\"r0c1\">A_</td>\n    <td style=\"background-color: #C6EFCE;\" data-cell-id=\"r0c2\">APERTURA (EXCAVACIÓN DE ZANJA Y RETIRADA DE TIERRAS A VERTEDERO)</td>\n  </tr>\n  <tr>\n    <td style=\"background-color: #FFF2CC;\" data-cell-id=\"r1c1\">M_</td>\n    <td style=\"background-color: #FFF2CC;\" data-cell-id=\"r1c2\">MONTAJE DE TUBERÍAS, TAPADO Y COMPACTACIÓN</td>\n  </tr>\n  <tr>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r2c1\">R_</td>\n    <td style=\"background-color: #DDEBF7;\" data-cell-id=\"r2c2\">REPOSICIÓN DE PAVIMENTOS</td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "LEYENDA:"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "A_"
+              },
+              {
+                "cell_id": "r0c2",
+                "text": "APERTURA (EXCAVACIÓN DE ZANJA Y RETIRADA DE TIERRAS A VERTEDERO)"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c1",
+                "text": "M_"
+              },
+              {
+                "cell_id": "r1c2",
+                "text": "MONTAJE DE TUBERÍAS, TAPADO Y COMPACTACIÓN"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c1",
+                "text": "R_"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "REPOSICIÓN DE PAVIMENTOS"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p2_b7",
+          "type": "text",
+          "page": 2,
+          "bbox": {
+            "x0": 0.08227543629046534,
+            "y0": 0.7152488551664525,
+            "x1": 0.36052931858566695,
+            "y1": 0.7372634315721357
+          },
+          "layout_confidence": 0.8473023176193237,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.08227543629046534,
+                "y0": 0.7152488551664525,
+                "x1": 0.36052931858566695,
+                "y1": 0.7372634315721357
+              },
+              "type": "text",
+              "text": "El viernes la zanja quedará perfectamente repuesta."
+            }
+          ],
+          "content": "El viernes la zanja quedará perfectamente repuesta.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [
+      {
+        "category": "Memoria",
+        "confidence": 99.0,
+        "evidence": "El documento se titula «MEMORIA DESCRIPTIVA» y describe la obra de canalización: ubicación («C/ PASTRANA 8B»), longitud total (13,8 m), pavimentos afectados, características técnicas de las tuberías, profundidad de instalación y plazo de ejecución de 9 días."
+      }
+    ],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "descripcion_de_la_obra": {
+            "value": "a partir de la tubería existente se canaliza hasta el punto de suministro indicado en (1) y segùn trazado indicado en los planos adjuntos.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "DESCRIPCIÓN DE LA OBRA (2): a partir de la tubería existente se canaliza hasta el punto de suministro indicado en (1) y segùn trazado indicado en los planos adjuntos.",
+                "page_number": 1
+              }
+            ]
+          },
+          "plazo_de_ejecucion": {
+            "value": "9",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "El plazo de ejecución de la obra previsto es de 9,00 días, con la siguiente planificación semanal por unidades de obra:",
+                "page_number": 2
+              }
+            ]
+          },
+          "duracion_dias": {
+            "value": "9",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "El plazo de ejecución de la obra previsto es de 9,00 días, con la siguiente planificación semanal por unidades de obra:",
+                "page_number": 2
+              }
+            ]
+          },
+          "id_proyecto_contratista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "ubicacion_de_la_obra": {
+            "value": "C/ PASTRANA 8B (DESPLAZAMIENTO RED)",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_obra": {
+            "value": "ACT250600117588",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "CÓDIGO GODA: ACT250600117588",
+                "page_number": 1
+              }
+            ]
+          },
+          "total_presupuesto": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "presupuesto": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tipo_de_suministro": {
+            "value": "gas",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 90.0,
+            "evidence": [
+              {
+                "text": "OBJETO DE LA PETICIÓN: Atender la solicitud de suministro de gas definida en el apartado (1).",
+                "page_number": 1
+              }
+            ]
+          },
+          "municipio": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "potencia": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "motivo_de_la_obra": {
+            "value": "Desplazamiento de red",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1):\nC/ PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "subcontratista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "fecha_inicio_prevista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "fecha_fin_prevista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "profundidad_m": {
+            "value": "0.8",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 90.0,
+            "evidence": [
+              {
+                "text": "La tuberia irá enterrada en toda su longitud, sobre un lecho de arena, quedando a una profundidad mínima de 0,80 m.",
+                "page_number": 1
+              }
+            ]
+          },
+          "otras_unidades": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "gestion_residuos": {
+            "value": "Retirada de tierras a vertedero.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 86.0,
+            "evidence": [
+              {
+                "text": "APERTURA (EXCAVACIÓN DE ZANJA Y RETIRADA DE TIERRAS A VERTEDERO)",
+                "page_number": 2
+              }
+            ]
+          },
+          "gestores_autorizados": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "direccion": [
+            {
+              "tipo": {
+                "value": "Calle",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas",
+                    "page_number": 2
+                  }
+                ]
+              },
+              "nombre": {
+                "value": "PASTRANA",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas",
+                    "page_number": 2
+                  }
+                ]
+              },
+              "numero": {
+                "value": "8B",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas",
+                    "page_number": 2
+                  }
+                ]
+              },
+              "categoria_fiscal": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "distrito": {
+                "value": "San Blas",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas",
+                    "page_number": 2
+                  }
+                ]
+              },
+              "barrio": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "descripcion_ubicacion": {
+                "value": "DESPLAZAMIENTO RED",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas",
+                    "page_number": 2
+                  }
+                ]
+              }
+            }
+          ],
+          "medidas_acera": [
+            {
+              "largo": {
+                "value": "13.8",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ACERA: LOSETA 13,8; TERRAZO; TIERRA. CALZADA: ASFALTO 0; TIERRA.",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "ancho": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "tipo_pavimento": {
+                "value": "LOSETA",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ACERA: LOSETA 13,8; TERRAZO; TIERRA. CALZADA: ASFALTO 0; TIERRA.",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ],
+          "medidas_calzada": []
+        },
+        "validations": [
+          {
+            "rule_id": "fechas_coherentes",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.fecha_inicio_prevista == null || data.fecha_fin_prevista == null || data.fecha_fin_prevista >= data.fecha_inicio_prevista is true.",
+            "compared_values": null,
+            "source_fields": []
+          },
+          {
+            "rule_id": "profundidad_razonable",
+            "description": "",
+            "severity": "warning",
+            "status": "pass",
+            "detail": "data.profundidad_m == null || (data.profundidad_m >= 0.2 && data.profundidad_m <= 3.0) is true.",
+            "compared_values": null,
+            "source_fields": []
+          },
+          {
+            "rule_id": "presupuesto_positivo",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.total_presupuesto == null || data.total_presupuesto > 0.0 is true.",
+            "compared_values": null,
+            "source_fields": []
+          },
+          {
+            "rule_id": "plazo_positivo",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.plazo_de_ejecucion == null || data.plazo_de_ejecucion > 0 is true.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "descripcion_de_la_obra": {
+        "value": "a partir de la tubería existente se canaliza hasta el punto de suministro indicado en (1) y segùn trazado indicado en los planos adjuntos.",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "DESCRIPCIÓN DE LA OBRA (2): a partir de la tubería existente se canaliza hasta el punto de suministro indicado en (1) y segùn trazado indicado en los planos adjuntos.",
+            "page_number": 1
+          }
+        ]
+      },
+      "plazo_de_ejecucion": {
+        "value": "9",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "El plazo de ejecución de la obra previsto es de 9,00 días, con la siguiente planificación semanal por unidades de obra:",
+            "page_number": 2
+          }
+        ]
+      },
+      "duracion_dias": {
+        "value": "9",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "El plazo de ejecución de la obra previsto es de 9,00 días, con la siguiente planificación semanal por unidades de obra:",
+            "page_number": 2
+          }
+        ]
+      },
+      "id_proyecto_contratista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "ubicacion_de_la_obra": {
+        "value": "C/ PASTRANA 8B (DESPLAZAMIENTO RED)",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED)",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_obra": {
+        "value": "ACT250600117588",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "CÓDIGO GODA: ACT250600117588",
+            "page_number": 1
+          }
+        ]
+      },
+      "total_presupuesto": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "presupuesto": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "tipo_de_suministro": {
+        "value": "gas",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 90.0,
+        "evidence": [
+          {
+            "text": "OBJETO DE LA PETICIÓN: Atender la solicitud de suministro de gas definida en el apartado (1).",
+            "page_number": 1
+          }
+        ]
+      },
+      "municipio": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "potencia": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "motivo_de_la_obra": {
+        "value": "Desplazamiento de red",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1):\nC/ PASTRANA 8B (DESPLAZAMIENTO RED)",
+            "page_number": 1
+          }
+        ]
+      },
+      "subcontratista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "fecha_inicio_prevista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "fecha_fin_prevista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "profundidad_m": {
+        "value": "0.8",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 90.0,
+        "evidence": [
+          {
+            "text": "La tuberia irá enterrada en toda su longitud, sobre un lecho de arena, quedando a una profundidad mínima de 0,80 m.",
+            "page_number": 1
+          }
+        ]
+      },
+      "otras_unidades": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "gestion_residuos": {
+        "value": "Retirada de tierras a vertedero.",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 86.0,
+        "evidence": [
+          {
+            "text": "APERTURA (EXCAVACIÓN DE ZANJA Y RETIRADA DE TIERRAS A VERTEDERO)",
+            "page_number": 2
+          }
+        ]
+      },
+      "gestores_autorizados": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "direccion": [
+        {
+          "tipo": {
+            "value": "Calle",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas",
+                "page_number": 2
+              }
+            ]
+          },
+          "nombre": {
+            "value": "PASTRANA",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas",
+                "page_number": 2
+              }
+            ]
+          },
+          "numero": {
+            "value": "8B",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas",
+                "page_number": 2
+              }
+            ]
+          },
+          "categoria_fiscal": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "distrito": {
+            "value": "San Blas",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas",
+                "page_number": 2
+              }
+            ]
+          },
+          "barrio": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "descripcion_ubicacion": {
+            "value": "DESPLAZAMIENTO RED",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "SITUACIÓN DE LA FINCA OBJETO DEL SUMINISTRO (1): C/ PASTRANA 8B (DESPLAZAMIENTO RED) DISTRITO: San Blas",
+                "page_number": 2
+              }
+            ]
+          }
+        }
+      ],
+      "medidas_acera": [
+        {
+          "largo": {
+            "value": "13.8",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ACERA: LOSETA 13,8; TERRAZO; TIERRA. CALZADA: ASFALTO 0; TIERRA.",
+                "page_number": 1
+              }
+            ]
+          },
+          "ancho": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tipo_pavimento": {
+            "value": "LOSETA",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ACERA: LOSETA 13,8; TERRAZO; TIERRA. CALZADA: ASFALTO 0; TIERRA.",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ],
+      "medidas_calzada": []
+    }
+  }
+}

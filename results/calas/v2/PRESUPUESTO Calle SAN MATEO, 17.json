@@ -1,0 +1,538 @@
+{
+  "id": "06acf4ad-f756-7122-8000-2a60d11e6e99",
+  "workflow_id": "06acf4a9-8548-7384-8000-f0b4ea0c800a",
+  "document_packet_id": "06acf4ad-f622-7551-8000-79256203cd1a",
+  "status": "processed",
+  "created_at": "2026-10-14T09:26:55.481396Z",
+  "updated_at": "2026-10-14T09:27:18.794866Z",
+  "results": {
+    "document_packet_id": "06acf4ad-f622-7551-8000-79256203cd1a",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a/files/06acf4ad-f2bc-7850-8000-6080e0dd4e3d?versionId=pm8d3Iz-lw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nLogo for i-DE Grupo IBERDROLA, featuring a lowercase green 'i' with a blue leaf icon to its right, followed by the letters 'DE' in large green font, and the text 'Grupo IBERDROLA' underneath.\n\n</figure-description>\n\n\n<a id=\"p1_b1\"></a>\n\n<table>\n  <tr>\n    <th colspan=\"5\" data-cell-id=\"r0c0\">PRESUPUESTO OBRA CIVIL</th>\n  </tr>\n  <tr>\n    <th colspan=\"5\" data-cell-id=\"r1c0\">Calle SAN MATEO, 17</th>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r2c0\">UNIDAD</th>\n    <th data-cell-id=\"r2c1\">DESCRIPCIÓN</th>\n    <th data-cell-id=\"r2c2\">CAN</th>\n    <th data-cell-id=\"r2c3\">€/Ud</th>\n    <th data-cell-id=\"r2c4\">TOTAL</th>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">m2</td>\n    <td data-cell-id=\"r3c1\">Excavación por necesidad de acceso a red existente</td>\n    <td data-cell-id=\"r3c2\">3</td>\n    <td data-cell-id=\"r3c3\">334,97 €</td>\n    <td data-cell-id=\"r3c4\">1.004,90 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">m2</td>\n    <td data-cell-id=\"r4c1\">Pavimentación baldo-terraz-cem pulido-loset hidrau-horm impreso</td>\n    <td data-cell-id=\"r4c2\">2</td>\n    <td data-cell-id=\"r4c3\">41,29 €</td>\n    <td data-cell-id=\"r4c4\">82,58 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">m</td>\n    <td data-cell-id=\"r5c1\">Excavación auxiliar a ambos lados zanja 1M</td>\n    <td data-cell-id=\"r5c2\">3</td>\n    <td data-cell-id=\"r5c3\">334,97 €</td>\n    <td data-cell-id=\"r5c4\">1.004,90 €</td>\n  </tr>\n  <tr>\n    <td colspan=\"4\" align=\"right\" data-cell-id=\"r6c0\"><strong>TOTAL PRESUPUESTO</strong></td>\n    <td data-cell-id=\"r6c4\"><strong>2.092,38 €</strong></td>\n  </tr>\n</table>",
+      "text": "<a id=\"p1_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nLogo for i-DE Grupo IBERDROLA, featuring a lowercase green 'i' with a blue leaf icon to its right, followed by the letters 'DE' in large green font, and the text 'Grupo IBERDROLA' underneath.\n\n</figure-description>\n\n<a id=\"p1_b1\"></a>\n\n<table>\n  <tr>\n    <th colspan=\"5\" data-cell-id=\"r0c0\">PRESUPUESTO OBRA CIVIL</th>\n  </tr>\n  <tr>\n    <th colspan=\"5\" data-cell-id=\"r1c0\">Calle SAN MATEO, 17</th>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r2c0\">UNIDAD</th>\n    <th data-cell-id=\"r2c1\">DESCRIPCIÓN</th>\n    <th data-cell-id=\"r2c2\">CAN</th>\n    <th data-cell-id=\"r2c3\">€/Ud</th>\n    <th data-cell-id=\"r2c4\">TOTAL</th>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">m2</td>\n    <td data-cell-id=\"r3c1\">Excavación por necesidad de acceso a red existente</td>\n    <td data-cell-id=\"r3c2\">3</td>\n    <td data-cell-id=\"r3c3\">334,97 €</td>\n    <td data-cell-id=\"r3c4\">1.004,90 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">m2</td>\n    <td data-cell-id=\"r4c1\">Pavimentación baldo-terraz-cem pulido-loset hidrau-horm impreso</td>\n    <td data-cell-id=\"r4c2\">2</td>\n    <td data-cell-id=\"r4c3\">41,29 €</td>\n    <td data-cell-id=\"r4c4\">82,58 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">m</td>\n    <td data-cell-id=\"r5c1\">Excavación auxiliar a ambos lados zanja 1M</td>\n    <td data-cell-id=\"r5c2\">3</td>\n    <td data-cell-id=\"r5c3\">334,97 €</td>\n    <td data-cell-id=\"r5c4\">1.004,90 €</td>\n  </tr>\n  <tr>\n    <td colspan=\"4\" align=\"right\" data-cell-id=\"r6c0\"><strong>TOTAL PRESUPUESTO</strong></td>\n    <td data-cell-id=\"r6c4\"><strong>2.092,38 €</strong></td>\n  </tr>\n</table>",
+      "layout_confidence": 0.962,
+      "parse_confidence": 98.0,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "picture",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09716981132075472,
+            "y0": 0.07603061214478009,
+            "x1": 0.29206969919631387,
+            "y1": 0.14866666666666667
+          },
+          "layout_confidence": 0.9412460923194885,
+          "parse_confidence": null,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09800686080914166,
+                "y0": 0.07603061214478009,
+                "x1": 0.29206969919631387,
+                "y1": 0.1485045760449511
+              },
+              "type": "picture",
+              "text": "DE Grupo IBERDROLA"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nLogo for i-DE Grupo IBERDROLA, featuring a lowercase green 'i' with a blue leaf icon to its right, followed by the letters 'DE' in large green font, and the text 'Grupo IBERDROLA' underneath.\n\n</figure-description>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b1",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.0830188679245283,
+            "y0": 0.15074919023387398,
+            "x1": 0.8958608864873036,
+            "y1": 0.3732540135507963
+          },
+          "layout_confidence": 0.965933620929718,
+          "parse_confidence": 98.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.08349174859301788,
+                "y0": 0.15074919023387398,
+                "x1": 0.8958608864873036,
+                "y1": 0.3732540135507963
+              },
+              "type": "table",
+              "text": "PRESUPUESTO OBRA CIVIL Calle SAN MATEO, 17 UNIDAD DESCRIPCIÓN CAN €/Ud TOTAL m2 Excavación por necesidad de acceso a red existente 3 334,97 € 1.004,90 € m2 Pavimentación baldo-terraz-cem pulido-loset hidrau-horm impreso 2 41,29 € 82,58 € m Excavación auxiliar a ambos lados zanja 1M 3 334,97 € 1.004,90 € TOTAL PRESUPUESTO 2.092,38 €"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <th colspan=\"5\" data-cell-id=\"r0c0\">PRESUPUESTO OBRA CIVIL</th>\n  </tr>\n  <tr>\n    <th colspan=\"5\" data-cell-id=\"r1c0\">Calle SAN MATEO, 17</th>\n  </tr>\n  <tr>\n    <th data-cell-id=\"r2c0\">UNIDAD</th>\n    <th data-cell-id=\"r2c1\">DESCRIPCIÓN</th>\n    <th data-cell-id=\"r2c2\">CAN</th>\n    <th data-cell-id=\"r2c3\">€/Ud</th>\n    <th data-cell-id=\"r2c4\">TOTAL</th>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">m2</td>\n    <td data-cell-id=\"r3c1\">Excavación por necesidad de acceso a red existente</td>\n    <td data-cell-id=\"r3c2\">3</td>\n    <td data-cell-id=\"r3c3\">334,97 €</td>\n    <td data-cell-id=\"r3c4\">1.004,90 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">m2</td>\n    <td data-cell-id=\"r4c1\">Pavimentación baldo-terraz-cem pulido-loset hidrau-horm impreso</td>\n    <td data-cell-id=\"r4c2\">2</td>\n    <td data-cell-id=\"r4c3\">41,29 €</td>\n    <td data-cell-id=\"r4c4\">82,58 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">m</td>\n    <td data-cell-id=\"r5c1\">Excavación auxiliar a ambos lados zanja 1M</td>\n    <td data-cell-id=\"r5c2\">3</td>\n    <td data-cell-id=\"r5c3\">334,97 €</td>\n    <td data-cell-id=\"r5c4\">1.004,90 €</td>\n  </tr>\n  <tr>\n    <td colspan=\"4\" align=\"right\" data-cell-id=\"r6c0\"><strong>TOTAL PRESUPUESTO</strong></td>\n    <td data-cell-id=\"r6c4\"><strong>2.092,38 €</strong></td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "PRESUPUESTO OBRA CIVIL"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "Calle SAN MATEO, 17"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "UNIDAD"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "DESCRIPCIÓN"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "CAN"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "€/Ud"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": "TOTAL"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "m2"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "Excavación por necesidad de acceso a red existente"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "3"
+              },
+              {
+                "cell_id": "r3c3",
+                "text": "334,97 €"
+              },
+              {
+                "cell_id": "r3c4",
+                "text": "1.004,90 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "m2"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": "Pavimentación baldo-terraz-cem pulido-loset hidrau-horm impreso"
+              },
+              {
+                "cell_id": "r4c2",
+                "text": "2"
+              },
+              {
+                "cell_id": "r4c3",
+                "text": "41,29 €"
+              },
+              {
+                "cell_id": "r4c4",
+                "text": "82,58 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "m"
+              },
+              {
+                "cell_id": "r5c1",
+                "text": "Excavación auxiliar a ambos lados zanja 1M"
+              },
+              {
+                "cell_id": "r5c2",
+                "text": "3"
+              },
+              {
+                "cell_id": "r5c3",
+                "text": "334,97 €"
+              },
+              {
+                "cell_id": "r5c4",
+                "text": "1.004,90 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "<strong>TOTAL PRESUPUESTO</strong>"
+              },
+              {
+                "cell_id": "r6c4",
+                "text": "<strong>2.092,38 €</strong>"
+              }
+            ]
+          ],
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [
+      {
+        "category": "Presupuestos",
+        "confidence": 100.0,
+        "evidence": "El documento se titula «PRESUPUESTO OBRA CIVIL» e incluye unidades, descripciones, cantidades, precios por unidad, totales y «TOTAL PRESUPUESTO: 2.092,38 €»."
+      }
+    ],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "descripcion_de_la_obra": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "id_proyecto_contratista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "ubicacion_de_la_obra": {
+            "value": "Calle SAN MATEO, 17",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "PRESUPUESTO OBRA CIVIL Calle SAN MATEO, 17",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_obra": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "total_presupuesto": {
+            "value": "2092.38",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "TOTAL PRESUPUESTO 2.092,38 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "presupuesto": {
+            "value": "2092.38",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "TOTAL PRESUPUESTO 2.092,38 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "municipio": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "motivo_de_la_obra": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "plazo_de_ejecucion": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "duracion_dias": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "direccion": [
+            {
+              "tipo": {
+                "value": "Calle",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Calle SAN MATEO, 17",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "nombre": {
+                "value": "SAN MATEO",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Calle SAN MATEO, 17",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero": {
+                "value": "17",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Calle SAN MATEO, 17",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "categoria_fiscal": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "distrito": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "barrio": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "descripcion_ubicacion": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              }
+            }
+          ],
+          "medidas_acera": [],
+          "medidas_calzada": []
+        },
+        "validations": [
+          {
+            "rule_id": "presupuesto_positivo",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.total_presupuesto == null || data.total_presupuesto > 0.0 is true.",
+            "compared_values": null,
+            "source_fields": []
+          },
+          {
+            "rule_id": "plazo_positivo",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.plazo_de_ejecucion == null || data.plazo_de_ejecucion > 0 is true.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "descripcion_de_la_obra": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "id_proyecto_contratista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "ubicacion_de_la_obra": {
+        "value": "Calle SAN MATEO, 17",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "PRESUPUESTO OBRA CIVIL Calle SAN MATEO, 17",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_obra": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "total_presupuesto": {
+        "value": "2092.38",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "TOTAL PRESUPUESTO 2.092,38 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "presupuesto": {
+        "value": "2092.38",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "TOTAL PRESUPUESTO 2.092,38 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "municipio": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "motivo_de_la_obra": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "plazo_de_ejecucion": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "duracion_dias": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "direccion": [
+        {
+          "tipo": {
+            "value": "Calle",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Calle SAN MATEO, 17",
+                "page_number": 1
+              }
+            ]
+          },
+          "nombre": {
+            "value": "SAN MATEO",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Calle SAN MATEO, 17",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero": {
+            "value": "17",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Calle SAN MATEO, 17",
+                "page_number": 1
+              }
+            ]
+          },
+          "categoria_fiscal": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "distrito": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "barrio": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "descripcion_ubicacion": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          }
+        }
+      ],
+      "medidas_acera": [],
+      "medidas_calzada": []
+    }
+  }
+}

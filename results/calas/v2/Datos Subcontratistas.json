@@ -1,0 +1,1287 @@
+{
+  "id": "06acf4aa-e38c-7878-8000-cc06fa2115d7",
+  "workflow_id": "06acf4a9-8548-7384-8000-f0b4ea0c800a",
+  "document_packet_id": "06acf4aa-e23a-7188-8000-ddfb6ad1642d",
+  "status": "processed",
+  "created_at": "2026-10-14T09:26:06.247857Z",
+  "updated_at": "2026-10-14T09:26:43.988511Z",
+  "results": {
+    "document_packet_id": "06acf4aa-e23a-7188-8000-ddfb6ad1642d",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a/files/06acf4aa-de6d-7163-8000-ead138b86433?versionId=pm8d3Iz-lw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\n13/10/26, 13:42\nGRUPO EMPRESARIAL,IC\n\n\n<a id=\"p1_b1\"></a>\n\n# Subcontratistas\n\n\n<a id=\"p1_b2\"></a>\n\n<figure-description>\n\n***figure-description:***\nLogo for metacontratas, featuring a blue circular icon with arrows and the brand name in a bold, blue sans-serif font.\n\n</figure-description>\n\n\n<a id=\"p1_b4\"></a>\n\n- Empresas Contratistas\n  - Contratistas\n  - Centros de Trabajo/Obras\n- Empresas Subcontratistas\n  - **Empresas**\n  - Empleados\n  - M\u0011aquinas\n- Relaciones\n- Documentos\n- Consultas\n- Configuraci\u0011on\n- Varios\nEmpresa Contratista:\n...\n\n\n<a id=\"p1_b5\"></a>\n\nSubcontratistas\nmetacontratas\nUsuario: ICGMLC | Desconectar\nLista de Empresas Detalle de Empresa Centros de Trabajo/Obras Situaci\u0011on de Documentos Requeridos Autorizaciones\n\n\n<a id=\"p1_b8\"></a>\n\n<figure-description>\n\n***figure-description:***\nA small, low-resolution icon depicting a stylized person profile in light blue and orange with a green plus sign in the bottom right corner, typically representing an 'add user' or 'new contact' function.\n\n</figure-description>\n\n\n<a id=\"p1_b7\"></a>\n\n# Datos de la Empresa\n\n\n<a id=\"p1_b10\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">CIF*</td>\n    <td data-cell-id=\"r0c1\">B93101822</td>\n    <td data-cell-id=\"r0c2\">País Num. Ident.</td>\n    <td data-cell-id=\"r0c3\">España</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Nombre*</td>\n    <td colspan=\"3\" data-cell-id=\"r1c1\">A.C.R. MONTAJES Y REPARACIONES SL</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">Dirección 1*</td>\n    <td colspan=\"3\" data-cell-id=\"r2c1\">ALLE FRAILES CARTUJOS, 2 PTA. 1, PUERTA D</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">Dirección 2</td>\n    <td colspan=\"3\" data-cell-id=\"r3c1\"></td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">CP*</td>\n    <td colspan=\"3\" data-cell-id=\"r4c1\">29018</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">País</td>\n    <td colspan=\"3\" data-cell-id=\"r5c1\">España</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\">Provincia</td>\n    <td colspan=\"3\" data-cell-id=\"r6c1\">MALAGA</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r7c0\">Localidad</td>\n    <td colspan=\"3\" data-cell-id=\"r7c1\">MALAGA</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r8c0\">Fecha Inicio</td>\n    <td data-cell-id=\"r8c1\">11/09/2026</td>\n    <td data-cell-id=\"r8c2\">Fecha Fin</td>\n    <td data-cell-id=\"r8c3\">31/12/2026</td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b26\"></a>\n\nV\n\n\n<a id=\"p1_b27\"></a>\n\nCentro de Trabajo\n\n\n<a id=\"p1_b28\"></a>\n\nV\n\n\n<a id=\"p1_b30\"></a>\n\n... Empresa Subcontratista:\nA.C.R. MONTAJES Y REPARACIONES SL\n\n\n<a id=\"p1_b12\"></a>\n\nTenga en cuenta que un cambio en las fechas de Inicio y Fin afecta a todos los Centros de Trabajo\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">MONTAJE Y REPARACIÓN ASCENSORES</td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b29\"></a>\n\n## Datos Adicionales\n\n\n<a id=\"p1_b31\"></a>\n\nl\n\n\n<a id=\"p1_b32\"></a>\n\nLogotipo\n\n\n<a id=\"p1_b33\"></a>\n\nSeleccionar archivo\n\n\n<a id=\"p1_b34\"></a>\n\nNing\u0011un archivo seleccionado\nSe recomiendan logos de 262 x 68 pixels (M\u0011aximo 200 KB)\n\n\n<a id=\"p1_b35\"></a>\n\n(*): Campo Obligatorio\n\n\n<a id=\"p1_b13\"></a>\n\n## [Cuentas de Cotización y Mutua](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)\n\n\n<a id=\"p1_b14\"></a>\n\n## [Datos de contacto](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)\n\n\n<a id=\"p1_b15\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">Persona de contacto</td>\n    <td data-cell-id=\"r0c1\">DANIELA</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Teléfono</td>\n    <td data-cell-id=\"r1c1\">952176686</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">E-mail</td>\n    <td data-cell-id=\"r2c1\">dmortiz@orona.es</td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b16\"></a>\n\n# [Usuarios](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)\n\n\n<a id=\"p1_b17\"></a>\n\n## [Histórico de Modificaciones](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)\n\n\n<a id=\"p1_b18\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"6\" data-cell-id=\"r0c0\">Histórico de Modificaciones</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\">Fecha</th>\n      <th data-cell-id=\"r1c1\">+</th>\n      <th data-cell-id=\"r1c2\">Usuario</th>\n      <th data-cell-id=\"r1c3\">+</th>\n      <th data-cell-id=\"r1c4\">Mensaje del Usuario</th>\n      <th data-cell-id=\"r1c5\">+ 1</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\">11/09/2026 13:12:23</td>\n      <td data-cell-id=\"r2c1\"></td>\n      <td data-cell-id=\"r2c2\">ICGEOMG</td>\n      <td data-cell-id=\"r2c3\"></td>\n      <td data-cell-id=\"r2c4\">Se ha anadido la relacion del contratista 4 - IC &amp; ASOCIADOS, S.A. con la subcontrata 9520 -A.C.R. MONTAJES Y REPARACIONES SL en la pantalla de detalle de subcontrata</td>\n      <td data-cell-id=\"r2c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">11/09/2026 13:12:23</td>\n      <td data-cell-id=\"r3c1\"></td>\n      <td data-cell-id=\"r3c2\">ICGEOMG</td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\">Se ha añadido la relacion del CT 2903 - 000415-ASCENSOR-STRADIVARIUS RONDA-MALAGA con la subcontrata 9520 -A.C.R. MONTAJES Y REPARACIONES SL en la pantalla de detalle de subcontrata</td>\n      <td data-cell-id=\"r3c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">11/09/2026 13:12:23</td>\n      <td data-cell-id=\"r4c1\"></td>\n      <td data-cell-id=\"r4c2\">ICGEOMG</td>\n      <td data-cell-id=\"r4c3\"></td>\n      <td data-cell-id=\"r4c4\">Se ha insertado la subcontrata 9520 - B93101822 - A.C.R. MONTAJES Y REPARACIONES SL</td>\n      <td data-cell-id=\"r4c5\"></td>\n    </tr>\n  </tbody>\n</table>\n\n\n<a id=\"p1_b19\"></a>\n\n## [Asignación de Contratistas-Centros-Plantillas](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)\n\n\n<a id=\"p1_b21\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"4\" data-cell-id=\"r0c0\">Lista de Contratistas</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\"><input type=\"checkbox\" /></th>\n      <th data-cell-id=\"r1c1\"></th>\n      <th data-cell-id=\"r1c2\">CIF</th>\n      <th data-cell-id=\"r1c3\">Contratista</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\"></td>\n      <td data-cell-id=\"r2c1\"></td>\n      <td data-cell-id=\"r2c2\">= <input type=\"text\" /> x</td>\n      <td data-cell-id=\"r2c3\">= <input type=\"text\" /> x</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\"><input type=\"checkbox\" checked /></td>\n      <td data-cell-id=\"r3c1\"></td>\n      <td data-cell-id=\"r3c2\">A41356015</td>\n      <td data-cell-id=\"r3c3\">IC &amp; ASOCIADOS, S.A.</td>\n    </tr>\n  </tbody>\n  <tfoot>\n    <tr>\n      <td colspan=\"2\" data-cell-id=\"r4c0\">Mostrando 1 - 1 / 1</td>\n      <td data-cell-id=\"r4c2\">Página/s 1 / 1</td>\n      <td data-cell-id=\"r4c3\">10 Mostrar todos</td>\n    </tr>\n  </tfoot>\n</table>\n\n\n<a id=\"p1_b22\"></a>\n\nCopyright \u0011\u0019 2024 Metadata. Todos los derechos reservados - Informaci\u0011on a usuarios\n\n\n<a id=\"p1_b23\"></a>\n\nhttps://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp\n\n\n<a id=\"p1_b24\"></a>\n\n1/1",
+      "text": "<a id=\"p1_b0\"></a>\n\n13/10/26, 13:42\nGRUPO EMPRESARIAL,IC\n\n<a id=\"p1_b1\"></a>\n\n# Subcontratistas\n\n<a id=\"p1_b2\"></a>\n\n<figure-description>\n\n***figure-description:***\nLogo for metacontratas, featuring a blue circular icon with arrows and the brand name in a bold, blue sans-serif font.\n\n</figure-description>\n\n<a id=\"p1_b4\"></a>\n\n- Empresas Contratistas\n  - Contratistas\n  - Centros de Trabajo/Obras\n- Empresas Subcontratistas\n  - **Empresas**\n  - Empleados\n  - M\u0011aquinas\n- Relaciones\n- Documentos\n- Consultas\n- Configuraci\u0011on\n- Varios\nEmpresa Contratista:\n...\n\n<a id=\"p1_b5\"></a>\n\nSubcontratistas\nmetacontratas\nUsuario: ICGMLC | Desconectar\nLista de Empresas Detalle de Empresa Centros de Trabajo/Obras Situaci\u0011on de Documentos Requeridos Autorizaciones\n\n<a id=\"p1_b8\"></a>\n\n<figure-description>\n\n***figure-description:***\nA small, low-resolution icon depicting a stylized person profile in light blue and orange with a green plus sign in the bottom right corner, typically representing an 'add user' or 'new contact' function.\n\n</figure-description>\n\n<a id=\"p1_b7\"></a>\n\n# Datos de la Empresa\n\n<a id=\"p1_b10\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">CIF*</td>\n    <td data-cell-id=\"r0c1\">B93101822</td>\n    <td data-cell-id=\"r0c2\">País Num. Ident.</td>\n    <td data-cell-id=\"r0c3\">España</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Nombre*</td>\n    <td colspan=\"3\" data-cell-id=\"r1c1\">A.C.R. MONTAJES Y REPARACIONES SL</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">Dirección 1*</td>\n    <td colspan=\"3\" data-cell-id=\"r2c1\">ALLE FRAILES CARTUJOS, 2 PTA. 1, PUERTA D</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">Dirección 2</td>\n    <td colspan=\"3\" data-cell-id=\"r3c1\"></td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">CP*</td>\n    <td colspan=\"3\" data-cell-id=\"r4c1\">29018</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">País</td>\n    <td colspan=\"3\" data-cell-id=\"r5c1\">España</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\">Provincia</td>\n    <td colspan=\"3\" data-cell-id=\"r6c1\">MALAGA</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r7c0\">Localidad</td>\n    <td colspan=\"3\" data-cell-id=\"r7c1\">MALAGA</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r8c0\">Fecha Inicio</td>\n    <td data-cell-id=\"r8c1\">11/09/2026</td>\n    <td data-cell-id=\"r8c2\">Fecha Fin</td>\n    <td data-cell-id=\"r8c3\">31/12/2026</td>\n  </tr>\n</table>\n\n<a id=\"p1_b26\"></a>\n\nV\n\n<a id=\"p1_b27\"></a>\n\nCentro de Trabajo\n\n<a id=\"p1_b28\"></a>\n\nV\n\n<a id=\"p1_b30\"></a>\n\n... Empresa Subcontratista:\nA.C.R. MONTAJES Y REPARACIONES SL\n\n<a id=\"p1_b12\"></a>\n\nTenga en cuenta que un cambio en las fechas de Inicio y Fin afecta a todos los Centros de Trabajo\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">MONTAJE Y REPARACIÓN ASCENSORES</td>\n  </tr>\n</table>\n\n<a id=\"p1_b29\"></a>\n\n## Datos Adicionales\n\n<a id=\"p1_b31\"></a>\n\nl\n\n<a id=\"p1_b32\"></a>\n\nLogotipo\n\n<a id=\"p1_b33\"></a>\n\nSeleccionar archivo\n\n<a id=\"p1_b34\"></a>\n\nNing\u0011un archivo seleccionado\nSe recomiendan logos de 262 x 68 pixels (M\u0011aximo 200 KB)\n\n<a id=\"p1_b35\"></a>\n\n(*): Campo Obligatorio\n\n<a id=\"p1_b13\"></a>\n\n## [Cuentas de Cotización y Mutua](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)\n\n<a id=\"p1_b14\"></a>\n\n## [Datos de contacto](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)\n\n<a id=\"p1_b15\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">Persona de contacto</td>\n    <td data-cell-id=\"r0c1\">DANIELA</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Teléfono</td>\n    <td data-cell-id=\"r1c1\">952176686</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">E-mail</td>\n    <td data-cell-id=\"r2c1\">dmortiz@orona.es</td>\n  </tr>\n</table>\n\n<a id=\"p1_b16\"></a>\n\n# [Usuarios](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)\n\n<a id=\"p1_b17\"></a>\n\n## [Histórico de Modificaciones](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)\n\n<a id=\"p1_b18\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"6\" data-cell-id=\"r0c0\">Histórico de Modificaciones</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\">Fecha</th>\n      <th data-cell-id=\"r1c1\">+</th>\n      <th data-cell-id=\"r1c2\">Usuario</th>\n      <th data-cell-id=\"r1c3\">+</th>\n      <th data-cell-id=\"r1c4\">Mensaje del Usuario</th>\n      <th data-cell-id=\"r1c5\">+ 1</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\">11/09/2026 13:12:23</td>\n      <td data-cell-id=\"r2c1\"></td>\n      <td data-cell-id=\"r2c2\">ICGEOMG</td>\n      <td data-cell-id=\"r2c3\"></td>\n      <td data-cell-id=\"r2c4\">Se ha anadido la relacion del contratista 4 - IC &amp; ASOCIADOS, S.A. con la subcontrata 9520 -A.C.R. MONTAJES Y REPARACIONES SL en la pantalla de detalle de subcontrata</td>\n      <td data-cell-id=\"r2c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">11/09/2026 13:12:23</td>\n      <td data-cell-id=\"r3c1\"></td>\n      <td data-cell-id=\"r3c2\">ICGEOMG</td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\">Se ha añadido la relacion del CT 2903 - 000415-ASCENSOR-STRADIVARIUS RONDA-MALAGA con la subcontrata 9520 -A.C.R. MONTAJES Y REPARACIONES SL en la pantalla de detalle de subcontrata</td>\n      <td data-cell-id=\"r3c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">11/09/2026 13:12:23</td>\n      <td data-cell-id=\"r4c1\"></td>\n      <td data-cell-id=\"r4c2\">ICGEOMG</td>\n      <td data-cell-id=\"r4c3\"></td>\n      <td data-cell-id=\"r4c4\">Se ha insertado la subcontrata 9520 - B93101822 - A.C.R. MONTAJES Y REPARACIONES SL</td>\n      <td data-cell-id=\"r4c5\"></td>\n    </tr>\n  </tbody>\n</table>\n\n<a id=\"p1_b19\"></a>\n\n## [Asignación de Contratistas-Centros-Plantillas](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)\n\n<a id=\"p1_b21\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"4\" data-cell-id=\"r0c0\">Lista de Contratistas</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\"><input type=\"checkbox\" /></th>\n      <th data-cell-id=\"r1c1\"></th>\n      <th data-cell-id=\"r1c2\">CIF</th>\n      <th data-cell-id=\"r1c3\">Contratista</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\"></td>\n      <td data-cell-id=\"r2c1\"></td>\n      <td data-cell-id=\"r2c2\">= <input type=\"text\" /> x</td>\n      <td data-cell-id=\"r2c3\">= <input type=\"text\" /> x</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\"><input type=\"checkbox\" checked /></td>\n      <td data-cell-id=\"r3c1\"></td>\n      <td data-cell-id=\"r3c2\">A41356015</td>\n      <td data-cell-id=\"r3c3\">IC &amp; ASOCIADOS, S.A.</td>\n    </tr>\n  </tbody>\n  <tfoot>\n    <tr>\n      <td colspan=\"2\" data-cell-id=\"r4c0\">Mostrando 1 - 1 / 1</td>\n      <td data-cell-id=\"r4c2\">Página/s 1 / 1</td>\n      <td data-cell-id=\"r4c3\">10 Mostrar todos</td>\n    </tr>\n  </tfoot>\n</table>\n\n<a id=\"p1_b22\"></a>\n\nCopyright \u0011\u0019 2024 Metadata. Todos los derechos reservados - Informaci\u0011on a usuarios\n\n<a id=\"p1_b23\"></a>\n\nhttps://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp\n\n<a id=\"p1_b24\"></a>\n\n1/1",
+      "layout_confidence": 0.585,
+      "parse_confidence": 94.8,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.03773584905660377,
+            "y0": 0.016666666666666666,
+            "x1": 0.17334344382727426,
+            "y1": 0.04133333333333333
+          },
+          "layout_confidence": 0.36898234486579895,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.03773584905660377,
+                "y0": 0.016666666666666666,
+                "x1": 0.13584905660377358,
+                "y1": 0.028
+              },
+              "type": "other",
+              "text": "13/10/26, 13:42"
+            },
+            {
+              "bbox": {
+                "x0": 0.04905660377358491,
+                "y0": 0.03266666666666666,
+                "x1": 0.17075471698113207,
+                "y1": 0.04133333333333333
+              },
+              "type": "other",
+              "text": "GRUPO EMPRESARIAL,IC"
+            }
+          ],
+          "content": "13/10/26, 13:42\nGRUPO EMPRESARIAL,IC",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b1",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5235849056603774,
+            "y0": 0.016666666666666666,
+            "x1": 0.6200521276419767,
+            "y1": 0.0285297506331582
+          },
+          "layout_confidence": 0.7887865304946899,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5242969769098798,
+                "y0": 0.018064838945993048,
+                "x1": 0.6200521276419767,
+                "y1": 0.0285297506331582
+              },
+              "type": "title",
+              "text": "Subcontratistas"
+            }
+          ],
+          "content": "# Subcontratistas",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b2",
+          "type": "picture",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7747468204117514,
+            "y0": 0.037890104413695086,
+            "x1": 0.9280687575620085,
+            "y1": 0.06104338908103757
+          },
+          "layout_confidence": 0.35675960779190063,
+          "parse_confidence": null,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7747468204117514,
+                "y0": 0.037890104413695086,
+                "x1": 0.9280687575620085,
+                "y1": 0.06104338908103757
+              },
+              "type": "picture",
+              "text": "metacontratas"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nLogo for metacontratas, featuring a blue circular icon with arrows and the brand name in a bold, blue sans-serif font.\n\n</figure-description>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b4",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.04905660377358491,
+            "y0": 0.043333333333333335,
+            "x1": 0.20471698113207548,
+            "y1": 0.27266666666666667
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 84.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.05566037735849057,
+                "y0": 0.18466666666666667,
+                "x1": 0.06037735849056604,
+                "y1": 0.18933333333333333
+              },
+              "type": "text",
+              "text": "N"
+            },
+            {
+              "bbox": {
+                "x0": 0.1379380777108619,
+                "y0": 0.044347367565975376,
+                "x1": 0.18104766458002494,
+                "y1": 0.08468827553007428
+              },
+              "type": "picture",
+              "text": "grupo ic"
+            }
+          ],
+          "content": "- Empresas Contratistas\n  - Contratistas\n  - Centros de Trabajo/Obras\n- Empresas Subcontratistas\n  - **Empresas**\n  - Empleados\n  - M\u0011aquinas\n- Relaciones\n- Documentos\n- Consultas\n- Configuraci\u0011on\n- Varios\nEmpresa Contratista:\n...",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.27358490566037735,
+            "y0": 0.06666666666666667,
+            "x1": 0.9349056603773584,
+            "y1": 0.12266666666666666
+          },
+          "layout_confidence": 0.34156334400177,
+          "parse_confidence": 87.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.2777211857938218,
+                "y0": 0.09393478204369188,
+                "x1": 0.9307305254650635,
+                "y1": 0.10912658639217147
+              },
+              "type": "table",
+              "text": "Lista de Empresas Detalle de Empresa Centros de Trabajo/Obras Situaci\u0011on de Documentos Requeridos Autorizaciones"
+            },
+            {
+              "bbox": {
+                "x0": 0.2842095589104091,
+                "y0": 0.10897470305444033,
+                "x1": 0.335079315425552,
+                "y1": 0.12279925075235812
+              },
+              "type": "other",
+              "text": "V00"
+            }
+          ],
+          "content": "Subcontratistas\nmetacontratas\nUsuario: ICGMLC | Desconectar\nLista de Empresas Detalle de Empresa Centros de Trabajo/Obras Situaci\u0011on de Documentos Requeridos Autorizaciones",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b8",
+          "type": "picture",
+          "page": 1,
+          "bbox": {
+            "x0": 0.3097105308943493,
+            "y0": 0.14441944789356428,
+            "x1": 0.32915414209013916,
+            "y1": 0.1584242632777429
+          },
+          "layout_confidence": 0.3622676730155945,
+          "parse_confidence": null,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3097105308943493,
+                "y0": 0.14441944789356428,
+                "x1": 0.32915414209013916,
+                "y1": 0.1584242632777429
+              },
+              "type": "picture",
+              "text": ""
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nA small, low-resolution icon depicting a stylized person profile in light blue and orange with a green plus sign in the bottom right corner, typically representing an 'add user' or 'new contact' function.\n\n</figure-description>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b7",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.3311320754716981,
+            "y0": 0.142,
+            "x1": 0.4811320754716981,
+            "y1": 0.15699409918685203
+          },
+          "layout_confidence": 0.6666905879974365,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.33312286727729884,
+                "y0": 0.14396782948859688,
+                "x1": 0.4808512074400711,
+                "y1": 0.15699409918685203
+              },
+              "type": "title",
+              "text": "Datos de la Empresa"
+            }
+          ],
+          "content": "# Datos de la Empresa",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b10",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.3293455554295221,
+            "y0": 0.18,
+            "x1": 0.8816600321857986,
+            "y1": 0.31520224738803976
+          },
+          "layout_confidence": 0.34285300970077515,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3293455554295221,
+                "y0": 0.18083470782034924,
+                "x1": 0.8816600321857986,
+                "y1": 0.31520224738803976
+              },
+              "type": "table",
+              "text": "CIF* B93101822 País Num. Ident. España Nombre* A.C.R. MONTAJES Y REPARACIONES SL Dirección 1* ALLE FRAILES CARTUJOS, 2 PTA. 1, PUERTA D Dirección 2 CP* 29018 País España Provincia MALAGA Localidad MALAGA Fecha Inicio 11/09/2026 Fecha Fin 31/12/2026"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">CIF*</td>\n    <td data-cell-id=\"r0c1\">B93101822</td>\n    <td data-cell-id=\"r0c2\">País Num. Ident.</td>\n    <td data-cell-id=\"r0c3\">España</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Nombre*</td>\n    <td colspan=\"3\" data-cell-id=\"r1c1\">A.C.R. MONTAJES Y REPARACIONES SL</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">Dirección 1*</td>\n    <td colspan=\"3\" data-cell-id=\"r2c1\">ALLE FRAILES CARTUJOS, 2 PTA. 1, PUERTA D</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">Dirección 2</td>\n    <td colspan=\"3\" data-cell-id=\"r3c1\"></td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">CP*</td>\n    <td colspan=\"3\" data-cell-id=\"r4c1\">29018</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">País</td>\n    <td colspan=\"3\" data-cell-id=\"r5c1\">España</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\">Provincia</td>\n    <td colspan=\"3\" data-cell-id=\"r6c1\">MALAGA</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r7c0\">Localidad</td>\n    <td colspan=\"3\" data-cell-id=\"r7c1\">MALAGA</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r8c0\">Fecha Inicio</td>\n    <td data-cell-id=\"r8c1\">11/09/2026</td>\n    <td data-cell-id=\"r8c2\">Fecha Fin</td>\n    <td data-cell-id=\"r8c3\">31/12/2026</td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "CIF*"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "B93101822"
+              },
+              {
+                "cell_id": "r0c2",
+                "text": "País Num. Ident."
+              },
+              {
+                "cell_id": "r0c3",
+                "text": "España"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "Nombre*"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "A.C.R. MONTAJES Y REPARACIONES SL"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "Dirección 1*"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "ALLE FRAILES CARTUJOS, 2 PTA. 1, PUERTA D"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "Dirección 2"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "CP*"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": "29018"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "País"
+              },
+              {
+                "cell_id": "r5c1",
+                "text": "España"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "Provincia"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": "MALAGA"
+              }
+            ],
+            [
+              {
+                "cell_id": "r7c0",
+                "text": "Localidad"
+              },
+              {
+                "cell_id": "r7c1",
+                "text": "MALAGA"
+              }
+            ],
+            [
+              {
+                "cell_id": "r8c0",
+                "text": "Fecha Inicio"
+              },
+              {
+                "cell_id": "r8c1",
+                "text": "11/09/2026"
+              },
+              {
+                "cell_id": "r8c2",
+                "text": "Fecha Fin"
+              },
+              {
+                "cell_id": "r8c3",
+                "text": "31/12/2026"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b26",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.25566037735849056,
+            "y0": 0.2633333333333333,
+            "x1": 0.2688679245283019,
+            "y1": 0.2713333333333333
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.25566037735849056,
+                "y0": 0.2633333333333333,
+                "x1": 0.2688679245283019,
+                "y1": 0.2713333333333333
+              },
+              "type": "text",
+              "text": "V"
+            }
+          ],
+          "content": "V",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b27",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.05,
+            "y0": 0.31466666666666665,
+            "x1": 0.1330188679245283,
+            "y1": 0.324
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.05,
+                "y0": 0.31466666666666665,
+                "x1": 0.1330188679245283,
+                "y1": 0.324
+              },
+              "type": "text",
+              "text": "Centro de Trabajo"
+            }
+          ],
+          "content": "Centro de Trabajo",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b28",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.25471698113207547,
+            "y0": 0.328,
+            "x1": 0.269811320754717,
+            "y1": 0.336
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.25471698113207547,
+                "y0": 0.328,
+                "x1": 0.269811320754717,
+                "y1": 0.336
+              },
+              "type": "text",
+              "text": "V"
+            }
+          ],
+          "content": "V",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b30",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.04905660377358491,
+            "y0": 0.3313333333333333,
+            "x1": 0.2679245283018868,
+            "y1": 0.372
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.04905660377358491,
+                "y0": 0.3313333333333333,
+                "x1": 0.2679245283018868,
+                "y1": 0.372
+              },
+              "type": "text",
+              "text": "... Empresa Subcontratista: A.C.R. MONTAJES Y REPARACIONES SL"
+            }
+          ],
+          "content": "... Empresa Subcontratista:\nA.C.R. MONTAJES Y REPARACIONES SL",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b12",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.37735849056603776,
+            "y0": 0.316,
+            "x1": 0.8291590898886494,
+            "y1": 0.3406666666666667
+          },
+          "layout_confidence": 0.385249525308609,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3779031392378441,
+                "y0": 0.3167227508166551,
+                "x1": 0.8291590898886494,
+                "y1": 0.3259543508176571
+              },
+              "type": "table",
+              "text": "Tenga en cuenta que un cambio en las fechas de Inicio y Fin afecta a todos los Centros de Trabajo MONTAJE Y REPARACIÓN ASCENSORES"
+            }
+          ],
+          "content": "Tenga en cuenta que un cambio en las fechas de Inicio y Fin afecta a todos los Centros de Trabajo\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">MONTAJE Y REPARACIÓN ASCENSORES</td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "MONTAJE Y REPARACIÓN ASCENSORES"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b29",
+          "type": "section-header",
+          "page": 1,
+          "bbox": {
+            "x0": 0.30566037735849055,
+            "y0": 0.33066666666666666,
+            "x1": 0.39811320754716983,
+            "y1": 0.3393333333333333
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.30566037735849055,
+                "y0": 0.33066666666666666,
+                "x1": 0.39811320754716983,
+                "y1": 0.3393333333333333
+              },
+              "type": "section-header",
+              "text": "Datos Adicionales"
+            }
+          ],
+          "content": "## Datos Adicionales",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b31",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8622641509433963,
+            "y0": 0.36333333333333334,
+            "x1": 0.880188679245283,
+            "y1": 0.37466666666666665
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 11.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8622641509433963,
+                "y0": 0.36333333333333334,
+                "x1": 0.880188679245283,
+                "y1": 0.37466666666666665
+              },
+              "type": "text",
+              "text": "l"
+            }
+          ],
+          "content": "l",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b32",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.3471698113207547,
+            "y0": 0.37066666666666664,
+            "x1": 0.39905660377358493,
+            "y1": 0.38466666666666666
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3471698113207547,
+                "y0": 0.37066666666666664,
+                "x1": 0.39905660377358493,
+                "y1": 0.38466666666666666
+              },
+              "type": "text",
+              "text": "Logotipo"
+            }
+          ],
+          "content": "Logotipo",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b33",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.42452830188679247,
+            "y0": 0.374,
+            "x1": 0.5226415094339623,
+            "y1": 0.38466666666666666
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.42452830188679247,
+                "y0": 0.374,
+                "x1": 0.5226415094339623,
+                "y1": 0.38466666666666666
+              },
+              "type": "text",
+              "text": "Seleccionar archivo"
+            }
+          ],
+          "content": "Seleccionar archivo",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b34",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.3754716981132076,
+            "y0": 0.37533333333333335,
+            "x1": 0.659433962264151,
+            "y1": 0.39666666666666667
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3754716981132076,
+                "y0": 0.37533333333333335,
+                "x1": 0.659433962264151,
+                "y1": 0.39666666666666667
+              },
+              "type": "text",
+              "text": "Ningún archivo seleccionado Se recomiendan logos de 262 × 68 pixels (Máximo 200 KB)"
+            }
+          ],
+          "content": "Ning\u0011un archivo seleccionado\nSe recomiendan logos de 262 x 68 pixels (M\u0011aximo 200 KB)",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b35",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7047169811320755,
+            "y0": 0.38666666666666666,
+            "x1": 0.8075471698113208,
+            "y1": 0.396
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7047169811320755,
+                "y0": 0.38666666666666666,
+                "x1": 0.8075471698113208,
+                "y1": 0.396
+              },
+              "type": "text",
+              "text": "(*): Campo Obligatorio"
+            }
+          ],
+          "content": "(*): Campo Obligatorio",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b13",
+          "type": "section-header",
+          "page": 1,
+          "bbox": {
+            "x0": 0.30849056603773584,
+            "y0": 0.43866666666666665,
+            "x1": 0.4638694029321688,
+            "y1": 0.4490867115687794
+          },
+          "layout_confidence": 0.29358983039855957,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.30876136590550324,
+                "y0": 0.43960854414947625,
+                "x1": 0.4638694029321688,
+                "y1": 0.4490867115687794
+              },
+              "type": "section-header",
+              "text": "Cuentas de Cotización y Mutua"
+            }
+          ],
+          "content": "## [Cuentas de Cotización y Mutua](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)",
+          "hyperlinks": [
+            {
+              "text": "Cuentas de Cotización y Mutua",
+              "uri": "https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp"
+            }
+          ],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b14",
+          "type": "section-header",
+          "page": 1,
+          "bbox": {
+            "x0": 0.30754716981132074,
+            "y0": 0.4653333333333333,
+            "x1": 0.40092280873081143,
+            "y1": 0.4755253459511276
+          },
+          "layout_confidence": 0.481858491897583,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3088330720600329,
+                "y0": 0.46603501847076745,
+                "x1": 0.40092280873081143,
+                "y1": 0.4755253459511276
+              },
+              "type": "section-header",
+              "text": "Datos de contacto"
+            }
+          ],
+          "content": "## [Datos de contacto](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)",
+          "hyperlinks": [
+            {
+              "text": "Datos de contacto",
+              "uri": "https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp"
+            }
+          ],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b15",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.32203924475621976,
+            "y0": 0.49750473459544675,
+            "x1": 0.9153326811101028,
+            "y1": 0.5423730635755131
+          },
+          "layout_confidence": 0.7476046085357666,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.32203924475621976,
+                "y0": 0.49750473459544675,
+                "x1": 0.9153326811101028,
+                "y1": 0.5423730635755131
+              },
+              "type": "table",
+              "text": "Persona de contacto DANIELA Teléfono 952176686 E-mail dmortiz@orona.es"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">Persona de contacto</td>\n    <td data-cell-id=\"r0c1\">DANIELA</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Teléfono</td>\n    <td data-cell-id=\"r1c1\">952176686</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">E-mail</td>\n    <td data-cell-id=\"r2c1\">dmortiz@orona.es</td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Persona de contacto"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "DANIELA"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "Teléfono"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "952176686"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "E-mail"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "dmortiz@orona.es"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b16",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.30566037735849055,
+            "y0": 0.5753333333333334,
+            "x1": 0.355870518623809,
+            "y1": 0.5864008348586468
+          },
+          "layout_confidence": 0.6040394902229309,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3093513724159199,
+                "y0": 0.5771153496085399,
+                "x1": 0.355870518623809,
+                "y1": 0.5864008348586468
+              },
+              "type": "title",
+              "text": "Usuarios"
+            }
+          ],
+          "content": "# [Usuarios](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)",
+          "hyperlinks": [
+            {
+              "text": "Usuarios",
+              "uri": "https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp"
+            }
+          ],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b17",
+          "type": "section-header",
+          "page": 1,
+          "bbox": {
+            "x0": 0.30754716981132074,
+            "y0": 0.6033333333333334,
+            "x1": 0.44800761015719526,
+            "y1": 0.6133878723379382
+          },
+          "layout_confidence": 0.7403233051300049,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.30867754872178427,
+                "y0": 0.6033695998891085,
+                "x1": 0.44800761015719526,
+                "y1": 0.6133878723379382
+              },
+              "type": "section-header",
+              "text": "Histórico de Modificaciones"
+            }
+          ],
+          "content": "## [Histórico de Modificaciones](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)",
+          "hyperlinks": [
+            {
+              "text": "Histórico de Modificaciones",
+              "uri": "https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp"
+            }
+          ],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b18",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.3214308132349327,
+            "y0": 0.6390720610437153,
+            "x1": 0.9273584905660377,
+            "y1": 0.7473670597410752
+          },
+          "layout_confidence": 0.7967657446861267,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3214308132349327,
+                "y0": 0.6390720610437153,
+                "x1": 0.9269947898943209,
+                "y1": 0.7473670597410752
+              },
+              "type": "table",
+              "text": "Histórico de Modificaciones Fecha Usuario Mensaje del Usuario 1 11/09/2026 13:12:23 ICGEOMG Se ha anadido la relacion del contratista 4 - IC & ASOCIADOS, S.A. con la subcontrata 9520 -A.C.R. MONTAJES Y REPARACIONES SL en la pantalla de detalle de subcontrata 11/09/2026 13:12:23 ICGEOMG Se ha añadido la relacion del CT 2903 - 000415-ASCENSOR-STRADIVARIUS RONDA-MALAGA con la subcontrata 9520 -A.C.R. MONTAJES Y REPARACIONES SL en la pantalla de detalle de subcontrata 11/09/2026 13:12:23 ICGEOMG Se ha insertado la subcontrata 9520 - B93101822 - A.C.R. MONTAJES Y REPARACIONES SL"
+            }
+          ],
+          "content": "<table>\n  <thead>\n    <tr>\n      <th colspan=\"6\" data-cell-id=\"r0c0\">Histórico de Modificaciones</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\">Fecha</th>\n      <th data-cell-id=\"r1c1\">+</th>\n      <th data-cell-id=\"r1c2\">Usuario</th>\n      <th data-cell-id=\"r1c3\">+</th>\n      <th data-cell-id=\"r1c4\">Mensaje del Usuario</th>\n      <th data-cell-id=\"r1c5\">+ 1</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\">11/09/2026 13:12:23</td>\n      <td data-cell-id=\"r2c1\"></td>\n      <td data-cell-id=\"r2c2\">ICGEOMG</td>\n      <td data-cell-id=\"r2c3\"></td>\n      <td data-cell-id=\"r2c4\">Se ha anadido la relacion del contratista 4 - IC &amp; ASOCIADOS, S.A. con la subcontrata 9520 -A.C.R. MONTAJES Y REPARACIONES SL en la pantalla de detalle de subcontrata</td>\n      <td data-cell-id=\"r2c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">11/09/2026 13:12:23</td>\n      <td data-cell-id=\"r3c1\"></td>\n      <td data-cell-id=\"r3c2\">ICGEOMG</td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\">Se ha añadido la relacion del CT 2903 - 000415-ASCENSOR-STRADIVARIUS RONDA-MALAGA con la subcontrata 9520 -A.C.R. MONTAJES Y REPARACIONES SL en la pantalla de detalle de subcontrata</td>\n      <td data-cell-id=\"r3c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">11/09/2026 13:12:23</td>\n      <td data-cell-id=\"r4c1\"></td>\n      <td data-cell-id=\"r4c2\">ICGEOMG</td>\n      <td data-cell-id=\"r4c3\"></td>\n      <td data-cell-id=\"r4c4\">Se ha insertado la subcontrata 9520 - B93101822 - A.C.R. MONTAJES Y REPARACIONES SL</td>\n      <td data-cell-id=\"r4c5\"></td>\n    </tr>\n  </tbody>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Histórico de Modificaciones"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "Fecha"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "+"
+              },
+              {
+                "cell_id": "r1c2",
+                "text": "Usuario"
+              },
+              {
+                "cell_id": "r1c3",
+                "text": "+"
+              },
+              {
+                "cell_id": "r1c4",
+                "text": "Mensaje del Usuario"
+              },
+              {
+                "cell_id": "r1c5",
+                "text": "+ 1"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "11/09/2026 13:12:23"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "ICGEOMG"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c4",
+                "text": "Se ha anadido la relacion del contratista 4 - IC &amp; ASOCIADOS, S.A. con la subcontrata 9520 -A.C.R. MONTAJES Y REPARACIONES SL en la pantalla de detalle de subcontrata"
+              },
+              {
+                "cell_id": "r2c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "11/09/2026 13:12:23"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "ICGEOMG"
+              },
+              {
+                "cell_id": "r3c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c4",
+                "text": "Se ha añadido la relacion del CT 2903 - 000415-ASCENSOR-STRADIVARIUS RONDA-MALAGA con la subcontrata 9520 -A.C.R. MONTAJES Y REPARACIONES SL en la pantalla de detalle de subcontrata"
+              },
+              {
+                "cell_id": "r3c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "11/09/2026 13:12:23"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c2",
+                "text": "ICGEOMG"
+              },
+              {
+                "cell_id": "r4c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c4",
+                "text": "Se ha insertado la subcontrata 9520 - B93101822 - A.C.R. MONTAJES Y REPARACIONES SL"
+              },
+              {
+                "cell_id": "r4c5",
+                "text": ""
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b19",
+          "type": "section-header",
+          "page": 1,
+          "bbox": {
+            "x0": 0.30764443731567603,
+            "y0": 0.7753333333333333,
+            "x1": 0.5345536893739602,
+            "y1": 0.7853381812139268
+          },
+          "layout_confidence": 0.3436802625656128,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.30764443731567603,
+                "y0": 0.7753820137979639,
+                "x1": 0.5345536893739602,
+                "y1": 0.7853381812139268
+              },
+              "type": "section-header",
+              "text": "Asignación de Contratistas-Centros-Plantillas"
+            }
+          ],
+          "content": "## [Asignación de Contratistas-Centros-Plantillas](https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp)",
+          "hyperlinks": [
+            {
+              "text": "Asignación de Contratistas-Centros-Plantillas",
+              "uri": "https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp"
+            }
+          ],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b21",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.30849056603773584,
+            "y0": 0.8018248233085721,
+            "x1": 0.8692158758459997,
+            "y1": 0.8741218139596248
+          },
+          "layout_confidence": 0.9408926963806152,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3091467218693285,
+                "y0": 0.8018248233085721,
+                "x1": 0.8692158758459997,
+                "y1": 0.8741218139596248
+              },
+              "type": "table",
+              "text": "Lista de Contratistas <input type=\"checkbox\" /> CIF Contratista = <input type=\"text\" /> x = <input type=\"text\" /> x <input type=\"checkbox\" checked /> A41356015 IC & ASOCIADOS, S.A. Mostrando 1 - 1 / 1 Página/s 1 / 1 10 Mostrar todos"
+            }
+          ],
+          "content": "<table>\n  <thead>\n    <tr>\n      <th colspan=\"4\" data-cell-id=\"r0c0\">Lista de Contratistas</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\"><input type=\"checkbox\" /></th>\n      <th data-cell-id=\"r1c1\"></th>\n      <th data-cell-id=\"r1c2\">CIF</th>\n      <th data-cell-id=\"r1c3\">Contratista</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\"></td>\n      <td data-cell-id=\"r2c1\"></td>\n      <td data-cell-id=\"r2c2\">= <input type=\"text\" /> x</td>\n      <td data-cell-id=\"r2c3\">= <input type=\"text\" /> x</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\"><input type=\"checkbox\" checked /></td>\n      <td data-cell-id=\"r3c1\"></td>\n      <td data-cell-id=\"r3c2\">A41356015</td>\n      <td data-cell-id=\"r3c3\">IC &amp; ASOCIADOS, S.A.</td>\n    </tr>\n  </tbody>\n  <tfoot>\n    <tr>\n      <td colspan=\"2\" data-cell-id=\"r4c0\">Mostrando 1 - 1 / 1</td>\n      <td data-cell-id=\"r4c2\">Página/s 1 / 1</td>\n      <td data-cell-id=\"r4c3\">10 Mostrar todos</td>\n    </tr>\n  </tfoot>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Lista de Contratistas"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "<input type=\"checkbox\" />"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r1c2",
+                "text": "CIF"
+              },
+              {
+                "cell_id": "r1c3",
+                "text": "Contratista"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "= <input type=\"text\" /> x"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "= <input type=\"text\" /> x"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "<input type=\"checkbox\" checked />"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "A41356015"
+              },
+              {
+                "cell_id": "r3c3",
+                "text": "IC &amp; ASOCIADOS, S.A."
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "Mostrando 1 - 1 / 1"
+              },
+              {
+                "cell_id": "r4c2",
+                "text": "Página/s 1 / 1"
+              },
+              {
+                "cell_id": "r4c3",
+                "text": "10 Mostrar todos"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b22",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.3053964013701414,
+            "y0": 0.9206666666666666,
+            "x1": 0.6947106409274804,
+            "y1": 0.9314008682596729
+          },
+          "layout_confidence": 0.8749986886978149,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3053964013701414,
+                "y0": 0.9218870034937473,
+                "x1": 0.6947106409274804,
+                "y1": 0.9314008682596729
+              },
+              "type": "text",
+              "text": "Copyright \u0011\u0019 2024 Metadata. Todos los derechos reservados - Informaci\u0011on a usuarios"
+            }
+          ],
+          "content": "Copyright \u0011\u0019 2024 Metadata. Todos los derechos reservados - Informaci\u0011on a usuarios",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b23",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.03679245283018868,
+            "y0": 0.9693333333333334,
+            "x1": 0.42623714901646625,
+            "y1": 0.984
+          },
+          "layout_confidence": 0.8805044293403625,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.039468542561701264,
+                "y0": 0.9719794617090637,
+                "x1": 0.42623714901646625,
+                "y1": 0.983432151660699
+              },
+              "type": "text",
+              "text": "https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp"
+            }
+          ],
+          "content": "https://cloud.metacontratas.com/acceso1/faces/Subcontratas.jsp",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b24",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.9377358490566038,
+            "y0": 0.97,
+            "x1": 0.9632075471698113,
+            "y1": 0.984
+          },
+          "layout_confidence": 0.859714925289154,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.9419217072179371,
+                "y0": 0.9725474879088286,
+                "x1": 0.960170443535428,
+                "y1": 0.9819406914680419
+              },
+              "type": "text",
+              "text": "1/1"
+            }
+          ],
+          "content": "1/1",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [
+      {
+        "category": "Otro",
+        "confidence": 100.0,
+        "evidence": "Captura de una plataforma de gestión de subcontratistas con datos de empresa, contactos, usuarios, relaciones contractuales e histórico de modificaciones. No es una memoria, plano, presupuesto ni un plan de residuos o acopios de una obra de cala o canalización."
+      }
+    ],
+    "splits": [],
+    "extractions": [],
+    "edits": [],
+    "extraction": null
+  }
+}

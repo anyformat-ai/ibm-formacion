@@ -1,0 +1,1185 @@
+{
+  "id": "06acf4ac-a5b8-7260-8000-49f6af30cfef",
+  "workflow_id": "06acf4a9-8548-7384-8000-f0b4ea0c800a",
+  "document_packet_id": "06acf4ac-a463-7e87-8000-13ba607acfcf",
+  "status": "processed",
+  "created_at": "2026-10-14T09:26:34.384479Z",
+  "updated_at": "2026-10-14T09:27:14.048832Z",
+  "results": {
+    "document_packet_id": "06acf4ac-a463-7e87-8000-13ba607acfcf",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a/files/06acf4ac-a0e3-7553-8000-b6eb29c2b011?versionId=pm8d3Iz-lw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\nRef.: <mark>ACT250600117588</mark>\n\n\n<a id=\"p1_b2\"></a>\n\n## DENOMINACION / SITUACION DE LA OBRA:\n\n\n<a id=\"p1_b4\"></a>\n\nPASTRANA 8 (DESPLAZAMIENTO RED)\n\n| TIPO DE OBRA: | Desplazamiento Terceros |\n|---|---|\n| LONGITUD TOTAL: | 13,80 m. |\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">Pavimento acera</td>\n    <td data-cell-id=\"r0c1\">Loseta especial</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Pavimento calzada</td>\n    <td data-cell-id=\"r1c1\">Asfalto</td>\n  </tr>\n</table>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r2c0\">LONGITUD RED</td>\n    <td data-cell-id=\"r2c1\">10</td>\n    <td data-cell-id=\"r2c2\">LONGITUD ACOMETIDA</td>\n    <td data-cell-id=\"r2c3\">3,8</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">Acera</td>\n    <td data-cell-id=\"r3c1\">10</td>\n    <td data-cell-id=\"r3c2\">Acera</td>\n    <td data-cell-id=\"r3c3\">3,8</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">Calzada</td>\n    <td data-cell-id=\"r4c1\">0</td>\n    <td data-cell-id=\"r4c2\">Calzada</td>\n    <td data-cell-id=\"r4c3\">0</td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b6\"></a>\n\n## DESGLOSE PRESUPUESTO CANALIZACIÓN\n\n\n<a id=\"p1_b7\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r0c0\">Obra Civil:</th>\n      <th colspan=\"3\" data-cell-id=\"r0c2\">978,56</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\"></th>\n      <th data-cell-id=\"r1c1\">Unid</th>\n      <th data-cell-id=\"r1c2\">€/metro</th>\n      <th data-cell-id=\"r1c3\"></th>\n      <th data-cell-id=\"r1c4\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\">Excavacion Basica mano zanja</td>\n      <td data-cell-id=\"r2c1\">6,9</td>\n      <td data-cell-id=\"r2c2\"></td>\n      <td data-cell-id=\"r2c3\">31,56</td>\n      <td data-cell-id=\"r2c4\">217,76</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">Excavacion Basica maquina zanja</td>\n      <td data-cell-id=\"r3c1\">6,9</td>\n      <td data-cell-id=\"r3c2\"></td>\n      <td data-cell-id=\"r3c3\">30,02</td>\n      <td data-cell-id=\"r3c4\">207,14</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">Aporte de tierras</td>\n      <td data-cell-id=\"r4c1\">13,8</td>\n      <td data-cell-id=\"r4c2\"></td>\n      <td data-cell-id=\"r4c3\">10,4</td>\n      <td data-cell-id=\"r4c4\">143,52</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">Demolicion pavimento zanja</td>\n      <td data-cell-id=\"r5c1\">13,8</td>\n      <td data-cell-id=\"r5c2\"></td>\n      <td data-cell-id=\"r5c3\">13,72</td>\n      <td data-cell-id=\"r5c4\">189,34</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">Reposición pavimento zanja calzada/acera Asfalto</td>\n      <td data-cell-id=\"r6c1\">0</td>\n      <td data-cell-id=\"r6c2\"></td>\n      <td data-cell-id=\"r6c3\">41,76</td>\n      <td data-cell-id=\"r6c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\">Reposición pavimento zanja calzada/acera Adoquín</td>\n      <td data-cell-id=\"r7c1\">0</td>\n      <td data-cell-id=\"r7c2\"></td>\n      <td data-cell-id=\"r7c3\">14</td>\n      <td data-cell-id=\"r7c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">Reposición pavimento zanja calzada/acera Baldosa hidráulica</td>\n      <td data-cell-id=\"r8c1\">0</td>\n      <td data-cell-id=\"r8c2\"></td>\n      <td data-cell-id=\"r8c3\">25</td>\n      <td data-cell-id=\"r8c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\">Reposición pavimento zanja calzada/acera Loseta especial</td>\n      <td data-cell-id=\"r9c1\">13,8</td>\n      <td data-cell-id=\"r9c2\"></td>\n      <td data-cell-id=\"r9c3\">16</td>\n      <td data-cell-id=\"r9c4\">220,80</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">Reposición pavimento zanja calzada/acera Losa Piedra</td>\n      <td data-cell-id=\"r10c1\">0</td>\n      <td data-cell-id=\"r10c2\"></td>\n      <td data-cell-id=\"r10c3\">27</td>\n      <td data-cell-id=\"r10c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\">Reposición pavimento zanja calzada/acera Hormigón</td>\n      <td data-cell-id=\"r11c1\">0</td>\n      <td data-cell-id=\"r11c2\"></td>\n      <td data-cell-id=\"r11c3\">17,3</td>\n      <td data-cell-id=\"r11c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\">Reposición pavimento zanja calzada/aceraTierra</td>\n      <td data-cell-id=\"r12c1\">0</td>\n      <td data-cell-id=\"r12c2\"></td>\n      <td data-cell-id=\"r12c3\">10</td>\n      <td data-cell-id=\"r12c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r13c0\">Reposición pavimento zanja calzada/acera Otros</td>\n      <td data-cell-id=\"r13c1\">0</td>\n      <td data-cell-id=\"r13c2\"></td>\n      <td data-cell-id=\"r13c3\"></td>\n      <td data-cell-id=\"r13c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r14c0\">Varios</td>\n      <td data-cell-id=\"r14c1\"></td>\n      <td data-cell-id=\"r14c2\"></td>\n      <td data-cell-id=\"r14c3\"></td>\n      <td data-cell-id=\"r14c4\">0,00</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r15c0\">Montaje Mecánico:</th>\n      <th colspan=\"3\" data-cell-id=\"r15c2\">211,83</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r16c0\"></th>\n      <th data-cell-id=\"r16c1\">Unid</th>\n      <th data-cell-id=\"r16c2\">€/metro</th>\n      <th data-cell-id=\"r16c3\"></th>\n      <th data-cell-id=\"r16c4\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r17c0\">Instalacion PE</td>\n      <td data-cell-id=\"r17c1\">13,8</td>\n      <td data-cell-id=\"r17c2\"></td>\n      <td data-cell-id=\"r17c3\">15,35</td>\n      <td data-cell-id=\"r17c4\">211,83</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r18c0\">Materiales:</th>\n      <th colspan=\"3\" data-cell-id=\"r18c2\">255,85</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r19c0\"></th>\n      <th data-cell-id=\"r19c1\">Unid</th>\n      <th data-cell-id=\"r19c2\">€/metro</th>\n      <th data-cell-id=\"r19c3\"></th>\n      <th data-cell-id=\"r19c4\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r20c0\">Banda señalización</td>\n      <td data-cell-id=\"r20c1\">13,8</td>\n      <td data-cell-id=\"r20c2\"></td>\n      <td data-cell-id=\"r20c3\">0,19</td>\n      <td data-cell-id=\"r20c4\">2,62</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r21c0\">Tubo PE</td>\n      <td data-cell-id=\"r21c1\">13,8</td>\n      <td data-cell-id=\"r21c2\"></td>\n      <td data-cell-id=\"r21c3\">18,35</td>\n      <td data-cell-id=\"r21c4\">253,23</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r22c0\"><strong>Total Presupuesto:</strong></td>\n    <td style=\"border: 2px solid black;\" data-cell-id=\"r22c1\"><strong>1.446,24</strong></td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b8\"></a>\n\n<mark>Madrid 09/12/25</mark>",
+      "text": "<a id=\"p1_b0\"></a>\n\nRef.: <mark>ACT250600117588</mark>\n\n<a id=\"p1_b2\"></a>\n\n## DENOMINACION / SITUACION DE LA OBRA:\n\n<a id=\"p1_b4\"></a>\n\nPASTRANA 8 (DESPLAZAMIENTO RED)\n\n| TIPO DE OBRA: | Desplazamiento Terceros |\n|---|---|\n| LONGITUD TOTAL: | 13,80 m. |\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">Pavimento acera</td>\n    <td data-cell-id=\"r0c1\">Loseta especial</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Pavimento calzada</td>\n    <td data-cell-id=\"r1c1\">Asfalto</td>\n  </tr>\n</table>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r2c0\">LONGITUD RED</td>\n    <td data-cell-id=\"r2c1\">10</td>\n    <td data-cell-id=\"r2c2\">LONGITUD ACOMETIDA</td>\n    <td data-cell-id=\"r2c3\">3,8</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">Acera</td>\n    <td data-cell-id=\"r3c1\">10</td>\n    <td data-cell-id=\"r3c2\">Acera</td>\n    <td data-cell-id=\"r3c3\">3,8</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">Calzada</td>\n    <td data-cell-id=\"r4c1\">0</td>\n    <td data-cell-id=\"r4c2\">Calzada</td>\n    <td data-cell-id=\"r4c3\">0</td>\n  </tr>\n</table>\n\n<a id=\"p1_b6\"></a>\n\n## DESGLOSE PRESUPUESTO CANALIZACIÓN\n\n<a id=\"p1_b7\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r0c0\">Obra Civil:</th>\n      <th colspan=\"3\" data-cell-id=\"r0c2\">978,56</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\"></th>\n      <th data-cell-id=\"r1c1\">Unid</th>\n      <th data-cell-id=\"r1c2\">€/metro</th>\n      <th data-cell-id=\"r1c3\"></th>\n      <th data-cell-id=\"r1c4\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\">Excavacion Basica mano zanja</td>\n      <td data-cell-id=\"r2c1\">6,9</td>\n      <td data-cell-id=\"r2c2\"></td>\n      <td data-cell-id=\"r2c3\">31,56</td>\n      <td data-cell-id=\"r2c4\">217,76</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">Excavacion Basica maquina zanja</td>\n      <td data-cell-id=\"r3c1\">6,9</td>\n      <td data-cell-id=\"r3c2\"></td>\n      <td data-cell-id=\"r3c3\">30,02</td>\n      <td data-cell-id=\"r3c4\">207,14</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">Aporte de tierras</td>\n      <td data-cell-id=\"r4c1\">13,8</td>\n      <td data-cell-id=\"r4c2\"></td>\n      <td data-cell-id=\"r4c3\">10,4</td>\n      <td data-cell-id=\"r4c4\">143,52</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">Demolicion pavimento zanja</td>\n      <td data-cell-id=\"r5c1\">13,8</td>\n      <td data-cell-id=\"r5c2\"></td>\n      <td data-cell-id=\"r5c3\">13,72</td>\n      <td data-cell-id=\"r5c4\">189,34</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">Reposición pavimento zanja calzada/acera Asfalto</td>\n      <td data-cell-id=\"r6c1\">0</td>\n      <td data-cell-id=\"r6c2\"></td>\n      <td data-cell-id=\"r6c3\">41,76</td>\n      <td data-cell-id=\"r6c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\">Reposición pavimento zanja calzada/acera Adoquín</td>\n      <td data-cell-id=\"r7c1\">0</td>\n      <td data-cell-id=\"r7c2\"></td>\n      <td data-cell-id=\"r7c3\">14</td>\n      <td data-cell-id=\"r7c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">Reposición pavimento zanja calzada/acera Baldosa hidráulica</td>\n      <td data-cell-id=\"r8c1\">0</td>\n      <td data-cell-id=\"r8c2\"></td>\n      <td data-cell-id=\"r8c3\">25</td>\n      <td data-cell-id=\"r8c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\">Reposición pavimento zanja calzada/acera Loseta especial</td>\n      <td data-cell-id=\"r9c1\">13,8</td>\n      <td data-cell-id=\"r9c2\"></td>\n      <td data-cell-id=\"r9c3\">16</td>\n      <td data-cell-id=\"r9c4\">220,80</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">Reposición pavimento zanja calzada/acera Losa Piedra</td>\n      <td data-cell-id=\"r10c1\">0</td>\n      <td data-cell-id=\"r10c2\"></td>\n      <td data-cell-id=\"r10c3\">27</td>\n      <td data-cell-id=\"r10c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\">Reposición pavimento zanja calzada/acera Hormigón</td>\n      <td data-cell-id=\"r11c1\">0</td>\n      <td data-cell-id=\"r11c2\"></td>\n      <td data-cell-id=\"r11c3\">17,3</td>\n      <td data-cell-id=\"r11c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\">Reposición pavimento zanja calzada/aceraTierra</td>\n      <td data-cell-id=\"r12c1\">0</td>\n      <td data-cell-id=\"r12c2\"></td>\n      <td data-cell-id=\"r12c3\">10</td>\n      <td data-cell-id=\"r12c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r13c0\">Reposición pavimento zanja calzada/acera Otros</td>\n      <td data-cell-id=\"r13c1\">0</td>\n      <td data-cell-id=\"r13c2\"></td>\n      <td data-cell-id=\"r13c3\"></td>\n      <td data-cell-id=\"r13c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r14c0\">Varios</td>\n      <td data-cell-id=\"r14c1\"></td>\n      <td data-cell-id=\"r14c2\"></td>\n      <td data-cell-id=\"r14c3\"></td>\n      <td data-cell-id=\"r14c4\">0,00</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r15c0\">Montaje Mecánico:</th>\n      <th colspan=\"3\" data-cell-id=\"r15c2\">211,83</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r16c0\"></th>\n      <th data-cell-id=\"r16c1\">Unid</th>\n      <th data-cell-id=\"r16c2\">€/metro</th>\n      <th data-cell-id=\"r16c3\"></th>\n      <th data-cell-id=\"r16c4\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r17c0\">Instalacion PE</td>\n      <td data-cell-id=\"r17c1\">13,8</td>\n      <td data-cell-id=\"r17c2\"></td>\n      <td data-cell-id=\"r17c3\">15,35</td>\n      <td data-cell-id=\"r17c4\">211,83</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r18c0\">Materiales:</th>\n      <th colspan=\"3\" data-cell-id=\"r18c2\">255,85</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r19c0\"></th>\n      <th data-cell-id=\"r19c1\">Unid</th>\n      <th data-cell-id=\"r19c2\">€/metro</th>\n      <th data-cell-id=\"r19c3\"></th>\n      <th data-cell-id=\"r19c4\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r20c0\">Banda señalización</td>\n      <td data-cell-id=\"r20c1\">13,8</td>\n      <td data-cell-id=\"r20c2\"></td>\n      <td data-cell-id=\"r20c3\">0,19</td>\n      <td data-cell-id=\"r20c4\">2,62</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r21c0\">Tubo PE</td>\n      <td data-cell-id=\"r21c1\">13,8</td>\n      <td data-cell-id=\"r21c2\"></td>\n      <td data-cell-id=\"r21c3\">18,35</td>\n      <td data-cell-id=\"r21c4\">253,23</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r22c0\"><strong>Total Presupuesto:</strong></td>\n    <td style=\"border: 2px solid black;\" data-cell-id=\"r22c1\"><strong>1.446,24</strong></td>\n  </tr>\n</table>\n\n<a id=\"p1_b8\"></a>\n\n<mark>Madrid 09/12/25</mark>",
+      "layout_confidence": 0.408,
+      "parse_confidence": 96.0,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5694564279551337,
+            "y0": 0.06844404047185725,
+            "x1": 0.7581961598115808,
+            "y1": 0.08392628062855113
+          },
+          "layout_confidence": 0.3118627369403839,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5725183823529412,
+                "y0": 0.06844404047185725,
+                "x1": 0.7581961598115808,
+                "y1": 0.08392628062855113
+              },
+              "type": "text",
+              "text": "Ref.: ACT250600117588"
+            }
+          ],
+          "content": "Ref.: <mark>ACT250600117588</mark>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b2",
+          "type": "section-header",
+          "page": 1,
+          "bbox": {
+            "x0": 0.12942191544434858,
+            "y0": 0.09733333333333333,
+            "x1": 0.3968938740293356,
+            "y1": 0.11066666666666666
+          },
+          "layout_confidence": 0.5703482031822205,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.1294394728716682,
+                "y0": 0.09816703102805398,
+                "x1": 0.39673023897058823,
+                "y1": 0.1104051347212358
+              },
+              "type": "section-header",
+              "text": "DENOMINACION / SITUACION DE LA OBRA:"
+            }
+          ],
+          "content": "## DENOMINACION / SITUACION DE LA OBRA:",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b4",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.15694134880514707,
+            "y0": 0.12390785910866477,
+            "x1": 0.8315874167049633,
+            "y1": 0.31447568026455963
+          },
+          "layout_confidence": 0.28236299753189087,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.15694134880514707,
+                "y0": 0.12390785910866477,
+                "x1": 0.8315874167049633,
+                "y1": 0.31447568026455963
+              },
+              "type": "table",
+              "text": "PASTRANA 8 (DESPLAZAMIENTO RED) | TIPO DE OBRA: | Desplazamiento Terceros | |---|---| | LONGITUD TOTAL: | 13,80 m. | Pavimento acera Loseta especial Pavimento calzada Asfalto LONGITUD RED 10 LONGITUD ACOMETIDA 3,8 Acera 10 Acera 3,8 Calzada 0 Calzada 0"
+            }
+          ],
+          "content": "PASTRANA 8 (DESPLAZAMIENTO RED)\n\n| TIPO DE OBRA: | Desplazamiento Terceros |\n|---|---|\n| LONGITUD TOTAL: | 13,80 m. |\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">Pavimento acera</td>\n    <td data-cell-id=\"r0c1\">Loseta especial</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Pavimento calzada</td>\n    <td data-cell-id=\"r1c1\">Asfalto</td>\n  </tr>\n</table>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r2c0\">LONGITUD RED</td>\n    <td data-cell-id=\"r2c1\">10</td>\n    <td data-cell-id=\"r2c2\">LONGITUD ACOMETIDA</td>\n    <td data-cell-id=\"r2c3\">3,8</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">Acera</td>\n    <td data-cell-id=\"r3c1\">10</td>\n    <td data-cell-id=\"r3c2\">Acera</td>\n    <td data-cell-id=\"r3c3\">3,8</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">Calzada</td>\n    <td data-cell-id=\"r4c1\">0</td>\n    <td data-cell-id=\"r4c2\">Calzada</td>\n    <td data-cell-id=\"r4c3\">0</td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Pavimento acera"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "Loseta especial"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "Pavimento calzada"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "Asfalto"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "LONGITUD RED"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "10"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "LONGITUD ACOMETIDA"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "3,8"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "Acera"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "10"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "Acera"
+              },
+              {
+                "cell_id": "r3c3",
+                "text": "3,8"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "Calzada"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": "0"
+              },
+              {
+                "cell_id": "r4c2",
+                "text": "Calzada"
+              },
+              {
+                "cell_id": "r4c3",
+                "text": "0"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b6",
+          "type": "section-header",
+          "page": 1,
+          "bbox": {
+            "x0": 0.15962036238136323,
+            "y0": 0.35,
+            "x1": 0.431538480870864,
+            "y1": 0.3641478937322443
+          },
+          "layout_confidence": 0.617512047290802,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.16207313088809744,
+                "y0": 0.3509479037198153,
+                "x1": 0.431538480870864,
+                "y1": 0.3641478937322443
+              },
+              "type": "section-header",
+              "text": "DESGLOSE PRESUPUESTO CANALIZACIÓN"
+            }
+          ],
+          "content": "## DESGLOSE PRESUPUESTO CANALIZACIÓN",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b7",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.1569512939453125,
+            "y0": 0.3759446300159801,
+            "x1": 0.8246756519990809,
+            "y1": 0.750776034268466
+          },
+          "layout_confidence": 0.426899254322052,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.1569512939453125,
+                "y0": 0.3759446300159801,
+                "x1": 0.8246756519990809,
+                "y1": 0.750776034268466
+              },
+              "type": "table",
+              "text": "Obra Civil: 978,56 Unid €/metro TOTAL Excavacion Basica mano zanja 6,9 31,56 217,76 Excavacion Basica maquina zanja 6,9 30,02 207,14 Aporte de tierras 13,8 10,4 143,52 Demolicion pavimento zanja 13,8 13,72 189,34 Reposición pavimento zanja calzada/acera Asfalto 0 41,76 0,00 Reposición pavimento zanja calzada/acera Adoquín 0 14 0,00 Reposición pavimento zanja calzada/acera Baldosa hidráulica 0 25 0,00 Reposición pavimento zanja calzada/acera Loseta especial 13,8 16 220,80 Reposición pavimento zanja calzada/acera Losa Piedra 0 27 0,00 Reposición pavimento zanja calzada/acera Hormigón 0 17,3 0,00 Reposición pavimento zanja calzada/aceraTierra 0 10 0,00 Reposición pavimento zanja calzada/acera Otros 0 0,00 Varios 0,00 Montaje Mecánico: 211,83 Unid €/metro TOTAL Instalacion PE 13,8 15,35 211,83 Materiales: 255,85 Unid €/metro TOTAL Banda señalización 13,8 0,19 2,62 Tubo PE 13,8 18,35 253,23 Total Presupuesto: 1.446,24"
+            }
+          ],
+          "content": "<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r0c0\">Obra Civil:</th>\n      <th colspan=\"3\" data-cell-id=\"r0c2\">978,56</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\"></th>\n      <th data-cell-id=\"r1c1\">Unid</th>\n      <th data-cell-id=\"r1c2\">€/metro</th>\n      <th data-cell-id=\"r1c3\"></th>\n      <th data-cell-id=\"r1c4\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\">Excavacion Basica mano zanja</td>\n      <td data-cell-id=\"r2c1\">6,9</td>\n      <td data-cell-id=\"r2c2\"></td>\n      <td data-cell-id=\"r2c3\">31,56</td>\n      <td data-cell-id=\"r2c4\">217,76</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">Excavacion Basica maquina zanja</td>\n      <td data-cell-id=\"r3c1\">6,9</td>\n      <td data-cell-id=\"r3c2\"></td>\n      <td data-cell-id=\"r3c3\">30,02</td>\n      <td data-cell-id=\"r3c4\">207,14</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">Aporte de tierras</td>\n      <td data-cell-id=\"r4c1\">13,8</td>\n      <td data-cell-id=\"r4c2\"></td>\n      <td data-cell-id=\"r4c3\">10,4</td>\n      <td data-cell-id=\"r4c4\">143,52</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">Demolicion pavimento zanja</td>\n      <td data-cell-id=\"r5c1\">13,8</td>\n      <td data-cell-id=\"r5c2\"></td>\n      <td data-cell-id=\"r5c3\">13,72</td>\n      <td data-cell-id=\"r5c4\">189,34</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">Reposición pavimento zanja calzada/acera Asfalto</td>\n      <td data-cell-id=\"r6c1\">0</td>\n      <td data-cell-id=\"r6c2\"></td>\n      <td data-cell-id=\"r6c3\">41,76</td>\n      <td data-cell-id=\"r6c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\">Reposición pavimento zanja calzada/acera Adoquín</td>\n      <td data-cell-id=\"r7c1\">0</td>\n      <td data-cell-id=\"r7c2\"></td>\n      <td data-cell-id=\"r7c3\">14</td>\n      <td data-cell-id=\"r7c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">Reposición pavimento zanja calzada/acera Baldosa hidráulica</td>\n      <td data-cell-id=\"r8c1\">0</td>\n      <td data-cell-id=\"r8c2\"></td>\n      <td data-cell-id=\"r8c3\">25</td>\n      <td data-cell-id=\"r8c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\">Reposición pavimento zanja calzada/acera Loseta especial</td>\n      <td data-cell-id=\"r9c1\">13,8</td>\n      <td data-cell-id=\"r9c2\"></td>\n      <td data-cell-id=\"r9c3\">16</td>\n      <td data-cell-id=\"r9c4\">220,80</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">Reposición pavimento zanja calzada/acera Losa Piedra</td>\n      <td data-cell-id=\"r10c1\">0</td>\n      <td data-cell-id=\"r10c2\"></td>\n      <td data-cell-id=\"r10c3\">27</td>\n      <td data-cell-id=\"r10c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\">Reposición pavimento zanja calzada/acera Hormigón</td>\n      <td data-cell-id=\"r11c1\">0</td>\n      <td data-cell-id=\"r11c2\"></td>\n      <td data-cell-id=\"r11c3\">17,3</td>\n      <td data-cell-id=\"r11c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\">Reposición pavimento zanja calzada/aceraTierra</td>\n      <td data-cell-id=\"r12c1\">0</td>\n      <td data-cell-id=\"r12c2\"></td>\n      <td data-cell-id=\"r12c3\">10</td>\n      <td data-cell-id=\"r12c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r13c0\">Reposición pavimento zanja calzada/acera Otros</td>\n      <td data-cell-id=\"r13c1\">0</td>\n      <td data-cell-id=\"r13c2\"></td>\n      <td data-cell-id=\"r13c3\"></td>\n      <td data-cell-id=\"r13c4\">0,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r14c0\">Varios</td>\n      <td data-cell-id=\"r14c1\"></td>\n      <td data-cell-id=\"r14c2\"></td>\n      <td data-cell-id=\"r14c3\"></td>\n      <td data-cell-id=\"r14c4\">0,00</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r15c0\">Montaje Mecánico:</th>\n      <th colspan=\"3\" data-cell-id=\"r15c2\">211,83</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r16c0\"></th>\n      <th data-cell-id=\"r16c1\">Unid</th>\n      <th data-cell-id=\"r16c2\">€/metro</th>\n      <th data-cell-id=\"r16c3\"></th>\n      <th data-cell-id=\"r16c4\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r17c0\">Instalacion PE</td>\n      <td data-cell-id=\"r17c1\">13,8</td>\n      <td data-cell-id=\"r17c2\"></td>\n      <td data-cell-id=\"r17c3\">15,35</td>\n      <td data-cell-id=\"r17c4\">211,83</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r18c0\">Materiales:</th>\n      <th colspan=\"3\" data-cell-id=\"r18c2\">255,85</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r19c0\"></th>\n      <th data-cell-id=\"r19c1\">Unid</th>\n      <th data-cell-id=\"r19c2\">€/metro</th>\n      <th data-cell-id=\"r19c3\"></th>\n      <th data-cell-id=\"r19c4\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r20c0\">Banda señalización</td>\n      <td data-cell-id=\"r20c1\">13,8</td>\n      <td data-cell-id=\"r20c2\"></td>\n      <td data-cell-id=\"r20c3\">0,19</td>\n      <td data-cell-id=\"r20c4\">2,62</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r21c0\">Tubo PE</td>\n      <td data-cell-id=\"r21c1\">13,8</td>\n      <td data-cell-id=\"r21c2\"></td>\n      <td data-cell-id=\"r21c3\">18,35</td>\n      <td data-cell-id=\"r21c4\">253,23</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r22c0\"><strong>Total Presupuesto:</strong></td>\n    <td style=\"border: 2px solid black;\" data-cell-id=\"r22c1\"><strong>1.446,24</strong></td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Obra Civil:"
+              },
+              {
+                "cell_id": "r0c2",
+                "text": "978,56"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "Unid"
+              },
+              {
+                "cell_id": "r1c2",
+                "text": "€/metro"
+              },
+              {
+                "cell_id": "r1c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r1c4",
+                "text": "TOTAL"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "Excavacion Basica mano zanja"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "6,9"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "31,56"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": "217,76"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "Excavacion Basica maquina zanja"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "6,9"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c3",
+                "text": "30,02"
+              },
+              {
+                "cell_id": "r3c4",
+                "text": "207,14"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "Aporte de tierras"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": "13,8"
+              },
+              {
+                "cell_id": "r4c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c3",
+                "text": "10,4"
+              },
+              {
+                "cell_id": "r4c4",
+                "text": "143,52"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "Demolicion pavimento zanja"
+              },
+              {
+                "cell_id": "r5c1",
+                "text": "13,8"
+              },
+              {
+                "cell_id": "r5c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c3",
+                "text": "13,72"
+              },
+              {
+                "cell_id": "r5c4",
+                "text": "189,34"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "Reposición pavimento zanja calzada/acera Asfalto"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": "0"
+              },
+              {
+                "cell_id": "r6c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r6c3",
+                "text": "41,76"
+              },
+              {
+                "cell_id": "r6c4",
+                "text": "0,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r7c0",
+                "text": "Reposición pavimento zanja calzada/acera Adoquín"
+              },
+              {
+                "cell_id": "r7c1",
+                "text": "0"
+              },
+              {
+                "cell_id": "r7c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r7c3",
+                "text": "14"
+              },
+              {
+                "cell_id": "r7c4",
+                "text": "0,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r8c0",
+                "text": "Reposición pavimento zanja calzada/acera Baldosa hidráulica"
+              },
+              {
+                "cell_id": "r8c1",
+                "text": "0"
+              },
+              {
+                "cell_id": "r8c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r8c3",
+                "text": "25"
+              },
+              {
+                "cell_id": "r8c4",
+                "text": "0,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r9c0",
+                "text": "Reposición pavimento zanja calzada/acera Loseta especial"
+              },
+              {
+                "cell_id": "r9c1",
+                "text": "13,8"
+              },
+              {
+                "cell_id": "r9c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r9c3",
+                "text": "16"
+              },
+              {
+                "cell_id": "r9c4",
+                "text": "220,80"
+              }
+            ],
+            [
+              {
+                "cell_id": "r10c0",
+                "text": "Reposición pavimento zanja calzada/acera Losa Piedra"
+              },
+              {
+                "cell_id": "r10c1",
+                "text": "0"
+              },
+              {
+                "cell_id": "r10c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r10c3",
+                "text": "27"
+              },
+              {
+                "cell_id": "r10c4",
+                "text": "0,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r11c0",
+                "text": "Reposición pavimento zanja calzada/acera Hormigón"
+              },
+              {
+                "cell_id": "r11c1",
+                "text": "0"
+              },
+              {
+                "cell_id": "r11c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r11c3",
+                "text": "17,3"
+              },
+              {
+                "cell_id": "r11c4",
+                "text": "0,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r12c0",
+                "text": "Reposición pavimento zanja calzada/aceraTierra"
+              },
+              {
+                "cell_id": "r12c1",
+                "text": "0"
+              },
+              {
+                "cell_id": "r12c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r12c3",
+                "text": "10"
+              },
+              {
+                "cell_id": "r12c4",
+                "text": "0,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r13c0",
+                "text": "Reposición pavimento zanja calzada/acera Otros"
+              },
+              {
+                "cell_id": "r13c1",
+                "text": "0"
+              },
+              {
+                "cell_id": "r13c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r13c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r13c4",
+                "text": "0,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r14c0",
+                "text": "Varios"
+              },
+              {
+                "cell_id": "r14c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r14c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r14c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r14c4",
+                "text": "0,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r15c0",
+                "text": "Montaje Mecánico:"
+              },
+              {
+                "cell_id": "r15c2",
+                "text": "211,83"
+              }
+            ],
+            [
+              {
+                "cell_id": "r16c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r16c1",
+                "text": "Unid"
+              },
+              {
+                "cell_id": "r16c2",
+                "text": "€/metro"
+              },
+              {
+                "cell_id": "r16c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r16c4",
+                "text": "TOTAL"
+              }
+            ],
+            [
+              {
+                "cell_id": "r17c0",
+                "text": "Instalacion PE"
+              },
+              {
+                "cell_id": "r17c1",
+                "text": "13,8"
+              },
+              {
+                "cell_id": "r17c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r17c3",
+                "text": "15,35"
+              },
+              {
+                "cell_id": "r17c4",
+                "text": "211,83"
+              }
+            ],
+            [
+              {
+                "cell_id": "r18c0",
+                "text": "Materiales:"
+              },
+              {
+                "cell_id": "r18c2",
+                "text": "255,85"
+              }
+            ],
+            [
+              {
+                "cell_id": "r19c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r19c1",
+                "text": "Unid"
+              },
+              {
+                "cell_id": "r19c2",
+                "text": "€/metro"
+              },
+              {
+                "cell_id": "r19c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r19c4",
+                "text": "TOTAL"
+              }
+            ],
+            [
+              {
+                "cell_id": "r20c0",
+                "text": "Banda señalización"
+              },
+              {
+                "cell_id": "r20c1",
+                "text": "13,8"
+              },
+              {
+                "cell_id": "r20c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r20c3",
+                "text": "0,19"
+              },
+              {
+                "cell_id": "r20c4",
+                "text": "2,62"
+              }
+            ],
+            [
+              {
+                "cell_id": "r21c0",
+                "text": "Tubo PE"
+              },
+              {
+                "cell_id": "r21c1",
+                "text": "13,8"
+              },
+              {
+                "cell_id": "r21c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r21c3",
+                "text": "18,35"
+              },
+              {
+                "cell_id": "r21c4",
+                "text": "253,23"
+              }
+            ],
+            [
+              {
+                "cell_id": "r22c0",
+                "text": "<strong>Total Presupuesto:</strong>"
+              },
+              {
+                "cell_id": "r22c1",
+                "text": "<strong>1.446,24</strong>"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b8",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5996863151999081,
+            "y0": 0.7873333333333333,
+            "x1": 0.8274374460742019,
+            "y1": 0.8037643710049716
+          },
+          "layout_confidence": 0.4661578834056854,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5996863151999081,
+                "y0": 0.7889299982244318,
+                "x1": 0.8263174977022059,
+                "y1": 0.8037643710049716
+              },
+              "type": "text",
+              "text": "Madrid 09/12/25"
+            }
+          ],
+          "content": "<mark>Madrid 09/12/25</mark>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [
+      {
+        "category": "Presupuestos",
+        "confidence": 100.0,
+        "evidence": "El documento contiene el apartado «DESGLOSE PRESUPUESTO CANALIZACIÓN», con partidas, unidades, precios y totales, y especifica «Total Presupuesto: 1.446,24»."
+      }
+    ],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "descripcion_de_la_obra": {
+            "value": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "PASTRANA 8 (DESPLAZAMIENTO RED)\n\n| TIPO DE OBRA: | Desplazamiento Terceros |",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_proyecto_contratista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "ubicacion_de_la_obra": {
+            "value": "PASTRANA 8",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_obra": {
+            "value": "ACT250600117588",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 88.0,
+            "evidence": [
+              {
+                "text": "Ref.: ACT250600117588",
+                "page_number": 1
+              }
+            ]
+          },
+          "total_presupuesto": {
+            "value": "1446.24",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Total Presupuesto: 1.446,24",
+                "page_number": 1
+              }
+            ]
+          },
+          "presupuesto": {
+            "value": "1446.24",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Total Presupuesto: 1.446,24",
+                "page_number": 1
+              }
+            ]
+          },
+          "municipio": {
+            "value": "Madrid",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "Madrid 09/12/25",
+                "page_number": 1
+              }
+            ]
+          },
+          "motivo_de_la_obra": {
+            "value": "Desplazamiento Terceros",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "PASTRANA 8 (DESPLAZAMIENTO RED)\n\nTIPO DE OBRA: | Desplazamiento Terceros",
+                "page_number": 1
+              }
+            ]
+          },
+          "plazo_de_ejecucion": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "duracion_dias": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "direccion": [
+            {
+              "tipo": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "nombre": {
+                "value": "PASTRANA",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero": {
+                "value": "8",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "categoria_fiscal": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "distrito": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "barrio": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "descripcion_ubicacion": {
+                "value": "DESPLAZAMIENTO RED",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ],
+          "medidas_acera": [
+            {
+              "largo": {
+                "value": "13.8",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "LONGITUD RED | 10 | LONGITUD ACOMETIDA | 3,8\nAcera | 10 | Acera | 3,8",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "ancho": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "tipo_pavimento": {
+                "value": "Loseta especial",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Pavimento acera | Loseta especial",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ],
+          "medidas_calzada": []
+        },
+        "validations": [
+          {
+            "rule_id": "presupuesto_positivo",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.total_presupuesto == null || data.total_presupuesto > 0.0 is true.",
+            "compared_values": null,
+            "source_fields": []
+          },
+          {
+            "rule_id": "plazo_positivo",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.plazo_de_ejecucion == null || data.plazo_de_ejecucion > 0 is true.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "descripcion_de_la_obra": {
+        "value": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "PASTRANA 8 (DESPLAZAMIENTO RED)\n\n| TIPO DE OBRA: | Desplazamiento Terceros |",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_proyecto_contratista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "ubicacion_de_la_obra": {
+        "value": "PASTRANA 8",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_obra": {
+        "value": "ACT250600117588",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 88.0,
+        "evidence": [
+          {
+            "text": "Ref.: ACT250600117588",
+            "page_number": 1
+          }
+        ]
+      },
+      "total_presupuesto": {
+        "value": "1446.24",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Total Presupuesto: 1.446,24",
+            "page_number": 1
+          }
+        ]
+      },
+      "presupuesto": {
+        "value": "1446.24",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Total Presupuesto: 1.446,24",
+            "page_number": 1
+          }
+        ]
+      },
+      "municipio": {
+        "value": "Madrid",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "Madrid 09/12/25",
+            "page_number": 1
+          }
+        ]
+      },
+      "motivo_de_la_obra": {
+        "value": "Desplazamiento Terceros",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "PASTRANA 8 (DESPLAZAMIENTO RED)\n\nTIPO DE OBRA: | Desplazamiento Terceros",
+            "page_number": 1
+          }
+        ]
+      },
+      "plazo_de_ejecucion": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "duracion_dias": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "direccion": [
+        {
+          "tipo": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "nombre": {
+            "value": "PASTRANA",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero": {
+            "value": "8",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "categoria_fiscal": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "distrito": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "barrio": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "descripcion_ubicacion": {
+            "value": "DESPLAZAMIENTO RED",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ],
+      "medidas_acera": [
+        {
+          "largo": {
+            "value": "13.8",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "LONGITUD RED | 10 | LONGITUD ACOMETIDA | 3,8\nAcera | 10 | Acera | 3,8",
+                "page_number": 1
+              }
+            ]
+          },
+          "ancho": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tipo_pavimento": {
+            "value": "Loseta especial",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Pavimento acera | Loseta especial",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ],
+      "medidas_calzada": []
+    }
+  }
+}

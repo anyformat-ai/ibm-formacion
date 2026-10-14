@@ -1,0 +1,5088 @@
+{
+  "id": "06acf4aa-e77f-7426-8000-8f699a15f669",
+  "workflow_id": "06acf4a9-8548-7384-8000-f0b4ea0c800a",
+  "document_packet_id": "06acf4aa-e4a6-7d3f-8000-1df881c18401",
+  "status": "processed",
+  "created_at": "2026-10-14T09:26:06.497429Z",
+  "updated_at": "2026-10-14T09:27:38.732928Z",
+  "results": {
+    "document_packet_id": "06acf4aa-e4a6-7d3f-8000-1df881c18401",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a/files/06acf4aa-def6-74ee-8000-3bae928fe505?versionId=pm8d3Iz-lw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\n# PROYECTO PARA LA AUTORIZACIÓN CONJUNTA ANUAL DE INSTALACIONES DE GAS CANALIZADO DURANTE EL AÑO 2025 EN LA COMUNIDAD DE MADRID\n\n\n<a id=\"p1_b1\"></a>\n\n<figure-description>\n\n***figure-description:***\nA technical utility map showing underground piping (PE 63, PE 160, PE 200) along Calle Pastrana. The map includes precise measurements in meters for pipe lengths and offsets from building lines (e.g., 37.60, 23.00, 1.70), building identifiers (5A, 8A, 10A, etc.), and a scale of 1:250.\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Pipe Type / Label</th><th data-cell-id=\"r0c1\">Measurement / Offset (m)</th><th data-cell-id=\"r0c2\">Location / Context</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">PE 63</td><td data-cell-id=\"r1c1\">37.60</td><td data-cell-id=\"r1c2\">Main segment along building 8C</td></tr><tr><td data-cell-id=\"r2c0\">PE 160</td><td data-cell-id=\"r2c1\">23.00</td><td data-cell-id=\"r2c2\">Segment near building 5C</td></tr><tr><td data-cell-id=\"r3c0\">PE 200</td><td data-cell-id=\"r3c1\">0.95</td><td data-cell-id=\"r3c2\">Offset near building 10C</td></tr><tr><td data-cell-id=\"r4c0\">PE 63</td><td data-cell-id=\"r4c1\">1.75</td><td data-cell-id=\"r4c2\">Offset from building 10B</td></tr><tr><td data-cell-id=\"r5c0\">PE 63</td><td data-cell-id=\"r5c1\">1.70</td><td data-cell-id=\"r5c2\">Offset from building 8A</td></tr><tr><td data-cell-id=\"r6c0\">PE 63</td><td data-cell-id=\"r6c1\">3.80</td><td data-cell-id=\"r6c2\">Segment near building 10A</td></tr><tr><td data-cell-id=\"r7c0\">PE 63</td><td data-cell-id=\"r7c1\">0.80</td><td data-cell-id=\"r7c2\">Multiple offset points near intersections</td></tr><tr><td data-cell-id=\"r8c0\">PE 63</td><td data-cell-id=\"r8c1\">1.10</td><td data-cell-id=\"r8c2\">Offset near central intersection</td></tr><tr><td data-cell-id=\"r9c0\">PE 63</td><td data-cell-id=\"r9c1\">2.50</td><td data-cell-id=\"r9c2\">Offset near building 5C</td></tr><tr><td data-cell-id=\"r10c0\">PE 63</td><td data-cell-id=\"r10c1\">0.35</td><td data-cell-id=\"r10c2\">Segment near building 7</td></tr><tr><td data-cell-id=\"r11c0\">PN 32</td><td data-cell-id=\"r11c1\"></td><td data-cell-id=\"r11c2\">Segment near building 5</td></tr></tbody></table>\n\n</figure-data>\n\n\n<a id=\"p1_b4\"></a>\n\n## NEDGIA MADRID\n\n\n<a id=\"p1_b5\"></a>\n\n## TIPO DE GAS: GAS NATURAL MOP: 0.025 bar Observaciones Alejandra Risco Barba Ingeniero Técnico Industrial AUTOR DEL PROYECTO OP: 0.025 bar\n\n\n<a id=\"p1_b9\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">Fecha</td>\n    <td data-cell-id=\"r0c1\">09/12/25</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Dirección</td>\n    <td data-cell-id=\"r1c1\">PASTRANA 8B (DESPLAZAMIENTO RED)</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">Municipio</td>\n    <td data-cell-id=\"r2c1\">Madrid</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">Distrito</td>\n    <td data-cell-id=\"r3c1\">San Blas</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">Código Obra</td>\n    <td data-cell-id=\"r4c1\">022025649558</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">Tipo Obra</td>\n    <td data-cell-id=\"r5c1\">Desplazamiento de 3º</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\">Formato</td>\n    <td data-cell-id=\"r6c1\">A3 H</td>\n  </tr>\n</table>\n\nDE A\n\n\n<a id=\"p1_b28\"></a>\n\ne\n\n\n<a id=\"p1_b29\"></a>\n\nSIRO MUELA\n\n\n<a id=\"p1_b30\"></a>\n\nRIOBAMBA\n\n\n<a id=\"p1_b31\"></a>\n\nPEZ DE\n\n\n<a id=\"p1_b32\"></a>\n\nCalle SIRO MUELA\n\n\n<a id=\"p1_b33\"></a>\n\nM\n\n\n<a id=\"p1_b34\"></a>\n\nCalle ORIZABA VS-9030-MB-28079 VS-9019-MB-28079\n\n\n<a id=\"p1_b35\"></a>\n\nCalle SIRO\n\n\n<a id=\"p1_b36\"></a>\n\nCalle ORIZABA VS-9019-MB-28079\n\n\n<a id=\"p1_b37\"></a>\n\nM\n\n\n<a id=\"p1_b38\"></a>\n\nSANCHEZ DIAZ\n\n\n<a id=\"p1_b39\"></a>\n\nVS-9020-MB-28079\n\n\n<a id=\"p1_b40\"></a>\n\nMARTINEZ MOLINA\n\n\n<a id=\"p1_b41\"></a>\n\nM\n\n\n<a id=\"p1_b42\"></a>\n\nCalle SANCHEZ DIAZ\n\n\n<a id=\"p1_b43\"></a>\n\nCalle IQUITOS M VS-9020-MB-28079 VS-7088-MB-28079 VS-7005-MB-28079\n\n\n<a id=\"p1_b44\"></a>\n\nCalle MARTINEZ MOLINA\n\n\n<a id=\"p1_b45\"></a>\n\nCalle SANCHEZ\n\n\n<a id=\"p1_b46\"></a>\n\nM\n\n\n<a id=\"p1_b47\"></a>\n\nIQUITOS M VS-7914-MB-28079 VS-9017-MB-28079\n\n\n<a id=\"p1_b48\"></a>\n\nM NAS TRINITARIAS NTRA. CENTRO\n\n\n<a id=\"p1_b49\"></a>\n\nCalle MARTINEZ\n\n\n<a id=\"p1_b50\"></a>\n\nAREVALO LARA\n\n\n<a id=\"p1_b51\"></a>\n\nCalle IQUITOS VS-8345-MB-28079 VS-7914-MB-28079 VS-9017-MB-28079 VS-7004-MB-28079 VS-7003-MB-28079\n\n\n<a id=\"p1_b52\"></a>\n\nCalle\n\n\n<a id=\"p1_b53\"></a>\n\nLOS ASILOS COLEGIO DE\n\n\n<a id=\"p1_b54\"></a>\n\nCalle CAMPECHE\n\n\n<a id=\"p1_b55\"></a>\n\nCalle AREVALO LARA\n\n\n<a id=\"p1_b56\"></a>\n\nVIZCONDE TRINITARIAS NTRA. CENTRO DE\n\n\n<a id=\"p1_b58\"></a>\n\nCalle IQUITOS VS-8345-MB-28079\n\n\n<a id=\"p1_b59\"></a>\n\nPASTRANA OBLATAS\n\n\n<a id=\"p1_b60\"></a>\n\nCalle CAMPECHE\n\n\n<a id=\"p1_b61\"></a>\n\nCalle AREVALO PABLO\n\n\n<a id=\"p1_b62\"></a>\n\nNAS TRINITARIAS\n\n\n<a id=\"p1_b63\"></a>\n\nCalle IQUITOS VS-8345-MB-28079\n\n\n<a id=\"p1_b64\"></a>\n\nVIZCONDE TRINITARIAS NTRA. SRA. CENTRO DE\n\n\n<a id=\"p1_b65\"></a>\n\nDE LOS ASILOS\n\n\n<a id=\"p1_b66\"></a>\n\nM Calle IQUITOS PASTRANA Calle VENTURADA CON. RELIG. OBLATAS CRISTO SA. PRESCOLAR SAN PABLO\n\n\n<a id=\"p1_b67\"></a>\n\nVIZCONDE DE LOS\n\n\n<a id=\"p1_b68\"></a>\n\nCOLEGIO DE PRESCOLAR SAN\n\n\n<a id=\"p1_b69\"></a>\n\nCalle VIZCONDE DE NTRA. SRA. CENTRO DE EDUCACION\n\n\n<a id=\"p1_b71\"></a>\n\nCalle TAMPICO\n\n\n<a id=\"p1_b72\"></a>\n\nM\n\n\n<a id=\"p1_b74\"></a>\n\nVS-\n\n\n<a id=\"p1_b75\"></a>\n\nCalle VENTURADA CON. RELIG. OBLATAS\n\n\n<a id=\"p1_b76\"></a>\n\nM DE PRESCOLAR DE SAN PABLO\n\n\n<a id=\"p1_b80\"></a>\n\nM\n\n\n<a id=\"p1_b81\"></a>\n\nM M M M M Calle VIZCONDE Calle PROTASIO GOMEZ Calle ARZOBISPO DE PRESCOLAR NTRA. SRA. DE ASUNCION DE EDUCACION ESPECIAL RESIDENCIA CIUDAD LINEAL PIA SOLEDAD DE SAN CENTRO INV. MINUSV. PSIQUICOS ARROQUIA NTRA. 24144-HIGH TECH HOTELS & RESORTS SA VS-8723-MB-28079\n\n\n<a id=\"p1_b82\"></a>\n\nCalle TAMPICO\n\n\n<a id=\"p1_b84\"></a>\n\nCalle VENTURADA\n\n\n<a id=\"p1_b85\"></a>\n\nCalle RIOBAMBA\n\n\n<a id=\"p1_b88\"></a>\n\nRESIDENCIA CIUDAD ARROQUIA\n\n\n<a id=\"p1_b90\"></a>\n\nCalle ALCALA\n\n\n<a id=\"p1_b91\"></a>\n\nCalle PASTRANA\n\n\n<a id=\"p1_b92\"></a>\n\nCalle RIOBAMBA\n\n\n<a id=\"p1_b94\"></a>\n\nCalle ALCALA VS-2141-MB-28079\n\n\n<a id=\"p1_b95\"></a>\n\nVS-7527-MB-2\n\n\n<a id=\"p1_b96\"></a>\n\nCalle PASTRANA VS-8323-BP-28079\n\n\n<a id=\"p1_b97\"></a>\n\nRESIDENCIA CENTRO ARROQUIA NTRA.\n\n\n<a id=\"p1_b98\"></a>\n\nCalle ALCALA VS-2141-MB-28079\n\n\n<a id=\"p1_b99\"></a>\n\nPASTRANA VS-8323-BP-28079 VS-0871/B19\n\n\n<a id=\"p1_b102\"></a>\n\nCalle ALCALA VS-2141-MB-28079\n\n\n<a id=\"p1_b103\"></a>\n\nVS-8323-BP-28079 VS-0871/B19\n\n\n<a id=\"p1_b105\"></a>\n\nCalle ALCALA\n\n\n<a id=\"p1_b106\"></a>\n\nARZOBISPO COS\n\n\n<a id=\"p1_b108\"></a>\n\n14515-HOTELES VS-6948-MB-28079\n\n\n<a id=\"p1_b109\"></a>\n\nCalle ARZOBISPO COS PSIQUICOS VS-8723-MB-28079\n\n\n<a id=\"p1_b110\"></a>\n\n14515-HOTELES ELBA S.L. VS-6948-MB-28079\n\n\n<a id=\"p1_b111\"></a>\n\nVS-9087-MB-28079\n\n\n<a id=\"p1_b112\"></a>\n\nARROQUIA NTRA. SRA\n\n\n<a id=\"p1_b113\"></a>\n\nCalle ARZOBISPO Calle ESPECIAL VS-8723-MB-28079\n\n\n<a id=\"p1_b114\"></a>\n\nCalle ALCALA VS-7142-MB-28079\n\n\n<a id=\"p1_b116\"></a>\n\nALCALA Calle ALCALA VS-7142-MB-28079\n\n\n<a id=\"p1_b117\"></a>\n\nJAIME HERMIDA VS-9305-MB-28079\n\n\n<a id=\"p1_b118\"></a>\n\nM M\n\n\n<a id=\"p1_b119\"></a>\n\nVS-6977-MB-28079\n\n\n<a id=\"p1_b120\"></a>\n\nCalle ALCALA VS-7142-MB-28079\n\n\n<a id=\"p1_b121\"></a>\n\nM NTRA. SRA CONCEPCION\n\n\n<a id=\"p1_b122\"></a>\n\nCalle JAIME HERMIDA VS-9305-MB-28079\n\n\n<a id=\"p1_b124\"></a>\n\nM\n\n\n<a id=\"p1_b125\"></a>\n\nCalle JAIME VS-9305-MB-28079\n\n\n<a id=\"p1_b126\"></a>\n\nCalle ALCALA VS-8723-MB-28079\n\n\n<a id=\"p1_b127\"></a>\n\nCalle CAUNEDO\n\n\n<a id=\"p1_b128\"></a>\n\nSRA CONCEPCION M M VS-8723-MB-28079 VS-0422-BP-28079 VS-0420-MB-28079 VS-0878/B19 ERM-B19-0161 EMB-0158-28079 Escala: 1:5000\n\n\n<a id=\"p1_b129\"></a>\n\nCalle APOLO\n\n\n<a id=\"p1_b130\"></a>\n\nCalle CAUNEDO\n\n\n<a id=\"p1_b131\"></a>\n\nVS-9178-MB-28079\n\n\n<a id=\"p1_b133\"></a>\n\nM\n\n\n<a id=\"p1_b134\"></a>\n\nCalle LUVA\n\n\n<a id=\"p1_b135\"></a>\n\nCalle MOVINDA\n\n\n<a id=\"p1_b136\"></a>\n\nCalle APOLO\n\n\n<a id=\"p1_b138\"></a>\n\nCalle LUVA\n\n\n<a id=\"p1_b139\"></a>\n\n0\n\n\n<a id=\"p1_b140\"></a>\n\n100 m.\n\n\n<a id=\"p1_b141\"></a>\n\n200 m.\n\n\n<a id=\"p1_b142\"></a>\n\nCalle MOVINDA\n\n\n<a id=\"p1_b143\"></a>\n\n50 m.\n\n\n<a id=\"p1_b144\"></a>\n\nVS-7092-MB-28079\n\n\n<a id=\"p1_b2\"></a>\n\nLUVA APOLO Calle Calle ARGOS Calle MOVINDA CONCEPCION MAD01-C/ Hnos Gª Noblejas, 2 VS-7092-MB-28079 VS-8499-MB-28079 Escala: 1:5000 CARACTERÍSTICAS DE LA INSTALACIÓN Canalización de profundidad => 0.60 Acometidas de profundidad =>0,30\n\n\n<a id=\"p1_b160\"></a>\n\n<table>\n  <tr>\n    <th colspan=\"3\" data-cell-id=\"r0c0\">Canalización de profundidad =&gt; 0.60</th>\n    <th colspan=\"4\" data-cell-id=\"r0c3\">Acometidas de profundidad =&gt;0,30</th>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Longitud</td>\n    <td data-cell-id=\"r1c1\">Material</td>\n    <td data-cell-id=\"r1c2\">Diámetro</td>\n    <td data-cell-id=\"r1c3\">Unidades</td>\n    <td data-cell-id=\"r1c4\">Longitud</td>\n    <td data-cell-id=\"r1c5\">Material</td>\n    <td data-cell-id=\"r1c6\">Diámetro</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">10.00</td>\n    <td data-cell-id=\"r2c1\">Polietileno</td>\n    <td data-cell-id=\"r2c2\">110mm</td>\n    <td data-cell-id=\"r2c3\">1</td>\n    <td data-cell-id=\"r2c4\">3.80</td>\n    <td data-cell-id=\"r2c5\">Polietileno</td>\n    <td data-cell-id=\"r2c6\">63mm</td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b164\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r0c0\">Datos establecidos para la canalización</th>\n      <th colspan=\"4\" data-cell-id=\"r0c2\">Apertura zanja (m)</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\">Pavimentos (m2)</th>\n      <th data-cell-id=\"r1c1\"></th>\n      <th data-cell-id=\"r1c2\"></th>\n      <th data-cell-id=\"r1c3\">Canalización</th>\n      <th data-cell-id=\"r1c4\">Acometidas</th>\n      <th data-cell-id=\"r1c5\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\">Aglomerado asfáltico</td>\n      <td data-cell-id=\"r2c1\"></td>\n      <td data-cell-id=\"r2c2\">Acera Pavimentada</td>\n      <td data-cell-id=\"r2c3\">10.00</td>\n      <td data-cell-id=\"r2c4\">3.80</td>\n      <td data-cell-id=\"r2c5\">13.80</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">Losas de Piedra</td>\n      <td data-cell-id=\"r3c1\"></td>\n      <td data-cell-id=\"r3c2\">Acera no Pavimentada</td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">0.00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">Adoquines</td>\n      <td data-cell-id=\"r4c1\"></td>\n      <td data-cell-id=\"r4c2\">Calzada Pavimentada</td>\n      <td data-cell-id=\"r4c3\"></td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\">0.00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">Hormigón</td>\n      <td data-cell-id=\"r5c1\"></td>\n      <td data-cell-id=\"r5c2\">Calzada no Pavimentada</td>\n      <td data-cell-id=\"r5c3\"></td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\">0.00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">Tierra</td>\n      <td data-cell-id=\"r6c1\"></td>\n      <td data-cell-id=\"r6c2\">TOTAL</td>\n      <td data-cell-id=\"r6c3\"></td>\n      <td data-cell-id=\"r6c4\"></td>\n      <td data-cell-id=\"r6c5\">13.80</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\">Losetas normales</td>\n      <td data-cell-id=\"r7c1\"></td>\n      <td data-cell-id=\"r7c2\"></td>\n      <td data-cell-id=\"r7c3\"></td>\n      <td data-cell-id=\"r7c4\"></td>\n      <td data-cell-id=\"r7c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">Losetas especiales</td>\n      <td data-cell-id=\"r8c1\">4.42</td>\n      <td data-cell-id=\"r8c2\"></td>\n      <td data-cell-id=\"r8c3\"></td>\n      <td data-cell-id=\"r8c4\"></td>\n      <td data-cell-id=\"r8c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\">TOTAL</td>\n      <td data-cell-id=\"r9c1\">4.42</td>\n      <td data-cell-id=\"r9c2\"></td>\n      <td data-cell-id=\"r9c3\"></td>\n      <td data-cell-id=\"r9c4\"></td>\n      <td data-cell-id=\"r9c5\"></td>\n    </tr>\n  </tbody>\n</table>\n\n\n<a id=\"p1_b191\"></a>\n\n## LEYENDA\n\n\n<a id=\"p1_b192\"></a>\n\nAcometida.Traza - Obra ejecutada\n\n\n<a id=\"p1_b193\"></a>\n\nAcometida.Traza - A sustituir\n\n\n<a id=\"p1_b194\"></a>\n\nSubtramos de red.Traza - Por canalizar\n\n\n<a id=\"p1_b195\"></a>\n\nAcometida.Traza - Por canalizar\n\n\n<a id=\"p1_b196\"></a>\n\nSubtramos de red.Traza - Obra ejecutada\n\n\n<a id=\"p1_b197\"></a>\n\nSubtramos de red.Traza - A dar de Baja",
+      "text": "<a id=\"p1_b0\"></a>\n\n# PROYECTO PARA LA AUTORIZACIÓN CONJUNTA ANUAL DE INSTALACIONES DE GAS CANALIZADO DURANTE EL AÑO 2025 EN LA COMUNIDAD DE MADRID\n\n<a id=\"p1_b1\"></a>\n\n<figure-description>\n\n***figure-description:***\nA technical utility map showing underground piping (PE 63, PE 160, PE 200) along Calle Pastrana. The map includes precise measurements in meters for pipe lengths and offsets from building lines (e.g., 37.60, 23.00, 1.70), building identifiers (5A, 8A, 10A, etc.), and a scale of 1:250.\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Pipe Type / Label</th><th data-cell-id=\"r0c1\">Measurement / Offset (m)</th><th data-cell-id=\"r0c2\">Location / Context</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">PE 63</td><td data-cell-id=\"r1c1\">37.60</td><td data-cell-id=\"r1c2\">Main segment along building 8C</td></tr><tr><td data-cell-id=\"r2c0\">PE 160</td><td data-cell-id=\"r2c1\">23.00</td><td data-cell-id=\"r2c2\">Segment near building 5C</td></tr><tr><td data-cell-id=\"r3c0\">PE 200</td><td data-cell-id=\"r3c1\">0.95</td><td data-cell-id=\"r3c2\">Offset near building 10C</td></tr><tr><td data-cell-id=\"r4c0\">PE 63</td><td data-cell-id=\"r4c1\">1.75</td><td data-cell-id=\"r4c2\">Offset from building 10B</td></tr><tr><td data-cell-id=\"r5c0\">PE 63</td><td data-cell-id=\"r5c1\">1.70</td><td data-cell-id=\"r5c2\">Offset from building 8A</td></tr><tr><td data-cell-id=\"r6c0\">PE 63</td><td data-cell-id=\"r6c1\">3.80</td><td data-cell-id=\"r6c2\">Segment near building 10A</td></tr><tr><td data-cell-id=\"r7c0\">PE 63</td><td data-cell-id=\"r7c1\">0.80</td><td data-cell-id=\"r7c2\">Multiple offset points near intersections</td></tr><tr><td data-cell-id=\"r8c0\">PE 63</td><td data-cell-id=\"r8c1\">1.10</td><td data-cell-id=\"r8c2\">Offset near central intersection</td></tr><tr><td data-cell-id=\"r9c0\">PE 63</td><td data-cell-id=\"r9c1\">2.50</td><td data-cell-id=\"r9c2\">Offset near building 5C</td></tr><tr><td data-cell-id=\"r10c0\">PE 63</td><td data-cell-id=\"r10c1\">0.35</td><td data-cell-id=\"r10c2\">Segment near building 7</td></tr><tr><td data-cell-id=\"r11c0\">PN 32</td><td data-cell-id=\"r11c1\"></td><td data-cell-id=\"r11c2\">Segment near building 5</td></tr></tbody></table>\n\n</figure-data>\n\n<a id=\"p1_b4\"></a>\n\n## NEDGIA MADRID\n\n<a id=\"p1_b5\"></a>\n\n## TIPO DE GAS: GAS NATURAL MOP: 0.025 bar Observaciones Alejandra Risco Barba Ingeniero Técnico Industrial AUTOR DEL PROYECTO OP: 0.025 bar\n\n<a id=\"p1_b9\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">Fecha</td>\n    <td data-cell-id=\"r0c1\">09/12/25</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Dirección</td>\n    <td data-cell-id=\"r1c1\">PASTRANA 8B (DESPLAZAMIENTO RED)</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">Municipio</td>\n    <td data-cell-id=\"r2c1\">Madrid</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">Distrito</td>\n    <td data-cell-id=\"r3c1\">San Blas</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">Código Obra</td>\n    <td data-cell-id=\"r4c1\">022025649558</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">Tipo Obra</td>\n    <td data-cell-id=\"r5c1\">Desplazamiento de 3º</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\">Formato</td>\n    <td data-cell-id=\"r6c1\">A3 H</td>\n  </tr>\n</table>\n\nDE A\n\n<a id=\"p1_b28\"></a>\n\ne\n\n<a id=\"p1_b29\"></a>\n\nSIRO MUELA\n\n<a id=\"p1_b30\"></a>\n\nRIOBAMBA\n\n<a id=\"p1_b31\"></a>\n\nPEZ DE\n\n<a id=\"p1_b32\"></a>\n\nCalle SIRO MUELA\n\n<a id=\"p1_b33\"></a>\n\nM\n\n<a id=\"p1_b34\"></a>\n\nCalle ORIZABA VS-9030-MB-28079 VS-9019-MB-28079\n\n<a id=\"p1_b35\"></a>\n\nCalle SIRO\n\n<a id=\"p1_b36\"></a>\n\nCalle ORIZABA VS-9019-MB-28079\n\n<a id=\"p1_b37\"></a>\n\nM\n\n<a id=\"p1_b38\"></a>\n\nSANCHEZ DIAZ\n\n<a id=\"p1_b39\"></a>\n\nVS-9020-MB-28079\n\n<a id=\"p1_b40\"></a>\n\nMARTINEZ MOLINA\n\n<a id=\"p1_b41\"></a>\n\nM\n\n<a id=\"p1_b42\"></a>\n\nCalle SANCHEZ DIAZ\n\n<a id=\"p1_b43\"></a>\n\nCalle IQUITOS M VS-9020-MB-28079 VS-7088-MB-28079 VS-7005-MB-28079\n\n<a id=\"p1_b44\"></a>\n\nCalle MARTINEZ MOLINA\n\n<a id=\"p1_b45\"></a>\n\nCalle SANCHEZ\n\n<a id=\"p1_b46\"></a>\n\nM\n\n<a id=\"p1_b47\"></a>\n\nIQUITOS M VS-7914-MB-28079 VS-9017-MB-28079\n\n<a id=\"p1_b48\"></a>\n\nM NAS TRINITARIAS NTRA. CENTRO\n\n<a id=\"p1_b49\"></a>\n\nCalle MARTINEZ\n\n<a id=\"p1_b50\"></a>\n\nAREVALO LARA\n\n<a id=\"p1_b51\"></a>\n\nCalle IQUITOS VS-8345-MB-28079 VS-7914-MB-28079 VS-9017-MB-28079 VS-7004-MB-28079 VS-7003-MB-28079\n\n<a id=\"p1_b52\"></a>\n\nCalle\n\n<a id=\"p1_b53\"></a>\n\nLOS ASILOS COLEGIO DE\n\n<a id=\"p1_b54\"></a>\n\nCalle CAMPECHE\n\n<a id=\"p1_b55\"></a>\n\nCalle AREVALO LARA\n\n<a id=\"p1_b56\"></a>\n\nVIZCONDE TRINITARIAS NTRA. CENTRO DE\n\n<a id=\"p1_b58\"></a>\n\nCalle IQUITOS VS-8345-MB-28079\n\n<a id=\"p1_b59\"></a>\n\nPASTRANA OBLATAS\n\n<a id=\"p1_b60\"></a>\n\nCalle CAMPECHE\n\n<a id=\"p1_b61\"></a>\n\nCalle AREVALO PABLO\n\n<a id=\"p1_b62\"></a>\n\nNAS TRINITARIAS\n\n<a id=\"p1_b63\"></a>\n\nCalle IQUITOS VS-8345-MB-28079\n\n<a id=\"p1_b64\"></a>\n\nVIZCONDE TRINITARIAS NTRA. SRA. CENTRO DE\n\n<a id=\"p1_b65\"></a>\n\nDE LOS ASILOS\n\n<a id=\"p1_b66\"></a>\n\nM Calle IQUITOS PASTRANA Calle VENTURADA CON. RELIG. OBLATAS CRISTO SA. PRESCOLAR SAN PABLO\n\n<a id=\"p1_b67\"></a>\n\nVIZCONDE DE LOS\n\n<a id=\"p1_b68\"></a>\n\nCOLEGIO DE PRESCOLAR SAN\n\n<a id=\"p1_b69\"></a>\n\nCalle VIZCONDE DE NTRA. SRA. CENTRO DE EDUCACION\n\n<a id=\"p1_b71\"></a>\n\nCalle TAMPICO\n\n<a id=\"p1_b72\"></a>\n\nM\n\n<a id=\"p1_b74\"></a>\n\nVS-\n\n<a id=\"p1_b75\"></a>\n\nCalle VENTURADA CON. RELIG. OBLATAS\n\n<a id=\"p1_b76\"></a>\n\nM DE PRESCOLAR DE SAN PABLO\n\n<a id=\"p1_b80\"></a>\n\nM\n\n<a id=\"p1_b81\"></a>\n\nM M M M M Calle VIZCONDE Calle PROTASIO GOMEZ Calle ARZOBISPO DE PRESCOLAR NTRA. SRA. DE ASUNCION DE EDUCACION ESPECIAL RESIDENCIA CIUDAD LINEAL PIA SOLEDAD DE SAN CENTRO INV. MINUSV. PSIQUICOS ARROQUIA NTRA. 24144-HIGH TECH HOTELS & RESORTS SA VS-8723-MB-28079\n\n<a id=\"p1_b82\"></a>\n\nCalle TAMPICO\n\n<a id=\"p1_b84\"></a>\n\nCalle VENTURADA\n\n<a id=\"p1_b85\"></a>\n\nCalle RIOBAMBA\n\n<a id=\"p1_b88\"></a>\n\nRESIDENCIA CIUDAD ARROQUIA\n\n<a id=\"p1_b90\"></a>\n\nCalle ALCALA\n\n<a id=\"p1_b91\"></a>\n\nCalle PASTRANA\n\n<a id=\"p1_b92\"></a>\n\nCalle RIOBAMBA\n\n<a id=\"p1_b94\"></a>\n\nCalle ALCALA VS-2141-MB-28079\n\n<a id=\"p1_b95\"></a>\n\nVS-7527-MB-2\n\n<a id=\"p1_b96\"></a>\n\nCalle PASTRANA VS-8323-BP-28079\n\n<a id=\"p1_b97\"></a>\n\nRESIDENCIA CENTRO ARROQUIA NTRA.\n\n<a id=\"p1_b98\"></a>\n\nCalle ALCALA VS-2141-MB-28079\n\n<a id=\"p1_b99\"></a>\n\nPASTRANA VS-8323-BP-28079 VS-0871/B19\n\n<a id=\"p1_b102\"></a>\n\nCalle ALCALA VS-2141-MB-28079\n\n<a id=\"p1_b103\"></a>\n\nVS-8323-BP-28079 VS-0871/B19\n\n<a id=\"p1_b105\"></a>\n\nCalle ALCALA\n\n<a id=\"p1_b106\"></a>\n\nARZOBISPO COS\n\n<a id=\"p1_b108\"></a>\n\n14515-HOTELES VS-6948-MB-28079\n\n<a id=\"p1_b109\"></a>\n\nCalle ARZOBISPO COS PSIQUICOS VS-8723-MB-28079\n\n<a id=\"p1_b110\"></a>\n\n14515-HOTELES ELBA S.L. VS-6948-MB-28079\n\n<a id=\"p1_b111\"></a>\n\nVS-9087-MB-28079\n\n<a id=\"p1_b112\"></a>\n\nARROQUIA NTRA. SRA\n\n<a id=\"p1_b113\"></a>\n\nCalle ARZOBISPO Calle ESPECIAL VS-8723-MB-28079\n\n<a id=\"p1_b114\"></a>\n\nCalle ALCALA VS-7142-MB-28079\n\n<a id=\"p1_b116\"></a>\n\nALCALA Calle ALCALA VS-7142-MB-28079\n\n<a id=\"p1_b117\"></a>\n\nJAIME HERMIDA VS-9305-MB-28079\n\n<a id=\"p1_b118\"></a>\n\nM M\n\n<a id=\"p1_b119\"></a>\n\nVS-6977-MB-28079\n\n<a id=\"p1_b120\"></a>\n\nCalle ALCALA VS-7142-MB-28079\n\n<a id=\"p1_b121\"></a>\n\nM NTRA. SRA CONCEPCION\n\n<a id=\"p1_b122\"></a>\n\nCalle JAIME HERMIDA VS-9305-MB-28079\n\n<a id=\"p1_b124\"></a>\n\nM\n\n<a id=\"p1_b125\"></a>\n\nCalle JAIME VS-9305-MB-28079\n\n<a id=\"p1_b126\"></a>\n\nCalle ALCALA VS-8723-MB-28079\n\n<a id=\"p1_b127\"></a>\n\nCalle CAUNEDO\n\n<a id=\"p1_b128\"></a>\n\nSRA CONCEPCION M M VS-8723-MB-28079 VS-0422-BP-28079 VS-0420-MB-28079 VS-0878/B19 ERM-B19-0161 EMB-0158-28079 Escala: 1:5000\n\n<a id=\"p1_b129\"></a>\n\nCalle APOLO\n\n<a id=\"p1_b130\"></a>\n\nCalle CAUNEDO\n\n<a id=\"p1_b131\"></a>\n\nVS-9178-MB-28079\n\n<a id=\"p1_b133\"></a>\n\nM\n\n<a id=\"p1_b134\"></a>\n\nCalle LUVA\n\n<a id=\"p1_b135\"></a>\n\nCalle MOVINDA\n\n<a id=\"p1_b136\"></a>\n\nCalle APOLO\n\n<a id=\"p1_b138\"></a>\n\nCalle LUVA\n\n<a id=\"p1_b139\"></a>\n\n0\n\n<a id=\"p1_b140\"></a>\n\n100 m.\n\n<a id=\"p1_b141\"></a>\n\n200 m.\n\n<a id=\"p1_b142\"></a>\n\nCalle MOVINDA\n\n<a id=\"p1_b143\"></a>\n\n50 m.\n\n<a id=\"p1_b144\"></a>\n\nVS-7092-MB-28079\n\n<a id=\"p1_b2\"></a>\n\nLUVA APOLO Calle Calle ARGOS Calle MOVINDA CONCEPCION MAD01-C/ Hnos Gª Noblejas, 2 VS-7092-MB-28079 VS-8499-MB-28079 Escala: 1:5000 CARACTERÍSTICAS DE LA INSTALACIÓN Canalización de profundidad => 0.60 Acometidas de profundidad =>0,30\n\n<a id=\"p1_b160\"></a>\n\n<table>\n  <tr>\n    <th colspan=\"3\" data-cell-id=\"r0c0\">Canalización de profundidad =&gt; 0.60</th>\n    <th colspan=\"4\" data-cell-id=\"r0c3\">Acometidas de profundidad =&gt;0,30</th>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Longitud</td>\n    <td data-cell-id=\"r1c1\">Material</td>\n    <td data-cell-id=\"r1c2\">Diámetro</td>\n    <td data-cell-id=\"r1c3\">Unidades</td>\n    <td data-cell-id=\"r1c4\">Longitud</td>\n    <td data-cell-id=\"r1c5\">Material</td>\n    <td data-cell-id=\"r1c6\">Diámetro</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">10.00</td>\n    <td data-cell-id=\"r2c1\">Polietileno</td>\n    <td data-cell-id=\"r2c2\">110mm</td>\n    <td data-cell-id=\"r2c3\">1</td>\n    <td data-cell-id=\"r2c4\">3.80</td>\n    <td data-cell-id=\"r2c5\">Polietileno</td>\n    <td data-cell-id=\"r2c6\">63mm</td>\n  </tr>\n</table>\n\n<a id=\"p1_b164\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r0c0\">Datos establecidos para la canalización</th>\n      <th colspan=\"4\" data-cell-id=\"r0c2\">Apertura zanja (m)</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\">Pavimentos (m2)</th>\n      <th data-cell-id=\"r1c1\"></th>\n      <th data-cell-id=\"r1c2\"></th>\n      <th data-cell-id=\"r1c3\">Canalización</th>\n      <th data-cell-id=\"r1c4\">Acometidas</th>\n      <th data-cell-id=\"r1c5\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\">Aglomerado asfáltico</td>\n      <td data-cell-id=\"r2c1\"></td>\n      <td data-cell-id=\"r2c2\">Acera Pavimentada</td>\n      <td data-cell-id=\"r2c3\">10.00</td>\n      <td data-cell-id=\"r2c4\">3.80</td>\n      <td data-cell-id=\"r2c5\">13.80</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">Losas de Piedra</td>\n      <td data-cell-id=\"r3c1\"></td>\n      <td data-cell-id=\"r3c2\">Acera no Pavimentada</td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">0.00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">Adoquines</td>\n      <td data-cell-id=\"r4c1\"></td>\n      <td data-cell-id=\"r4c2\">Calzada Pavimentada</td>\n      <td data-cell-id=\"r4c3\"></td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\">0.00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">Hormigón</td>\n      <td data-cell-id=\"r5c1\"></td>\n      <td data-cell-id=\"r5c2\">Calzada no Pavimentada</td>\n      <td data-cell-id=\"r5c3\"></td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\">0.00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">Tierra</td>\n      <td data-cell-id=\"r6c1\"></td>\n      <td data-cell-id=\"r6c2\">TOTAL</td>\n      <td data-cell-id=\"r6c3\"></td>\n      <td data-cell-id=\"r6c4\"></td>\n      <td data-cell-id=\"r6c5\">13.80</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\">Losetas normales</td>\n      <td data-cell-id=\"r7c1\"></td>\n      <td data-cell-id=\"r7c2\"></td>\n      <td data-cell-id=\"r7c3\"></td>\n      <td data-cell-id=\"r7c4\"></td>\n      <td data-cell-id=\"r7c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">Losetas especiales</td>\n      <td data-cell-id=\"r8c1\">4.42</td>\n      <td data-cell-id=\"r8c2\"></td>\n      <td data-cell-id=\"r8c3\"></td>\n      <td data-cell-id=\"r8c4\"></td>\n      <td data-cell-id=\"r8c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\">TOTAL</td>\n      <td data-cell-id=\"r9c1\">4.42</td>\n      <td data-cell-id=\"r9c2\"></td>\n      <td data-cell-id=\"r9c3\"></td>\n      <td data-cell-id=\"r9c4\"></td>\n      <td data-cell-id=\"r9c5\"></td>\n    </tr>\n  </tbody>\n</table>\n\n<a id=\"p1_b191\"></a>\n\n## LEYENDA\n\n<a id=\"p1_b192\"></a>\n\nAcometida.Traza - Obra ejecutada\n\n<a id=\"p1_b193\"></a>\n\nAcometida.Traza - A sustituir\n\n<a id=\"p1_b194\"></a>\n\nSubtramos de red.Traza - Por canalizar\n\n<a id=\"p1_b195\"></a>\n\nAcometida.Traza - Por canalizar\n\n<a id=\"p1_b196\"></a>\n\nSubtramos de red.Traza - Obra ejecutada\n\n<a id=\"p1_b197\"></a>\n\nSubtramos de red.Traza - A dar de Baja",
+      "layout_confidence": 0.197,
+      "parse_confidence": 97.2,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.05457132932208614,
+            "y0": 0.011386955329728667,
+            "x1": 0.5934638654162259,
+            "y1": 0.02555524900256186
+          },
+          "layout_confidence": 0.3273087739944458,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.05457132932208614,
+                "y0": 0.011386955329728667,
+                "x1": 0.5934638654162259,
+                "y1": 0.02555524900256186
+              },
+              "type": "title",
+              "text": "PROYECTO PARA LA AUTORIZACIÓN CONJUNTA ANUAL DE INSTALACIONES DE GAS CANALIZADO DURANTE EL AÑO 2025 EN LA COMUNIDAD DE MADRID"
+            }
+          ],
+          "content": "# PROYECTO PARA LA AUTORIZACIÓN CONJUNTA ANUAL DE INSTALACIONES DE GAS CANALIZADO DURANTE EL AÑO 2025 EN LA COMUNIDAD DE MADRID",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b1",
+          "type": "picture",
+          "page": 1,
+          "bbox": {
+            "x0": 0.04460070613246036,
+            "y0": 0.027350872181684048,
+            "x1": 0.570248588483568,
+            "y1": 0.971396613803976
+          },
+          "layout_confidence": 0.8699555993080139,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.05018773476763244,
+                "y0": 0.027350872181684048,
+                "x1": 0.5665540406897106,
+                "y1": 0.971396613803976
+              },
+              "type": "picture",
+              "text": "10B 10A 5 8B 8C 7 8A 10C 5C 5A Calle PASTRANA 37.60 3.60 0.35 1 3.80 1.70 23.00 1.75 2.50 1.70 0.80 0.80 0.95 0.80 0.80 1.10 0.80 PE 63 PE 200 PE 160 PE 63 PE 63 PE 63 PE 63 PE 63 PE 63 PE 63 PN 32 Escala: 1:250 10 m. 0 5 m. 250 cm."
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nA technical utility map showing underground piping (PE 63, PE 160, PE 200) along Calle Pastrana. The map includes precise measurements in meters for pipe lengths and offsets from building lines (e.g., 37.60, 23.00, 1.70), building identifiers (5A, 8A, 10A, etc.), and a scale of 1:250.\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Pipe Type / Label</th><th data-cell-id=\"r0c1\">Measurement / Offset (m)</th><th data-cell-id=\"r0c2\">Location / Context</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">PE 63</td><td data-cell-id=\"r1c1\">37.60</td><td data-cell-id=\"r1c2\">Main segment along building 8C</td></tr><tr><td data-cell-id=\"r2c0\">PE 160</td><td data-cell-id=\"r2c1\">23.00</td><td data-cell-id=\"r2c2\">Segment near building 5C</td></tr><tr><td data-cell-id=\"r3c0\">PE 200</td><td data-cell-id=\"r3c1\">0.95</td><td data-cell-id=\"r3c2\">Offset near building 10C</td></tr><tr><td data-cell-id=\"r4c0\">PE 63</td><td data-cell-id=\"r4c1\">1.75</td><td data-cell-id=\"r4c2\">Offset from building 10B</td></tr><tr><td data-cell-id=\"r5c0\">PE 63</td><td data-cell-id=\"r5c1\">1.70</td><td data-cell-id=\"r5c2\">Offset from building 8A</td></tr><tr><td data-cell-id=\"r6c0\">PE 63</td><td data-cell-id=\"r6c1\">3.80</td><td data-cell-id=\"r6c2\">Segment near building 10A</td></tr><tr><td data-cell-id=\"r7c0\">PE 63</td><td data-cell-id=\"r7c1\">0.80</td><td data-cell-id=\"r7c2\">Multiple offset points near intersections</td></tr><tr><td data-cell-id=\"r8c0\">PE 63</td><td data-cell-id=\"r8c1\">1.10</td><td data-cell-id=\"r8c2\">Offset near central intersection</td></tr><tr><td data-cell-id=\"r9c0\">PE 63</td><td data-cell-id=\"r9c1\">2.50</td><td data-cell-id=\"r9c2\">Offset near building 5C</td></tr><tr><td data-cell-id=\"r10c0\">PE 63</td><td data-cell-id=\"r10c1\">0.35</td><td data-cell-id=\"r10c2\">Segment near building 7</td></tr><tr><td data-cell-id=\"r11c0\">PN 32</td><td data-cell-id=\"r11c1\"></td><td data-cell-id=\"r11c2\">Segment near building 5</td></tr></tbody></table>\n\n</figure-data>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b4",
+          "type": "section-header",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6421065815125747,
+            "y0": 0.041602932056676444,
+            "x1": 0.7250383626101791,
+            "y1": 0.05616498094830865
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6421065815125747,
+                "y0": 0.041602932056676444,
+                "x1": 0.6815656763990023,
+                "y1": 0.05616498094830865
+              },
+              "type": "text",
+              "text": "NEDGIA"
+            },
+            {
+              "bbox": {
+                "x0": 0.6844259798998994,
+                "y0": 0.041602932056676444,
+                "x1": 0.7250383626101791,
+                "y1": 0.05616498094830865
+              },
+              "type": "text",
+              "text": "MADRID"
+            }
+          ],
+          "content": "## NEDGIA MADRID",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "section-header",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7953214533477234,
+            "y0": 0.04225785433688239,
+            "x1": 0.9678674818153128,
+            "y1": 0.14910400719873948
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8158329664371506,
+                "y0": 0.04225785433688239,
+                "x1": 0.9039600795079579,
+                "y1": 0.052991685193474095
+              },
+              "type": "text",
+              "text": "AUTOR DEL PROYECTO"
+            },
+            {
+              "bbox": {
+                "x0": 0.7980008891635854,
+                "y0": 0.0696393365989233,
+                "x1": 0.8675646617353906,
+                "y1": 0.079528060845356
+              },
+              "type": "text",
+              "text": "Alejandra Risco Barba"
+            },
+            {
+              "bbox": {
+                "x0": 0.7983788759668065,
+                "y0": 0.08935684755297521,
+                "x1": 0.8842670337063951,
+                "y1": 0.09924557179940792
+              },
+              "type": "text",
+              "text": "Ingeniero Técnico Industrial"
+            },
+            {
+              "bbox": {
+                "x0": 0.7953214533477234,
+                "y0": 0.10970392922012834,
+                "x1": 0.8397917827422289,
+                "y1": 0.11959265346656105
+              },
+              "type": "text",
+              "text": "0.025 bar"
+            },
+            {
+              "bbox": {
+                "x0": 0.9169962922124568,
+                "y0": 0.10977519453691537,
+                "x1": 0.9678674818153128,
+                "y1": 0.11966391878334807
+              },
+              "type": "text",
+              "text": "GAS NATURAL"
+            },
+            {
+              "bbox": {
+                "x0": 0.8774263594759595,
+                "y0": 0.11076603074514813,
+                "x1": 0.9117402608801038,
+                "y1": 0.11792416239328508
+              },
+              "type": "text",
+              "text": "TIPO DE GAS:"
+            },
+            {
+              "bbox": {
+                "x0": 0.810356541063424,
+                "y0": 0.12470589463491787,
+                "x1": 0.8399009800690783,
+                "y1": 0.13459461888135058
+              },
+              "type": "text",
+              "text": "0.025 bar"
+            },
+            {
+              "bbox": {
+                "x0": 0.7954390583560768,
+                "y0": 0.12582737184096365,
+                "x1": 0.8041605924585558,
+                "y1": 0.1329855034891006
+              },
+              "type": "text",
+              "text": "OP:"
+            },
+            {
+              "bbox": {
+                "x0": 0.8005543122895901,
+                "y0": 0.1419458755506025,
+                "x1": 0.8343115123922048,
+                "y1": 0.14910400719873948
+              },
+              "type": "text",
+              "text": "Observaciones"
+            }
+          ],
+          "content": "## TIPO DE GAS: GAS NATURAL MOP: 0.025 bar Observaciones Alejandra Risco Barba Ingeniero Técnico Industrial AUTOR DEL PROYECTO OP: 0.025 bar",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b9",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5783880957073044,
+            "y0": 0.067498681084155,
+            "x1": 0.7725171039925619,
+            "y1": 0.19918295365521477
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6246272679977188,
+                "y0": 0.067498681084155,
+                "x1": 0.6541688873540883,
+                "y1": 0.07823250740963551
+              },
+              "type": "text",
+              "text": "09/12/25"
+            },
+            {
+              "bbox": {
+                "x0": 0.5789844771642244,
+                "y0": 0.06926417418577382,
+                "x1": 0.5930513485818599,
+                "y1": 0.07642230130279959
+              },
+              "type": "text",
+              "text": "Fecha"
+            },
+            {
+              "bbox": {
+                "x0": 0.6257779925040393,
+                "y0": 0.08472182892177098,
+                "x1": 0.7725171039925619,
+                "y1": 0.09545565977836269
+              },
+              "type": "text",
+              "text": "Fecha 09/12/25 Dirección PASTRANA 8B (DESPLAZAMIENTO RED) Municipio Madrid Distrito San Blas Código Obra 022025649558 Tipo Obra Desplazamiento de 3º Formato A3 H DE A"
+            },
+            {
+              "bbox": {
+                "x0": 0.5789508977045594,
+                "y0": 0.08481255083000533,
+                "x1": 0.6000434636120671,
+                "y1": 0.09197068247814229
+              },
+              "type": "text",
+              "text": "Dirección"
+            },
+            {
+              "bbox": {
+                "x0": 0.625273993010961,
+                "y0": 0.1007927740883658,
+                "x1": 0.6484701710840147,
+                "y1": 0.11152660494495752
+              },
+              "type": "text",
+              "text": "Madrid"
+            },
+            {
+              "bbox": {
+                "x0": 0.5789340823415516,
+                "y0": 0.10280780454540775,
+                "x1": 0.6003100999017121,
+                "y1": 0.10996593619354471
+              },
+              "type": "text",
+              "text": "Municipio"
+            },
+            {
+              "bbox": {
+                "x0": 0.6242912683356666,
+                "y0": 0.11807537463589803,
+                "x1": 0.6546678627448045,
+                "y1": 0.12880920549248973
+              },
+              "type": "text",
+              "text": "San Blas"
+            },
+            {
+              "bbox": {
+                "x0": 0.5789424900230555,
+                "y0": 0.11908065602660263,
+                "x1": 0.5946898724144585,
+                "y1": 0.1262387876747396
+              },
+              "type": "text",
+              "text": "Distrito"
+            },
+            {
+              "bbox": {
+                "x0": 0.6229641363168162,
+                "y0": 0.13652192702576557,
+                "x1": 0.6736070881266517,
+                "y1": 0.14725575788235729
+              },
+              "type": "text",
+              "text": "022025649558"
+            },
+            {
+              "bbox": {
+                "x0": 0.5783965033888083,
+                "y0": 0.1382399340821194,
+                "x1": 0.6070920741606725,
+                "y1": 0.14539806573025635
+              },
+              "type": "text",
+              "text": "Código Obra"
+            },
+            {
+              "bbox": {
+                "x0": 0.623426097402375,
+                "y0": 0.15416078165945385,
+                "x1": 0.6974926448166746,
+                "y1": 0.16489462157826795
+              },
+              "type": "text",
+              "text": "Desplazamiento de 3º"
+            },
+            {
+              "bbox": {
+                "x0": 0.5783880957073044,
+                "y0": 0.1558788702758091,
+                "x1": 0.6008888970003649,
+                "y1": 0.16303699286172368
+              },
+              "type": "text",
+              "text": "Tipo Obra"
+            },
+            {
+              "bbox": {
+                "x0": 0.625240413551296,
+                "y0": 0.17309437412884857,
+                "x1": 0.642113810068014,
+                "y1": 0.18382821404766264
+              },
+              "type": "text",
+              "text": "A3 H"
+            },
+            {
+              "bbox": {
+                "x0": 0.5794212664716222,
+                "y0": 0.1744679532992507,
+                "x1": 0.5982664693664074,
+                "y1": 0.19918295365521477
+              },
+              "type": "text",
+              "text": "Formato A DE"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">Fecha</td>\n    <td data-cell-id=\"r0c1\">09/12/25</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Dirección</td>\n    <td data-cell-id=\"r1c1\">PASTRANA 8B (DESPLAZAMIENTO RED)</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">Municipio</td>\n    <td data-cell-id=\"r2c1\">Madrid</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\">Distrito</td>\n    <td data-cell-id=\"r3c1\">San Blas</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">Código Obra</td>\n    <td data-cell-id=\"r4c1\">022025649558</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r5c0\">Tipo Obra</td>\n    <td data-cell-id=\"r5c1\">Desplazamiento de 3º</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\">Formato</td>\n    <td data-cell-id=\"r6c1\">A3 H</td>\n  </tr>\n</table>\n\nDE A",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Fecha"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "09/12/25"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "Dirección"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "PASTRANA 8B (DESPLAZAMIENTO RED)"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "Municipio"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "Madrid"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "Distrito"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "San Blas"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "Código Obra"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": "022025649558"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "Tipo Obra"
+              },
+              {
+                "cell_id": "r5c1",
+                "text": "Desplazamiento de 3º"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "Formato"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": "A3 H"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b28",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7825181436741527,
+            "y0": 0.18692285424336025,
+            "x1": 0.7878567138310257,
+            "y1": 0.19230644869194433
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7825181436741527,
+                "y0": 0.18692285424336025,
+                "x1": 0.7878567138310257,
+                "y1": 0.19230644869194433
+              },
+              "type": "text",
+              "text": "e"
+            }
+          ],
+          "content": "e",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b29",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.723628230369653,
+            "y0": 0.19069194127737896,
+            "x1": 0.7409871704932213,
+            "y1": 0.20823132895823737
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.723628230369653,
+                "y0": 0.19069194127737896,
+                "x1": 0.7409871704932213,
+                "y1": 0.20823132895823737
+              },
+              "type": "text",
+              "text": "SIRO MUELA"
+            }
+          ],
+          "content": "SIRO MUELA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b30",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7835303465010613,
+            "y0": 0.19242152079171054,
+            "x1": 0.7948705657939015,
+            "y1": 0.2304086351814612
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7835303465010613,
+                "y0": 0.19242152079171054,
+                "x1": 0.7948705657939015,
+                "y1": 0.2304086351814612
+              },
+              "type": "text",
+              "text": "RIOBAMBA"
+            }
+          ],
+          "content": "RIOBAMBA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b31",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5700814601805027,
+            "y0": 0.1941260885722766,
+            "x1": 0.5806083388205417,
+            "y1": 0.20648123257244014
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5700814601805027,
+                "y0": 0.1941260885722766,
+                "x1": 0.5806083388205417,
+                "y1": 0.20648123257244014
+              },
+              "type": "text",
+              "text": "PEZ DE"
+            }
+          ],
+          "content": "PEZ DE",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b32",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7120968388553003,
+            "y0": 0.20314419605255393,
+            "x1": 0.7247466058087236,
+            "y1": 0.21707294059546486
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7120968388553003,
+                "y0": 0.20314419605255393,
+                "x1": 0.7247466058087236,
+                "y1": 0.21707294059546486
+              },
+              "type": "text",
+              "text": "Calle SIRO MUELA"
+            }
+          ],
+          "content": "Calle SIRO MUELA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b33",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8201671262524113,
+            "y0": 0.2079813747405848,
+            "x1": 0.8201694845045404,
+            "y1": 0.20798534399398674
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8201671262524113,
+                "y0": 0.2079813747405848,
+                "x1": 0.8201694845045404,
+                "y1": 0.20798534399398674
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b34",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.840964244181218,
+            "y0": 0.2094196944276612,
+            "x1": 0.9050315462361989,
+            "y1": 0.23022360272493053
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.840964244181218,
+                "y0": 0.2094196944276612,
+                "x1": 0.9050315462361989,
+                "y1": 0.23022360272493053
+              },
+              "type": "text",
+              "text": "Calle ORIZABA VS-9030-MB-28079 VS-9019-MB-28079"
+            }
+          ],
+          "content": "Calle ORIZABA VS-9030-MB-28079 VS-9019-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b35",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7007917370126441,
+            "y0": 0.21198578956533667,
+            "x1": 0.7132152655607216,
+            "y1": 0.2257411375452513
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7007917370126441,
+                "y0": 0.21198578956533667,
+                "x1": 0.7132152655607216,
+                "y1": 0.2257411375452513
+              },
+              "type": "text",
+              "text": "Calle SIRO"
+            }
+          ],
+          "content": "Calle SIRO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b36",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8522907240920883,
+            "y0": 0.22513920661040548,
+            "x1": 0.8647118943880366,
+            "y1": 0.2389014600037728
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8522907240920883,
+                "y0": 0.22513920661040548,
+                "x1": 0.8647118943880366,
+                "y1": 0.2389014600037728
+              },
+              "type": "text",
+              "text": "Calle"
+            }
+          ],
+          "content": "Calle ORIZABA VS-9019-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b37",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.9130149474222561,
+            "y0": 0.23316275330905237,
+            "x1": 0.9130173056743852,
+            "y1": 0.2331667225624543
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.9130149474222561,
+                "y0": 0.23316275330905237,
+                "x1": 0.9130173056743852,
+                "y1": 0.2331667225624543
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b38",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6127302961369985,
+            "y0": 0.23456669092442353,
+            "x1": 0.624896416338545,
+            "y1": 0.2482465505919226
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6127302961369985,
+                "y0": 0.23456669092442353,
+                "x1": 0.624896416338545,
+                "y1": 0.2482465505919226
+              },
+              "type": "text",
+              "text": "SANCHEZ DIAZ"
+            }
+          ],
+          "content": "SANCHEZ DIAZ",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b39",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8515307517102967,
+            "y0": 0.23954919141052114,
+            "x1": 0.9100207874798549,
+            "y1": 0.24890930716337506
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8515307517102967,
+                "y0": 0.23954919141052114,
+                "x1": 0.9100207874798549,
+                "y1": 0.24890930716337506
+              },
+              "type": "text",
+              "text": "VS-9020-MB-28079"
+            }
+          ],
+          "content": "VS-9020-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b40",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7238355002252643,
+            "y0": 0.24167872304731944,
+            "x1": 0.7427080793512879,
+            "y1": 0.2610019910790033
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7238355002252643,
+                "y0": 0.24167872304731944,
+                "x1": 0.7427080793512879,
+                "y1": 0.2610019910790033
+              },
+              "type": "text",
+              "text": "MARTINEZ MOLINA"
+            }
+          ],
+          "content": "MARTINEZ MOLINA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b41",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8452143784477902,
+            "y0": 0.24197630830579506,
+            "x1": 0.8452167366999194,
+            "y1": 0.24198027755919696
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8452143784477902,
+                "y0": 0.24197630830579506,
+                "x1": 0.8452167366999194,
+                "y1": 0.24198027755919696
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b42",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5912023251135601,
+            "y0": 0.24321110860268796,
+            "x1": 0.6139006556556115,
+            "y1": 0.2651707946177069
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5912023251135601,
+                "y0": 0.24321110860268796,
+                "x1": 0.6139006556556115,
+                "y1": 0.2651707946177069
+              },
+              "type": "text",
+              "text": "Calle SANCHEZ DIAZ"
+            }
+          ],
+          "content": "Calle SANCHEZ DIAZ",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b43",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8847890276885458,
+            "y0": 0.24471543751757166,
+            "x1": 0.97505543430494,
+            "y1": 0.2691201111303955
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8847890276885458,
+                "y0": 0.24471543751757166,
+                "x1": 0.97505543430494,
+                "y1": 0.2691201111303955
+              },
+              "type": "text",
+              "text": "Calle IQUITOS M VS-9020-MB-28079 VS-7088-MB-28079 VS-7005-MB-28079"
+            }
+          ],
+          "content": "Calle IQUITOS M VS-9020-MB-28079 VS-7088-MB-28079 VS-7005-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b44",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7011051794804176,
+            "y0": 0.2560436867266571,
+            "x1": 0.7250803497513479,
+            "y1": 0.2795251011235271
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7011051794804176,
+                "y0": 0.2560436867266571,
+                "x1": 0.7250803497513479,
+                "y1": 0.2795251011235271
+              },
+              "type": "text",
+              "text": "Calle MARTINEZ MOLINA"
+            }
+          ],
+          "content": "Calle MARTINEZ MOLINA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b45",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5799642283911819,
+            "y0": 0.2601353345040275,
+            "x1": 0.5923726333658226,
+            "y1": 0.2740056639614845
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5799642283911819,
+                "y0": 0.2601353345040275,
+                "x1": 0.5923726333658226,
+                "y1": 0.2740056639614845
+              },
+              "type": "text",
+              "text": "Calle SANCHEZ"
+            }
+          ],
+          "content": "Calle SANCHEZ",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b46",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.764797775778618,
+            "y0": 0.2630717120481014,
+            "x1": 0.7648001340307471,
+            "y1": 0.26307568130150333
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.764797775778618,
+                "y0": 0.2630717120481014,
+                "x1": 0.7648001340307471,
+                "y1": 0.26307568130150333
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b47",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8626180740954617,
+            "y0": 0.27309275380348724,
+            "x1": 0.9211080585986692,
+            "y1": 0.28245286955634114
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8626180740954617,
+                "y0": 0.27309275380348724,
+                "x1": 0.9211080585986692,
+                "y1": 0.28245286955634114
+              },
+              "type": "text",
+              "text": "IQUITOS M VS-7914-MB-28079 VS-9017-MB-28079"
+            }
+          ],
+          "content": "IQUITOS M VS-7914-MB-28079 VS-9017-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b48",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5839255793046355,
+            "y0": 0.2744955677032834,
+            "x1": 0.6244766987259082,
+            "y1": 0.3124209139853001
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5839255793046355,
+                "y0": 0.2744955677032834,
+                "x1": 0.6244766987259082,
+                "y1": 0.3124209139853001
+              },
+              "type": "text",
+              "text": "TRINITARIAS"
+            },
+            {
+              "bbox": {
+                "x0": 0.5859644420693314,
+                "y0": 0.29420399831051175,
+                "x1": 0.5859668003214605,
+                "y1": 0.29420796756391365
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M NAS TRINITARIAS NTRA. CENTRO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b49",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6899640786934381,
+            "y0": 0.27456683302007046,
+            "x1": 0.7023500290065012,
+            "y1": 0.28860407048930053
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6899640786934381,
+                "y0": 0.27456683302007046,
+                "x1": 0.7023500290065012,
+                "y1": 0.28860407048930053
+              },
+              "type": "text",
+              "text": "Calle MARTINEZ"
+            }
+          ],
+          "content": "Calle MARTINEZ",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b50",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7357097098263035,
+            "y0": 0.2749496937911307,
+            "x1": 0.749707474203285,
+            "y1": 0.2903248596479247
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7357097098263035,
+                "y0": 0.2749496937911307,
+                "x1": 0.749707474203285,
+                "y1": 0.2903248596479247
+              },
+              "type": "text",
+              "text": "AREVALO LARA"
+            }
+          ],
+          "content": "AREVALO LARA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b51",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.830209179014509,
+            "y0": 0.2786133871788838,
+            "x1": 0.9162465731007919,
+            "y1": 0.3018829086920922
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.830209179014509,
+                "y0": 0.2786133871788838,
+                "x1": 0.9162465731007919,
+                "y1": 0.3018829086920922
+              },
+              "type": "text",
+              "text": "Calle IQUITOS VS-8345-MB-28079 VS-7914-MB-28079 VS-9017-MB-28079 VS-7004-MB-28079 VS-7003-MB-28079"
+            }
+          ],
+          "content": "Calle IQUITOS VS-8345-MB-28079 VS-7914-MB-28079 VS-9017-MB-28079 VS-7004-MB-28079 VS-7003-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b52",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.762723539231985,
+            "y0": 0.28211689672386886,
+            "x1": 0.7692410303880268,
+            "y1": 0.2992483031532329
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.762723539231985,
+                "y0": 0.28211689672386886,
+                "x1": 0.7692410303880268,
+                "y1": 0.2992483031532329
+              },
+              "type": "text",
+              "text": "Calle"
+            }
+          ],
+          "content": "Calle",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b53",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6446129933950484,
+            "y0": 0.2821189266616817,
+            "x1": 0.6797355189477357,
+            "y1": 0.32550096327799
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6446129933950484,
+                "y0": 0.2821189266616817,
+                "x1": 0.6797355189477357,
+                "y1": 0.32550096327799
+              },
+              "type": "text",
+              "text": "LOS ASILOS COLEGIO DE"
+            }
+          ],
+          "content": "LOS ASILOS COLEGIO DE",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b54",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.9425951190743019,
+            "y0": 0.28534536781965686,
+            "x1": 0.9509252858560445,
+            "y1": 0.30296586239080564
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.9425951190743019,
+                "y0": 0.28534536781965686,
+                "x1": 0.9509252858560445,
+                "y1": 0.30296586239080564
+              },
+              "type": "text",
+              "text": "Calle CAMPECHE"
+            }
+          ],
+          "content": "Calle CAMPECHE",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b55",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7141635392483902,
+            "y0": 0.2853737869490368,
+            "x1": 0.7369638385618518,
+            "y1": 0.3079492147258069
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7141635392483902,
+                "y0": 0.2853737869490368,
+                "x1": 0.7369638385618518,
+                "y1": 0.3079492147258069
+              },
+              "type": "text",
+              "text": "Calle AREVALO LARA"
+            }
+          ],
+          "content": "Calle AREVALO LARA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b56",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5948061444976954,
+            "y0": 0.29263953248792224,
+            "x1": 0.615184980271683,
+            "y1": 0.33294615894442076
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5948061444976954,
+                "y0": 0.29263953248792224,
+                "x1": 0.615184980271683,
+                "y1": 0.33294615894442076
+              },
+              "type": "text",
+              "text": "CENTRO"
+            }
+          ],
+          "content": "VIZCONDE TRINITARIAS NTRA. CENTRO DE",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b58",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8448643318056644,
+            "y0": 0.3000140971931325,
+            "x1": 0.9034475185343237,
+            "y1": 0.30947841037889806
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8448643318056644,
+                "y0": 0.3000140971931325,
+                "x1": 0.9034475185343237,
+                "y1": 0.30947841037889806
+              },
+              "type": "text",
+              "text": "Calle IQUITOS VS-8345-MB-28079"
+            }
+          ],
+          "content": "Calle IQUITOS VS-8345-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b59",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7646822726906406,
+            "y0": 0.30008003392316074,
+            "x1": 0.7735242827171084,
+            "y1": 0.33852837918310374
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7646822726906406,
+                "y0": 0.30008003392316074,
+                "x1": 0.7735242827171084,
+                "y1": 0.33852837918310374
+              },
+              "type": "text",
+              "text": "PASTRANA OBLATAS"
+            }
+          ],
+          "content": "PASTRANA OBLATAS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b60",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.9468122890774169,
+            "y0": 0.30251965668531744,
+            "x1": 0.9604099708540543,
+            "y1": 0.34159318654273024
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.9468122890774169,
+                "y0": 0.30251965668531744,
+                "x1": 0.9604099708540543,
+                "y1": 0.34159318654273024
+              },
+              "type": "text",
+              "text": "Calle CAMPECHE"
+            }
+          ],
+          "content": "Calle CAMPECHE",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b61",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7030367417732375,
+            "y0": 0.302998142026919,
+            "x1": 0.7154176167175879,
+            "y1": 0.31705073090085883
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7030367417732375,
+                "y0": 0.302998142026919,
+                "x1": 0.7154176167175879,
+                "y1": 0.31705073090085883
+              },
+              "type": "text",
+              "text": "Calle AREVALO PABLO"
+            }
+          ],
+          "content": "Calle AREVALO PABLO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b62",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5699720577882507,
+            "y0": 0.3052810789641459,
+            "x1": 0.5856123960395309,
+            "y1": 0.3234739253762961
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5699720577882507,
+                "y0": 0.3052810789641459,
+                "x1": 0.5856123960395309,
+                "y1": 0.3234739253762961
+              },
+              "type": "text",
+              "text": "NAS TRINITARIAS"
+            }
+          ],
+          "content": "NAS TRINITARIAS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b63",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8309535151593573,
+            "y0": 0.306071667244474,
+            "x1": 0.8512409430301653,
+            "y1": 0.3217634852756286
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8309535151593573,
+                "y0": 0.306071667244474,
+                "x1": 0.8512409430301653,
+                "y1": 0.3217634852756286
+              },
+              "type": "text",
+              "text": "IQUITOS"
+            }
+          ],
+          "content": "Calle IQUITOS VS-8345-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b64",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.598951028946417,
+            "y0": 0.3098199836648004,
+            "x1": 0.6149006570910693,
+            "y1": 0.33995404800773926
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.598951028946417,
+                "y0": 0.3098199836648004,
+                "x1": 0.6149006570910693,
+                "y1": 0.33995404800773926
+              },
+              "type": "text",
+              "text": "NTRA."
+            }
+          ],
+          "content": "VIZCONDE TRINITARIAS NTRA. SRA. CENTRO DE",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b65",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6347932315292978,
+            "y0": 0.3127967787206839,
+            "x1": 0.6457870440909071,
+            "y1": 0.3255652688079901
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6347932315292978,
+                "y0": 0.3127967787206839,
+                "x1": 0.6457870440909071,
+                "y1": 0.3255652688079901
+              },
+              "type": "text",
+              "text": "DE LOS ASILOS"
+            }
+          ],
+          "content": "DE LOS ASILOS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b66",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6926271092770973,
+            "y0": 0.31515781389037145,
+            "x1": 0.8330266238462765,
+            "y1": 0.3396575683403939
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6926271092770973,
+                "y0": 0.31515781389037145,
+                "x1": 0.8330266238462765,
+                "y1": 0.3396575683403939
+              },
+              "type": "text",
+              "text": "PABLO Calle CON. RELIG. OBLATAS CRISTO SA."
+            },
+            {
+              "bbox": {
+                "x0": 0.7245474360365123,
+                "y0": 0.3278663845633089,
+                "x1": 0.7245497942886414,
+                "y1": 0.3278703719411556
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M Calle IQUITOS PASTRANA Calle VENTURADA CON. RELIG. OBLATAS CRISTO SA. PRESCOLAR SAN PABLO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b67",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6277756883891764,
+            "y0": 0.3205364241166472,
+            "x1": 0.6359672822251565,
+            "y1": 0.33109626936578795
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6277756883891764,
+                "y0": 0.3205364241166472,
+                "x1": 0.6359672822251565,
+                "y1": 0.33109626936578795
+              },
+              "type": "text",
+              "text": "VIZCONDE DE LOS"
+            }
+          ],
+          "content": "VIZCONDE DE LOS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b68",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6746440013345656,
+            "y0": 0.3232035086605122,
+            "x1": 0.6852326046607675,
+            "y1": 0.3396680080205743
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6746440013345656,
+                "y0": 0.3232035086605122,
+                "x1": 0.6852326046607675,
+                "y1": 0.3396680080205743
+              },
+              "type": "text",
+              "text": "DE"
+            }
+          ],
+          "content": "COLEGIO DE PRESCOLAR SAN",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b69",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6048540928901159,
+            "y0": 0.3260674246744451,
+            "x1": 0.628949739085035,
+            "y1": 0.34916235341130325
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6048540928901159,
+                "y0": 0.3260674246744451,
+                "x1": 0.628949739085035,
+                "y1": 0.34916235341130325
+              },
+              "type": "text",
+              "text": "VIZCONDE DE"
+            }
+          ],
+          "content": "Calle VIZCONDE DE NTRA. SRA. CENTRO DE EDUCACION",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b71",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8626316084120289,
+            "y0": 0.3311530351267689,
+            "x1": 0.8709505991293334,
+            "y1": 0.3487720616178923
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8626316084120289,
+                "y0": 0.3311530351267689,
+                "x1": 0.8709505991293334,
+                "y1": 0.3487720616178923
+              },
+              "type": "text",
+              "text": "Calle TAMPICO"
+            }
+          ],
+          "content": "Calle TAMPICO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b72",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6372348427445708,
+            "y0": 0.33163170171281803,
+            "x1": 0.6372372009966999,
+            "y1": 0.3316356890906647
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6372348427445708,
+                "y0": 0.33163170171281803,
+                "x1": 0.6372372009966999,
+                "y1": 0.3316356890906647
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b74",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.9746755506467455,
+            "y0": 0.33369444477068444,
+            "x1": 0.9856985337618653,
+            "y1": 0.3430545605235384
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.9746755506467455,
+                "y0": 0.33369444477068444,
+                "x1": 0.9856985337618653,
+                "y1": 0.3430545605235384
+              },
+              "type": "text",
+              "text": "VS-"
+            }
+          ],
+          "content": "VS-",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b75",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.731875499462421,
+            "y0": 0.334834001110376,
+            "x1": 0.7614049686936903,
+            "y1": 0.35876153059051036
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.731875499462421,
+                "y0": 0.334834001110376,
+                "x1": 0.7614049686936903,
+                "y1": 0.35876153059051036
+              },
+              "type": "text",
+              "text": "VENTURADA"
+            }
+          ],
+          "content": "Calle VENTURADA CON. RELIG. OBLATAS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b76",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6787564341833363,
+            "y0": 0.3325949434539073,
+            "x1": 0.7064907608808215,
+            "y1": 0.39445483337617954
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6787564341833363,
+                "y0": 0.3325949434539073,
+                "x1": 0.6943872368933985,
+                "y1": 0.3509234332106236
+              },
+              "type": "text",
+              "text": "M"
+            },
+            {
+              "bbox": {
+                "x0": 0.6801410357812468,
+                "y0": 0.3365967121097245,
+                "x1": 0.7064907608808215,
+                "y1": 0.39445483337617954
+              },
+              "type": "text",
+              "text": "PRESCOLAR"
+            }
+          ],
+          "content": "M DE PRESCOLAR DE SAN PABLO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b80",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8710343683462686,
+            "y0": 0.3444480765831739,
+            "x1": 0.8710367265983977,
+            "y1": 0.34445206396102057
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8710343683462686,
+                "y0": 0.3444480765831739,
+                "x1": 0.8710367265983977,
+                "y1": 0.34445206396102057
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b81",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.574944329869847,
+            "y0": 0.33762186695410584,
+            "x1": 0.6895523586315001,
+            "y1": 0.44311740884817996
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 84.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6098252371119983,
+                "y0": 0.33762186695410584,
+                "x1": 0.6235632348903197,
+                "y1": 0.3621015395193368
+              },
+              "type": "text",
+              "text": "SRA."
+            },
+            {
+              "bbox": {
+                "x0": 0.6688482891290934,
+                "y0": 0.3438608445730265,
+                "x1": 0.6805165617996376,
+                "y1": 0.3589709041763506
+              },
+              "type": "text",
+              "text": "DE"
+            },
+            {
+              "bbox": {
+                "x0": 0.5936182518871657,
+                "y0": 0.3441335449688499,
+                "x1": 0.6060281948523252,
+                "y1": 0.3580182471109998
+              },
+              "type": "text",
+              "text": "Calle"
+            },
+            {
+              "bbox": {
+                "x0": 0.615895788223217,
+                "y0": 0.34445181021879395,
+                "x1": 0.6759709795543641,
+                "y1": 0.3997030925957583
+              },
+              "type": "text",
+              "text": "EDUCACION SOLEDAD GOMEZ"
+            },
+            {
+              "bbox": {
+                "x0": 0.6684893221419573,
+                "y0": 0.3483441072282751,
+                "x1": 0.6684916803940865,
+                "y1": 0.34834809460612176
+              },
+              "type": "text",
+              "text": "M"
+            },
+            {
+              "bbox": {
+                "x0": 0.6175381057657624,
+                "y0": 0.3593550699074334,
+                "x1": 0.6175404640178915,
+                "y1": 0.35935905728528006
+              },
+              "type": "text",
+              "text": "M"
+            },
+            {
+              "bbox": {
+                "x0": 0.6184878149112487,
+                "y0": 0.3597693584657034,
+                "x1": 0.6290932336004583,
+                "y1": 0.37623991139031454
+              },
+              "type": "text",
+              "text": "DE"
+            },
+            {
+              "bbox": {
+                "x0": 0.6311200487727553,
+                "y0": 0.36856054789761516,
+                "x1": 0.6311224070248845,
+                "y1": 0.36856453527546185
+              },
+              "type": "text",
+              "text": "M"
+            },
+            {
+              "bbox": {
+                "x0": 0.6096210945037756,
+                "y0": 0.3739078028344602,
+                "x1": 0.6594669058276101,
+                "y1": 0.42337158751141657
+              },
+              "type": "text",
+              "text": "PIA PROTASIO CIUDAD"
+            },
+            {
+              "bbox": {
+                "x0": 0.6089315108214038,
+                "y0": 0.3924353714923943,
+                "x1": 0.6212650669241194,
+                "y1": 0.4033256978672458
+              },
+              "type": "text",
+              "text": "M SA RESORTS & HOTELS TECH 24144-HIGH"
+            },
+            {
+              "bbox": {
+                "x0": 0.6240574937767777,
+                "y0": 0.39492229905536846,
+                "x1": 0.6364514416405396,
+                "y1": 0.4089196989950213
+              },
+              "type": "text",
+              "text": "Calle"
+            },
+            {
+              "bbox": {
+                "x0": 0.6364955307020844,
+                "y0": 0.39720500037481354,
+                "x1": 0.6610815908071641,
+                "y1": 0.44311740884817996
+              },
+              "type": "text",
+              "text": "ESPECIAL RESIDENCIA CIUDAD LINEAL"
+            },
+            {
+              "bbox": {
+                "x0": 0.574944329869847,
+                "y0": 0.42171334581165104,
+                "x1": 0.6895523586315001,
+                "y1": 0.4314068063524874
+              },
+              "type": "text",
+              "text": "CENTRO INV. MINUSV. PSIQUICOS"
+            }
+          ],
+          "content": "M M M M M Calle VIZCONDE Calle PROTASIO GOMEZ Calle ARZOBISPO DE PRESCOLAR NTRA. SRA. DE ASUNCION DE EDUCACION ESPECIAL RESIDENCIA CIUDAD LINEAL PIA SOLEDAD DE SAN CENTRO INV. MINUSV. PSIQUICOS ARROQUIA NTRA. 24144-HIGH TECH HOTELS & RESORTS SA VS-8723-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b82",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8668341162388626,
+            "y0": 0.34833428377921644,
+            "x1": 0.878650087265582,
+            "y1": 0.38025041602850496
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8668341162388626,
+                "y0": 0.34833428377921644,
+                "x1": 0.878650087265582,
+                "y1": 0.38025041602850496
+              },
+              "type": "text",
+              "text": "Calle TAMPICO"
+            }
+          ],
+          "content": "Calle TAMPICO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b84",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7201755441871853,
+            "y0": 0.3533437353146686,
+            "x1": 0.7326535175996356,
+            "y1": 0.36629375984066725
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7201755441871853,
+                "y0": 0.3533437353146686,
+                "x1": 0.7326535175996356,
+                "y1": 0.36629375984066725
+              },
+              "type": "text",
+              "text": "Calle VENTURADA"
+            }
+          ],
+          "content": "Calle VENTURADA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b85",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8196844535611966,
+            "y0": 0.3562483950804167,
+            "x1": 0.8279863213173894,
+            "y1": 0.3738637966825886
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8196844535611966,
+                "y0": 0.3562483950804167,
+                "x1": 0.8279863213173894,
+                "y1": 0.3738637966825886
+              },
+              "type": "text",
+              "text": "Calle RIOBAMBA"
+            }
+          ],
+          "content": "Calle RIOBAMBA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b88",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5678632677212907,
+            "y0": 0.3680056136480259,
+            "x1": 0.6098688647763875,
+            "y1": 0.39509208885385794
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5678632677212907,
+                "y0": 0.3680056136480259,
+                "x1": 0.6098688647763875,
+                "y1": 0.39509208885385794
+              },
+              "type": "text",
+              "text": "RESIDENCIA CIUDAD ARROQUIA"
+            }
+          ],
+          "content": "RESIDENCIA CIUDAD ARROQUIA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b90",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.9103987230167253,
+            "y0": 0.3690973939513363,
+            "x1": 0.9306834850373004,
+            "y1": 0.384804762756093
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.9103987230167253,
+                "y0": 0.3690973939513363,
+                "x1": 0.9306834850373004,
+                "y1": 0.384804762756093
+              },
+              "type": "text",
+              "text": "Calle ALCALA"
+            }
+          ],
+          "content": "Calle ALCALA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b91",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7728647923825586,
+            "y0": 0.36980569725246465,
+            "x1": 0.7806410775120564,
+            "y1": 0.38732993289750567
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7728647923825586,
+                "y0": 0.36980569725246465,
+                "x1": 0.7806410775120564,
+                "y1": 0.38732993289750567
+              },
+              "type": "text",
+              "text": "Calle PASTRANA"
+            }
+          ],
+          "content": "Calle PASTRANA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b92",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8238644554601021,
+            "y0": 0.3734376909863366,
+            "x1": 0.8370402664373762,
+            "y1": 0.4110963360637447
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8238644554601021,
+                "y0": 0.3734376909863366,
+                "x1": 0.8370402664373762,
+                "y1": 0.4110963360637447
+              },
+              "type": "text",
+              "text": "Calle RIOBAMBA"
+            }
+          ],
+          "content": "Calle RIOBAMBA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b94",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8982698221857388,
+            "y0": 0.3790013880424773,
+            "x1": 0.9107317492304408,
+            "y1": 0.39082541331346315
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8982698221857388,
+                "y0": 0.3790013880424773,
+                "x1": 0.9107317492304408,
+                "y1": 0.39082541331346315
+              },
+              "type": "text",
+              "text": "Calle"
+            }
+          ],
+          "content": "Calle ALCALA VS-2141-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b95",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.9440278085091068,
+            "y0": 0.38315344459422485,
+            "x1": 0.9880883659629984,
+            "y1": 0.3971019447819216
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.9440278085091068,
+                "y0": 0.38315344459422485,
+                "x1": 0.9880883659629984,
+                "y1": 0.3971019447819216
+              },
+              "type": "text",
+              "text": "VS-7527-MB-2"
+            }
+          ],
+          "content": "VS-7527-MB-2",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b96",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7763696164436205,
+            "y0": 0.3872922340524098,
+            "x1": 0.7883051918663679,
+            "y1": 0.4255681252204839
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7763696164436205,
+                "y0": 0.3872922340524098,
+                "x1": 0.7883051918663679,
+                "y1": 0.4255681252204839
+              },
+              "type": "text",
+              "text": "PASTRANA"
+            }
+          ],
+          "content": "Calle PASTRANA VS-8323-BP-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b97",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5683035944068822,
+            "y0": 0.3883285173058723,
+            "x1": 0.591225702569449,
+            "y1": 0.4386728237580442
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5683035944068822,
+                "y0": 0.3883285173058723,
+                "x1": 0.591225702569449,
+                "y1": 0.4386728237580442
+              },
+              "type": "text",
+              "text": "ARROQUIA"
+            }
+          ],
+          "content": "RESIDENCIA CENTRO ARROQUIA NTRA.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b98",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8618500016302699,
+            "y0": 0.3889166555382576,
+            "x1": 0.9202519105430891,
+            "y1": 0.3984667154721715
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8618500016302699,
+                "y0": 0.3889166555382576,
+                "x1": 0.9202519105430891,
+                "y1": 0.3984667154721715
+              },
+              "type": "text",
+              "text": "Calle ALCALA VS-2141-MB-28079"
+            }
+          ],
+          "content": "Calle ALCALA VS-2141-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b99",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7234750977803106,
+            "y0": 0.3917857913922807,
+            "x1": 0.7809578010262703,
+            "y1": 0.40124809276467815
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7234750977803106,
+                "y0": 0.3917857913922807,
+                "x1": 0.7809578010262703,
+                "y1": 0.40124809276467815
+              },
+              "type": "text",
+              "text": "VS-8323-BP-28079"
+            }
+          ],
+          "content": "PASTRANA VS-8323-BP-28079 VS-0871/B19",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b102",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8580026670806253,
+            "y0": 0.39511347569867195,
+            "x1": 0.8782871215030966,
+            "y1": 0.4108188508145053
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8580026670806253,
+                "y0": 0.39511347569867195,
+                "x1": 0.8782871215030966,
+                "y1": 0.4108188508145053
+              },
+              "type": "text",
+              "text": "ALCALA"
+            }
+          ],
+          "content": "Calle ALCALA VS-2141-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b103",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6976467002003284,
+            "y0": 0.3969449870903205,
+            "x1": 0.7370802131777898,
+            "y1": 0.4063794130666807
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6976467002003284,
+                "y0": 0.3969449870903205,
+                "x1": 0.7370802131777898,
+                "y1": 0.4063794130666807
+              },
+              "type": "text",
+              "text": "VS-0871/B19"
+            }
+          ],
+          "content": "VS-8323-BP-28079 VS-0871/B19",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b105",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8458740738477426,
+            "y0": 0.4050154036031106,
+            "x1": 0.8583354882289383,
+            "y1": 0.4168383051585215
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8458740738477426,
+                "y0": 0.4050154036031106,
+                "x1": 0.8583354882289383,
+                "y1": 0.4168383051585215
+              },
+              "type": "text",
+              "text": "Calle ALCALA"
+            }
+          ],
+          "content": "Calle ALCALA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b106",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6985786199221449,
+            "y0": 0.41649027957028534,
+            "x1": 0.7100696648185489,
+            "y1": 0.4292261456570278
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6985786199221449,
+                "y0": 0.41649027957028534,
+                "x1": 0.7100696648185489,
+                "y1": 0.4292261456570278
+              },
+              "type": "text",
+              "text": "ARZOBISPO COS"
+            }
+          ],
+          "content": "ARZOBISPO COS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b108",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8452694897747213,
+            "y0": 0.42396871546840165,
+            "x1": 0.9036713474211898,
+            "y1": 0.43351877540231554
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8452694897747213,
+                "y0": 0.42396871546840165,
+                "x1": 0.9036713474211898,
+                "y1": 0.43351877540231554
+              },
+              "type": "text",
+              "text": "14515-HOTELES VS-6948-MB-28079"
+            }
+          ],
+          "content": "14515-HOTELES VS-6948-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b109",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6718094335416867,
+            "y0": 0.4239967358599969,
+            "x1": 0.699552988182286,
+            "y1": 0.4483332253116426
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6718094335416867,
+                "y0": 0.4239967358599969,
+                "x1": 0.699552988182286,
+                "y1": 0.4483332253116426
+              },
+              "type": "text",
+              "text": "ARZOBISPO"
+            }
+          ],
+          "content": "Calle ARZOBISPO COS PSIQUICOS VS-8723-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b110",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.9022972041588084,
+            "y0": 0.4310164058124079,
+            "x1": 0.9106853019167668,
+            "y1": 0.43195242463747124
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.9022972041588084,
+                "y0": 0.4310164058124079,
+                "x1": 0.9106853019167668,
+                "y1": 0.43195242463747124
+              },
+              "type": "text",
+              "text": "14515-HOTELES ELBA S.L."
+            }
+          ],
+          "content": "14515-HOTELES ELBA S.L. VS-6948-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b111",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8272646961658716,
+            "y0": 0.4362138078399968,
+            "x1": 0.8857548857344817,
+            "y1": 0.44557392359285075
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8272646961658716,
+                "y0": 0.4362138078399968,
+                "x1": 0.8857548857344817,
+                "y1": 0.44557392359285075
+              },
+              "type": "text",
+              "text": "VS-9087-MB-28079"
+            }
+          ],
+          "content": "VS-9087-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b112",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.586019194531808,
+            "y0": 0.43659877104664896,
+            "x1": 0.6015729951832187,
+            "y1": 0.46686648504523065
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.586019194531808,
+                "y0": 0.43659877104664896,
+                "x1": 0.6015729951832187,
+                "y1": 0.46686648504523065
+              },
+              "type": "text",
+              "text": "ARROQUIA NTRA. SRA"
+            }
+          ],
+          "content": "ARROQUIA NTRA. SRA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b113",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6551931890397464,
+            "y0": 0.4376822866031499,
+            "x1": 0.7097902632075961,
+            "y1": 0.48526743633208796
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6551931890397464,
+                "y0": 0.4376822866031499,
+                "x1": 0.7097902632075961,
+                "y1": 0.48526743633208796
+              },
+              "type": "text",
+              "text": "VS-8723-MB-28079"
+            },
+            {
+              "bbox": {
+                "x0": 0.660327975452851,
+                "y0": 0.4431038517635012,
+                "x1": 0.6727838018018276,
+                "y1": 0.45652841050214427
+              },
+              "type": "text",
+              "text": "Calle"
+            }
+          ],
+          "content": "Calle ARZOBISPO Calle ESPECIAL VS-8723-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b114",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7622130289123762,
+            "y0": 0.4421600756760817,
+            "x1": 0.7824882041253828,
+            "y1": 0.45797666238494783
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7622130289123762,
+                "y0": 0.4421600756760817,
+                "x1": 0.7824882041253828,
+                "y1": 0.45797666238494783
+              },
+              "type": "text",
+              "text": "ALCALA"
+            }
+          ],
+          "content": "Calle ALCALA VS-7142-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b116",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7248293496986461,
+            "y0": 0.452191774604985,
+            "x1": 0.7832322839384779,
+            "y1": 0.4652687789909556
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7248293496986461,
+                "y0": 0.452191774604985,
+                "x1": 0.7832322839384779,
+                "y1": 0.4652687789909556
+              },
+              "type": "text",
+              "text": "ALCALA Calle ALCALA VS-7142-MB-28079"
+            }
+          ],
+          "content": "ALCALA Calle ALCALA VS-7142-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b117",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8108886345166496,
+            "y0": 0.45298935892098946,
+            "x1": 0.8335586147668006,
+            "y1": 0.47113149313670777
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8108886345166496,
+                "y0": 0.45298935892098946,
+                "x1": 0.8335586147668006,
+                "y1": 0.47113149313670777
+              },
+              "type": "text",
+              "text": "HERMIDA"
+            }
+          ],
+          "content": "JAIME HERMIDA VS-9305-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b118",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6066775857158002,
+            "y0": 0.4567074075185707,
+            "x1": 0.606780733613275,
+            "y1": 0.4567945498489654
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6066775857158002,
+                "y0": 0.4567074075185707,
+                "x1": 0.606780733613275,
+                "y1": 0.4567945498489654
+              },
+              "type": "text",
+              "text": "M M"
+            }
+          ],
+          "content": "M M",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b119",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8404481458293901,
+            "y0": 0.45697778798546507,
+            "x1": 0.8988500547422092,
+            "y1": 0.466527847919379
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8404481458293901,
+                "y0": 0.45697778798546507,
+                "x1": 0.8988500547422092,
+                "y1": 0.466527847919379
+              },
+              "type": "text",
+              "text": "VS-6977-MB-28079"
+            }
+          ],
+          "content": "VS-6977-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b120",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7145088181199071,
+            "y0": 0.4644755807905825,
+            "x1": 0.7348147531432938,
+            "y1": 0.47990945172394645
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7145088181199071,
+                "y0": 0.4644755807905825,
+                "x1": 0.7348147531432938,
+                "y1": 0.47990945172394645
+              },
+              "type": "text",
+              "text": "ALCALA"
+            }
+          ],
+          "content": "Calle ALCALA VS-7142-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b121",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5963664871455778,
+            "y0": 0.46479243233383544,
+            "x1": 0.608939610904804,
+            "y1": 0.4869385101387419
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5963664871455778,
+                "y0": 0.46479243233383544,
+                "x1": 0.608939610904804,
+                "y1": 0.4869385101387419
+              },
+              "type": "text",
+              "text": "SRA"
+            },
+            {
+              "bbox": {
+                "x0": 0.6036369271933745,
+                "y0": 0.46815785173421215,
+                "x1": 0.6036392854455036,
+                "y1": 0.4681618391120588
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M NTRA. SRA CONCEPCION",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b122",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7634454207152558,
+            "y0": 0.4655078766661983,
+            "x1": 0.821935866615619,
+            "y1": 0.4795715758247746
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7634454207152558,
+                "y0": 0.4655078766661983,
+                "x1": 0.821935866615619,
+                "y1": 0.4795715758247746
+              },
+              "type": "text",
+              "text": "Calle JAIME HERMIDA VS-9305-MB-28079"
+            }
+          ],
+          "content": "Calle JAIME HERMIDA VS-9305-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b124",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7557515206112262,
+            "y0": 0.46928627966482245,
+            "x1": 0.7557538788633553,
+            "y1": 0.46929026704266913
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7557515206112262,
+                "y0": 0.46928627966482245,
+                "x1": 0.7557538788633553,
+                "y1": 0.46929026704266913
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b125",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7840373707088271,
+            "y0": 0.4739479593542652,
+            "x1": 0.7965201118918862,
+            "y1": 0.48632550516814915
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7840373707088271,
+                "y0": 0.4739479593542652,
+                "x1": 0.7965201118918862,
+                "y1": 0.48632550516814915
+              },
+              "type": "text",
+              "text": "Calle"
+            }
+          ],
+          "content": "Calle JAIME VS-9305-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b126",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7023330085780909,
+            "y0": 0.47406098339177377,
+            "x1": 0.7147856564133281,
+            "y1": 0.48573649696241555
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7023330085780909,
+                "y0": 0.47406098339177377,
+                "x1": 0.7147856564133281,
+                "y1": 0.48573649696241555
+              },
+              "type": "text",
+              "text": "Calle"
+            }
+          ],
+          "content": "Calle ALCALA VS-8723-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b127",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.812829065888129,
+            "y0": 0.48276673419109806,
+            "x1": 0.8369825405265628,
+            "y1": 0.5033268868308219
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.812829065888129,
+                "y0": 0.48276673419109806,
+                "x1": 0.8369825405265628,
+                "y1": 0.5033268868308219
+              },
+              "type": "text",
+              "text": "Calle CAUNEDO"
+            }
+          ],
+          "content": "Calle CAUNEDO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b128",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5968741778159017,
+            "y0": 0.48486445742734674,
+            "x1": 0.6554117374924971,
+            "y1": 0.5476409730187916
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5987892836101683,
+                "y0": 0.48486445742734674,
+                "x1": 0.6510727586402769,
+                "y1": 0.5476409730187916
+              },
+              "type": "text",
+              "text": "CONCEPCION EMB-0158-28079 ERM-B19-0161"
+            },
+            {
+              "bbox": {
+                "x0": 0.5968741778159017,
+                "y0": 0.4987464409027829,
+                "x1": 0.6554117374924971,
+                "y1": 0.5094990939952555
+              },
+              "type": "text",
+              "text": "VS-8723-MB-28079 VS-0422-BP-28079 VS-0420-MB-28079"
+            },
+            {
+              "bbox": {
+                "x0": 0.6251144008614388,
+                "y0": 0.5137457601486378,
+                "x1": 0.6267714831129666,
+                "y1": 0.5143317596965417
+              },
+              "type": "text",
+              "text": "M M"
+            }
+          ],
+          "content": "SRA CONCEPCION M M VS-8723-MB-28079 VS-0422-BP-28079 VS-0420-MB-28079 VS-0878/B19 ERM-B19-0161 EMB-0158-28079 Escala: 1:5000",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b129",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6939976638949343,
+            "y0": 0.4958463847460033,
+            "x1": 0.7021538839489773,
+            "y1": 0.5134478305257119
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6939976638949343,
+                "y0": 0.4958463847460033,
+                "x1": 0.7021538839489773,
+                "y1": 0.5134478305257119
+              },
+              "type": "text",
+              "text": "Calle APOLO"
+            }
+          ],
+          "content": "Calle APOLO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b130",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8011450031815898,
+            "y0": 0.4979221774040952,
+            "x1": 0.8136215924025729,
+            "y1": 0.5109070371129181
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8011450031815898,
+                "y0": 0.4979221774040952,
+                "x1": 0.8136215924025729,
+                "y1": 0.5109070371129181
+              },
+              "type": "text",
+              "text": "Calle CAUNEDO"
+            }
+          ],
+          "content": "Calle CAUNEDO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b131",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7255889632159833,
+            "y0": 0.49839533415893805,
+            "x1": 0.7840794091163465,
+            "y1": 0.507755449911792
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7255889632159833,
+                "y0": 0.49839533415893805,
+                "x1": 0.7840794091163465,
+                "y1": 0.507755449911792
+              },
+              "type": "text",
+              "text": "VS-9178-MB-28079"
+            }
+          ],
+          "content": "VS-9178-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b133",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6570744590425948,
+            "y0": 0.5032455805716392,
+            "x1": 0.6570768172947239,
+            "y1": 0.5032495679494858
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6570744590425948,
+                "y0": 0.5032455805716392,
+                "x1": 0.6570768172947239,
+                "y1": 0.5032495679494858
+              },
+              "type": "text",
+              "text": "M"
+            }
+          ],
+          "content": "M",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b134",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5770938254192101,
+            "y0": 0.5056296700350584,
+            "x1": 0.5873700116046511,
+            "y1": 0.5230152174288141
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5770938254192101,
+                "y0": 0.5056296700350584,
+                "x1": 0.5873700116046511,
+                "y1": 0.5230152174288141
+              },
+              "type": "text",
+              "text": "Calle LUVA"
+            }
+          ],
+          "content": "Calle LUVA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b135",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7275721507238911,
+            "y0": 0.5119487939486974,
+            "x1": 0.7502622786498412,
+            "y1": 0.5315746314611652
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7275721507238911,
+                "y0": 0.5119487939486974,
+                "x1": 0.7502622786498412,
+                "y1": 0.5315746314611652
+              },
+              "type": "text",
+              "text": "Calle MOVINDA"
+            }
+          ],
+          "content": "Calle MOVINDA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b136",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6979889030908073,
+            "y0": 0.5131355100936483,
+            "x1": 0.7078859233469627,
+            "y1": 0.5382777761103289
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6979889030908073,
+                "y0": 0.5131355100936483,
+                "x1": 0.7078859233469627,
+                "y1": 0.5382777761103289
+              },
+              "type": "text",
+              "text": "Calle APOLO"
+            }
+          ],
+          "content": "Calle APOLO",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b138",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5840376988134711,
+            "y0": 0.5209268101571708,
+            "x1": 0.5951771590772303,
+            "y1": 0.5402141917882346
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5840376988134711,
+                "y0": 0.5209268101571708,
+                "x1": 0.5951771590772303,
+                "y1": 0.5402141917882346
+              },
+              "type": "text",
+              "text": "Calle LUVA"
+            }
+          ],
+          "content": "Calle LUVA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b139",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8690100652251526,
+            "y0": 0.5238050807313518,
+            "x1": 0.8717622479925635,
+            "y1": 0.5308049587900875
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8690100652251526,
+                "y0": 0.5238050807313518,
+                "x1": 0.8717622479925635,
+                "y1": 0.5308049587900875
+              },
+              "type": "text",
+              "text": "0"
+            }
+          ],
+          "content": "0",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b140",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.9105622626752463,
+            "y0": 0.5238050807313518,
+            "x1": 0.925693731130138,
+            "y1": 0.5308049587900875
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.9105622626752463,
+                "y0": 0.5238050807313518,
+                "x1": 0.925693731130138,
+                "y1": 0.5308049587900875
+              },
+              "type": "text",
+              "text": "100 m."
+            }
+          ],
+          "content": "100 m.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b141",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.958178961807184,
+            "y0": 0.5238050807313518,
+            "x1": 0.9733104302620756,
+            "y1": 0.5308049587900875
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.958178961807184,
+                "y0": 0.5238050807313518,
+                "x1": 0.9733104302620756,
+                "y1": 0.5308049587900875
+              },
+              "type": "text",
+              "text": "200 m."
+            }
+          ],
+          "content": "200 m.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b142",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7158885494145075,
+            "y0": 0.5261727131989311,
+            "x1": 0.7283664715606072,
+            "y1": 0.5391645326945409
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7158885494145075,
+                "y0": 0.5261727131989311,
+                "x1": 0.7283664715606072,
+                "y1": 0.5391645326945409
+              },
+              "type": "text",
+              "text": "Calle MOVINDA"
+            }
+          ],
+          "content": "Calle MOVINDA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b143",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8902019340538374,
+            "y0": 0.5323507926834662,
+            "x1": 0.8984552013096296,
+            "y1": 0.5370174022218829
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8902019340538374,
+                "y0": 0.5323507926834662,
+                "x1": 0.8984552013096296,
+                "y1": 0.5370174022218829
+              },
+              "type": "text",
+              "text": "50 m."
+            }
+          ],
+          "content": "50 m.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b144",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.743350190392973,
+            "y0": 0.5349095655454595,
+            "x1": 0.8017520480394414,
+            "y1": 0.5444596254793734
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.743350190392973,
+                "y0": 0.5349095655454595,
+                "x1": 0.8017520480394414,
+                "y1": 0.5444596254793734
+              },
+              "type": "text",
+              "text": "VS-7092-MB-28079"
+            }
+          ],
+          "content": "VS-7092-MB-28079",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b2",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5834698214475034,
+            "y0": 0.5379338103977185,
+            "x1": 0.9145569367166118,
+            "y1": 0.6086461866240728
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 91.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5842677309287637,
+                "y0": 0.5402559505089561,
+                "x1": 0.6554553138905357,
+                "y1": 0.5554745392874889
+              },
+              "type": "text",
+              "text": "Escala: 1:5000"
+            },
+            {
+              "bbox": {
+                "x0": 0.6314644048499608,
+                "y0": 0.5443389891750666,
+                "x1": 0.7273268925024603,
+                "y1": 0.5640302559331095
+              },
+              "type": "text",
+              "text": "MOVINDA CONCEPCION MAD01-C/ Hnos Gª Noblejas, 2"
+            },
+            {
+              "bbox": {
+                "x0": 0.844433233063187,
+                "y0": 0.5496134200928755,
+                "x1": 0.9029233713654464,
+                "y1": 0.5589735358457294
+              },
+              "type": "text",
+              "text": "VS-8499-MB-28079"
+            },
+            {
+              "bbox": {
+                "x0": 0.6661048729076408,
+                "y0": 0.5586398648177413,
+                "x1": 0.6785814108622733,
+                "y1": 0.571661227158306
+              },
+              "type": "text",
+              "text": "Calle"
+            },
+            {
+              "bbox": {
+                "x0": 0.7142402621249622,
+                "y0": 0.5810248875220447,
+                "x1": 0.864319216671705,
+                "y1": 0.5937534444808145
+              },
+              "type": "caption",
+              "text": "CARACTERÍSTICAS DE LA INSTALACIÓN"
+            },
+            {
+              "bbox": {
+                "x0": 0.5834698214475034,
+                "y0": 0.5979123829541482,
+                "x1": 0.6796625669307841,
+                "y1": 0.6086461866240728
+              },
+              "type": "text",
+              "text": "Canalización de profundidad"
+            }
+          ],
+          "content": "LUVA APOLO Calle Calle ARGOS Calle MOVINDA CONCEPCION MAD01-C/ Hnos Gª Noblejas, 2 VS-7092-MB-28079 VS-8499-MB-28079 Escala: 1:5000 CARACTERÍSTICAS DE LA INSTALACIÓN Canalización de profundidad => 0.60 Acometidas de profundidad =>0,30",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b160",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.580681188304792,
+            "y0": 0.598922023273817,
+            "x1": 0.9565108572902699,
+            "y1": 0.6521554387181349
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 98.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6856998461804416,
+                "y0": 0.598922023273817,
+                "x1": 0.7114464226648126,
+                "y1": 0.6096558631926311
+              },
+              "type": "text",
+              "text": "=> 0.60"
+            },
+            {
+              "bbox": {
+                "x0": 0.580681188304792,
+                "y0": 0.6216641778179125,
+                "x1": 0.6000982673408943,
+                "y1": 0.6288223185282719
+              },
+              "type": "text",
+              "text": "Longitud"
+            },
+            {
+              "bbox": {
+                "x0": 0.6307840491107031,
+                "y0": 0.6219492390850606,
+                "x1": 0.6487838186171907,
+                "y1": 0.62910737979542
+              },
+              "type": "text",
+              "text": "Material"
+            },
+            {
+              "bbox": {
+                "x0": 0.7646129605845841,
+                "y0": 0.6224124998930658,
+                "x1": 0.7859940535134573,
+                "y1": 0.6295706406034252
+              },
+              "type": "text",
+              "text": "Unidades"
+            },
+            {
+              "bbox": {
+                "x0": 0.7003989342340899,
+                "y0": 0.6227212679339569,
+                "x1": 0.7209296209386541,
+                "y1": 0.6298794086443161
+              },
+              "type": "text",
+              "text": "Diámetro"
+            },
+            {
+              "bbox": {
+                "x0": 0.8157909792959818,
+                "y0": 0.6229112846127959,
+                "x1": 0.8352080583320841,
+                "y1": 0.6300694253231552
+              },
+              "type": "text",
+              "text": "Longitud"
+            },
+            {
+              "bbox": {
+                "x0": 0.9353071972009392,
+                "y0": 0.623030108472627,
+                "x1": 0.9558382427699579,
+                "y1": 0.6301882491829863
+              },
+              "type": "text",
+              "text": "Diámetro"
+            },
+            {
+              "bbox": {
+                "x0": 0.86794331500117,
+                "y0": 0.62326768369451,
+                "x1": 0.8859434433721118,
+                "y1": 0.6304258244048694
+              },
+              "type": "text",
+              "text": "Material"
+            },
+            {
+              "bbox": {
+                "x0": 0.7826214453706793,
+                "y0": 0.6406376440657741,
+                "x1": 0.7868416913548323,
+                "y1": 0.6513714477356987
+              },
+              "type": "text",
+              "text": "1"
+            },
+            {
+              "bbox": {
+                "x0": 0.6315147996726336,
+                "y0": 0.6406852026088181,
+                "x1": 0.6665292044918346,
+                "y1": 0.6514190062787426
+              },
+              "type": "text",
+              "text": "Polietileno"
+            },
+            {
+              "bbox": {
+                "x0": 0.8262903279057306,
+                "y0": 0.6408989985591791,
+                "x1": 0.8410611375839153,
+                "y1": 0.6516328022291037
+              },
+              "type": "text",
+              "text": "3.80"
+            },
+            {
+              "bbox": {
+                "x0": 0.8701523820499691,
+                "y0": 0.6410890152380182,
+                "x1": 0.9051667868691701,
+                "y1": 0.6518228189079428
+              },
+              "type": "text",
+              "text": "Canalización de profundidad => 0.60 Acometidas de profundidad =>0,30 Longitud Material Diámetro Unidades Longitud Material Diámetro 10.00 Polietileno 110mm 1 3.80 Polietileno 63mm"
+            },
+            {
+              "bbox": {
+                "x0": 0.9354248022092926,
+                "y0": 0.6413265904599013,
+                "x1": 0.9565108572902699,
+                "y1": 0.6520603941298259
+              },
+              "type": "text",
+              "text": "63mm"
+            },
+            {
+              "bbox": {
+                "x0": 0.7004409213752588,
+                "y0": 0.6413621868694053,
+                "x1": 0.7257291766849661,
+                "y1": 0.6520959905393299
+              },
+              "type": "text",
+              "text": "110mm"
+            },
+            {
+              "bbox": {
+                "x0": 0.5874343508746962,
+                "y0": 0.6414216350482103,
+                "x1": 0.6064254578033845,
+                "y1": 0.6521554387181349
+              },
+              "type": "text",
+              "text": "10.00"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <th colspan=\"3\" data-cell-id=\"r0c0\">Canalización de profundidad =&gt; 0.60</th>\n    <th colspan=\"4\" data-cell-id=\"r0c3\">Acometidas de profundidad =&gt;0,30</th>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">Longitud</td>\n    <td data-cell-id=\"r1c1\">Material</td>\n    <td data-cell-id=\"r1c2\">Diámetro</td>\n    <td data-cell-id=\"r1c3\">Unidades</td>\n    <td data-cell-id=\"r1c4\">Longitud</td>\n    <td data-cell-id=\"r1c5\">Material</td>\n    <td data-cell-id=\"r1c6\">Diámetro</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">10.00</td>\n    <td data-cell-id=\"r2c1\">Polietileno</td>\n    <td data-cell-id=\"r2c2\">110mm</td>\n    <td data-cell-id=\"r2c3\">1</td>\n    <td data-cell-id=\"r2c4\">3.80</td>\n    <td data-cell-id=\"r2c5\">Polietileno</td>\n    <td data-cell-id=\"r2c6\">63mm</td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Canalización de profundidad =&gt; 0.60"
+              },
+              {
+                "cell_id": "r0c3",
+                "text": "Acometidas de profundidad =&gt;0,30"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "Longitud"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "Material"
+              },
+              {
+                "cell_id": "r1c2",
+                "text": "Diámetro"
+              },
+              {
+                "cell_id": "r1c3",
+                "text": "Unidades"
+              },
+              {
+                "cell_id": "r1c4",
+                "text": "Longitud"
+              },
+              {
+                "cell_id": "r1c5",
+                "text": "Material"
+              },
+              {
+                "cell_id": "r1c6",
+                "text": "Diámetro"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "10.00"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "Polietileno"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "110mm"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "1"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": "3.80"
+              },
+              {
+                "cell_id": "r2c5",
+                "text": "Polietileno"
+              },
+              {
+                "cell_id": "r2c6",
+                "text": "63mm"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b164",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5799840172025265,
+            "y0": 0.7233325257080749,
+            "x1": 0.9649653962386494,
+            "y1": 0.8798336262968584
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.580916347055148,
+                "y0": 0.7233325257080749,
+                "x1": 0.7142254689999555,
+                "y1": 0.7528455740758382
+              },
+              "type": "text",
+              "text": "Datos establecidos para la canalización Apertura zanja (m) Pavimentos (m2) Canalización Acometidas TOTAL Aglomerado asfáltico Acera Pavimentada 10.00 3.80 13.80 Losas de Piedra Acera no Pavimentada 0.00 Adoquines Calzada Pavimentada 0.00 Hormigón Calzada no Pavimentada 0.00 Tierra TOTAL 13.80 Losetas normales Losetas especiales 4.42 TOTAL 4.42"
+            },
+            {
+              "bbox": {
+                "x0": 0.7201545249834256,
+                "y0": 0.7426106276234228,
+                "x1": 0.7830029182857434,
+                "y1": 0.7533444312933474
+              },
+              "type": "text",
+              "text": "Apertura zanja (m)"
+            },
+            {
+              "bbox": {
+                "x0": 0.7911637010449928,
+                "y0": 0.7431094848409319,
+                "x1": 0.834611010412606,
+                "y1": 0.7538432885108565
+              },
+              "type": "text",
+              "text": "Canalización"
+            },
+            {
+              "bbox": {
+                "x0": 0.8648439565072686,
+                "y0": 0.743406435743841,
+                "x1": 0.9044958128720784,
+                "y1": 0.7541402394137655
+              },
+              "type": "text",
+              "text": "Acometidas"
+            },
+            {
+              "bbox": {
+                "x0": 0.9276300611935667,
+                "y0": 0.7448353669685329,
+                "x1": 0.9477424657433119,
+                "y1": 0.7536669014144751
+              },
+              "type": "text",
+              "text": "TOTAL"
+            },
+            {
+              "bbox": {
+                "x0": 0.8816176912383551,
+                "y0": 0.7590973475527577,
+                "x1": 0.8963886547155917,
+                "y1": 0.7698311512226823
+              },
+              "type": "text",
+              "text": "3.80"
+            },
+            {
+              "bbox": {
+                "x0": 0.9459744943753636,
+                "y0": 0.7595605358629839,
+                "x1": 0.9649653962386494,
+                "y1": 0.7702943395329084
+              },
+              "type": "text",
+              "text": "13.80"
+            },
+            {
+              "bbox": {
+                "x0": 0.8086178427816876,
+                "y0": 0.7597862939468849,
+                "x1": 0.8276089497103759,
+                "y1": 0.7705200976168095
+              },
+              "type": "text",
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "x0": 0.5799840172025265,
+                "y0": 0.7645925342077146,
+                "x1": 0.6272464145852358,
+                "y1": 0.7717506749180739
+              },
+              "type": "text",
+              "text": "Aglomerado asfáltico"
+            },
+            {
+              "bbox": {
+                "x0": 0.7207760782185066,
+                "y0": 0.7653527459186288,
+                "x1": 0.7649456792001957,
+                "y1": 0.7725108866289881
+              },
+              "type": "text",
+              "text": "Acera Pavimentada"
+            },
+            {
+              "bbox": {
+                "x0": 0.9481499306981472,
+                "y0": 0.7744080810084383,
+                "x1": 0.9629208941753838,
+                "y1": 0.7851418846783629
+              },
+              "type": "text",
+              "text": "0.00"
+            },
+            {
+              "bbox": {
+                "x0": 0.5799840172025265,
+                "y0": 0.7792143937670469,
+                "x1": 0.6165606102582327,
+                "y1": 0.7863725344774063
+              },
+              "type": "text",
+              "text": "Losas de Piedra"
+            },
+            {
+              "bbox": {
+                "x0": 0.7207760782185066,
+                "y0": 0.7811980054991016,
+                "x1": 0.7719814731611426,
+                "y1": 0.7883561462094609
+              },
+              "type": "text",
+              "text": "Acera no Pavimentada"
+            },
+            {
+              "bbox": {
+                "x0": 0.9481499306981472,
+                "y0": 0.7902653027224511,
+                "x1": 0.9629208941753838,
+                "y1": 0.8009991063923757
+              },
+              "type": "text",
+              "text": "0.00"
+            },
+            {
+              "bbox": {
+                "x0": 0.5799840172025265,
+                "y0": 0.7950716154810598,
+                "x1": 0.6039013077635916,
+                "y1": 0.8022297561914191
+              },
+              "type": "text",
+              "text": "Adoquines"
+            },
+            {
+              "bbox": {
+                "x0": 0.7207760782185066,
+                "y0": 0.7970552272131143,
+                "x1": 0.7702910165153524,
+                "y1": 0.8042133679234736
+              },
+              "type": "text",
+              "text": "Calzada Pavimentada"
+            },
+            {
+              "bbox": {
+                "x0": 0.9486119430500567,
+                "y0": 0.806550116337186,
+                "x1": 0.9633829065272933,
+                "y1": 0.8172839200071106
+              },
+              "type": "text",
+              "text": "0.00"
+            },
+            {
+              "bbox": {
+                "x0": 0.5799840172025265,
+                "y0": 0.8104061282082623,
+                "x1": 0.6019219139656307,
+                "y1": 0.8175642689186217
+              },
+              "type": "text",
+              "text": "Hormigón"
+            },
+            {
+              "bbox": {
+                "x0": 0.7207760782185066,
+                "y0": 0.8129123764293481,
+                "x1": 0.7773269130090005,
+                "y1": 0.8200705171397075
+              },
+              "type": "text",
+              "text": "Calzada no Pavimentada"
+            },
+            {
+              "bbox": {
+                "x0": 0.9459492713308519,
+                "y0": 0.8220152700622017,
+                "x1": 0.9649401731941377,
+                "y1": 0.8327490737321263
+              },
+              "type": "text",
+              "text": "13.80"
+            },
+            {
+              "bbox": {
+                "x0": 0.5799840172025265,
+                "y0": 0.8262633499222751,
+                "x1": 0.5931964323541529,
+                "y1": 0.8334214906326345
+              },
+              "type": "text",
+              "text": "Tierra"
+            },
+            {
+              "bbox": {
+                "x0": 0.7207760782185066,
+                "y0": 0.8295654062637791,
+                "x1": 0.7370803669768418,
+                "y1": 0.8367235469741384
+              },
+              "type": "text",
+              "text": "TOTAL"
+            },
+            {
+              "bbox": {
+                "x0": 0.5799840172025265,
+                "y0": 0.8421204991385088,
+                "x1": 0.6199318342095437,
+                "y1": 0.8492786398488682
+              },
+              "type": "text",
+              "text": "Losetas normales"
+            },
+            {
+              "bbox": {
+                "x0": 0.6669942415584315,
+                "y0": 0.8546442729726975,
+                "x1": 0.6817650512366161,
+                "y1": 0.865378076642622
+              },
+              "type": "text",
+              "text": "4.42"
+            },
+            {
+              "bbox": {
+                "x0": 0.5799840172025265,
+                "y0": 0.8579657587189816,
+                "x1": 0.6230299623110297,
+                "y1": 0.865123899429341
+              },
+              "type": "text",
+              "text": "Losetas especiales"
+            },
+            {
+              "bbox": {
+                "x0": 0.6682289403470896,
+                "y0": 0.8690998226269339,
+                "x1": 0.6829997500252744,
+                "y1": 0.8798336262968584
+              },
+              "type": "text",
+              "text": "4.42"
+            },
+            {
+              "bbox": {
+                "x0": 0.5812187159911847,
+                "y0": 0.872540132233049,
+                "x1": 0.5975230047495198,
+                "y1": 0.8796982729434084
+              },
+              "type": "text",
+              "text": "TOTAL"
+            }
+          ],
+          "content": "<table>\n  <thead>\n    <tr>\n      <th colspan=\"2\" data-cell-id=\"r0c0\">Datos establecidos para la canalización</th>\n      <th colspan=\"4\" data-cell-id=\"r0c2\">Apertura zanja (m)</th>\n    </tr>\n    <tr>\n      <th data-cell-id=\"r1c0\">Pavimentos (m2)</th>\n      <th data-cell-id=\"r1c1\"></th>\n      <th data-cell-id=\"r1c2\"></th>\n      <th data-cell-id=\"r1c3\">Canalización</th>\n      <th data-cell-id=\"r1c4\">Acometidas</th>\n      <th data-cell-id=\"r1c5\">TOTAL</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r2c0\">Aglomerado asfáltico</td>\n      <td data-cell-id=\"r2c1\"></td>\n      <td data-cell-id=\"r2c2\">Acera Pavimentada</td>\n      <td data-cell-id=\"r2c3\">10.00</td>\n      <td data-cell-id=\"r2c4\">3.80</td>\n      <td data-cell-id=\"r2c5\">13.80</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">Losas de Piedra</td>\n      <td data-cell-id=\"r3c1\"></td>\n      <td data-cell-id=\"r3c2\">Acera no Pavimentada</td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">0.00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">Adoquines</td>\n      <td data-cell-id=\"r4c1\"></td>\n      <td data-cell-id=\"r4c2\">Calzada Pavimentada</td>\n      <td data-cell-id=\"r4c3\"></td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\">0.00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">Hormigón</td>\n      <td data-cell-id=\"r5c1\"></td>\n      <td data-cell-id=\"r5c2\">Calzada no Pavimentada</td>\n      <td data-cell-id=\"r5c3\"></td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\">0.00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">Tierra</td>\n      <td data-cell-id=\"r6c1\"></td>\n      <td data-cell-id=\"r6c2\">TOTAL</td>\n      <td data-cell-id=\"r6c3\"></td>\n      <td data-cell-id=\"r6c4\"></td>\n      <td data-cell-id=\"r6c5\">13.80</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\">Losetas normales</td>\n      <td data-cell-id=\"r7c1\"></td>\n      <td data-cell-id=\"r7c2\"></td>\n      <td data-cell-id=\"r7c3\"></td>\n      <td data-cell-id=\"r7c4\"></td>\n      <td data-cell-id=\"r7c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">Losetas especiales</td>\n      <td data-cell-id=\"r8c1\">4.42</td>\n      <td data-cell-id=\"r8c2\"></td>\n      <td data-cell-id=\"r8c3\"></td>\n      <td data-cell-id=\"r8c4\"></td>\n      <td data-cell-id=\"r8c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\">TOTAL</td>\n      <td data-cell-id=\"r9c1\">4.42</td>\n      <td data-cell-id=\"r9c2\"></td>\n      <td data-cell-id=\"r9c3\"></td>\n      <td data-cell-id=\"r9c4\"></td>\n      <td data-cell-id=\"r9c5\"></td>\n    </tr>\n  </tbody>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Datos establecidos para la canalización"
+              },
+              {
+                "cell_id": "r0c2",
+                "text": "Apertura zanja (m)"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "Pavimentos (m2)"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r1c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r1c3",
+                "text": "Canalización"
+              },
+              {
+                "cell_id": "r1c4",
+                "text": "Acometidas"
+              },
+              {
+                "cell_id": "r1c5",
+                "text": "TOTAL"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "Aglomerado asfáltico"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "Acera Pavimentada"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "10.00"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": "3.80"
+              },
+              {
+                "cell_id": "r2c5",
+                "text": "13.80"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "Losas de Piedra"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "Acera no Pavimentada"
+              },
+              {
+                "cell_id": "r3c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c5",
+                "text": "0.00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "Adoquines"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c2",
+                "text": "Calzada Pavimentada"
+              },
+              {
+                "cell_id": "r4c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c5",
+                "text": "0.00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "Hormigón"
+              },
+              {
+                "cell_id": "r5c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c2",
+                "text": "Calzada no Pavimentada"
+              },
+              {
+                "cell_id": "r5c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c5",
+                "text": "0.00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "Tierra"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r6c2",
+                "text": "TOTAL"
+              },
+              {
+                "cell_id": "r6c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r6c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r6c5",
+                "text": "13.80"
+              }
+            ],
+            [
+              {
+                "cell_id": "r7c0",
+                "text": "Losetas normales"
+              },
+              {
+                "cell_id": "r7c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r7c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r7c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r7c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r7c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r8c0",
+                "text": "Losetas especiales"
+              },
+              {
+                "cell_id": "r8c1",
+                "text": "4.42"
+              },
+              {
+                "cell_id": "r8c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r8c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r8c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r8c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r9c0",
+                "text": "TOTAL"
+              },
+              {
+                "cell_id": "r9c1",
+                "text": "4.42"
+              },
+              {
+                "cell_id": "r9c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r9c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r9c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r9c5",
+                "text": ""
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b191",
+          "type": "section-header",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7576917981836537,
+            "y0": 0.8891212442706817,
+            "x1": 0.8065827737269387,
+            "y1": 0.903932468028842
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7576917981836537,
+                "y0": 0.8891212442706817,
+                "x1": 0.8065827737269387,
+                "y1": 0.903932468028842
+              },
+              "type": "section-header",
+              "text": "LEYENDA"
+            }
+          ],
+          "content": "## LEYENDA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b192",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6256099926730132,
+            "y0": 0.9213420121874566,
+            "x1": 0.6797198314444417,
+            "y1": 0.9263486363095267
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6256099926730132,
+                "y0": 0.9213420121874566,
+                "x1": 0.6797198314444417,
+                "y1": 0.9263486363095267
+              },
+              "type": "text",
+              "text": "Acometida.Traza - Obra ejecutada"
+            }
+          ],
+          "content": "Acometida.Traza - Obra ejecutada",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b193",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7542396246646924,
+            "y0": 0.9213420121874566,
+            "x1": 0.7996802210112882,
+            "y1": 0.9263486363095267
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7542396246646924,
+                "y0": 0.9213420121874566,
+                "x1": 0.7996802210112882,
+                "y1": 0.9263486363095267
+              },
+              "type": "text",
+              "text": "Acometida.Traza - A sustituir"
+            }
+          ],
+          "content": "Acometida.Traza - A sustituir",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b194",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8828607977085172,
+            "y0": 0.9213420121874566,
+            "x1": 0.9448373041856104,
+            "y1": 0.9263486363095267
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8828607977085172,
+                "y0": 0.9213420121874566,
+                "x1": 0.9448373041856104,
+                "y1": 0.9263486363095267
+              },
+              "type": "text",
+              "text": "Subtramos de red.Traza - Por canalizar"
+            }
+          ],
+          "content": "Subtramos de red.Traza - Por canalizar",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b195",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6256099926730132,
+            "y0": 0.929074625298854,
+            "x1": 0.6761724050460034,
+            "y1": 0.934081249420924
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6256099926730132,
+                "y0": 0.929074625298854,
+                "x1": 0.6761724050460034,
+                "y1": 0.934081249420924
+              },
+              "type": "text",
+              "text": "Acometida.Traza - Por canalizar"
+            }
+          ],
+          "content": "Acometida.Traza - Por canalizar",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b196",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7542396246646924,
+            "y0": 0.929074625298854,
+            "x1": 0.819763711339276,
+            "y1": 0.934081249420924
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7542396246646924,
+                "y0": 0.929074625298854,
+                "x1": 0.819763711339276,
+                "y1": 0.934081249420924
+              },
+              "type": "text",
+              "text": "Subtramos de red.Traza - Obra ejecutada"
+            }
+          ],
+          "content": "Subtramos de red.Traza - Obra ejecutada",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b197",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.8828607977085172,
+            "y0": 0.929074625298854,
+            "x1": 0.9456253705275492,
+            "y1": 0.934081249420924
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8828607977085172,
+                "y0": 0.929074625298854,
+                "x1": 0.9456253705275492,
+                "y1": 0.934081249420924
+              },
+              "type": "text",
+              "text": "Subtramos de red.Traza - A dar de Baja"
+            }
+          ],
+          "content": "Subtramos de red.Traza - A dar de Baja",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [
+      {
+        "category": "Plano",
+        "confidence": 99.0,
+        "evidence": "Mapa técnico de canalización de gas con trazado de tuberías PE 63, PE 160 y PE 200, calles y edificios identificados, cotas y escalas 1:250 y 1:5000. Incluye la leyenda de trazas «Subtramos de red. Traza - Por canalizar» y «Acometida. Traza - Por canalizar»."
+      }
+    ],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "descripcion_de_la_obra": {
+            "value": "Desplazamiento de 3º",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Tipo Obra Desplazamiento de 3º",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_proyecto_contratista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "ubicacion_de_la_obra": {
+            "value": "PASTRANA 8B (DESPLAZAMIENTO RED)",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_obra": {
+            "value": "022025649558",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Código Obra 022025649558",
+                "page_number": 1
+              }
+            ]
+          },
+          "tipo_de_suministro": {
+            "value": "GAS NATURAL",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 93.0,
+            "evidence": [
+              {
+                "text": "TIPO DE GAS: GAS NATURAL MOP: 0.025 bar",
+                "page_number": 1
+              }
+            ]
+          },
+          "municipio": {
+            "value": "Madrid",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Municipio Madrid",
+                "page_number": 1
+              }
+            ]
+          },
+          "potencia": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "motivo_de_la_obra": {
+            "value": "Desplazamiento de red",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "profundidad_m": {
+            "value": "0.6",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Canalización de profundidad => 0.60",
+                "page_number": 1
+              }
+            ]
+          },
+          "otras_unidades": {
+            "value": "Tierra",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Tierra TOTAL 13.80",
+                "page_number": 1
+              }
+            ]
+          },
+          "direccion": [
+            {
+              "tipo": {
+                "value": "Calle",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 1.0,
+                "evidence": [
+                  {
+                    "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "nombre": {
+                "value": "PASTRANA",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero": {
+                "value": "8B",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "categoria_fiscal": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "distrito": {
+                "value": "San Blas",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Distrito San Blas",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "barrio": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "descripcion_ubicacion": {
+                "value": "DESPLAZAMIENTO RED",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ],
+          "medidas_acera": [
+            {
+              "largo": {
+                "value": "10.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Aglomerado asfáltico Acera Pavimentada 10.00 3.80 13.80",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "ancho": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "tipo_pavimento": {
+                "value": "Aglomerado asfáltico",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Aglomerado asfáltico Acera Pavimentada 10.00 3.80 13.80",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "largo": {
+                "value": "3.8",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Aglomerado asfáltico Acera Pavimentada 10.00 3.80 13.80",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "ancho": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "tipo_pavimento": {
+                "value": "Aglomerado asfáltico",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Aglomerado asfáltico Acera Pavimentada 10.00 3.80 13.80",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ],
+          "medidas_calzada": []
+        },
+        "validations": [
+          {
+            "rule_id": "profundidad_razonable",
+            "description": "",
+            "severity": "warning",
+            "status": "pass",
+            "detail": "data.profundidad_m == null || (data.profundidad_m >= 0.2 && data.profundidad_m <= 3.0) is true.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "descripcion_de_la_obra": {
+        "value": "Desplazamiento de 3º",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Tipo Obra Desplazamiento de 3º",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_proyecto_contratista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "ubicacion_de_la_obra": {
+        "value": "PASTRANA 8B (DESPLAZAMIENTO RED)",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_obra": {
+        "value": "022025649558",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Código Obra 022025649558",
+            "page_number": 1
+          }
+        ]
+      },
+      "tipo_de_suministro": {
+        "value": "GAS NATURAL",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 93.0,
+        "evidence": [
+          {
+            "text": "TIPO DE GAS: GAS NATURAL MOP: 0.025 bar",
+            "page_number": 1
+          }
+        ]
+      },
+      "municipio": {
+        "value": "Madrid",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Municipio Madrid",
+            "page_number": 1
+          }
+        ]
+      },
+      "potencia": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "motivo_de_la_obra": {
+        "value": "Desplazamiento de red",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+            "page_number": 1
+          }
+        ]
+      },
+      "profundidad_m": {
+        "value": "0.6",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Canalización de profundidad => 0.60",
+            "page_number": 1
+          }
+        ]
+      },
+      "otras_unidades": {
+        "value": "Tierra",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Tierra TOTAL 13.80",
+            "page_number": 1
+          }
+        ]
+      },
+      "direccion": [
+        {
+          "tipo": {
+            "value": "Calle",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 1.0,
+            "evidence": [
+              {
+                "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "nombre": {
+            "value": "PASTRANA",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero": {
+            "value": "8B",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "categoria_fiscal": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "distrito": {
+            "value": "San Blas",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Distrito San Blas",
+                "page_number": 1
+              }
+            ]
+          },
+          "barrio": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "descripcion_ubicacion": {
+            "value": "DESPLAZAMIENTO RED",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Dirección PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ],
+      "medidas_acera": [
+        {
+          "largo": {
+            "value": "10.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Aglomerado asfáltico Acera Pavimentada 10.00 3.80 13.80",
+                "page_number": 1
+              }
+            ]
+          },
+          "ancho": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tipo_pavimento": {
+            "value": "Aglomerado asfáltico",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Aglomerado asfáltico Acera Pavimentada 10.00 3.80 13.80",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "largo": {
+            "value": "3.8",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Aglomerado asfáltico Acera Pavimentada 10.00 3.80 13.80",
+                "page_number": 1
+              }
+            ]
+          },
+          "ancho": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tipo_pavimento": {
+            "value": "Aglomerado asfáltico",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Aglomerado asfáltico Acera Pavimentada 10.00 3.80 13.80",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ],
+      "medidas_calzada": []
+    }
+  }
+}

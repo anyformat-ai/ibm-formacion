@@ -1,0 +1,2094 @@
+{
+  "id": "06acf4ad-abe0-7a8e-8000-9ef04ba4cd8f",
+  "workflow_id": "06acf4a9-8548-7384-8000-f0b4ea0c800a",
+  "document_packet_id": "06acf4ad-a9a1-7500-8000-41c3ef2af769",
+  "status": "processed",
+  "created_at": "2026-10-14T09:26:50.768128Z",
+  "updated_at": "2026-10-14T09:28:29.892491Z",
+  "results": {
+    "document_packet_id": "06acf4ad-a9a1-7500-8000-41c3ef2af769",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a/files/06acf4ad-a622-79b4-8000-75a6a76db859?versionId=pm8d3Iz-lw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\nSmartel\n\n<table>\n  <tr>\n    <td rowspan=\"2\" data-cell-id=\"r0c0\">\n      <img src=\"telefónica_logo.png\" alt=\"Telefónica Logo\"><br>\n      DIRECCIÓN OPERACIONES RED Y TI\n    </td>\n    <td colspan=\"2\" data-cell-id=\"r0c1\">\n      <u>INFORME TÉCNICO PARA: Ayuntamiento de Madrid</u>\n    </td>\n    <td rowspan=\"4\" data-cell-id=\"r0c3\">\n      <img src=\"smartel_logo.png\" alt=\"Smartel Logo\">\n    </td>\n  </tr>\n  <tr>\n    <td colspan=\"2\" style=\"text-align: center;\" data-cell-id=\"r1c1\">\n      <h1 style=\"color: #337ab7;\">MADRID</h1>\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\"></td>\n    <td data-cell-id=\"r2c1\">PROYECTO N° : 8570820</td>\n    <td data-cell-id=\"r2c2\">EDICIÓN: 1ª</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\"></td>\n    <td data-cell-id=\"r3c1\">FECHA: 03/12/2025</td>\n    <td data-cell-id=\"r3c2\">HOJA: 42</td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b1\"></a>\n\n# PLANOS\n\n<a id=\"p2_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nAerial satellite photograph of an urban area in Madrid, Spain, featuring a major multi-lane road running vertically through the center. A specific rectangular area containing a parking lot and adjacent buildings is highlighted with a red border.\n\n</figure-description>\n\n<a id=\"p3_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nTechnical site plan showing new infrastructure in Madrid, including two segments of PVC piping (6.20 m and 2.40 m) and a new manhole (arqueta) with specific coordinates.\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Element Type</th><th data-cell-id=\"r0c1\">ID / Reference</th><th data-cell-id=\"r0c2\">Details</th><th data-cell-id=\"r0c3\">Location / Path</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">Nueva canalización</td><td data-cell-id=\"r1c1\">ID 11573555</td><td data-cell-id=\"r1c2\">2 C.PVC 63 B2; 6,20 metros en acera</td><td data-cell-id=\"r1c3\">Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)</td></tr><tr><td data-cell-id=\"r2c0\">Nueva arqueta</td><td data-cell-id=\"r2c1\">ID 26456513</td><td data-cell-id=\"r2c2\">ARQ M 29621 (In situ); X: 441339, Y: 4477539</td><td data-cell-id=\"r2c3\"></td></tr><tr><td data-cell-id=\"r3c0\">Nueva canalización</td><td data-cell-id=\"r3c1\">ID 11573556</td><td data-cell-id=\"r3c2\">2 C.PVC 63 B2; 2,40 metros en acera</td><td data-cell-id=\"r3c3\">Desde Arqueta (ID: 26456513) Hacia Emplazamiento de Red (ID: 26456514)</td></tr></tbody></table>\n\n</figure-data>\n\n\n<a id=\"p3_b2\"></a>\n\n-\n\n<a id=\"p4_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nTechnical drawing showing a cross-section detail of a ducting installation (Detalle canalizado) for a Smartel project. It illustrates two 63mm PVC pipes embedded in HM-15/P/20 concrete, topped with compacted material, with specific depth requirements for sidewalk (0.45m) and roadway (0.60m).\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Elemento / Dimensión</th><th data-cell-id=\"r0c1\">Valor / Especificación</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">PROYECTO</td><td data-cell-id=\"r1c1\">8570820 M.AZ: 45867 VAR. INSTAL. CORTE INGLES CA</td></tr><tr><td data-cell-id=\"r2c0\">TÍTULO</td><td data-cell-id=\"r2c1\">Detalle canalizado</td></tr><tr><td data-cell-id=\"r3c0\">UNIDAD</td><td data-cell-id=\"r3c1\">OFICINA TÉCNICA SEVILLA</td></tr><tr><td data-cell-id=\"r4c0\">DIBUJADO</td><td data-cell-id=\"r4c1\">SMART TELECOM CONSULTING 2004 SL</td></tr><tr><td data-cell-id=\"r5c0\">FECHA</td><td data-cell-id=\"r5c1\">03/12/2025</td></tr><tr><td data-cell-id=\"r6c0\">HOJA</td><td data-cell-id=\"r6c1\">01 de 02</td></tr><tr><td data-cell-id=\"r7c0\">ESCALA</td><td data-cell-id=\"r7c1\">s/e</td></tr><tr><td data-cell-id=\"r8c0\">EDICIÓN</td><td data-cell-id=\"r8c1\">1</td></tr><tr><td data-cell-id=\"r9c0\">PLANO</td><td data-cell-id=\"r9c1\">03</td></tr><tr><td data-cell-id=\"r10c0\">Tubería</td><td data-cell-id=\"r10c1\">PVC. de 63mm</td></tr><tr><td data-cell-id=\"r11c0\">Hormigón</td><td data-cell-id=\"r11c1\">HM-15/P/20</td></tr><tr><td data-cell-id=\"r12c0\">Relleno</td><td data-cell-id=\"r12c1\">MATERIAL COMPACTADO</td></tr><tr><td data-cell-id=\"r13c0\">Profundidad en ACERA</td><td data-cell-id=\"r13c1\">0,45</td></tr><tr><td data-cell-id=\"r14c0\">Profundidad en CALZADA</td><td data-cell-id=\"r14c1\">0,60</td></tr><tr><td data-cell-id=\"r15c0\">Ancho total (suma de cotas horizontales)</td><td data-cell-id=\"r15c1\">0,29 (0,07 + 0,06 + 0,03 + 0,06 + 0,07)</td></tr><tr><td data-cell-id=\"r16c0\">Altura bloque hormigón (suma de cotas verticales)</td><td data-cell-id=\"r16c1\">0,18 (0,06 + 0,06 + 0,06)</td></tr></tbody></table>\n\n</figure-data>\n\n<a id=\"p5_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nTechnical architectural drawing showing multiple views and details of a metal frame (cerco) and its anchoring claws (garras). It includes a plan view of the frame, a cross-section A-A', a detailed view of the anchoring claw (Detalle 3), and a detail of the handle recess (Detalle de hueco para levantar el asa).\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Component / Detail</th><th data-cell-id=\"r0c1\">Dimension Label</th><th data-cell-id=\"r0c2\">Value (mm)</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">Cerco (Frame) - Plan View</td><td data-cell-id=\"r1c1\">Exterior Width</td><td data-cell-id=\"r1c2\">440</td></tr><tr><td data-cell-id=\"r2c0\">Cerco (Frame) - Plan View</td><td data-cell-id=\"r2c1\">Exterior Height</td><td data-cell-id=\"r2c2\">440</td></tr><tr><td data-cell-id=\"r3c0\">Cerco (Frame) - Section</td><td data-cell-id=\"r3c1\">Total Height</td><td data-cell-id=\"r3c2\">100</td></tr><tr><td data-cell-id=\"r4c0\">Cerco (Frame) - Section</td><td data-cell-id=\"r4c1\">Frame Profile Height</td><td data-cell-id=\"r4c2\">70</td></tr><tr><td data-cell-id=\"r5c0\">Cerco (Frame) - Profile Type</td><td data-cell-id=\"r5c1\">L-Profile</td><td data-cell-id=\"r5c2\">L 70x7</td></tr><tr><td data-cell-id=\"r6c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r6c1\">Total Length</td><td data-cell-id=\"r6c2\">85</td></tr><tr><td data-cell-id=\"r7c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r7c1\">Base Width</td><td data-cell-id=\"r7c2\">50</td></tr><tr><td data-cell-id=\"r8c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r8c1\">Top Width</td><td data-cell-id=\"r8c2\">50</td></tr><tr><td data-cell-id=\"r9c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r9c1\">Thickness</td><td data-cell-id=\"r9c2\">4</td></tr><tr><td data-cell-id=\"r10c0\">Secci3n A-A'</td><td data-cell-id=\"r10c1\">Total Width</td><td data-cell-id=\"r10c2\">630</td></tr><tr><td data-cell-id=\"r11c0\">Secci3n A-A'</td><td data-cell-id=\"r11c1\">Inner Width</td><td data-cell-id=\"r11c2\">300</td></tr><tr><td data-cell-id=\"r12c0\">Secci3n A-A'</td><td data-cell-id=\"r12c1\">Flange Width</td><td data-cell-id=\"r12c2\">100</td></tr><tr><td data-cell-id=\"r13c0\">Secci3n A-A'</td><td data-cell-id=\"r13c1\">Anchor Spacing</td><td data-cell-id=\"r13c2\">110</td></tr><tr><td data-cell-id=\"r14c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r14c1\">Total Width</td><td data-cell-id=\"r14c2\">70</td></tr><tr><td data-cell-id=\"r15c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r15c1\">Inner Width</td><td data-cell-id=\"r15c2\">13</td></tr><tr><td data-cell-id=\"r16c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r16c1\">Depth</td><td data-cell-id=\"r16c2\">12</td></tr><tr><td data-cell-id=\"r17c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r17c1\">Handle Width</td><td data-cell-id=\"r17c2\">20</td></tr></tbody></table>\n\n</figure-data>\n\n\n<a id=\"p5_b1\"></a>\n\n$2 \\varnothing 40$\n\n\n<a id=\"p5_b2\"></a>\n\n$4 \\varnothing 63$\n$63$\n$30$\n$63$\n\n\n<a id=\"p5_b3\"></a>\n\n$2 \\varnothing 40$\n\n\n<a id=\"p5_b4\"></a>\n\n$2 \\varnothing 40$\n$30$\n$40$\n\n\n<a id=\"p5_b5\"></a>\n\n**SECCIÓN B-B'**\n\n\n<a id=\"p5_b6\"></a>\n\n**SECCIÓN A-A'**\n\n\n<a id=\"p5_b7\"></a>\n\n$460$\n\n\n<a id=\"p5_b8\"></a>\n\n$460$\n\n\n<a id=\"p5_b9\"></a>\n\n$80$\n\n\n<a id=\"p5_b10\"></a>\n\n$300$\n\n\n<a id=\"p5_b11\"></a>\n\n$300$\n\n\n<a id=\"p5_b12\"></a>\n\n$80$\n\n\n<a id=\"p5_b13\"></a>\n\n$80$\n\n\n<a id=\"p5_b14\"></a>\n\nHM-20/P/25/I\n$55$\n$63$\n$80$\n\n\n<a id=\"p5_b15\"></a>\n\n$110$\n\n\n<a id=\"p5_b16\"></a>\n\n$63$\n\n\n<a id=\"p5_b17\"></a>\n\n$156$\n\n<a id=\"p6_b0\"></a>\n\n# LEYENDA\n\n\n<a id=\"p6_b1\"></a>\n\n## INFRAESTRUCTURAS:\n\n\n<a id=\"p6_b2\"></a>\n\n<figure-description>\n\n***figure-description:***\nLegend of symbols for a technical or utility plan, categorizing infrastructure elements like manholes, poles, pedestals, and braces by their status: existing, to be installed, or to be dismantled.\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Elemento</th><th data-cell-id=\"r0c1\">Existente</th><th data-cell-id=\"r0c2\">A Instalar / Pendiente</th><th data-cell-id=\"r0c3\">A Desmontar</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">Cámara de Registro</td><td data-cell-id=\"r1c1\">CÁMARA DE REGISTRO EXISTENTE</td><td data-cell-id=\"r1c2\">CÁMARA DE REGISTRO PENDIENTE DE INSTALAR</td><td data-cell-id=\"r1c3\"></td></tr><tr><td data-cell-id=\"r2c0\">Arqueta</td><td data-cell-id=\"r2c1\">ARQUETA EXISTENTE</td><td data-cell-id=\"r2c2\">ARQUETA PENDIENTE DE INSTALAR</td><td data-cell-id=\"r2c3\"></td></tr><tr><td data-cell-id=\"r3c0\">Poste de Madera</td><td data-cell-id=\"r3c1\">POSTE DE MADERA EXISTENTE</td><td data-cell-id=\"r3c2\">POSTE DE MADERA A INSTALAR</td><td data-cell-id=\"r3c3\">POSTE DE MADERA A DESMONTAR</td></tr><tr><td data-cell-id=\"r4c0\">Poste de Hormigón</td><td data-cell-id=\"r4c1\">POSTE DE HORMIGÓN EXISTENTE</td><td data-cell-id=\"r4c2\">POSTE DE HORMIGÓN A INSTALAR</td><td data-cell-id=\"r4c3\">POSTE DE HORMIGÓN A DESMONTAR</td></tr><tr><td data-cell-id=\"r5c0\">Pedestal</td><td data-cell-id=\"r5c1\">PEDESTAL EXISTENTE</td><td data-cell-id=\"r5c2\">PEDESTAL A INSTALAR</td><td data-cell-id=\"r5c3\"></td></tr><tr><td data-cell-id=\"r6c0\">Riostra</td><td data-cell-id=\"r6c1\">RIOSTRA EXISTENTE</td><td data-cell-id=\"r6c2\">RIOSTRA A INSTALAR</td><td data-cell-id=\"r6c3\"></td></tr><tr><td data-cell-id=\"r7c0\">Central Telefónica</td><td data-cell-id=\"r7c1\">CENTRAL TELEFÓNICA</td><td data-cell-id=\"r7c2\"></td><td data-cell-id=\"r7c3\"></td></tr></tbody></table>\n\n</figure-data>\n\n\n<a id=\"p6_b3\"></a>\n\n## SECCIÓN DE INFRAESTRUCTURAS: CANALIZACIÓN EXISTENTE\n\n\n<a id=\"p6_b8\"></a>\n\nCANALIZACIÓN A INSTALAR\n\n\n<a id=\"p6_b9\"></a>\n\n## CABLES:\n\n\n<a id=\"p6_b10\"></a>\n\nCABLE DE COBRE CANALIZADO A DESMONTAR\nCABLE DE COBRE CANALIZADO A INSTALAR\nCABLE DE COBRE AÉREO A INSTALAR\nCABLE DE COBRE AÉREO A DESMONTAR\nCABLE DE FIBRA ÓPTICA CANALIZADO EXISTENTE\nCABLE DE FIBRA ÓPTICA CANALIZADO A INSTALAR\nCABLE DE FIBRA ÓPTICA CANALIZADO A DESMONTAR\nCABLE DE FIBRA ÓPTICA AÉREO A INSTALAR\nCABLE DE FIBRA ÓPTICA AÉREO A DESMONTAR\nCABLE DE COBRE CANALIZADO EXISTENTE\nCABLE DE COBRE AÉREO EXISTENTE\nCABLE DE FIBRA ÓPTICA AÉREO EXISTENTE\n\n\n<a id=\"p6_b5\"></a>\n\n## EQUIPOS:\n\n\n<a id=\"p6_b6\"></a>\n\nCAJA TERMINAL DE INTERIOR COBRE EXISTENTE\nCAJA TERMINAL DE EXTERIOR COBRE EXISTENTE\nCAJA TERMINAL ÓPTICA EXISTENTE\nCAJA DE EMPALME ÓPTICA EXISTENTE\nCAJA TERMINAL ÓPTICA A INSTALAR\nCAJA DE EMPALME ÓPTICA A INSTALAR\n\n\n<a id=\"p6_b14\"></a>\n\nU n i d a d :\nE s c a l a :\nP r o y e c t o Y :\n\n\n<a id=\"p6_b11\"></a>\n\n***PLANTA***\n\n\n<a id=\"p6_b12\"></a>\n\n***EXTERIOR***\n\n\n<a id=\"p6_b13\"></a>\n\nB\n\n\n<a id=\"p6_b15\"></a>\n\n1:4\n\n\n<a id=\"p6_b17\"></a>\n\nA c t u a c i ó n :\nC e n t r a l :\nP l a n o :\nE d i c i ó n :\n\n\n<a id=\"p6_b18\"></a>\n\nH o j a\nF e c h a :\n\n\n<a id=\"p6_b19\"></a>\n\n1 d e 1\n\n\n<a id=\"p6_b20\"></a>\n\nLeyenda\n\n\n<a id=\"p6_b7\"></a>\n\nS I U :\nA T L A S :\nA D M I N :\n\n\n<a id=\"p6_b21\"></a>\n\na 1\n\n\n<a id=\"p6_b22\"></a>\n\nD i b u j a d o :\n\n\n<a id=\"p6_b23\"></a>\n\nF e c h a :\n\n\n<a id=\"p6_b24\"></a>\n\n1\n\n\n<a id=\"p6_b25\"></a>\n\nP r o y e c t a d o :\n\n\n<a id=\"p6_b26\"></a>\n\nF e c h a :\n\n\n<a id=\"p6_b27\"></a>\n\nA p r o b a d o :\n\n\n<a id=\"p6_b28\"></a>\n\nF e c h a :\n\n\n<a id=\"p6_b29\"></a>\n\nP r o y e c t a d A p r o b a d o : A p r o b a d o :\n\n\n<a id=\"p6_b30\"></a>\n\nF e c h a : F e c h a : F e c h a :",
+      "text": "<a id=\"p1_b0\"></a>\n\nSmartel\n\n<table>\n  <tr>\n    <td rowspan=\"2\" data-cell-id=\"r0c0\">\n      <br>\n      DIRECCIÓN OPERACIONES RED Y TI\n    </td>\n    <td colspan=\"2\" data-cell-id=\"r0c1\">\n      <u>INFORME TÉCNICO PARA: Ayuntamiento de Madrid</u>\n    </td>\n    <td rowspan=\"4\" data-cell-id=\"r0c3\">\n      \n    </td>\n  </tr>\n  <tr>\n    <td colspan=\"2\" style=\"text-align: center;\" data-cell-id=\"r1c1\">\n      <h1 style=\"color: #337ab7;\">MADRID</h1>\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\"></td>\n    <td data-cell-id=\"r2c1\">PROYECTO N° : 8570820</td>\n    <td data-cell-id=\"r2c2\">EDICIÓN: 1ª</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\"></td>\n    <td data-cell-id=\"r3c1\">FECHA: 03/12/2025</td>\n    <td data-cell-id=\"r3c2\">HOJA: 42</td>\n  </tr>\n</table>\n\n<a id=\"p1_b1\"></a>\n\n# PLANOS\n\n<a id=\"p2_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nAerial satellite photograph of an urban area in Madrid, Spain, featuring a major multi-lane road running vertically through the center. A specific rectangular area containing a parking lot and adjacent buildings is highlighted with a red border.\n\n</figure-description>\n\n<a id=\"p3_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nTechnical site plan showing new infrastructure in Madrid, including two segments of PVC piping (6.20 m and 2.40 m) and a new manhole (arqueta) with specific coordinates.\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Element Type</th><th data-cell-id=\"r0c1\">ID / Reference</th><th data-cell-id=\"r0c2\">Details</th><th data-cell-id=\"r0c3\">Location / Path</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">Nueva canalización</td><td data-cell-id=\"r1c1\">ID 11573555</td><td data-cell-id=\"r1c2\">2 C.PVC 63 B2; 6,20 metros en acera</td><td data-cell-id=\"r1c3\">Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)</td></tr><tr><td data-cell-id=\"r2c0\">Nueva arqueta</td><td data-cell-id=\"r2c1\">ID 26456513</td><td data-cell-id=\"r2c2\">ARQ M 29621 (In situ); X: 441339, Y: 4477539</td><td data-cell-id=\"r2c3\"></td></tr><tr><td data-cell-id=\"r3c0\">Nueva canalización</td><td data-cell-id=\"r3c1\">ID 11573556</td><td data-cell-id=\"r3c2\">2 C.PVC 63 B2; 2,40 metros en acera</td><td data-cell-id=\"r3c3\">Desde Arqueta (ID: 26456513) Hacia Emplazamiento de Red (ID: 26456514)</td></tr></tbody></table>\n\n</figure-data>\n\n<a id=\"p3_b2\"></a>\n\n-\n\n<a id=\"p4_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nTechnical drawing showing a cross-section detail of a ducting installation (Detalle canalizado) for a Smartel project. It illustrates two 63mm PVC pipes embedded in HM-15/P/20 concrete, topped with compacted material, with specific depth requirements for sidewalk (0.45m) and roadway (0.60m).\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Elemento / Dimensión</th><th data-cell-id=\"r0c1\">Valor / Especificación</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">PROYECTO</td><td data-cell-id=\"r1c1\">8570820 M.AZ: 45867 VAR. INSTAL. CORTE INGLES CA</td></tr><tr><td data-cell-id=\"r2c0\">TÍTULO</td><td data-cell-id=\"r2c1\">Detalle canalizado</td></tr><tr><td data-cell-id=\"r3c0\">UNIDAD</td><td data-cell-id=\"r3c1\">OFICINA TÉCNICA SEVILLA</td></tr><tr><td data-cell-id=\"r4c0\">DIBUJADO</td><td data-cell-id=\"r4c1\">SMART TELECOM CONSULTING 2004 SL</td></tr><tr><td data-cell-id=\"r5c0\">FECHA</td><td data-cell-id=\"r5c1\">03/12/2025</td></tr><tr><td data-cell-id=\"r6c0\">HOJA</td><td data-cell-id=\"r6c1\">01 de 02</td></tr><tr><td data-cell-id=\"r7c0\">ESCALA</td><td data-cell-id=\"r7c1\">s/e</td></tr><tr><td data-cell-id=\"r8c0\">EDICIÓN</td><td data-cell-id=\"r8c1\">1</td></tr><tr><td data-cell-id=\"r9c0\">PLANO</td><td data-cell-id=\"r9c1\">03</td></tr><tr><td data-cell-id=\"r10c0\">Tubería</td><td data-cell-id=\"r10c1\">PVC. de 63mm</td></tr><tr><td data-cell-id=\"r11c0\">Hormigón</td><td data-cell-id=\"r11c1\">HM-15/P/20</td></tr><tr><td data-cell-id=\"r12c0\">Relleno</td><td data-cell-id=\"r12c1\">MATERIAL COMPACTADO</td></tr><tr><td data-cell-id=\"r13c0\">Profundidad en ACERA</td><td data-cell-id=\"r13c1\">0,45</td></tr><tr><td data-cell-id=\"r14c0\">Profundidad en CALZADA</td><td data-cell-id=\"r14c1\">0,60</td></tr><tr><td data-cell-id=\"r15c0\">Ancho total (suma de cotas horizontales)</td><td data-cell-id=\"r15c1\">0,29 (0,07 + 0,06 + 0,03 + 0,06 + 0,07)</td></tr><tr><td data-cell-id=\"r16c0\">Altura bloque hormigón (suma de cotas verticales)</td><td data-cell-id=\"r16c1\">0,18 (0,06 + 0,06 + 0,06)</td></tr></tbody></table>\n\n</figure-data>\n\n<a id=\"p5_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nTechnical architectural drawing showing multiple views and details of a metal frame (cerco) and its anchoring claws (garras). It includes a plan view of the frame, a cross-section A-A', a detailed view of the anchoring claw (Detalle 3), and a detail of the handle recess (Detalle de hueco para levantar el asa).\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Component / Detail</th><th data-cell-id=\"r0c1\">Dimension Label</th><th data-cell-id=\"r0c2\">Value (mm)</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">Cerco (Frame) - Plan View</td><td data-cell-id=\"r1c1\">Exterior Width</td><td data-cell-id=\"r1c2\">440</td></tr><tr><td data-cell-id=\"r2c0\">Cerco (Frame) - Plan View</td><td data-cell-id=\"r2c1\">Exterior Height</td><td data-cell-id=\"r2c2\">440</td></tr><tr><td data-cell-id=\"r3c0\">Cerco (Frame) - Section</td><td data-cell-id=\"r3c1\">Total Height</td><td data-cell-id=\"r3c2\">100</td></tr><tr><td data-cell-id=\"r4c0\">Cerco (Frame) - Section</td><td data-cell-id=\"r4c1\">Frame Profile Height</td><td data-cell-id=\"r4c2\">70</td></tr><tr><td data-cell-id=\"r5c0\">Cerco (Frame) - Profile Type</td><td data-cell-id=\"r5c1\">L-Profile</td><td data-cell-id=\"r5c2\">L 70x7</td></tr><tr><td data-cell-id=\"r6c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r6c1\">Total Length</td><td data-cell-id=\"r6c2\">85</td></tr><tr><td data-cell-id=\"r7c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r7c1\">Base Width</td><td data-cell-id=\"r7c2\">50</td></tr><tr><td data-cell-id=\"r8c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r8c1\">Top Width</td><td data-cell-id=\"r8c2\">50</td></tr><tr><td data-cell-id=\"r9c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r9c1\">Thickness</td><td data-cell-id=\"r9c2\">4</td></tr><tr><td data-cell-id=\"r10c0\">Secci3n A-A'</td><td data-cell-id=\"r10c1\">Total Width</td><td data-cell-id=\"r10c2\">630</td></tr><tr><td data-cell-id=\"r11c0\">Secci3n A-A'</td><td data-cell-id=\"r11c1\">Inner Width</td><td data-cell-id=\"r11c2\">300</td></tr><tr><td data-cell-id=\"r12c0\">Secci3n A-A'</td><td data-cell-id=\"r12c1\">Flange Width</td><td data-cell-id=\"r12c2\">100</td></tr><tr><td data-cell-id=\"r13c0\">Secci3n A-A'</td><td data-cell-id=\"r13c1\">Anchor Spacing</td><td data-cell-id=\"r13c2\">110</td></tr><tr><td data-cell-id=\"r14c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r14c1\">Total Width</td><td data-cell-id=\"r14c2\">70</td></tr><tr><td data-cell-id=\"r15c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r15c1\">Inner Width</td><td data-cell-id=\"r15c2\">13</td></tr><tr><td data-cell-id=\"r16c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r16c1\">Depth</td><td data-cell-id=\"r16c2\">12</td></tr><tr><td data-cell-id=\"r17c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r17c1\">Handle Width</td><td data-cell-id=\"r17c2\">20</td></tr></tbody></table>\n\n</figure-data>\n\n<a id=\"p5_b1\"></a>\n\n$2 \\varnothing 40$\n\n<a id=\"p5_b2\"></a>\n\n$4 \\varnothing 63$\n$63$\n$30$\n$63$\n\n<a id=\"p5_b3\"></a>\n\n$2 \\varnothing 40$\n\n<a id=\"p5_b4\"></a>\n\n$2 \\varnothing 40$\n$30$\n$40$\n\n<a id=\"p5_b5\"></a>\n\n**SECCIÓN B-B'**\n\n<a id=\"p5_b6\"></a>\n\n**SECCIÓN A-A'**\n\n<a id=\"p5_b7\"></a>\n\n$460$\n\n<a id=\"p5_b8\"></a>\n\n$460$\n\n<a id=\"p5_b9\"></a>\n\n$80$\n\n<a id=\"p5_b10\"></a>\n\n$300$\n\n<a id=\"p5_b11\"></a>\n\n$300$\n\n<a id=\"p5_b12\"></a>\n\n$80$\n\n<a id=\"p5_b13\"></a>\n\n$80$\n\n<a id=\"p5_b14\"></a>\n\nHM-20/P/25/I\n$55$\n$63$\n$80$\n\n<a id=\"p5_b15\"></a>\n\n$110$\n\n<a id=\"p5_b16\"></a>\n\n$63$\n\n<a id=\"p5_b17\"></a>\n\n$156$\n\n<a id=\"p6_b0\"></a>\n\n# LEYENDA\n\n<a id=\"p6_b1\"></a>\n\n## INFRAESTRUCTURAS:\n\n<a id=\"p6_b2\"></a>\n\n<figure-description>\n\n***figure-description:***\nLegend of symbols for a technical or utility plan, categorizing infrastructure elements like manholes, poles, pedestals, and braces by their status: existing, to be installed, or to be dismantled.\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Elemento</th><th data-cell-id=\"r0c1\">Existente</th><th data-cell-id=\"r0c2\">A Instalar / Pendiente</th><th data-cell-id=\"r0c3\">A Desmontar</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">Cámara de Registro</td><td data-cell-id=\"r1c1\">CÁMARA DE REGISTRO EXISTENTE</td><td data-cell-id=\"r1c2\">CÁMARA DE REGISTRO PENDIENTE DE INSTALAR</td><td data-cell-id=\"r1c3\"></td></tr><tr><td data-cell-id=\"r2c0\">Arqueta</td><td data-cell-id=\"r2c1\">ARQUETA EXISTENTE</td><td data-cell-id=\"r2c2\">ARQUETA PENDIENTE DE INSTALAR</td><td data-cell-id=\"r2c3\"></td></tr><tr><td data-cell-id=\"r3c0\">Poste de Madera</td><td data-cell-id=\"r3c1\">POSTE DE MADERA EXISTENTE</td><td data-cell-id=\"r3c2\">POSTE DE MADERA A INSTALAR</td><td data-cell-id=\"r3c3\">POSTE DE MADERA A DESMONTAR</td></tr><tr><td data-cell-id=\"r4c0\">Poste de Hormigón</td><td data-cell-id=\"r4c1\">POSTE DE HORMIGÓN EXISTENTE</td><td data-cell-id=\"r4c2\">POSTE DE HORMIGÓN A INSTALAR</td><td data-cell-id=\"r4c3\">POSTE DE HORMIGÓN A DESMONTAR</td></tr><tr><td data-cell-id=\"r5c0\">Pedestal</td><td data-cell-id=\"r5c1\">PEDESTAL EXISTENTE</td><td data-cell-id=\"r5c2\">PEDESTAL A INSTALAR</td><td data-cell-id=\"r5c3\"></td></tr><tr><td data-cell-id=\"r6c0\">Riostra</td><td data-cell-id=\"r6c1\">RIOSTRA EXISTENTE</td><td data-cell-id=\"r6c2\">RIOSTRA A INSTALAR</td><td data-cell-id=\"r6c3\"></td></tr><tr><td data-cell-id=\"r7c0\">Central Telefónica</td><td data-cell-id=\"r7c1\">CENTRAL TELEFÓNICA</td><td data-cell-id=\"r7c2\"></td><td data-cell-id=\"r7c3\"></td></tr></tbody></table>\n\n</figure-data>\n\n<a id=\"p6_b3\"></a>\n\n## SECCIÓN DE INFRAESTRUCTURAS: CANALIZACIÓN EXISTENTE\n\n<a id=\"p6_b8\"></a>\n\nCANALIZACIÓN A INSTALAR\n\n<a id=\"p6_b9\"></a>\n\n## CABLES:\n\n<a id=\"p6_b10\"></a>\n\nCABLE DE COBRE CANALIZADO A DESMONTAR\nCABLE DE COBRE CANALIZADO A INSTALAR\nCABLE DE COBRE AÉREO A INSTALAR\nCABLE DE COBRE AÉREO A DESMONTAR\nCABLE DE FIBRA ÓPTICA CANALIZADO EXISTENTE\nCABLE DE FIBRA ÓPTICA CANALIZADO A INSTALAR\nCABLE DE FIBRA ÓPTICA CANALIZADO A DESMONTAR\nCABLE DE FIBRA ÓPTICA AÉREO A INSTALAR\nCABLE DE FIBRA ÓPTICA AÉREO A DESMONTAR\nCABLE DE COBRE CANALIZADO EXISTENTE\nCABLE DE COBRE AÉREO EXISTENTE\nCABLE DE FIBRA ÓPTICA AÉREO EXISTENTE\n\n<a id=\"p6_b5\"></a>\n\n## EQUIPOS:\n\n<a id=\"p6_b6\"></a>\n\nCAJA TERMINAL DE INTERIOR COBRE EXISTENTE\nCAJA TERMINAL DE EXTERIOR COBRE EXISTENTE\nCAJA TERMINAL ÓPTICA EXISTENTE\nCAJA DE EMPALME ÓPTICA EXISTENTE\nCAJA TERMINAL ÓPTICA A INSTALAR\nCAJA DE EMPALME ÓPTICA A INSTALAR\n\n<a id=\"p6_b14\"></a>\n\nU n i d a d :\nE s c a l a :\nP r o y e c t o Y :\n\n<a id=\"p6_b11\"></a>\n\n***PLANTA***\n\n<a id=\"p6_b12\"></a>\n\n***EXTERIOR***\n\n<a id=\"p6_b13\"></a>\n\nB\n\n<a id=\"p6_b15\"></a>\n\n1:4\n\n<a id=\"p6_b17\"></a>\n\nA c t u a c i ó n :\nC e n t r a l :\nP l a n o :\nE d i c i ó n :\n\n<a id=\"p6_b18\"></a>\n\nH o j a\nF e c h a :\n\n<a id=\"p6_b19\"></a>\n\n1 d e 1\n\n<a id=\"p6_b20\"></a>\n\nLeyenda\n\n<a id=\"p6_b7\"></a>\n\nS I U :\nA T L A S :\nA D M I N :\n\n<a id=\"p6_b21\"></a>\n\na 1\n\n<a id=\"p6_b22\"></a>\n\nD i b u j a d o :\n\n<a id=\"p6_b23\"></a>\n\nF e c h a :\n\n<a id=\"p6_b24\"></a>\n\n1\n\n<a id=\"p6_b25\"></a>\n\nP r o y e c t a d o :\n\n<a id=\"p6_b26\"></a>\n\nF e c h a :\n\n<a id=\"p6_b27\"></a>\n\nA p r o b a d o :\n\n<a id=\"p6_b28\"></a>\n\nF e c h a :\n\n<a id=\"p6_b29\"></a>\n\nP r o y e c t a d A p r o b a d o : A p r o b a d o :\n\n<a id=\"p6_b30\"></a>\n\nF e c h a : F e c h a : F e c h a :",
+      "layout_confidence": 0.342,
+      "parse_confidence": 73.5,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.05115600364528227,
+            "y0": 0.04140014778910258,
+            "x1": 0.9619479381187651,
+            "y1": 0.17397217997224373
+          },
+          "layout_confidence": 0.9720298647880554,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.05115600364528227,
+                "y0": 0.04140014778910258,
+                "x1": 0.9619479381187651,
+                "y1": 0.17397217997224373
+              },
+              "type": "table",
+              "text": "Smartel DIRECCIÓN OPERACIONES RED Y TI INFORME TÉCNICO PARA: Ayuntamiento de Madrid MADRID PROYECTO N° : 8570820 EDICIÓN: 1ª FECHA: 03/12/2025 HOJA: 42"
+            }
+          ],
+          "content": "Smartel\n\n<table>\n  <tr>\n    <td rowspan=\"2\" data-cell-id=\"r0c0\">\n      <img src=\"telefónica_logo.png\" alt=\"Telefónica Logo\"><br>\n      DIRECCIÓN OPERACIONES RED Y TI\n    </td>\n    <td colspan=\"2\" data-cell-id=\"r0c1\">\n      <u>INFORME TÉCNICO PARA: Ayuntamiento de Madrid</u>\n    </td>\n    <td rowspan=\"4\" data-cell-id=\"r0c3\">\n      <img src=\"smartel_logo.png\" alt=\"Smartel Logo\">\n    </td>\n  </tr>\n  <tr>\n    <td colspan=\"2\" style=\"text-align: center;\" data-cell-id=\"r1c1\">\n      <h1 style=\"color: #337ab7;\">MADRID</h1>\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\"></td>\n    <td data-cell-id=\"r2c1\">PROYECTO N° : 8570820</td>\n    <td data-cell-id=\"r2c2\">EDICIÓN: 1ª</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\"></td>\n    <td data-cell-id=\"r3c1\">FECHA: 03/12/2025</td>\n    <td data-cell-id=\"r3c2\">HOJA: 42</td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "<img src=\"telefónica_logo.png\" alt=\"Telefónica Logo\"><br>\n      DIRECCIÓN OPERACIONES RED Y TI"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "<u>INFORME TÉCNICO PARA: Ayuntamiento de Madrid</u>"
+              },
+              {
+                "cell_id": "r0c3",
+                "text": "<img src=\"smartel_logo.png\" alt=\"Smartel Logo\">"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c1",
+                "text": "<h1 style=\"color: #337ab7;\">MADRID</h1>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "PROYECTO N° : 8570820"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "EDICIÓN: 1ª"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "FECHA: 03/12/2025"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "HOJA: 42"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b1",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.46132075471698114,
+            "y0": 0.5193333333333333,
+            "x1": 0.6103773584905661,
+            "y1": 0.5506666666666666
+          },
+          "layout_confidence": 0.5129365921020508,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.46577525571294964,
+                "y0": 0.5239124208395682,
+                "x1": 0.606667349099248,
+                "y1": 0.550100965039146
+              },
+              "type": "title",
+              "text": "PLANOS"
+            }
+          ],
+          "content": "# PLANOS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p2_b0",
+          "type": "picture",
+          "page": 2,
+          "bbox": {
+            "x0": 0.0,
+            "y0": 0.11078795473409443,
+            "x1": 0.9992447729698836,
+            "y1": 1.0
+          },
+          "layout_confidence": 0.5409436821937561,
+          "parse_confidence": null,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.0,
+                "y0": 0.11078795473409443,
+                "x1": 0.9992447729698836,
+                "y1": 1.0
+              },
+              "type": "picture",
+              "text": "E Madrid"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nAerial satellite photograph of an urban area in Madrid, Spain, featuring a major multi-lane road running vertically through the center. A specific rectangular area containing a parking lot and adjacent buildings is highlighted with a red border.\n\n</figure-description>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p3_b0",
+          "type": "picture",
+          "page": 3,
+          "bbox": {
+            "x0": 0.0,
+            "y0": 0.04985061391085932,
+            "x1": 0.7847017705656741,
+            "y1": 0.9841986008310175
+          },
+          "layout_confidence": 0.2565883696079254,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.0,
+                "y0": 0.04985061391085932,
+                "x1": 0.7847017705656741,
+                "y1": 0.9841986008310175
+              },
+              "type": "picture",
+              "text": "Nueva canalización 2 C.PVC 63 B2 (ID 11573555) 6,20 metros en acera Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513) Nueva arqueta (ID 26456513) ARQ M 29621 (In situ) X: 441339 Y:4477539 6,20 m Madrid 2,40 m Nueva canalización 2 C.PVC 63 B2 (ID 11573556) 2,40 metros en acera Desde Arqueta (ID: 26456513) Hacia Emplazamiento de Red (ID: 26456514)"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nTechnical site plan showing new infrastructure in Madrid, including two segments of PVC piping (6.20 m and 2.40 m) and a new manhole (arqueta) with specific coordinates.\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Element Type</th><th data-cell-id=\"r0c1\">ID / Reference</th><th data-cell-id=\"r0c2\">Details</th><th data-cell-id=\"r0c3\">Location / Path</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">Nueva canalización</td><td data-cell-id=\"r1c1\">ID 11573555</td><td data-cell-id=\"r1c2\">2 C.PVC 63 B2; 6,20 metros en acera</td><td data-cell-id=\"r1c3\">Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)</td></tr><tr><td data-cell-id=\"r2c0\">Nueva arqueta</td><td data-cell-id=\"r2c1\">ID 26456513</td><td data-cell-id=\"r2c2\">ARQ M 29621 (In situ); X: 441339, Y: 4477539</td><td data-cell-id=\"r2c3\"></td></tr><tr><td data-cell-id=\"r3c0\">Nueva canalización</td><td data-cell-id=\"r3c1\">ID 11573556</td><td data-cell-id=\"r3c2\">2 C.PVC 63 B2; 2,40 metros en acera</td><td data-cell-id=\"r3c3\">Desde Arqueta (ID: 26456513) Hacia Emplazamiento de Red (ID: 26456514)</td></tr></tbody></table>\n\n</figure-data>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p3_b2",
+          "type": "text",
+          "page": 3,
+          "bbox": {
+            "x0": 0.9924528301886792,
+            "y0": 0.3953333333333333,
+            "x1": 0.9990566037735849,
+            "y1": 0.4053333333333333
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 71.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.9924528301886792,
+                "y0": 0.3953333333333333,
+                "x1": 0.9990566037735849,
+                "y1": 0.4053333333333333
+              },
+              "type": "text",
+              "text": "-"
+            }
+          ],
+          "content": "-",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p4_b0",
+          "type": "picture",
+          "page": 4,
+          "bbox": {
+            "x0": 0.11863928060289453,
+            "y0": 0.18828236684680955,
+            "x1": 0.9669811320754716,
+            "y1": 1.0
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.8660377358490566,
+                "y0": 0.952,
+                "x1": 0.9669811320754716,
+                "y1": 0.9846666666666667
+              },
+              "type": "text",
+              "text": "03/12/2025 01 de 02"
+            },
+            {
+              "bbox": {
+                "x0": 0.11863928060289453,
+                "y0": 0.18828236684680955,
+                "x1": 0.7871018839862644,
+                "y1": 1.0
+              },
+              "type": "picture",
+              "text": "APROBADO: PROYECTADO: DIBUJADO: SMART TELECOM CONSULTING 2004 SL EDICIÓN: 1 03 PLANO: Detalle canalizado TÍTULO: PROYECTO: 8570820 M.AZ: 45867 VAR. INSTAL. CORTE INGLES CA UNIDAD: OFICINA TÉCNICA SEVILLA 0,03 0,06 0,06 0,07 0,07 PVC. de 63mm 0,06 HM-15/P/20 0,06 0,06 MATERIAL COMPACTADO 0,60 EN CALZADA 0,45 EN ACERA"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nTechnical drawing showing a cross-section detail of a ducting installation (Detalle canalizado) for a Smartel project. It illustrates two 63mm PVC pipes embedded in HM-15/P/20 concrete, topped with compacted material, with specific depth requirements for sidewalk (0.45m) and roadway (0.60m).\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Elemento / Dimensión</th><th data-cell-id=\"r0c1\">Valor / Especificación</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">PROYECTO</td><td data-cell-id=\"r1c1\">8570820 M.AZ: 45867 VAR. INSTAL. CORTE INGLES CA</td></tr><tr><td data-cell-id=\"r2c0\">TÍTULO</td><td data-cell-id=\"r2c1\">Detalle canalizado</td></tr><tr><td data-cell-id=\"r3c0\">UNIDAD</td><td data-cell-id=\"r3c1\">OFICINA TÉCNICA SEVILLA</td></tr><tr><td data-cell-id=\"r4c0\">DIBUJADO</td><td data-cell-id=\"r4c1\">SMART TELECOM CONSULTING 2004 SL</td></tr><tr><td data-cell-id=\"r5c0\">FECHA</td><td data-cell-id=\"r5c1\">03/12/2025</td></tr><tr><td data-cell-id=\"r6c0\">HOJA</td><td data-cell-id=\"r6c1\">01 de 02</td></tr><tr><td data-cell-id=\"r7c0\">ESCALA</td><td data-cell-id=\"r7c1\">s/e</td></tr><tr><td data-cell-id=\"r8c0\">EDICIÓN</td><td data-cell-id=\"r8c1\">1</td></tr><tr><td data-cell-id=\"r9c0\">PLANO</td><td data-cell-id=\"r9c1\">03</td></tr><tr><td data-cell-id=\"r10c0\">Tubería</td><td data-cell-id=\"r10c1\">PVC. de 63mm</td></tr><tr><td data-cell-id=\"r11c0\">Hormigón</td><td data-cell-id=\"r11c1\">HM-15/P/20</td></tr><tr><td data-cell-id=\"r12c0\">Relleno</td><td data-cell-id=\"r12c1\">MATERIAL COMPACTADO</td></tr><tr><td data-cell-id=\"r13c0\">Profundidad en ACERA</td><td data-cell-id=\"r13c1\">0,45</td></tr><tr><td data-cell-id=\"r14c0\">Profundidad en CALZADA</td><td data-cell-id=\"r14c1\">0,60</td></tr><tr><td data-cell-id=\"r15c0\">Ancho total (suma de cotas horizontales)</td><td data-cell-id=\"r15c1\">0,29 (0,07 + 0,06 + 0,03 + 0,06 + 0,07)</td></tr><tr><td data-cell-id=\"r16c0\">Altura bloque hormigón (suma de cotas verticales)</td><td data-cell-id=\"r16c1\">0,18 (0,06 + 0,06 + 0,06)</td></tr></tbody></table>\n\n</figure-data>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b0",
+          "type": "picture",
+          "page": 5,
+          "bbox": {
+            "x0": 0.0,
+            "y0": 0.0,
+            "x1": 0.8379187624284405,
+            "y1": 0.6106666666666667
+          },
+          "layout_confidence": 0.4598543643951416,
+          "parse_confidence": 33.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.0,
+                "y0": 0.0009166001763900359,
+                "x1": 0.8379187624284405,
+                "y1": 0.605224609375
+              },
+              "type": "picture",
+              "text": "B DETALLE 3 GARRA *3 85 2 0 63 e 4 2 0 40 440 0ζ 8 SECCIÓN A-A' 00 300 0ol 00 440 0 π 95 CERCO L 70x7 0ll 630 08 VER DETALLE 3 0 GARRAS (4) 80 Garras D 5 2 PNL 40x40x4 Soldado CERCO LEVANTAR EL ASA ANCHO =20mm DETALLE DETALLE DE HUECO PARA 415 01 0 = T∞ 13 4 20 DL 5"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nTechnical architectural drawing showing multiple views and details of a metal frame (cerco) and its anchoring claws (garras). It includes a plan view of the frame, a cross-section A-A', a detailed view of the anchoring claw (Detalle 3), and a detail of the handle recess (Detalle de hueco para levantar el asa).\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Component / Detail</th><th data-cell-id=\"r0c1\">Dimension Label</th><th data-cell-id=\"r0c2\">Value (mm)</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">Cerco (Frame) - Plan View</td><td data-cell-id=\"r1c1\">Exterior Width</td><td data-cell-id=\"r1c2\">440</td></tr><tr><td data-cell-id=\"r2c0\">Cerco (Frame) - Plan View</td><td data-cell-id=\"r2c1\">Exterior Height</td><td data-cell-id=\"r2c2\">440</td></tr><tr><td data-cell-id=\"r3c0\">Cerco (Frame) - Section</td><td data-cell-id=\"r3c1\">Total Height</td><td data-cell-id=\"r3c2\">100</td></tr><tr><td data-cell-id=\"r4c0\">Cerco (Frame) - Section</td><td data-cell-id=\"r4c1\">Frame Profile Height</td><td data-cell-id=\"r4c2\">70</td></tr><tr><td data-cell-id=\"r5c0\">Cerco (Frame) - Profile Type</td><td data-cell-id=\"r5c1\">L-Profile</td><td data-cell-id=\"r5c2\">L 70x7</td></tr><tr><td data-cell-id=\"r6c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r6c1\">Total Length</td><td data-cell-id=\"r6c2\">85</td></tr><tr><td data-cell-id=\"r7c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r7c1\">Base Width</td><td data-cell-id=\"r7c2\">50</td></tr><tr><td data-cell-id=\"r8c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r8c1\">Top Width</td><td data-cell-id=\"r8c2\">50</td></tr><tr><td data-cell-id=\"r9c0\">Garra (Claw) - Detalle 3</td><td data-cell-id=\"r9c1\">Thickness</td><td data-cell-id=\"r9c2\">4</td></tr><tr><td data-cell-id=\"r10c0\">Secci3n A-A'</td><td data-cell-id=\"r10c1\">Total Width</td><td data-cell-id=\"r10c2\">630</td></tr><tr><td data-cell-id=\"r11c0\">Secci3n A-A'</td><td data-cell-id=\"r11c1\">Inner Width</td><td data-cell-id=\"r11c2\">300</td></tr><tr><td data-cell-id=\"r12c0\">Secci3n A-A'</td><td data-cell-id=\"r12c1\">Flange Width</td><td data-cell-id=\"r12c2\">100</td></tr><tr><td data-cell-id=\"r13c0\">Secci3n A-A'</td><td data-cell-id=\"r13c1\">Anchor Spacing</td><td data-cell-id=\"r13c2\">110</td></tr><tr><td data-cell-id=\"r14c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r14c1\">Total Width</td><td data-cell-id=\"r14c2\">70</td></tr><tr><td data-cell-id=\"r15c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r15c1\">Inner Width</td><td data-cell-id=\"r15c2\">13</td></tr><tr><td data-cell-id=\"r16c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r16c1\">Depth</td><td data-cell-id=\"r16c2\">12</td></tr><tr><td data-cell-id=\"r17c0\">Detalle de Hueco para Asa</td><td data-cell-id=\"r17c1\">Handle Width</td><td data-cell-id=\"r17c2\">20</td></tr></tbody></table>\n\n</figure-data>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b1",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.7792452830188679,
+            "y0": 0.894,
+            "x1": 0.8377358490566038,
+            "y1": 0.9406666666666667
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7792452830188679,
+                "y0": 0.894,
+                "x1": 0.8377358490566038,
+                "y1": 0.9406666666666667
+              },
+              "type": "text",
+              "text": "$2 \\varnothing 40$"
+            }
+          ],
+          "content": "$2 \\varnothing 40$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b2",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.6141509433962264,
+            "y0": 0.8353333333333334,
+            "x1": 0.7,
+            "y1": 0.8626666666666667
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 74.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.659433962264151,
+                "y0": 0.8426666666666667,
+                "x1": 0.7,
+                "y1": 0.8553333333333333
+              },
+              "type": "text",
+              "text": "8 E"
+            },
+            {
+              "bbox": {
+                "x0": 0.6141509433962264,
+                "y0": 0.8353333333333334,
+                "x1": 0.659433962264151,
+                "y1": 0.8626666666666667
+              },
+              "type": "text",
+              "text": "8 4063"
+            }
+          ],
+          "content": "$4 \\varnothing 63$\n$63$\n$30$\n$63$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b3",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.5386792452830189,
+            "y0": 0.896,
+            "x1": 0.5566037735849056,
+            "y1": 0.9233333333333333
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5386792452830189,
+                "y0": 0.896,
+                "x1": 0.5566037735849056,
+                "y1": 0.9233333333333333
+              },
+              "type": "text",
+              "text": "$2 \\varnothing 40$"
+            }
+          ],
+          "content": "$2 \\varnothing 40$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b4",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.5132075471698113,
+            "y0": 0.9193333333333333,
+            "x1": 0.540566037735849,
+            "y1": 0.9473333333333334
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 83.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5188679245283019,
+                "y0": 0.9193333333333333,
+                "x1": 0.540566037735849,
+                "y1": 0.9386666666666666
+              },
+              "type": "text",
+              "text": "100"
+            },
+            {
+              "bbox": {
+                "x0": 0.5132075471698113,
+                "y0": 0.934,
+                "x1": 0.530188679245283,
+                "y1": 0.9473333333333334
+              },
+              "type": "text",
+              "text": "$30$"
+            }
+          ],
+          "content": "$2 \\varnothing 40$\n$30$\n$40$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b5",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.4320754716981132,
+            "y0": 0.658,
+            "x1": 0.4547169811320755,
+            "y1": 0.758
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.4320754716981132,
+                "y0": 0.658,
+                "x1": 0.4547169811320755,
+                "y1": 0.758
+              },
+              "type": "text",
+              "text": "SECCIÓN B-B'"
+            }
+          ],
+          "content": "**SECCIÓN B-B'**",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b6",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.4320754716981132,
+            "y0": 0.894,
+            "x1": 0.4547169811320755,
+            "y1": 0.9933333333333333
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.4320754716981132,
+                "y0": 0.894,
+                "x1": 0.4547169811320755,
+                "y1": 0.9933333333333333
+              },
+              "type": "text",
+              "text": "SECCIÓN A-A'"
+            }
+          ],
+          "content": "**SECCIÓN A-A'**",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b7",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.40283018867924525,
+            "y0": 0.6973333333333334,
+            "x1": 0.4207547169811321,
+            "y1": 0.7173333333333334
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.40283018867924525,
+                "y0": 0.6973333333333334,
+                "x1": 0.4207547169811321,
+                "y1": 0.7173333333333334
+              },
+              "type": "text",
+              "text": "$460$"
+            }
+          ],
+          "content": "$460$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b8",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.40283018867924525,
+            "y0": 0.932,
+            "x1": 0.41981132075471694,
+            "y1": 0.95
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.40283018867924525,
+                "y0": 0.932,
+                "x1": 0.41981132075471694,
+                "y1": 0.95
+              },
+              "type": "text",
+              "text": "$460$"
+            }
+          ],
+          "content": "$460$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b9",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.380188679245283,
+            "y0": 0.636,
+            "x1": 0.3971698113207547,
+            "y1": 0.6506666666666666
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.380188679245283,
+                "y0": 0.636,
+                "x1": 0.3971698113207547,
+                "y1": 0.6506666666666666
+              },
+              "type": "text",
+              "text": "$80$"
+            }
+          ],
+          "content": "$80$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b10",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.37924528301886795,
+            "y0": 0.6973333333333334,
+            "x1": 0.3971698113207547,
+            "y1": 0.7173333333333334
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.37924528301886795,
+                "y0": 0.6973333333333334,
+                "x1": 0.3971698113207547,
+                "y1": 0.7173333333333334
+              },
+              "type": "text",
+              "text": "$300$"
+            }
+          ],
+          "content": "$300$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b11",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.37924528301886795,
+            "y0": 0.9313333333333333,
+            "x1": 0.3971698113207547,
+            "y1": 0.9506666666666667
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.37924528301886795,
+                "y0": 0.9313333333333333,
+                "x1": 0.3971698113207547,
+                "y1": 0.9506666666666667
+              },
+              "type": "text",
+              "text": "$300$"
+            }
+          ],
+          "content": "$300$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b12",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.380188679245283,
+            "y0": 0.7646666666666667,
+            "x1": 0.39622641509433965,
+            "y1": 0.7786666666666666
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.380188679245283,
+                "y0": 0.7646666666666667,
+                "x1": 0.39622641509433965,
+                "y1": 0.7786666666666666
+              },
+              "type": "text",
+              "text": "$80$"
+            }
+          ],
+          "content": "$80$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b13",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.380188679245283,
+            "y0": 0.8706666666666667,
+            "x1": 0.39622641509433965,
+            "y1": 0.884
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.380188679245283,
+                "y0": 0.8706666666666667,
+                "x1": 0.39622641509433965,
+                "y1": 0.884
+              },
+              "type": "text",
+              "text": "$80$"
+            }
+          ],
+          "content": "$80$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b14",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.2650943396226415,
+            "y0": 0.8,
+            "x1": 0.38301886792452833,
+            "y1": 0.8533333333333334
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3632075471698113,
+                "y0": 0.8,
+                "x1": 0.38301886792452833,
+                "y1": 0.8533333333333334
+              },
+              "type": "text",
+              "text": "HM-20/P/25/I"
+            },
+            {
+              "bbox": {
+                "x0": 0.32830188679245287,
+                "y0": 0.8326666666666667,
+                "x1": 0.34716981132075475,
+                "y1": 0.844
+              },
+              "type": "text",
+              "text": "88"
+            },
+            {
+              "bbox": {
+                "x0": 0.29339622641509433,
+                "y0": 0.8326666666666667,
+                "x1": 0.3122641509433962,
+                "y1": 0.844
+              },
+              "type": "text",
+              "text": "5"
+            },
+            {
+              "bbox": {
+                "x0": 0.2650943396226415,
+                "y0": 0.8326666666666667,
+                "x1": 0.28301886792452835,
+                "y1": 0.844
+              },
+              "type": "text",
+              "text": "3"
+            }
+          ],
+          "content": "HM-20/P/25/I\n$55$\n$63$\n$80$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b15",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.23584905660377353,
+            "y0": 0.9313333333333333,
+            "x1": 0.2537735849056604,
+            "y1": 0.9506666666666667
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 91.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.23584905660377353,
+                "y0": 0.9313333333333333,
+                "x1": 0.2537735849056604,
+                "y1": 0.9506666666666667
+              },
+              "type": "text",
+              "text": "$110$"
+            }
+          ],
+          "content": "$110$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b16",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.22358490566037736,
+            "y0": 0.832,
+            "x1": 0.24339622641509429,
+            "y1": 0.8433333333333334
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 90.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.22358490566037736,
+                "y0": 0.832,
+                "x1": 0.24339622641509429,
+                "y1": 0.8433333333333334
+              },
+              "type": "text",
+              "text": "$63$"
+            }
+          ],
+          "content": "$63$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p5_b17",
+          "type": "text",
+          "page": 5,
+          "bbox": {
+            "x0": 0.18867924528301883,
+            "y0": 0.698,
+            "x1": 0.20660377358490567,
+            "y1": 0.7173333333333334
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.18867924528301883,
+                "y0": 0.698,
+                "x1": 0.20660377358490567,
+                "y1": 0.7173333333333334
+              },
+              "type": "text",
+              "text": "$156$"
+            }
+          ],
+          "content": "$156$",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b0",
+          "type": "title",
+          "page": 6,
+          "bbox": {
+            "x0": 0.44438708304205715,
+            "y0": 0.05156687214212471,
+            "x1": 0.5441833643699931,
+            "y1": 0.06826254464255892
+          },
+          "layout_confidence": 0.8077542781829834,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.44438708304205715,
+                "y0": 0.05156687214212471,
+                "x1": 0.5441833643699931,
+                "y1": 0.06826254464255892
+              },
+              "type": "title",
+              "text": "LEYENDA"
+            }
+          ],
+          "content": "# LEYENDA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b1",
+          "type": "section-header",
+          "page": 6,
+          "bbox": {
+            "x0": 0.11801185285021633,
+            "y0": 0.10652868459244068,
+            "x1": 0.25612862712670986,
+            "y1": 0.1185176697690653
+          },
+          "layout_confidence": 0.3721090853214264,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.11801185285021633,
+                "y0": 0.10652868459244068,
+                "x1": 0.25612862712670986,
+                "y1": 0.1185176697690653
+              },
+              "type": "section-header",
+              "text": "INFRAESTRUCTURAS:"
+            }
+          ],
+          "content": "## INFRAESTRUCTURAS:",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b2",
+          "type": "picture",
+          "page": 6,
+          "bbox": {
+            "x0": 0.1460704411387876,
+            "y0": 0.12110597529743614,
+            "x1": 0.9263262120238815,
+            "y1": 0.2575203714945623
+          },
+          "layout_confidence": 0.4730168879032135,
+          "parse_confidence": null,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.1460704411387876,
+                "y0": 0.12110597529743614,
+                "x1": 0.9263262120238815,
+                "y1": 0.2575203714945623
+              },
+              "type": "picture",
+              "text": "ARQUETA PENDIENTE DE INSTALAR CÁMARA DE REGISTRO PENDIENTE DE INSTALAR POSTE DE MADERA A DESMONTAR POSTE DE MADERA A INSTALAR POSTE DE HORMIGÓN A INSTALAR POSTE DE HORMIGÓN A DESMONTAR PEDESTAL EXISTENTE PEDESTAL A INSTALAR CENTRAL TELEFÓNICA RIOSTRA EXISTENTE RIOSTRA A INSTALAR POSTE DE HORMIGÓN EXISTENTE POSTE DE MADERA EXISTENTE ARQUETA EXISTENTE CÁMARA DE REGISTRO EXISTENTE"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nLegend of symbols for a technical or utility plan, categorizing infrastructure elements like manholes, poles, pedestals, and braces by their status: existing, to be installed, or to be dismantled.\n\n</figure-description>\n\n<figure-data>\n\n***figure-data:***\n<table><thead><tr><th data-cell-id=\"r0c0\">Elemento</th><th data-cell-id=\"r0c1\">Existente</th><th data-cell-id=\"r0c2\">A Instalar / Pendiente</th><th data-cell-id=\"r0c3\">A Desmontar</th></tr></thead><tbody><tr><td data-cell-id=\"r1c0\">Cámara de Registro</td><td data-cell-id=\"r1c1\">CÁMARA DE REGISTRO EXISTENTE</td><td data-cell-id=\"r1c2\">CÁMARA DE REGISTRO PENDIENTE DE INSTALAR</td><td data-cell-id=\"r1c3\"></td></tr><tr><td data-cell-id=\"r2c0\">Arqueta</td><td data-cell-id=\"r2c1\">ARQUETA EXISTENTE</td><td data-cell-id=\"r2c2\">ARQUETA PENDIENTE DE INSTALAR</td><td data-cell-id=\"r2c3\"></td></tr><tr><td data-cell-id=\"r3c0\">Poste de Madera</td><td data-cell-id=\"r3c1\">POSTE DE MADERA EXISTENTE</td><td data-cell-id=\"r3c2\">POSTE DE MADERA A INSTALAR</td><td data-cell-id=\"r3c3\">POSTE DE MADERA A DESMONTAR</td></tr><tr><td data-cell-id=\"r4c0\">Poste de Hormigón</td><td data-cell-id=\"r4c1\">POSTE DE HORMIGÓN EXISTENTE</td><td data-cell-id=\"r4c2\">POSTE DE HORMIGÓN A INSTALAR</td><td data-cell-id=\"r4c3\">POSTE DE HORMIGÓN A DESMONTAR</td></tr><tr><td data-cell-id=\"r5c0\">Pedestal</td><td data-cell-id=\"r5c1\">PEDESTAL EXISTENTE</td><td data-cell-id=\"r5c2\">PEDESTAL A INSTALAR</td><td data-cell-id=\"r5c3\"></td></tr><tr><td data-cell-id=\"r6c0\">Riostra</td><td data-cell-id=\"r6c1\">RIOSTRA EXISTENTE</td><td data-cell-id=\"r6c2\">RIOSTRA A INSTALAR</td><td data-cell-id=\"r6c3\"></td></tr><tr><td data-cell-id=\"r7c0\">Central Telefónica</td><td data-cell-id=\"r7c1\">CENTRAL TELEFÓNICA</td><td data-cell-id=\"r7c2\"></td><td data-cell-id=\"r7c3\"></td></tr></tbody></table>\n\n</figure-data>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b3",
+          "type": "section-header",
+          "page": 6,
+          "bbox": {
+            "x0": 0.1204827618858402,
+            "y0": 0.27776984793347853,
+            "x1": 0.4367028364451195,
+            "y1": 0.3085857942189143
+          },
+          "layout_confidence": 0.44781479239463806,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.1204827618858402,
+                "y0": 0.27776984793347853,
+                "x1": 0.3592300138277471,
+                "y1": 0.29071358056494495
+              },
+              "type": "section-header",
+              "text": "SECCIÓN DE INFRAESTRUCTURAS: CANALIZACIÓN EXISTENTE"
+            }
+          ],
+          "content": "## SECCIÓN DE INFRAESTRUCTURAS: CANALIZACIÓN EXISTENTE",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b8",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.6244607315586059,
+            "y0": 0.2967309996260698,
+            "x1": 0.7943742097248404,
+            "y1": 0.3065929013576755
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6244607315586059,
+                "y0": 0.2967309996260698,
+                "x1": 0.7943742097248404,
+                "y1": 0.3065929013576755
+              },
+              "type": "text",
+              "text": "CANALIZACIÓN A INSTALAR"
+            }
+          ],
+          "content": "CANALIZACIÓN A INSTALAR",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b9",
+          "type": "section-header",
+          "page": 6,
+          "bbox": {
+            "x0": 0.13102571192558984,
+            "y0": 0.32658055107656087,
+            "x1": 0.19066730980570187,
+            "y1": 0.33707897872831544
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.13102571192558984,
+                "y0": 0.32658055107656087,
+                "x1": 0.19066730980570187,
+                "y1": 0.33707897872831544
+              },
+              "type": "section-header",
+              "text": "CABLES:"
+            }
+          ],
+          "content": "## CABLES:",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b10",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.2598297849959446,
+            "y0": 0.3434824066490271,
+            "x1": 0.6242188751925803,
+            "y1": 0.5682684334615193
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 62.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.2598297849959446,
+                "y0": 0.3434824066490271,
+                "x1": 0.6242188751925803,
+                "y1": 0.5682684334615193
+              },
+              "type": "text",
+              "text": "CABLE DE COBRE CANALIZADO A DESMONTAR CABLE DE COBRE CANALIZADO A INSTALAR CABLE DE COBRE AÉREO A INSTALAR CABLE DE COBRE AÉREO A DESMONTAR CABLE DE FIBRA ÓPTICA CANALIZADO EXISTENTE CABLE DE FIBRA ÓPTICA CANALIZADO A INSTALAR CABLE DE FIBRA ÓPTICA CANALIZADO A DESMONTAR CABLE DE FIBRA ÓPTICA AÉREO A INSTALAR CABLE DE FIBRA ÓPTICA AÉREO A DESMONTAR CABLE DE COBRE CANALIZADO EXISTENTE CABLE DE COBRE AÉREO EXISTENTE CABLE DE FIBRA ÓPTICA AÉREO EXISTENTE"
+            }
+          ],
+          "content": "CABLE DE COBRE CANALIZADO A DESMONTAR\nCABLE DE COBRE CANALIZADO A INSTALAR\nCABLE DE COBRE AÉREO A INSTALAR\nCABLE DE COBRE AÉREO A DESMONTAR\nCABLE DE FIBRA ÓPTICA CANALIZADO EXISTENTE\nCABLE DE FIBRA ÓPTICA CANALIZADO A INSTALAR\nCABLE DE FIBRA ÓPTICA CANALIZADO A DESMONTAR\nCABLE DE FIBRA ÓPTICA AÉREO A INSTALAR\nCABLE DE FIBRA ÓPTICA AÉREO A DESMONTAR\nCABLE DE COBRE CANALIZADO EXISTENTE\nCABLE DE COBRE AÉREO EXISTENTE\nCABLE DE FIBRA ÓPTICA AÉREO EXISTENTE",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b5",
+          "type": "section-header",
+          "page": 6,
+          "bbox": {
+            "x0": 0.13872899859242746,
+            "y0": 0.5879822690653057,
+            "x1": 0.20721151404974683,
+            "y1": 0.5999736027515765
+          },
+          "layout_confidence": 0.5618603229522705,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.13872899859242746,
+                "y0": 0.5879822690653057,
+                "x1": 0.20721151404974683,
+                "y1": 0.5999736027515765
+              },
+              "type": "section-header",
+              "text": "EQUIPOS:"
+            }
+          ],
+          "content": "## EQUIPOS:",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b6",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.15083913560934192,
+            "y0": 0.6145759572734074,
+            "x1": 0.545396465776621,
+            "y1": 0.7757277144178869
+          },
+          "layout_confidence": 0.3122786283493042,
+          "parse_confidence": 91.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.15083913560934192,
+                "y0": 0.6145759572734074,
+                "x1": 0.545396465776621,
+                "y1": 0.7757277144178869
+              },
+              "type": "text",
+              "text": "CAJA TERMINAL DE INTERIOR COBRE EXISTENTE CAJA TERMINAL DE EXTERIOR COBRE EXISTENTE CAJA TERMINAL ÓPTICA EXISTENTE CAJA DE EMPALME ÓPTICA EXISTENTE CAJA TERMINAL ÓPTICA A INSTALAR CAJA DE EMPALME ÓPTICA A INSTALAR"
+            }
+          ],
+          "content": "CAJA TERMINAL DE INTERIOR COBRE EXISTENTE\nCAJA TERMINAL DE EXTERIOR COBRE EXISTENTE\nCAJA TERMINAL ÓPTICA EXISTENTE\nCAJA DE EMPALME ÓPTICA EXISTENTE\nCAJA TERMINAL ÓPTICA A INSTALAR\nCAJA DE EMPALME ÓPTICA A INSTALAR",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b14",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.09978273168102067,
+            "y0": 0.8402276262072443,
+            "x1": 0.1913558545798358,
+            "y1": 0.8684089726430689
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 90.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09978273168102067,
+                "y0": 0.8402276262072443,
+                "x1": 0.1913558545798358,
+                "y1": 0.8684089726430689
+              },
+              "type": "text",
+              "text": "U n i d a d : E s c a l a : P r o y e c t o Y :"
+            }
+          ],
+          "content": "U n i d a d :\nE s c a l a :\nP r o y e c t o Y :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b11",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.26345816874233563,
+            "y0": 0.8395151434484136,
+            "x1": 0.3305436806027811,
+            "y1": 0.852876732508251
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.26345816874233563,
+                "y0": 0.8395151434484136,
+                "x1": 0.3305436806027811,
+                "y1": 0.852876732508251
+              },
+              "type": "text",
+              "text": "PLANTA"
+            }
+          ],
+          "content": "***PLANTA***",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b12",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.3344042321070631,
+            "y0": 0.8395151434484136,
+            "x1": 0.4207924245952033,
+            "y1": 0.852876732508251
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.3344042321070631,
+                "y0": 0.8395151434484136,
+                "x1": 0.4207924245952033,
+                "y1": 0.852876732508251
+              },
+              "type": "text",
+              "text": "EXTERIOR"
+            }
+          ],
+          "content": "***EXTERIOR***",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b13",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.6141962407585289,
+            "y0": 0.8395151434484136,
+            "x1": 0.6264213162502155,
+            "y1": 0.852876732508251
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6141962407585289,
+                "y0": 0.8395151434484136,
+                "x1": 0.6264213162502155,
+                "y1": 0.852876732508251
+              },
+              "type": "text",
+              "text": "B"
+            }
+          ],
+          "content": "B",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b15",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.2630583214224968,
+            "y0": 0.8548137315755279,
+            "x1": 0.2813645620241625,
+            "y1": 0.865312195474879
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.2630583214224968,
+                "y0": 0.8548137315755279,
+                "x1": 0.2813645620241625,
+                "y1": 0.865312195474879
+              },
+              "type": "text",
+              "text": "1:4"
+            }
+          ],
+          "content": "1:4",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b17",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.09957604137415016,
+            "y0": 0.8675945616425903,
+            "x1": 0.23927404438284744,
+            "y1": 0.9228614896689274
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 70.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09957604137415016,
+                "y0": 0.8675945616425903,
+                "x1": 0.23927404438284744,
+                "y1": 0.9228614896689274
+              },
+              "type": "text",
+              "text": "A c t u a c i ó n : C e n t r a l : P l a n o : E d i c i ó n"
+            },
+            {
+              "bbox": {
+                "x0": 0.09957604137415016,
+                "y0": 0.8675945616425903,
+                "x1": 0.2048508425962066,
+                "y1": 0.8820961376155954
+              },
+              "type": "text",
+              "text": "P r o y e c t o P r o y e c t o"
+            }
+          ],
+          "content": "A c t u a c i ó n :\nC e n t r a l :\nP l a n o :\nE d i c i ó n :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b18",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.5464179165227473,
+            "y0": 0.9083599136959224,
+            "x1": 0.5980817786193026,
+            "y1": 0.9228614896689274
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5464179165227473,
+                "y0": 0.9083599136959224,
+                "x1": 0.5980817786193026,
+                "y1": 0.9228614896689274
+              },
+              "type": "text",
+              "text": "H o j a H o j a"
+            }
+          ],
+          "content": "H o j a\nF e c h a :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b19",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.6287085967071241,
+            "y0": 0.9083599136959224,
+            "x1": 0.6679672469681577,
+            "y1": 0.9228614896689274
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6287085967071241,
+                "y0": 0.9083599136959224,
+                "x1": 0.6679672469681577,
+                "y1": 0.9228614896689274
+              },
+              "type": "text",
+              "text": "1 d e 1"
+            }
+          ],
+          "content": "1 d e 1",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b20",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.2632597060630079,
+            "y0": 0.9102555905030717,
+            "x1": 0.31455968146727153,
+            "y1": 0.9207540544024229
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.2632597060630079,
+                "y0": 0.9102555905030717,
+                "x1": 0.31455968146727153,
+                "y1": 0.9207540544024229
+              },
+              "type": "text",
+              "text": "Leyenda"
+            }
+          ],
+          "content": "Leyenda",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b7",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.747471210890266,
+            "y0": 0.910052602440947,
+            "x1": 0.8293930847094165,
+            "y1": 0.9490707417031852
+          },
+          "layout_confidence": 0.35520780086517334,
+          "parse_confidence": 91.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.747471210890266,
+                "y0": 0.910052602440947,
+                "x1": 0.8293930847094165,
+                "y1": 0.9490707417031852
+              },
+              "type": "text",
+              "text": "S I U : A T L A S : A D M I N :"
+            }
+          ],
+          "content": "S I U :\nA T L A S :\nA D M I N :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b21",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.6085517294268045,
+            "y0": 0.9116824408957565,
+            "x1": 0.6159487510563915,
+            "y1": 0.9221809047951076
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6085517294268045,
+                "y0": 0.9116824408957565,
+                "x1": 0.6159487510563915,
+                "y1": 0.9221809047951076
+              },
+              "type": "text",
+              "text": "a 1"
+            }
+          ],
+          "content": "a 1",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b22",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.09957604137415016,
+            "y0": 0.9220396841587418,
+            "x1": 0.19933582028113778,
+            "y1": 0.936541260131747
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09957604137415016,
+                "y0": 0.9220396841587418,
+                "x1": 0.19933582028113778,
+                "y1": 0.936541260131747
+              },
+              "type": "text",
+              "text": "D i b u j a d o :"
+            }
+          ],
+          "content": "D i b u j a d o :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b23",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.5476249428038914,
+            "y0": 0.9220396841587418,
+            "x1": 0.6263669780246989,
+            "y1": 0.936541260131747
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5476249428038914,
+                "y0": 0.9220396841587418,
+                "x1": 0.6263669780246989,
+                "y1": 0.936541260131747
+              },
+              "type": "text",
+              "text": "F e c h a :"
+            }
+          ],
+          "content": "F e c h a :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b24",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.26346109070351903,
+            "y0": 0.9230825275130132,
+            "x1": 0.27085808670186756,
+            "y1": 0.9335809914123644
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.26346109070351903,
+                "y0": 0.9230825275130132,
+                "x1": 0.27085808670186756,
+                "y1": 0.9335809914123644
+              },
+              "type": "text",
+              "text": "1"
+            }
+          ],
+          "content": "1",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b25",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.09978273168102067,
+            "y0": 0.9357231518764149,
+            "x1": 0.21506095672390943,
+            "y1": 0.9502247278494199
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 91.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09978273168102067,
+                "y0": 0.9357231518764149,
+                "x1": 0.21506095672390943,
+                "y1": 0.9502247278494199
+              },
+              "type": "text",
+              "text": "P r o y e c t a d o :"
+            }
+          ],
+          "content": "P r o y e c t a d o :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b26",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.5476404240719159,
+            "y0": 0.9357231518764149,
+            "x1": 0.6263450889470615,
+            "y1": 0.9502247278494199
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5476404240719159,
+                "y0": 0.9357231518764149,
+                "x1": 0.6263450889470615,
+                "y1": 0.9502247278494199
+              },
+              "type": "text",
+              "text": "F e c h a :"
+            }
+          ],
+          "content": "F e c h a :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b27",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.09978273168102067,
+            "y0": 0.9494029223392343,
+            "x1": 0.24367646589922637,
+            "y1": 0.9639118203267533
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 93.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09978273168102067,
+                "y0": 0.9494029223392343,
+                "x1": 0.24367646589922637,
+                "y1": 0.9639118203267533
+              },
+              "type": "text",
+              "text": "A p r o b a d o :"
+            }
+          ],
+          "content": "A p r o b a d o :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b28",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.5476404240719159,
+            "y0": 0.9494029223392343,
+            "x1": 0.6263450889470615,
+            "y1": 0.9639118203267533
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5476404240719159,
+                "y0": 0.9494029223392343,
+                "x1": 0.6263450889470615,
+                "y1": 0.9639118203267533
+              },
+              "type": "text",
+              "text": "F e c h a :"
+            }
+          ],
+          "content": "F e c h a :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b29",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.09978273168102067,
+            "y0": 0.9630900148165676,
+            "x1": 0.22268048313449132,
+            "y1": 0.9775916632847659
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09978273168102067,
+                "y0": 0.9630900148165676,
+                "x1": 0.22268048313449132,
+                "y1": 0.9775916632847659
+              },
+              "type": "text",
+              "text": "A p r o b a d o : A p r o b a d o :"
+            }
+          ],
+          "content": "P r o y e c t a d A p r o b a d o : A p r o b a d o :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p6_b30",
+          "type": "text",
+          "page": 6,
+          "bbox": {
+            "x0": 0.5473017841494986,
+            "y0": 0.9630900148165676,
+            "x1": 0.6260063464996904,
+            "y1": 0.9775916632847659
+          },
+          "layout_confidence": 0.0,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5473017841494986,
+                "y0": 0.9630900148165676,
+                "x1": 0.6260063464996904,
+                "y1": 0.9775916632847659
+              },
+              "type": "text",
+              "text": "F e c h a : F e c h a : F e c h a :"
+            }
+          ],
+          "content": "F e c h a : F e c h a : F e c h a :",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [
+      {
+        "category": "Plano",
+        "confidence": 100.0,
+        "evidence": "El documento está identificado como «PLANOS» e incluye un plano de situación, un plano técnico de canalizaciones y arqueta, un detalle de sección de la canalización y una leyenda de infraestructuras."
+      }
+    ],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "descripcion_de_la_obra": {
+            "value": "Nueva canalización",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Nueva canalización | ID 11573555 | 2 C.PVC 63 B2; 6,20 metros en acera",
+                "page_number": 3
+              },
+              {
+                "text": "Nueva arqueta | ID 26456513 | ARQ M 29621 (In situ); X: 441339, Y: 4477539",
+                "page_number": 3
+              }
+            ]
+          },
+          "id_proyecto_contratista": {
+            "value": "8570820",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 3.0,
+            "evidence": [
+              {
+                "text": "PROYECTO N° : 8570820",
+                "page_number": 1
+              }
+            ]
+          },
+          "ubicacion_de_la_obra": {
+            "value": "MADRID",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 81.0,
+            "evidence": [
+              {
+                "text": "MADRID",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_obra": {
+            "value": "45867",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "PROYECTO | 8570820 M.AZ: 45867 VAR. INSTAL. CORTE INGLES CA",
+                "page_number": 4
+              }
+            ]
+          },
+          "tipo_de_suministro": {
+            "value": "telecomunicaciones",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "CABLE DE FIBRA ÓPTICA CANALIZADO A INSTALAR",
+                "page_number": 6
+              }
+            ]
+          },
+          "municipio": {
+            "value": "Madrid",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "INFORME TÉCNICO PARA: Ayuntamiento de Madrid",
+                "page_number": 1
+              }
+            ]
+          },
+          "potencia": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "motivo_de_la_obra": {
+            "value": "Nueva canalización",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Nueva canalización | ID 11573555 | 2 C.PVC 63 B2; 6,20 metros en acera | Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)",
+                "page_number": 3
+              }
+            ]
+          },
+          "profundidad_m": {
+            "value": "0.45",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Profundidad en ACERA | 0,45",
+                "page_number": 4
+              }
+            ]
+          },
+          "otras_unidades": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "medidas_acera": [
+            {
+              "largo": {
+                "value": "6.2",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Nueva canalización | ID 11573555 | 2 C.PVC 63 B2; 6,20 metros en acera | Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)",
+                    "page_number": 3
+                  }
+                ]
+              },
+              "ancho": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Nueva canalización | ID 11573555 | 2 C.PVC 63 B2; 6,20 metros en acera | Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)",
+                    "page_number": 3
+                  }
+                ]
+              },
+              "tipo_pavimento": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Nueva canalización | ID 11573555 | 2 C.PVC 63 B2; 6,20 metros en acera | Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)",
+                    "page_number": 3
+                  }
+                ]
+              }
+            },
+            {
+              "largo": {
+                "value": "2.4",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Nueva canalización | ID 11573556 | 2 C.PVC 63 B2; 2,40 metros en acera | Desde Arqueta (ID: 26456513) Hacia Emplazamiento de Red (ID: 26456514)",
+                    "page_number": 3
+                  }
+                ]
+              },
+              "ancho": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Nueva canalización | ID 11573556 | 2 C.PVC 63 B2; 2,40 metros en acera | Desde Arqueta (ID: 26456513) Hacia Emplazamiento de Red (ID: 26456514)",
+                    "page_number": 3
+                  }
+                ]
+              },
+              "tipo_pavimento": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Nueva canalización | ID 11573556 | 2 C.PVC 63 B2; 2,40 metros en acera | Desde Arqueta (ID: 26456513) Hacia Emplazamiento de Red (ID: 26456514)",
+                    "page_number": 3
+                  }
+                ]
+              }
+            }
+          ],
+          "direccion": [],
+          "medidas_calzada": []
+        },
+        "validations": [
+          {
+            "rule_id": "profundidad_razonable",
+            "description": "",
+            "severity": "warning",
+            "status": "pass",
+            "detail": "data.profundidad_m == null || (data.profundidad_m >= 0.2 && data.profundidad_m <= 3.0) is true.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "descripcion_de_la_obra": {
+        "value": "Nueva canalización",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Nueva canalización | ID 11573555 | 2 C.PVC 63 B2; 6,20 metros en acera",
+            "page_number": 3
+          },
+          {
+            "text": "Nueva arqueta | ID 26456513 | ARQ M 29621 (In situ); X: 441339, Y: 4477539",
+            "page_number": 3
+          }
+        ]
+      },
+      "id_proyecto_contratista": {
+        "value": "8570820",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 3.0,
+        "evidence": [
+          {
+            "text": "PROYECTO N° : 8570820",
+            "page_number": 1
+          }
+        ]
+      },
+      "ubicacion_de_la_obra": {
+        "value": "MADRID",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 81.0,
+        "evidence": [
+          {
+            "text": "MADRID",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_obra": {
+        "value": "45867",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "PROYECTO | 8570820 M.AZ: 45867 VAR. INSTAL. CORTE INGLES CA",
+            "page_number": 4
+          }
+        ]
+      },
+      "tipo_de_suministro": {
+        "value": "telecomunicaciones",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "CABLE DE FIBRA ÓPTICA CANALIZADO A INSTALAR",
+            "page_number": 6
+          }
+        ]
+      },
+      "municipio": {
+        "value": "Madrid",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "INFORME TÉCNICO PARA: Ayuntamiento de Madrid",
+            "page_number": 1
+          }
+        ]
+      },
+      "potencia": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "motivo_de_la_obra": {
+        "value": "Nueva canalización",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Nueva canalización | ID 11573555 | 2 C.PVC 63 B2; 6,20 metros en acera | Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)",
+            "page_number": 3
+          }
+        ]
+      },
+      "profundidad_m": {
+        "value": "0.45",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Profundidad en ACERA | 0,45",
+            "page_number": 4
+          }
+        ]
+      },
+      "otras_unidades": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "medidas_acera": [
+        {
+          "largo": {
+            "value": "6.2",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Nueva canalización | ID 11573555 | 2 C.PVC 63 B2; 6,20 metros en acera | Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)",
+                "page_number": 3
+              }
+            ]
+          },
+          "ancho": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Nueva canalización | ID 11573555 | 2 C.PVC 63 B2; 6,20 metros en acera | Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)",
+                "page_number": 3
+              }
+            ]
+          },
+          "tipo_pavimento": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Nueva canalización | ID 11573555 | 2 C.PVC 63 B2; 6,20 metros en acera | Desde Cámara de Registro (ID: 12428214) Hacia Arqueta (ID: 26456513)",
+                "page_number": 3
+              }
+            ]
+          }
+        },
+        {
+          "largo": {
+            "value": "2.4",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Nueva canalización | ID 11573556 | 2 C.PVC 63 B2; 2,40 metros en acera | Desde Arqueta (ID: 26456513) Hacia Emplazamiento de Red (ID: 26456514)",
+                "page_number": 3
+              }
+            ]
+          },
+          "ancho": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Nueva canalización | ID 11573556 | 2 C.PVC 63 B2; 2,40 metros en acera | Desde Arqueta (ID: 26456513) Hacia Emplazamiento de Red (ID: 26456514)",
+                "page_number": 3
+              }
+            ]
+          },
+          "tipo_pavimento": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Nueva canalización | ID 11573556 | 2 C.PVC 63 B2; 2,40 metros en acera | Desde Arqueta (ID: 26456513) Hacia Emplazamiento de Red (ID: 26456514)",
+                "page_number": 3
+              }
+            ]
+          }
+        }
+      ],
+      "direccion": [],
+      "medidas_calzada": []
+    }
+  }
+}

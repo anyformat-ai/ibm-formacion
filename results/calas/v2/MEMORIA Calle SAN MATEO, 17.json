@@ -1,0 +1,942 @@
+{
+  "id": "06acf4ad-a80f-73e3-8000-b9b431ea13cb",
+  "workflow_id": "06acf4a9-8548-7384-8000-f0b4ea0c800a",
+  "document_packet_id": "06acf4ad-a6bc-7cf1-8000-a445cd689016",
+  "status": "processed",
+  "created_at": "2026-10-14T09:26:50.527722Z",
+  "updated_at": "2026-10-14T09:27:15.621971Z",
+  "results": {
+    "document_packet_id": "06acf4ad-a6bc-7cf1-8000-a445cd689016",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a/files/06acf4ad-a2f4-7c22-8000-e1eb603a30cd?versionId=pm8d3Iz-lw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nLogo for i-DE Grupo IBERDROLA. The logo features a lowercase green 'i' with a blue leaf icon to its right, followed by the letters 'DE' in large green font, and the text 'Grupo IBERDROLA' underneath in a smaller green font.\n\n</figure-description>\n\n\n<a id=\"p1_b1\"></a>\n\n# MEMORIA\n\n\n<a id=\"p1_b2\"></a>\n\nSe trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.\n\n\n<a id=\"p1_b5\"></a>\n\n**MOTIVO:** CALA en acera para tendido de cable subterráneo de Baja Tensión para ejecutar acometida de Baja Tensión para nuevo suministro. Promotor: I-DE REDES ELÉCTRICAS INTELIGENTES S.A.U.\n\n\n<a id=\"p1_b7\"></a>\n\n**SUPERFICIE Y CLASE DE PAVIMENTO A REPONER:** Cala de 6 m a reponer en acera.\n\n\n<a id=\"p1_b8\"></a>\n\n**PLAZO DE EJECUCIÓN:** 30 días\n\n\n<a id=\"p1_b9\"></a>\n\n**CONTRATISTA:** TRADIVEL\n\n\n<a id=\"p1_b10\"></a>\n\n**PRESUPUESTO:** La Obra Civil asciende a la cantidad de **2.092,38- €**\n\n\n<a id=\"p1_b11\"></a>\n\nMadrid, 14 de Noviembre de 2025\ni-DE REDES ELÉCTRICAS INTELIGENTES S.A.U.",
+      "text": "<a id=\"p1_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nLogo for i-DE Grupo IBERDROLA. The logo features a lowercase green 'i' with a blue leaf icon to its right, followed by the letters 'DE' in large green font, and the text 'Grupo IBERDROLA' underneath in a smaller green font.\n\n</figure-description>\n\n<a id=\"p1_b1\"></a>\n\n# MEMORIA\n\n<a id=\"p1_b2\"></a>\n\nSe trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.\n\n<a id=\"p1_b5\"></a>\n\n**MOTIVO:** CALA en acera para tendido de cable subterráneo de Baja Tensión para ejecutar acometida de Baja Tensión para nuevo suministro. Promotor: I-DE REDES ELÉCTRICAS INTELIGENTES S.A.U.\n\n<a id=\"p1_b7\"></a>\n\n**SUPERFICIE Y CLASE DE PAVIMENTO A REPONER:** Cala de 6 m a reponer en acera.\n\n<a id=\"p1_b8\"></a>\n\n**PLAZO DE EJECUCIÓN:** 30 días\n\n<a id=\"p1_b9\"></a>\n\n**CONTRATISTA:** TRADIVEL\n\n<a id=\"p1_b10\"></a>\n\n**PRESUPUESTO:** La Obra Civil asciende a la cantidad de **2.092,38- €**\n\n<a id=\"p1_b11\"></a>\n\nMadrid, 14 de Noviembre de 2025\ni-DE REDES ELÉCTRICAS INTELIGENTES S.A.U.",
+      "layout_confidence": 0.784,
+      "parse_confidence": 92.7,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "picture",
+          "page": 1,
+          "bbox": {
+            "x0": 0.12181346851796308,
+            "y0": 0.06493066181836855,
+            "x1": 0.3090231548341615,
+            "y1": 0.14113687072466866
+          },
+          "layout_confidence": 0.8105341792106628,
+          "parse_confidence": null,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.12181346851796308,
+                "y0": 0.06493066181836855,
+                "x1": 0.3090231548341615,
+                "y1": 0.14113687072466866
+              },
+              "type": "picture",
+              "text": ""
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nLogo for i-DE Grupo IBERDROLA. The logo features a lowercase green 'i' with a blue leaf icon to its right, followed by the letters 'DE' in large green font, and the text 'Grupo IBERDROLA' underneath in a smaller green font.\n\n</figure-description>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b1",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.43255615234375,
+            "y0": 0.2052320828545853,
+            "x1": 0.5670058632127607,
+            "y1": 0.2280702431928709
+          },
+          "layout_confidence": 0.8140012621879578,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.43255615234375,
+                "y0": 0.2052320828545853,
+                "x1": 0.5670058632127607,
+                "y1": 0.2280702431928709
+              },
+              "type": "title",
+              "text": "MEMORIA"
+            }
+          ],
+          "content": "# MEMORIA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b2",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.142026539148702,
+            "y0": 0.27067898200509816,
+            "x1": 0.7783497599333056,
+            "y1": 0.3465769364662276
+          },
+          "layout_confidence": 0.9511536955833435,
+          "parse_confidence": 89.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.142026539148702,
+                "y0": 0.27095212443051253,
+                "x1": 0.7783497599333056,
+                "y1": 0.3460207739769266
+              },
+              "type": "text",
+              "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto."
+            }
+          ],
+          "content": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.14104036379610035,
+            "y0": 0.3900810119285041,
+            "x1": 0.7996270757330304,
+            "y1": 0.46486719823042133
+          },
+          "layout_confidence": 0.5017719864845276,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.14104036379610035,
+                "y0": 0.3905452289556835,
+                "x1": 0.7796595433891325,
+                "y1": 0.40881454643911663
+              },
+              "type": "text",
+              "text": "CALA en acera para tendido de cable subterráneo de Baja"
+            },
+            {
+              "bbox": {
+                "x0": 0.14251543849958906,
+                "y0": 0.4187385653674781,
+                "x1": 0.797416198066241,
+                "y1": 0.43618713091866185
+              },
+              "type": "text",
+              "text": "Tensión para ejecutar acometida de Baja Tensión para nuevo suministro."
+            },
+            {
+              "bbox": {
+                "x0": 0.14192439567076973,
+                "y0": 0.4449916413932236,
+                "x1": 0.7037431008870542,
+                "y1": 0.4633837598366022
+              },
+              "type": "text",
+              "text": "Promotor: I-DE REDES ELÉCTRICAS INTELIGENTES S.A.U."
+            }
+          ],
+          "content": "**MOTIVO:** CALA en acera para tendido de cable subterráneo de Baja Tensión para ejecutar acometida de Baja Tensión para nuevo suministro. Promotor: I-DE REDES ELÉCTRICAS INTELIGENTES S.A.U.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b7",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.13989053008922497,
+            "y0": 0.4850590947653912,
+            "x1": 0.7643534465453068,
+            "y1": 0.5245522370639215
+          },
+          "layout_confidence": 0.9116171598434448,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.13989053008922497,
+                "y0": 0.4850590947653912,
+                "x1": 0.7643534465453068,
+                "y1": 0.5238132093542913
+              },
+              "type": "text",
+              "text": "SUPERFICIE Y CLASE DE PAVIMENTO A REPONER: Cala de 6 m a reponer en acera."
+            }
+          ],
+          "content": "**SUPERFICIE Y CLASE DE PAVIMENTO A REPONER:** Cala de 6 m a reponer en acera.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b8",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.13922702185043834,
+            "y0": 0.54490324349014,
+            "x1": 0.4540885731559855,
+            "y1": 0.5658269403447205
+          },
+          "layout_confidence": 0.3540821969509125,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.13922702185043834,
+                "y0": 0.54490324349014,
+                "x1": 0.4540885731559855,
+                "y1": 0.5642903471869656
+              },
+              "type": "text",
+              "text": "PLAZO DE EJECUCIÓN: 30 días"
+            }
+          ],
+          "content": "**PLAZO DE EJECUCIÓN:** 30 días",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b9",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.12705028676929037,
+            "y0": 0.5969522078338596,
+            "x1": 0.4145779407874849,
+            "y1": 0.6212716265847993
+          },
+          "layout_confidence": 0.850649893283844,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.12705028676929037,
+                "y0": 0.5980289845754062,
+                "x1": 0.4145779407874849,
+                "y1": 0.6188524367718576
+              },
+              "type": "text",
+              "text": "CONTRATISTA: TRADIVEL"
+            }
+          ],
+          "content": "**CONTRATISTA:** TRADIVEL",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b10",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.12744651711405117,
+            "y0": 0.6501829271210172,
+            "x1": 0.7604087451349002,
+            "y1": 0.6705934413018745
+          },
+          "layout_confidence": 0.8480303883552551,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.12744651711405117,
+                "y0": 0.6509208662890124,
+                "x1": 0.7604087451349002,
+                "y1": 0.6688136393925022
+              },
+              "type": "text",
+              "text": "PRESUPUESTO: La Obra Civil asciende a la cantidad de 2.092,38- €"
+            }
+          ],
+          "content": "**PRESUPUESTO:** La Obra Civil asciende a la cantidad de **2.092,38- €**",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b11",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.2785974246559005,
+            "y0": 0.7207775138469443,
+            "x1": 0.7481840749461532,
+            "y1": 0.7585781024789151
+          },
+          "layout_confidence": 0.8609967827796936,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.2785974246559005,
+                "y0": 0.7216100672362655,
+                "x1": 0.7481840749461532,
+                "y1": 0.7578383336061084
+              },
+              "type": "text",
+              "text": "Madrid, 14 de Noviembre de 2025 i-DE REDES ELÉCTRICAS INTELIGENTES S.A.U."
+            }
+          ],
+          "content": "Madrid, 14 de Noviembre de 2025\ni-DE REDES ELÉCTRICAS INTELIGENTES S.A.U.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [
+      {
+        "category": "Memoria",
+        "confidence": 99.0,
+        "evidence": "El documento está titulado «MEMORIA» y describe la obra de apertura de cala, su ubicación («Calle SAN MATEO, 17»), el motivo, la superficie y pavimento a reponer, el plazo de ejecución de 30 días y el contratista. Aunque incluye un importe de presupuesto, su contenido principal es descriptivo."
+      }
+    ],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "descripcion_de_la_obra": {
+            "value": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.",
+                "page_number": 1
+              }
+            ]
+          },
+          "plazo_de_ejecucion": {
+            "value": "30",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "PLAZO DE EJECUCIÓN: 30 días",
+                "page_number": 1
+              }
+            ]
+          },
+          "duracion_dias": {
+            "value": "30",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "PLAZO DE EJECUCIÓN: 30 días",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_proyecto_contratista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "ubicacion_de_la_obra": {
+            "value": "Calle SAN MATEO, 17",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_obra": {
+            "value": "9045838454",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.",
+                "page_number": 1
+              }
+            ]
+          },
+          "total_presupuesto": {
+            "value": "2092.38",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "PRESUPUESTO: La Obra Civil asciende a la cantidad de 2.092,38- €",
+                "page_number": 1
+              }
+            ]
+          },
+          "presupuesto": {
+            "value": "2092.38",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "PRESUPUESTO: La Obra Civil asciende a la cantidad de 2.092,38- €",
+                "page_number": 1
+              }
+            ]
+          },
+          "tipo_de_suministro": {
+            "value": "electricidad de Baja Tensión",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "CALA en acera para tendido de cable subterráneo de Baja Tensión para ejecutar acometida de Baja Tensión para nuevo suministro.",
+                "page_number": 1
+              }
+            ]
+          },
+          "municipio": {
+            "value": "Madrid",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "Madrid, 14 de Noviembre de 2025",
+                "page_number": 1
+              }
+            ]
+          },
+          "potencia": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "motivo_de_la_obra": {
+            "value": "CALA en acera para tendido de cable subterráneo de Baja Tensión para ejecutar acometida de Baja Tensión para nuevo suministro",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "MOTIVO: CALA en acera para tendido de cable subterráneo de Baja Tensión para ejecutar acometida de Baja Tensión para nuevo suministro.",
+                "page_number": 1
+              }
+            ]
+          },
+          "subcontratista": {
+            "value": "TRADIVEL",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "CONTRATISTA: TRADIVEL",
+                "page_number": 1
+              }
+            ]
+          },
+          "fecha_inicio_prevista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "fecha_fin_prevista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "profundidad_m": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "otras_unidades": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "gestion_residuos": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "gestores_autorizados": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "direccion": [
+            {
+              "tipo": {
+                "value": "Calle",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "nombre": {
+                "value": "SAN MATEO",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero": {
+                "value": "17",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "categoria_fiscal": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "distrito": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "barrio": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "descripcion_ubicacion": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              }
+            }
+          ],
+          "medidas_acera": [
+            {
+              "largo": {
+                "value": "6.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "SUPERFICIE Y CLASE DE PAVIMENTO A REPONER: Cala de 6 m a reponer en acera.",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "ancho": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "tipo_pavimento": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "SUPERFICIE Y CLASE DE PAVIMENTO A REPONER: Cala de 6 m a reponer en acera.",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ],
+          "medidas_calzada": []
+        },
+        "validations": [
+          {
+            "rule_id": "fechas_coherentes",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.fecha_inicio_prevista == null || data.fecha_fin_prevista == null || data.fecha_fin_prevista >= data.fecha_inicio_prevista is true.",
+            "compared_values": null,
+            "source_fields": []
+          },
+          {
+            "rule_id": "profundidad_razonable",
+            "description": "",
+            "severity": "warning",
+            "status": "pass",
+            "detail": "data.profundidad_m == null || (data.profundidad_m >= 0.2 && data.profundidad_m <= 3.0) is true.",
+            "compared_values": null,
+            "source_fields": []
+          },
+          {
+            "rule_id": "presupuesto_positivo",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.total_presupuesto == null || data.total_presupuesto > 0.0 is true.",
+            "compared_values": null,
+            "source_fields": []
+          },
+          {
+            "rule_id": "plazo_positivo",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.plazo_de_ejecucion == null || data.plazo_de_ejecucion > 0 is true.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "descripcion_de_la_obra": {
+        "value": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.",
+            "page_number": 1
+          }
+        ]
+      },
+      "plazo_de_ejecucion": {
+        "value": "30",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "PLAZO DE EJECUCIÓN: 30 días",
+            "page_number": 1
+          }
+        ]
+      },
+      "duracion_dias": {
+        "value": "30",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "PLAZO DE EJECUCIÓN: 30 días",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_proyecto_contratista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "ubicacion_de_la_obra": {
+        "value": "Calle SAN MATEO, 17",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_obra": {
+        "value": "9045838454",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "Calle SAN MATEO, 17 con número de expediente 9045838454,como se detalla en el plano adjunto.",
+            "page_number": 1
+          }
+        ]
+      },
+      "total_presupuesto": {
+        "value": "2092.38",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "PRESUPUESTO: La Obra Civil asciende a la cantidad de 2.092,38- €",
+            "page_number": 1
+          }
+        ]
+      },
+      "presupuesto": {
+        "value": "2092.38",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "PRESUPUESTO: La Obra Civil asciende a la cantidad de 2.092,38- €",
+            "page_number": 1
+          }
+        ]
+      },
+      "tipo_de_suministro": {
+        "value": "electricidad de Baja Tensión",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "CALA en acera para tendido de cable subterráneo de Baja Tensión para ejecutar acometida de Baja Tensión para nuevo suministro.",
+            "page_number": 1
+          }
+        ]
+      },
+      "municipio": {
+        "value": "Madrid",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "Madrid, 14 de Noviembre de 2025",
+            "page_number": 1
+          }
+        ]
+      },
+      "potencia": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "motivo_de_la_obra": {
+        "value": "CALA en acera para tendido de cable subterráneo de Baja Tensión para ejecutar acometida de Baja Tensión para nuevo suministro",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "MOTIVO: CALA en acera para tendido de cable subterráneo de Baja Tensión para ejecutar acometida de Baja Tensión para nuevo suministro.",
+            "page_number": 1
+          }
+        ]
+      },
+      "subcontratista": {
+        "value": "TRADIVEL",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "CONTRATISTA: TRADIVEL",
+            "page_number": 1
+          }
+        ]
+      },
+      "fecha_inicio_prevista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "fecha_fin_prevista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "profundidad_m": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "otras_unidades": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "gestion_residuos": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "gestores_autorizados": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "direccion": [
+        {
+          "tipo": {
+            "value": "Calle",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17",
+                "page_number": 1
+              }
+            ]
+          },
+          "nombre": {
+            "value": "SAN MATEO",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero": {
+            "value": "17",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "Se trata de realizar OBRA DE APERTURA DE CALA en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17",
+                "page_number": 1
+              }
+            ]
+          },
+          "categoria_fiscal": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "distrito": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "barrio": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "descripcion_ubicacion": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          }
+        }
+      ],
+      "medidas_acera": [
+        {
+          "largo": {
+            "value": "6.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "SUPERFICIE Y CLASE DE PAVIMENTO A REPONER: Cala de 6 m a reponer en acera.",
+                "page_number": 1
+              }
+            ]
+          },
+          "ancho": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tipo_pavimento": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "SUPERFICIE Y CLASE DE PAVIMENTO A REPONER: Cala de 6 m a reponer en acera.",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ],
+      "medidas_calzada": []
+    }
+  }
+}

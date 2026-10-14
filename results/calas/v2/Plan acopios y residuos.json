@@ -1,0 +1,1070 @@
+{
+  "id": "06acf4ae-55d3-791d-8000-9f577974c36f",
+  "workflow_id": "06acf4a9-8548-7384-8000-f0b4ea0c800a",
+  "document_packet_id": "06acf4ae-5488-7859-8000-2e3158bfb28a",
+  "status": "processed",
+  "created_at": "2026-10-14T09:27:01.388314Z",
+  "updated_at": "2026-10-14T09:27:54.143781Z",
+  "results": {
+    "document_packet_id": "06acf4ae-5488-7859-8000-2e3158bfb28a",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a/files/06acf4ae-5034-78bc-8000-004a0a29405f?versionId=pm8d3Iz-lw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\n# PLAN DE ACOPIOS DE MATERIALES Y GESTION DE RESIDUOS\n\n\n<a id=\"p1_b1\"></a>\n\n<table>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r0c0\"><b>Dirección:</b> PASTRANA 8B (DESPLAZAMIENTO RED)</td>\n    <td colspan=\"3\" data-cell-id=\"r0c2\"></td>\n  </tr>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r1c0\"><b>Distrito:</b> San Blas</td>\n    <td colspan=\"3\" data-cell-id=\"r1c2\"></td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\"><b>Metros:</b></td>\n    <td data-cell-id=\"r2c1\">13,80</td>\n    <td data-cell-id=\"r2c2\"><b>Longitud:</b></td>\n    <td data-cell-id=\"r2c3\">0,00</td>\n    <td data-cell-id=\"r2c4\">metros en calzada</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\"><b>Acometidas:</b></td>\n    <td data-cell-id=\"r3c1\">1</td>\n    <td data-cell-id=\"r3c2\"></td>\n    <td data-cell-id=\"r3c3\">13,80</td>\n    <td data-cell-id=\"r3c4\">metros en acera</td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b2\"></a>\n\n# RELACION DE MATERIALES Y RESIDUOS\n\n\n<a id=\"p1_b3\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Materiales:</th>\n      <th data-cell-id=\"r0c1\">Residuos:</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r1c0\">Tuberias y accesorios</td>\n      <td data-cell-id=\"r1c1\">Tierras procedentes de la excavación, hormigón, asfalto, losas, adoq., tierras</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">Tierras para tapado</td>\n      <td data-cell-id=\"r2c1\">Recorte de tuberias a instalar</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">Hormig., asfalto, losa, adoq., agua</td>\n      <td data-cell-id=\"r3c1\">Restos de la tubería sustituida.</td>\n    </tr>\n  </tbody>\n</table>\n\n\n<a id=\"p1_b4\"></a>\n\n# ACOPIO DE MATERIALES\n\n\n<a id=\"p1_b5\"></a>\n\nNo será necesario el acopio de materiales en obra, excepto la tubería, ya que todos ellos se ecopiarán en camiones, echándose directamente a la zanja.\n\n\n<a id=\"p1_b6\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">\n      <strong>Tuberias y accesorios:</strong><br><br>\n      <i>Superficie a ocupar:</i> 5,52m²\n    </td>\n    <td data-cell-id=\"r0c1\">\n      <strong>Tierras para el tapado</strong><br>\n      Se utilizará arena de miga<br>\n      <i>Volumen de tierra:</i> 2,21m³\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">\n      <strong>Hormigon</strong><br>\n      Se utilizará hormigón con una resistencia mínima de<br>\n      (fck) 125 Kg/cm2.<br><br>\n      <i>Vol. hormigon:</i> 1,10m³\n    </td>\n    <td data-cell-id=\"r1c1\">\n      <strong>Asfalto/Adoquín</strong><br><br>\n      Se utilizará aglomerado asfáltico/adoquín de las mismas<br>\n      características y el mismo espesor que el existente<br>\n      <i>Superficie aproximada:</i> 0,00m²\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">\n      <strong>Loseta</strong><br>\n      En los casos que afecte a acera se utilizará loseta<br>\n      Superficie: 5,52m²\n    </td>\n    <td data-cell-id=\"r2c1\">\n      <strong>Agua</strong><br><br>\n      Se utilizará agua suministrada en bidones de chapa de 200l para la<br>\n      preparación del cemento.\n    </td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b22\"></a>\n\nGESTION DE RESIDUOS (NIVEL Il)Durante la realización de la obra se adoptarán por parte de la empresa encargada de realizar\n\n<table>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r0c0\">\n      <strong>GESTION DE RESIDUOS (NIVEL II)</strong>Durante la realización de la obra se adoptarán por parte de la empresa encargada de realizar la obra las medidas para la prevención y separación de los residuos y se intentará minimizar el volumen de residuos generados para su posterior y por este orden de priorización, reutilización, reciclado u otras formas de valorización los cuales se entregarán a un Gestor Autorizado de Residuos. El resto de los residuos no reutilizables serán tratados en vertedero autorizado. El coste previsto de la gestión de los residuos formará parte del presupuesto del proyecto en capitulo independiente.\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">\n      <strong>Residuos Inertes</strong>\n    </td>\n    <td data-cell-id=\"r1c1\">\n      <strong>Residuos Contaminados</strong>\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">\n      Los residuos inertes (tierras no contaminadas, hormigón, asfalto, losas, adoq., recortes de tubería, etc). Serán recogidos en contenedores y enviados al vertedero autorizado.<br><br>\n      Volumen: 4,83\n    </td>\n    <td data-cell-id=\"r2c1\">\n      Los residuos contaminados, serán enviados a vertederos especiales<br><br>\n      <i>Volumen aproximado:</i> 0\n    </td>\n  </tr>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r3c0\">\n      <br>\n      <strong>Residuos Reutilizables:</strong><br><br>\n      Los residuos no aprovechados, que pudieran ser objeto de posterior utilización por los Servicios Municipales: adoquines, losa granítica, etc., que estos SSMM consideren reutilizables, serán depositados en los depósitos de los SSMM\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">\n      <i>Volumen residuos reutilizables previstos aproximados:</i> 2,90\n    </td>\n    <td data-cell-id=\"r4c1\">\n      60% de los residuos intertes\n    </td>\n  </tr>\n</table>",
+      "text": "<a id=\"p1_b0\"></a>\n\n# PLAN DE ACOPIOS DE MATERIALES Y GESTION DE RESIDUOS\n\n<a id=\"p1_b1\"></a>\n\n<table>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r0c0\"><b>Dirección:</b> PASTRANA 8B (DESPLAZAMIENTO RED)</td>\n    <td colspan=\"3\" data-cell-id=\"r0c2\"></td>\n  </tr>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r1c0\"><b>Distrito:</b> San Blas</td>\n    <td colspan=\"3\" data-cell-id=\"r1c2\"></td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\"><b>Metros:</b></td>\n    <td data-cell-id=\"r2c1\">13,80</td>\n    <td data-cell-id=\"r2c2\"><b>Longitud:</b></td>\n    <td data-cell-id=\"r2c3\">0,00</td>\n    <td data-cell-id=\"r2c4\">metros en calzada</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\"><b>Acometidas:</b></td>\n    <td data-cell-id=\"r3c1\">1</td>\n    <td data-cell-id=\"r3c2\"></td>\n    <td data-cell-id=\"r3c3\">13,80</td>\n    <td data-cell-id=\"r3c4\">metros en acera</td>\n  </tr>\n</table>\n\n<a id=\"p1_b2\"></a>\n\n# RELACION DE MATERIALES Y RESIDUOS\n\n<a id=\"p1_b3\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Materiales:</th>\n      <th data-cell-id=\"r0c1\">Residuos:</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r1c0\">Tuberias y accesorios</td>\n      <td data-cell-id=\"r1c1\">Tierras procedentes de la excavación, hormigón, asfalto, losas, adoq., tierras</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">Tierras para tapado</td>\n      <td data-cell-id=\"r2c1\">Recorte de tuberias a instalar</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">Hormig., asfalto, losa, adoq., agua</td>\n      <td data-cell-id=\"r3c1\">Restos de la tubería sustituida.</td>\n    </tr>\n  </tbody>\n</table>\n\n<a id=\"p1_b4\"></a>\n\n# ACOPIO DE MATERIALES\n\n<a id=\"p1_b5\"></a>\n\nNo será necesario el acopio de materiales en obra, excepto la tubería, ya que todos ellos se ecopiarán en camiones, echándose directamente a la zanja.\n\n<a id=\"p1_b6\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">\n      <strong>Tuberias y accesorios:</strong><br><br>\n      <i>Superficie a ocupar:</i> 5,52m²\n    </td>\n    <td data-cell-id=\"r0c1\">\n      <strong>Tierras para el tapado</strong><br>\n      Se utilizará arena de miga<br>\n      <i>Volumen de tierra:</i> 2,21m³\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">\n      <strong>Hormigon</strong><br>\n      Se utilizará hormigón con una resistencia mínima de<br>\n      (fck) 125 Kg/cm2.<br><br>\n      <i>Vol. hormigon:</i> 1,10m³\n    </td>\n    <td data-cell-id=\"r1c1\">\n      <strong>Asfalto/Adoquín</strong><br><br>\n      Se utilizará aglomerado asfáltico/adoquín de las mismas<br>\n      características y el mismo espesor que el existente<br>\n      <i>Superficie aproximada:</i> 0,00m²\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">\n      <strong>Loseta</strong><br>\n      En los casos que afecte a acera se utilizará loseta<br>\n      Superficie: 5,52m²\n    </td>\n    <td data-cell-id=\"r2c1\">\n      <strong>Agua</strong><br><br>\n      Se utilizará agua suministrada en bidones de chapa de 200l para la<br>\n      preparación del cemento.\n    </td>\n  </tr>\n</table>\n\n<a id=\"p1_b22\"></a>\n\nGESTION DE RESIDUOS (NIVEL Il)Durante la realización de la obra se adoptarán por parte de la empresa encargada de realizar\n\n<table>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r0c0\">\n      <strong>GESTION DE RESIDUOS (NIVEL II)</strong>Durante la realización de la obra se adoptarán por parte de la empresa encargada de realizar la obra las medidas para la prevención y separación de los residuos y se intentará minimizar el volumen de residuos generados para su posterior y por este orden de priorización, reutilización, reciclado u otras formas de valorización los cuales se entregarán a un Gestor Autorizado de Residuos. El resto de los residuos no reutilizables serán tratados en vertedero autorizado. El coste previsto de la gestión de los residuos formará parte del presupuesto del proyecto en capitulo independiente.\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">\n      <strong>Residuos Inertes</strong>\n    </td>\n    <td data-cell-id=\"r1c1\">\n      <strong>Residuos Contaminados</strong>\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">\n      Los residuos inertes (tierras no contaminadas, hormigón, asfalto, losas, adoq., recortes de tubería, etc). Serán recogidos en contenedores y enviados al vertedero autorizado.<br><br>\n      Volumen: 4,83\n    </td>\n    <td data-cell-id=\"r2c1\">\n      Los residuos contaminados, serán enviados a vertederos especiales<br><br>\n      <i>Volumen aproximado:</i> 0\n    </td>\n  </tr>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r3c0\">\n      <br>\n      <strong>Residuos Reutilizables:</strong><br><br>\n      Los residuos no aprovechados, que pudieran ser objeto de posterior utilización por los Servicios Municipales: adoquines, losa granítica, etc., que estos SSMM consideren reutilizables, serán depositados en los depósitos de los SSMM\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">\n      <i>Volumen residuos reutilizables previstos aproximados:</i> 2,90\n    </td>\n    <td data-cell-id=\"r4c1\">\n      60% de los residuos intertes\n    </td>\n  </tr>\n</table>",
+      "layout_confidence": 0.381,
+      "parse_confidence": 96.9,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.07505895667669996,
+            "y0": 0.066,
+            "x1": 0.6979063834359885,
+            "y1": 0.08238385262882776
+          },
+          "layout_confidence": 0.4413772523403168,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.07505895667669996,
+                "y0": 0.06615651861731442,
+                "x1": 0.6979063834359885,
+                "y1": 0.08238385262882776
+              },
+              "type": "title",
+              "text": "PLAN DE ACOPIOS DE MATERIALES Y GESTION DE RESIDUOS"
+            }
+          ],
+          "content": "# PLAN DE ACOPIOS DE MATERIALES Y GESTION DE RESIDUOS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b1",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.05,
+            "y0": 0.10126810126857097,
+            "x1": 0.709062975291906,
+            "y1": 0.17884959090005745
+          },
+          "layout_confidence": 0.770126461982727,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.05096740445894659,
+                "y0": 0.10126810126857097,
+                "x1": 0.709062975291906,
+                "y1": 0.17884959090005745
+              },
+              "type": "table",
+              "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED) Distrito: San Blas Metros: 13,80 Longitud: 0,00 metros en calzada Acometidas: 1 13,80 metros en acera"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r0c0\"><b>Dirección:</b> PASTRANA 8B (DESPLAZAMIENTO RED)</td>\n    <td colspan=\"3\" data-cell-id=\"r0c2\"></td>\n  </tr>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r1c0\"><b>Distrito:</b> San Blas</td>\n    <td colspan=\"3\" data-cell-id=\"r1c2\"></td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\"><b>Metros:</b></td>\n    <td data-cell-id=\"r2c1\">13,80</td>\n    <td data-cell-id=\"r2c2\"><b>Longitud:</b></td>\n    <td data-cell-id=\"r2c3\">0,00</td>\n    <td data-cell-id=\"r2c4\">metros en calzada</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r3c0\"><b>Acometidas:</b></td>\n    <td data-cell-id=\"r3c1\">1</td>\n    <td data-cell-id=\"r3c2\"></td>\n    <td data-cell-id=\"r3c3\">13,80</td>\n    <td data-cell-id=\"r3c4\">metros en acera</td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "<b>Dirección:</b> PASTRANA 8B (DESPLAZAMIENTO RED)"
+              },
+              {
+                "cell_id": "r0c2",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "<b>Distrito:</b> San Blas"
+              },
+              {
+                "cell_id": "r1c2",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "<b>Metros:</b>"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "13,80"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "<b>Longitud:</b>"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "0,00"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": "metros en calzada"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "<b>Acometidas:</b>"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "1"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c3",
+                "text": "13,80"
+              },
+              {
+                "cell_id": "r3c4",
+                "text": "metros en acera"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b2",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.052830188679245285,
+            "y0": 0.20058714828719537,
+            "x1": 0.36259373730586836,
+            "y1": 0.2150955102340744
+          },
+          "layout_confidence": 0.4962002635002136,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.05416388090749462,
+                "y0": 0.20058714828719537,
+                "x1": 0.36259373730586836,
+                "y1": 0.2150955102340744
+              },
+              "type": "title",
+              "text": "RELACION DE MATERIALES Y RESIDUOS"
+            }
+          ],
+          "content": "# RELACION DE MATERIALES Y RESIDUOS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b3",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.05980767246601515,
+            "y0": 0.23805699342333797,
+            "x1": 0.8763971663155607,
+            "y1": 0.3092545162362388
+          },
+          "layout_confidence": 0.349187970161438,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.05980767246601515,
+                "y0": 0.23805699342333797,
+                "x1": 0.8763971663155607,
+                "y1": 0.3092545162362388
+              },
+              "type": "table",
+              "text": "Materiales: Residuos: Tuberias y accesorios Tierras procedentes de la excavación, hormigón, asfalto, losas, adoq., tierras Tierras para tapado Recorte de tuberias a instalar Hormig., asfalto, losa, adoq., agua Restos de la tubería sustituida."
+            }
+          ],
+          "content": "<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Materiales:</th>\n      <th data-cell-id=\"r0c1\">Residuos:</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r1c0\">Tuberias y accesorios</td>\n      <td data-cell-id=\"r1c1\">Tierras procedentes de la excavación, hormigón, asfalto, losas, adoq., tierras</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">Tierras para tapado</td>\n      <td data-cell-id=\"r2c1\">Recorte de tuberias a instalar</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">Hormig., asfalto, losa, adoq., agua</td>\n      <td data-cell-id=\"r3c1\">Restos de la tubería sustituida.</td>\n    </tr>\n  </tbody>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Materiales:"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "Residuos:"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "Tuberias y accesorios"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "Tierras procedentes de la excavación, hormigón, asfalto, losas, adoq., tierras"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "Tierras para tapado"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "Recorte de tuberias a instalar"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "Hormig., asfalto, losa, adoq., agua"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "Restos de la tubería sustituida."
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b4",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.052830188679245285,
+            "y0": 0.3328903870176892,
+            "x1": 0.2173205632829032,
+            "y1": 0.3458424699056755
+          },
+          "layout_confidence": 0.5958855748176575,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.053812836505193376,
+                "y0": 0.3328903870176892,
+                "x1": 0.2173205632829032,
+                "y1": 0.3458424699056755
+              },
+              "type": "title",
+              "text": "ACOPIO DE MATERIALES"
+            }
+          ],
+          "content": "# ACOPIO DE MATERIALES",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.059433962264150944,
+            "y0": 0.374,
+            "x1": 0.9289457051324441,
+            "y1": 0.4029472386954227
+          },
+          "layout_confidence": 0.820008397102356,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.060528687150763774,
+                "y0": 0.3750999421327223,
+                "x1": 0.9289457051324441,
+                "y1": 0.4029472386954227
+              },
+              "type": "text",
+              "text": "No será necesario el acopio de materiales en obra, excepto la tubería, ya que todos ellos se ecopiarán en camiones, echándose directamente a la zanja."
+            }
+          ],
+          "content": "No será necesario el acopio de materiales en obra, excepto la tubería, ya que todos ellos se ecopiarán en camiones, echándose directamente a la zanja.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b6",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.05,
+            "y0": 0.40719078686972265,
+            "x1": 0.9363495574176239,
+            "y1": 0.6484951689590904
+          },
+          "layout_confidence": 0.2520413100719452,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.05109725177215982,
+                "y0": 0.40719078686972265,
+                "x1": 0.9363495574176239,
+                "y1": 0.6484951689590904
+              },
+              "type": "table",
+              "text": "Tuberias y accesorios: Superficie a ocupar: 5,52m² Tierras para el tapado Se utilizará arena de miga Volumen de tierra: 2,21m³ Hormigon Se utilizará hormigón con una resistencia mínima de (fck) 125 Kg/cm2. Vol. hormigon: 1,10m³ Asfalto/Adoquín Se utilizará aglomerado asfáltico/adoquín de las mismas características y el mismo espesor que el existente Superficie aproximada: 0,00m² Loseta En los casos que afecte a acera se utilizará loseta Superficie: 5,52m² Agua Se utilizará agua suministrada en bidones de chapa de 200l para la preparación del cemento."
+            },
+            {
+              "bbox": {
+                "x0": 0.46420166310837363,
+                "y0": 0.42549483620136813,
+                "x1": 0.6603762570142457,
+                "y1": 0.47661922955523195
+              },
+              "type": "text",
+              "text": "Tierras para el tapado Se utilizará arena de miga Volumen de tierra: 2,21m³"
+            },
+            {
+              "bbox": {
+                "x0": 0.052180754951006554,
+                "y0": 0.4560863662856723,
+                "x1": 0.24579971848548973,
+                "y1": 0.4761052712664333
+              },
+              "type": "text",
+              "text": "5,52m² Superficie a ocupar:"
+            },
+            {
+              "bbox": {
+                "x0": 0.46409505454343636,
+                "y0": 0.5006018969277736,
+                "x1": 0.5840234906382256,
+                "y1": 0.5137276129622702
+              },
+              "type": "title",
+              "text": "Asfalto/Adoquín"
+            },
+            {
+              "bbox": {
+                "x0": 0.07107305007805415,
+                "y0": 0.5014032606081659,
+                "x1": 0.1462293945460106,
+                "y1": 0.5133959512111212
+              },
+              "type": "title",
+              "text": "Hormigon"
+            },
+            {
+              "bbox": {
+                "x0": 0.053928144609481275,
+                "y0": 0.5146887274877084,
+                "x1": 0.4087183443782119,
+                "y1": 0.5399600481976806
+              },
+              "type": "text",
+              "text": "Se utilizará hormigón con una resistencia mínima de (fck) 125 Kg/cm2."
+            },
+            {
+              "bbox": {
+                "x0": 0.4714861388938747,
+                "y0": 0.5249467566768651,
+                "x1": 0.8566958001908253,
+                "y1": 0.570068568131413
+              },
+              "type": "text",
+              "text": "Se utilizará aglomerado asfáltico/adoquín de las mismas características y el mismo espesor que el existente Superficie aproximada: 0,00m²"
+            },
+            {
+              "bbox": {
+                "x0": 0.06719015875635297,
+                "y0": 0.5490031150631948,
+                "x1": 0.2571521283925805,
+                "y1": 0.5721167294884298
+              },
+              "type": "text",
+              "text": "110m³ Vol. hormigon:"
+            },
+            {
+              "bbox": {
+                "x0": 0.4643266855445133,
+                "y0": 0.5944613896663905,
+                "x1": 0.5053682523309968,
+                "y1": 0.6075600195563008
+              },
+              "type": "title",
+              "text": "Agua"
+            },
+            {
+              "bbox": {
+                "x0": 0.0714775878832447,
+                "y0": 0.5945382120263735,
+                "x1": 0.12465603146904758,
+                "y1": 0.6069809814557503
+              },
+              "type": "title",
+              "text": "Loseta"
+            },
+            {
+              "bbox": {
+                "x0": 0.07955006388395557,
+                "y0": 0.6133774345172883,
+                "x1": 0.4220685855076708,
+                "y1": 0.643312425682717
+              },
+              "type": "text",
+              "text": "En los casos que afecte a acera se utilizará loseta Superficie: 5,52m²"
+            },
+            {
+              "bbox": {
+                "x0": 0.4725027026691921,
+                "y0": 0.6188965887532065,
+                "x1": 0.9301698031996297,
+                "y1": 0.6441139459304189
+              },
+              "type": "text",
+              "text": "Se utilizará agua suministrada en bidones de chapa de 200l para la preparación del cemento."
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">\n      <strong>Tuberias y accesorios:</strong><br><br>\n      <i>Superficie a ocupar:</i> 5,52m²\n    </td>\n    <td data-cell-id=\"r0c1\">\n      <strong>Tierras para el tapado</strong><br>\n      Se utilizará arena de miga<br>\n      <i>Volumen de tierra:</i> 2,21m³\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">\n      <strong>Hormigon</strong><br>\n      Se utilizará hormigón con una resistencia mínima de<br>\n      (fck) 125 Kg/cm2.<br><br>\n      <i>Vol. hormigon:</i> 1,10m³\n    </td>\n    <td data-cell-id=\"r1c1\">\n      <strong>Asfalto/Adoquín</strong><br><br>\n      Se utilizará aglomerado asfáltico/adoquín de las mismas<br>\n      características y el mismo espesor que el existente<br>\n      <i>Superficie aproximada:</i> 0,00m²\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">\n      <strong>Loseta</strong><br>\n      En los casos que afecte a acera se utilizará loseta<br>\n      Superficie: 5,52m²\n    </td>\n    <td data-cell-id=\"r2c1\">\n      <strong>Agua</strong><br><br>\n      Se utilizará agua suministrada en bidones de chapa de 200l para la<br>\n      preparación del cemento.\n    </td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "<strong>Tuberias y accesorios:</strong><br><br>\n      <i>Superficie a ocupar:</i> 5,52m²"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "<strong>Tierras para el tapado</strong><br>\n      Se utilizará arena de miga<br>\n      <i>Volumen de tierra:</i> 2,21m³"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "<strong>Hormigon</strong><br>\n      Se utilizará hormigón con una resistencia mínima de<br>\n      (fck) 125 Kg/cm2.<br><br>\n      <i>Vol. hormigon:</i> 1,10m³"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "<strong>Asfalto/Adoquín</strong><br><br>\n      Se utilizará aglomerado asfáltico/adoquín de las mismas<br>\n      características y el mismo espesor que el existente<br>\n      <i>Superficie aproximada:</i> 0,00m²"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "<strong>Loseta</strong><br>\n      En los casos que afecte a acera se utilizará loseta<br>\n      Superficie: 5,52m²"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "<strong>Agua</strong><br><br>\n      Se utilizará agua suministrada en bidones de chapa de 200l para la<br>\n      preparación del cemento."
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b22",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.0509433962264151,
+            "y0": 0.6621188734167913,
+            "x1": 0.9419835377777358,
+            "y1": 0.9314240402215156
+          },
+          "layout_confidence": 0.2793324291706085,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.05199948994683816,
+                "y0": 0.6621188734167913,
+                "x1": 0.9419835377777358,
+                "y1": 0.728142942613697
+              },
+              "type": "text",
+              "text": "GESTION DE RESIDUOS (NIVEL Il)Durante la realización de la obra se adoptarán por parte de la empresa encargada de realizar GESTION DE RESIDUOS (NIVEL II)Durante la realización de la obra se adoptarán por parte de la empresa encargada de realizar la obra las medidas para la prevención y separación de los residuos y se intentará minimizar el volumen de residuos generados para su posterior y por este orden de priorización, reutilización, reciclado u otras formas de valorización los cuales se entregarán a un Gestor Autorizado de Residuos. El resto de los residuos no reutilizables serán tratados en vertedero autorizado. El coste previsto de la gestión de los residuos formará parte del presupuesto del proyecto en capitulo independiente. Residuos Inertes Residuos Contaminados Los residuos inertes (tierras no contaminadas, hormigón, asfalto, losas, adoq., recortes de tubería, etc). Serán recogidos en contenedores y enviados al vertedero autorizado. Volumen: 4,83 Los residuos contaminados, serán enviados a vertederos especiales Volumen aproximado: 0 Residuos Reutilizables: Los residuos no aprovechados, que pudieran ser objeto de posterior utilización por los Servicios Municipales: adoquines, losa granítica, etc., que estos SSMM consideren reutilizables, serán depositados en los depósitos de los SSMM Volumen residuos reutilizables previstos aproximados: 2,90 60% de los residuos intertes"
+            },
+            {
+              "bbox": {
+                "x0": 0.07954296033644763,
+                "y0": 0.768534177182423,
+                "x1": 0.43151272424331166,
+                "y1": 0.8201214878821077
+              },
+              "type": "text",
+              "text": "Los residuos inertes (tierras no contaminadas, hormigón, asfalto, losas, adoq., recortes de tubería, etc).Serán recogidos en contenedores y enviados al vertedero autorizado."
+            },
+            {
+              "bbox": {
+                "x0": 0.47090302067195056,
+                "y0": 0.7702057941594965,
+                "x1": 0.936515023947627,
+                "y1": 0.8026758188261544
+              },
+              "type": "text",
+              "text": "Los residuos contaminados, serán enviados a vertederos especiales Volumen aproximado: 0"
+            },
+            {
+              "bbox": {
+                "x0": 0.08753386085814692,
+                "y0": 0.8244384661246793,
+                "x1": 0.19190469762578408,
+                "y1": 0.8381266241248931
+              },
+              "type": "text",
+              "text": "Volumen: 4,83"
+            },
+            {
+              "bbox": {
+                "x0": 0.07209230305349956,
+                "y0": 0.8628893098345981,
+                "x1": 0.2441345731465387,
+                "y1": 0.8763351016393224
+              },
+              "type": "title",
+              "text": "Residuos Reutilizables:"
+            },
+            {
+              "bbox": {
+                "x0": 0.07160617131852469,
+                "y0": 0.8882116714875481,
+                "x1": 0.9288756659990931,
+                "y1": 0.9132465755598012
+              },
+              "type": "text",
+              "text": "Los residuos no aprovechados, que pudieran ser objeto de posterior utilización por los Servicios Municipales: adoquines, losa granítica, etc., que estos SSMM consideren reutilizables, serán depositados en los depósitos de los SSMM"
+            },
+            {
+              "bbox": {
+                "x0": 0.7057001374508767,
+                "y0": 0.9193358957487174,
+                "x1": 0.9003000686073533,
+                "y1": 0.9314240402215156
+              },
+              "type": "text",
+              "text": "60% de los residuos intertes"
+            }
+          ],
+          "content": "GESTION DE RESIDUOS (NIVEL Il)Durante la realización de la obra se adoptarán por parte de la empresa encargada de realizar\n\n<table>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r0c0\">\n      <strong>GESTION DE RESIDUOS (NIVEL II)</strong>Durante la realización de la obra se adoptarán por parte de la empresa encargada de realizar la obra las medidas para la prevención y separación de los residuos y se intentará minimizar el volumen de residuos generados para su posterior y por este orden de priorización, reutilización, reciclado u otras formas de valorización los cuales se entregarán a un Gestor Autorizado de Residuos. El resto de los residuos no reutilizables serán tratados en vertedero autorizado. El coste previsto de la gestión de los residuos formará parte del presupuesto del proyecto en capitulo independiente.\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r1c0\">\n      <strong>Residuos Inertes</strong>\n    </td>\n    <td data-cell-id=\"r1c1\">\n      <strong>Residuos Contaminados</strong>\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r2c0\">\n      Los residuos inertes (tierras no contaminadas, hormigón, asfalto, losas, adoq., recortes de tubería, etc). Serán recogidos en contenedores y enviados al vertedero autorizado.<br><br>\n      Volumen: 4,83\n    </td>\n    <td data-cell-id=\"r2c1\">\n      Los residuos contaminados, serán enviados a vertederos especiales<br><br>\n      <i>Volumen aproximado:</i> 0\n    </td>\n  </tr>\n  <tr>\n    <td colspan=\"2\" data-cell-id=\"r3c0\">\n      <br>\n      <strong>Residuos Reutilizables:</strong><br><br>\n      Los residuos no aprovechados, que pudieran ser objeto de posterior utilización por los Servicios Municipales: adoquines, losa granítica, etc., que estos SSMM consideren reutilizables, serán depositados en los depósitos de los SSMM\n    </td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r4c0\">\n      <i>Volumen residuos reutilizables previstos aproximados:</i> 2,90\n    </td>\n    <td data-cell-id=\"r4c1\">\n      60% de los residuos intertes\n    </td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "<strong>GESTION DE RESIDUOS (NIVEL II)</strong>Durante la realización de la obra se adoptarán por parte de la empresa encargada de realizar la obra las medidas para la prevención y separación de los residuos y se intentará minimizar el volumen de residuos generados para su posterior y por este orden de priorización, reutilización, reciclado u otras formas de valorización los cuales se entregarán a un Gestor Autorizado de Residuos. El resto de los residuos no reutilizables serán tratados en vertedero autorizado. El coste previsto de la gestión de los residuos formará parte del presupuesto del proyecto en capitulo independiente."
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "<strong>Residuos Inertes</strong>"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "<strong>Residuos Contaminados</strong>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "Los residuos inertes (tierras no contaminadas, hormigón, asfalto, losas, adoq., recortes de tubería, etc). Serán recogidos en contenedores y enviados al vertedero autorizado.<br><br>\n      Volumen: 4,83"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "Los residuos contaminados, serán enviados a vertederos especiales<br><br>\n      <i>Volumen aproximado:</i> 0"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "<br>\n      <strong>Residuos Reutilizables:</strong><br><br>\n      Los residuos no aprovechados, que pudieran ser objeto de posterior utilización por los Servicios Municipales: adoquines, losa granítica, etc., que estos SSMM consideren reutilizables, serán depositados en los depósitos de los SSMM"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "<i>Volumen residuos reutilizables previstos aproximados:</i> 2,90"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": "60% de los residuos intertes"
+              }
+            ]
+          ],
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [
+      {
+        "category": "Residuos/Acopio",
+        "confidence": 100.0,
+        "evidence": "El documento se titula \"PLAN DE ACOPIOS DE MATERIALES Y GESTION DE RESIDUOS\" e incluye las secciones \"ACOPIO DE MATERIALES\" y \"GESTION DE RESIDUOS (NIVEL II)\", con materiales, volúmenes y gestión de residuos inertes, contaminados y reutilizables."
+      }
+    ],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "gestion_residuos": {
+            "value": "Se previene y separa los residuos para minimizar su volumen y priorizar reutilización, reciclado u otras formas de valorización. Se entregan a un gestor autorizado; los no reutilizables se tratan en vertedero autorizado. Los inertes (tierras no contaminadas, hormigón, asfalto, losas, adoquines y recortes de tubería) se recogen en contenedores y se envían a vertedero autorizado; los contaminados van a vertederos especiales. Los reutilizables se depositan en depósitos de los servicios municipales.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 87.0,
+            "evidence": [
+              {
+                "text": "medidas para la prevención y separación de los residuos y se intentará minimizar el volumen de residuos generados para su posterior y por este orden de priorización, reutilización, reciclado u otras formas de valorización",
+                "page_number": 1
+              },
+              {
+                "text": "Los residuos inertes (tierras no contaminadas, hormigón, asfalto, losas, adoq., recortes de tubería, etc). Serán recogidos en contenedores y enviados al vertedero autorizado.",
+                "page_number": 1
+              },
+              {
+                "text": "Los residuos contaminados, serán enviados a vertederos especiales",
+                "page_number": 1
+              },
+              {
+                "text": "Los residuos no aprovechados, que pudieran ser objeto de posterior utilización por los Servicios Municipales: adoquines, losa granítica, etc., que estos SSMM consideren reutilizables, serán depositados en los depósitos de los SSMM",
+                "page_number": 1
+              }
+            ]
+          },
+          "gestores_autorizados": {
+            "value": "True",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 74.0,
+            "evidence": [
+              {
+                "text": "los cuales se entregarán a un Gestor Autorizado de Residuos.",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_proyecto_contratista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "id_obra": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "municipio": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "ubicacion_de_la_obra": {
+            "value": "PASTRANA 8B",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "motivo_de_la_obra": {
+            "value": "DESPLAZAMIENTO RED",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "direccion": [
+            {
+              "tipo": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "nombre": {
+                "value": "PASTRANA",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero": {
+                "value": "8B",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "categoria_fiscal": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "distrito": {
+                "value": "San Blas",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "Distrito: San Blas",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "barrio": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "descripcion_ubicacion": {
+                "value": "DESPLAZAMIENTO RED",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 97.0,
+                "evidence": [
+                  {
+                    "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ],
+          "medidas_acera": [
+            {
+              "largo": {
+                "value": "13.8",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 92.0,
+                "evidence": [
+                  {
+                    "text": "Acometidas: 1 13,80 metros en acera",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "ancho": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "tipo_pavimento": {
+                "value": "Loseta",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Loseta En los casos que afecte a acera se utilizará loseta Superficie: 5,52m²",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ],
+          "medidas_calzada": [
+            {
+              "largo": {
+                "value": "0.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 95.0,
+                "evidence": [
+                  {
+                    "text": "Metros: 13,80 Longitud: 0,00 metros en calzada",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "ancho": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "tipo_pavimento": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              }
+            }
+          ]
+        },
+        "validations": []
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "gestion_residuos": {
+        "value": "Se previene y separa los residuos para minimizar su volumen y priorizar reutilización, reciclado u otras formas de valorización. Se entregan a un gestor autorizado; los no reutilizables se tratan en vertedero autorizado. Los inertes (tierras no contaminadas, hormigón, asfalto, losas, adoquines y recortes de tubería) se recogen en contenedores y se envían a vertedero autorizado; los contaminados van a vertederos especiales. Los reutilizables se depositan en depósitos de los servicios municipales.",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 87.0,
+        "evidence": [
+          {
+            "text": "medidas para la prevención y separación de los residuos y se intentará minimizar el volumen de residuos generados para su posterior y por este orden de priorización, reutilización, reciclado u otras formas de valorización",
+            "page_number": 1
+          },
+          {
+            "text": "Los residuos inertes (tierras no contaminadas, hormigón, asfalto, losas, adoq., recortes de tubería, etc). Serán recogidos en contenedores y enviados al vertedero autorizado.",
+            "page_number": 1
+          },
+          {
+            "text": "Los residuos contaminados, serán enviados a vertederos especiales",
+            "page_number": 1
+          },
+          {
+            "text": "Los residuos no aprovechados, que pudieran ser objeto de posterior utilización por los Servicios Municipales: adoquines, losa granítica, etc., que estos SSMM consideren reutilizables, serán depositados en los depósitos de los SSMM",
+            "page_number": 1
+          }
+        ]
+      },
+      "gestores_autorizados": {
+        "value": "True",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 74.0,
+        "evidence": [
+          {
+            "text": "los cuales se entregarán a un Gestor Autorizado de Residuos.",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_proyecto_contratista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "id_obra": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "municipio": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "ubicacion_de_la_obra": {
+        "value": "PASTRANA 8B",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+            "page_number": 1
+          }
+        ]
+      },
+      "motivo_de_la_obra": {
+        "value": "DESPLAZAMIENTO RED",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+            "page_number": 1
+          }
+        ]
+      },
+      "direccion": [
+        {
+          "tipo": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "nombre": {
+            "value": "PASTRANA",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero": {
+            "value": "8B",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          },
+          "categoria_fiscal": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "distrito": {
+            "value": "San Blas",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "Distrito: San Blas",
+                "page_number": 1
+              }
+            ]
+          },
+          "barrio": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "descripcion_ubicacion": {
+            "value": "DESPLAZAMIENTO RED",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 97.0,
+            "evidence": [
+              {
+                "text": "Dirección: PASTRANA 8B (DESPLAZAMIENTO RED)",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ],
+      "medidas_acera": [
+        {
+          "largo": {
+            "value": "13.8",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Acometidas: 1 13,80 metros en acera",
+                "page_number": 1
+              }
+            ]
+          },
+          "ancho": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tipo_pavimento": {
+            "value": "Loseta",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Loseta En los casos que afecte a acera se utilizará loseta Superficie: 5,52m²",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ],
+      "medidas_calzada": [
+        {
+          "largo": {
+            "value": "0.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 95.0,
+            "evidence": [
+              {
+                "text": "Metros: 13,80 Longitud: 0,00 metros en calzada",
+                "page_number": 1
+              }
+            ]
+          },
+          "ancho": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tipo_pavimento": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          }
+        }
+      ]
+    }
+  }
+}

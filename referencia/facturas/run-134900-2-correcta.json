@@ -1,0 +1,2084 @@
+{
+  "id": "06acf4ac-7d3e-7734-8000-69667be40df1",
+  "workflow_id": "06acf4a9-7264-763f-8000-c49a3c779210",
+  "document_packet_id": "06acf4ac-7bf6-7b23-8000-af92d7cfad36",
+  "status": "processed",
+  "created_at": "2026-10-14T09:26:31.842874Z",
+  "updated_at": "2026-10-14T09:27:44.534045Z",
+  "results": {
+    "document_packet_id": "06acf4ac-7bf6-7b23-8000-af92d7cfad36",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf4a9-7264-763f-8000-c49a3c779210/files/06acf4ac-787d-7f52-8000-54f35b3bac61?versionId=o5oRKFJP_w",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\nNORLIM\n\n    D I S T R I B U C I O N E S\n\n       S U M I N I S T R O S D E H I G I E N E Y L I M P I E Z A\nP A R A I N D U S T R I A , H O S T E L E R I A Y C O L E C T I V I D A D E S\n\n    IBERCLEAN\nIBERCLEAN PARTS, S.L. AV. DE LA INDUSTRIA, 100 28080 - GETAFE\n    MADRID\n    CIF : B-99887766\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Nº FACTURA</th>\n      <th data-cell-id=\"r0c1\">FECHA</th>\n      <th data-cell-id=\"r0c2\">Nº CLIENTE</th>\n      <th data-cell-id=\"r0c3\">AGENTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r1c0\">F- 5462560</td>\n      <td data-cell-id=\"r1c1\">01/02/2024</td>\n      <td data-cell-id=\"r1c2\">1504</td>\n      <td data-cell-id=\"r1c3\">6</td>\n    </tr>\n  </tbody>\n</table>\n\nB-11.223.344\n\nCIF:\n/\n\nInscripción\n·\n0000\nM\nHoja\n·\n\nFolio\n·\n000\nLibro\n/\nMadrid\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r2c0\">CODIGO</th>\n      <th data-cell-id=\"r2c1\">CONCEPTO</th>\n      <th data-cell-id=\"r2c2\">CANTIDAD</th>\n      <th data-cell-id=\"r2c3\">PRECIO</th>\n      <th data-cell-id=\"r2c4\">DTO</th>\n      <th data-cell-id=\"r2c5\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r3c0\"></td>\n      <td data-cell-id=\"r3c1\">ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964<br>NTRO. PEDIDO Nº 8.336/32<br>VTRO. PEDIDO Nº 370521</td>\n      <td data-cell-id=\"r3c2\"></td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">047810</td>\n      <td data-cell-id=\"r4c1\">BAYETA MICROFIBRA AZUL PACK/10 UNID.<br>ENV/0980/529735652</td>\n      <td data-cell-id=\"r4c2\">31</td>\n      <td data-cell-id=\"r4c3\">21,751</td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\">674,28</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\"></td>\n      <td data-cell-id=\"r5c1\">ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976<br>NTRO. PEDIDO Nº 6.414/26<br>VTRO. PEDIDO Nº 923104</td>\n      <td data-cell-id=\"r5c2\"></td>\n      <td data-cell-id=\"r5c3\"></td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">092140</td>\n      <td data-cell-id=\"r6c1\">FRIEGASUELOS AROMATICO FLORAL E/5L.<br>ENV/0523/414990211</td>\n      <td data-cell-id=\"r6c2\">3</td>\n      <td data-cell-id=\"r6c3\">26,069</td>\n      <td data-cell-id=\"r6c4\"></td>\n      <td data-cell-id=\"r6c5\">78,21</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\"></td>\n      <td data-cell-id=\"r7c1\">ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163<br>NTRO. PEDIDO Nº 7.737/21<br>VTRO. PEDIDO Nº 033637</td>\n      <td data-cell-id=\"r7c2\"></td>\n      <td data-cell-id=\"r7c3\"></td>\n      <td data-cell-id=\"r7c4\"></td>\n      <td data-cell-id=\"r7c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">055200</td>\n      <td data-cell-id=\"r8c1\">DETERGENTE MULTIUSOS CONCENTRADO E/5L.<br>ENV/1830/086325272</td>\n      <td data-cell-id=\"r8c2\">15</td>\n      <td data-cell-id=\"r8c3\">33,756</td>\n      <td data-cell-id=\"r8c4\"></td>\n      <td data-cell-id=\"r8c5\">506,34</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\"></td>\n      <td data-cell-id=\"r9c1\">ALBARAN: 1654 DEL: 03/07/25<br>NTRO. PEDIDO Nº 0.880/25<br>VTRO. PEDIDO Nº</td>\n      <td data-cell-id=\"r9c2\"></td>\n      <td data-cell-id=\"r9c3\"></td>\n      <td data-cell-id=\"r9c4\"></td>\n      <td data-cell-id=\"r9c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">084512</td>\n      <td data-cell-id=\"r10c1\">HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS<br>ENV/1685/895481867</td>\n      <td data-cell-id=\"r10c2\">56</td>\n      <td data-cell-id=\"r10c3\">10,929</td>\n      <td data-cell-id=\"r10c4\"></td>\n      <td data-cell-id=\"r10c5\">612,02</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\"></td>\n      <td data-cell-id=\"r11c1\">ALBARAN: 7352 DEL: 18/07/26<br>NTRO. PEDIDO Nº 8.937/83<br>VTRO. PEDIDO Nº 61/77</td>\n      <td data-cell-id=\"r11c2\"></td>\n      <td data-cell-id=\"r11c3\"></td>\n      <td data-cell-id=\"r11c4\"></td>\n      <td data-cell-id=\"r11c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\">030120</td>\n      <td data-cell-id=\"r12c1\">GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L.<br>ENV/0645/895173162</td>\n      <td data-cell-id=\"r12c2\">25</td>\n      <td data-cell-id=\"r12c3\">32,385</td>\n      <td data-cell-id=\"r12c4\"></td>\n      <td data-cell-id=\"r12c5\">809,62</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r13c0\">063310</td>\n      <td data-cell-id=\"r13c1\">TOALLA 22X21 CELULOSA C/20 PAQUETES<br>ENV/2548/581352582</td>\n      <td data-cell-id=\"r13c2\">67</td>\n      <td data-cell-id=\"r13c3\">15,525</td>\n      <td data-cell-id=\"r13c4\"></td>\n      <td data-cell-id=\"r13c5\">1.040,17</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r14c0\">021045</td>\n      <td data-cell-id=\"r14c1\">BOBINA IND. 2C CELULOSA BLANCA P/2<br>ENV/0954/700884204</td>\n      <td data-cell-id=\"r14c2\">74</td>\n      <td data-cell-id=\"r14c3\">25,207</td>\n      <td data-cell-id=\"r14c4\"></td>\n      <td data-cell-id=\"r14c5\">1.865,32</td>\n    </tr>\n  </tbody>\n</table>\n\nMercantil\nReg.\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r15c0\">BASE DTO</th>\n      <th data-cell-id=\"r15c1\">%DTO</th>\n      <th data-cell-id=\"r15c2\">IMPORTE DTO</th>\n      <th data-cell-id=\"r15c3\">PORTES</th>\n      <th data-cell-id=\"r15c4\">BASE IMPONIBLE</th>\n      <th data-cell-id=\"r15c5\">% IVA</th>\n      <th data-cell-id=\"r15c6\">IMPORTE</th>\n      <th data-cell-id=\"r15c7\">% R.E.</th>\n      <th data-cell-id=\"r15c8\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r16c0\"></td>\n      <td data-cell-id=\"r16c1\"></td>\n      <td data-cell-id=\"r16c2\"></td>\n      <td data-cell-id=\"r16c3\"></td>\n      <td data-cell-id=\"r16c4\">5.585,96</td>\n      <td data-cell-id=\"r16c5\">21,00</td>\n      <td data-cell-id=\"r16c6\">1.173,05</td>\n      <td data-cell-id=\"r16c7\"></td>\n      <td data-cell-id=\"r16c8\"></td>\n    </tr>\n    <tr>\n      <td colspan=\"4\" data-cell-id=\"r17c0\"></td>\n      <td data-cell-id=\"r17c4\">TOTAL FACTURA</td>\n      <td colspan=\"4\" data-cell-id=\"r17c5\">6.759,01 Euros</td>\n    </tr>\n  </tbody>\n</table>\n\nFORMA DE PAGO..: GIRO 60 DIAS F/F\nDOMICILIACION BANCARIA.: 0000 0000 00 00000*****\nVENCIMIENTOS :09/09/2026 -   6.759,01\n\n\n<a id=\"p1_b5\"></a>\n\n<figure-description>\n\n***figure-description:***\nThe image shows the word NORLIM in white, bold, sans-serif capital letters against a dark gray background.\n\n</figure-description>\n\n\n<a id=\"p1_b3\"></a>\n\n**NORTE LIMPIEZA S.L.U.**\nPolígono Industrial Los Olivos, Nave 5\nParcela 12, 28840, Mejorada del Campo, Madrid\nTel. +34 900 000 000 · Móv. +34 600 000 000\ninfo@nortelimpieza.example · www.nortelimpieza.example",
+      "text": "<a id=\"p1_b0\"></a>\n\nNORLIM\n\n    D I S T R I B U C I O N E S\n\n       S U M I N I S T R O S D E H I G I E N E Y L I M P I E Z A\nP A R A I N D U S T R I A , H O S T E L E R I A Y C O L E C T I V I D A D E S\n\n    IBERCLEAN\nIBERCLEAN PARTS, S.L. AV. DE LA INDUSTRIA, 100 28080 - GETAFE\n    MADRID\n    CIF : B-99887766\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Nº FACTURA</th>\n      <th data-cell-id=\"r0c1\">FECHA</th>\n      <th data-cell-id=\"r0c2\">Nº CLIENTE</th>\n      <th data-cell-id=\"r0c3\">AGENTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r1c0\">F- 5462560</td>\n      <td data-cell-id=\"r1c1\">01/02/2024</td>\n      <td data-cell-id=\"r1c2\">1504</td>\n      <td data-cell-id=\"r1c3\">6</td>\n    </tr>\n  </tbody>\n</table>\n\nB-11.223.344\n\nCIF:\n/\n\nInscripción\n·\n0000\nM\nHoja\n·\n\nFolio\n·\n000\nLibro\n/\nMadrid\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r2c0\">CODIGO</th>\n      <th data-cell-id=\"r2c1\">CONCEPTO</th>\n      <th data-cell-id=\"r2c2\">CANTIDAD</th>\n      <th data-cell-id=\"r2c3\">PRECIO</th>\n      <th data-cell-id=\"r2c4\">DTO</th>\n      <th data-cell-id=\"r2c5\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r3c0\"></td>\n      <td data-cell-id=\"r3c1\">ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964<br>NTRO. PEDIDO Nº 8.336/32<br>VTRO. PEDIDO Nº 370521</td>\n      <td data-cell-id=\"r3c2\"></td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">047810</td>\n      <td data-cell-id=\"r4c1\">BAYETA MICROFIBRA AZUL PACK/10 UNID.<br>ENV/0980/529735652</td>\n      <td data-cell-id=\"r4c2\">31</td>\n      <td data-cell-id=\"r4c3\">21,751</td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\">674,28</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\"></td>\n      <td data-cell-id=\"r5c1\">ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976<br>NTRO. PEDIDO Nº 6.414/26<br>VTRO. PEDIDO Nº 923104</td>\n      <td data-cell-id=\"r5c2\"></td>\n      <td data-cell-id=\"r5c3\"></td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">092140</td>\n      <td data-cell-id=\"r6c1\">FRIEGASUELOS AROMATICO FLORAL E/5L.<br>ENV/0523/414990211</td>\n      <td data-cell-id=\"r6c2\">3</td>\n      <td data-cell-id=\"r6c3\">26,069</td>\n      <td data-cell-id=\"r6c4\"></td>\n      <td data-cell-id=\"r6c5\">78,21</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\"></td>\n      <td data-cell-id=\"r7c1\">ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163<br>NTRO. PEDIDO Nº 7.737/21<br>VTRO. PEDIDO Nº 033637</td>\n      <td data-cell-id=\"r7c2\"></td>\n      <td data-cell-id=\"r7c3\"></td>\n      <td data-cell-id=\"r7c4\"></td>\n      <td data-cell-id=\"r7c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">055200</td>\n      <td data-cell-id=\"r8c1\">DETERGENTE MULTIUSOS CONCENTRADO E/5L.<br>ENV/1830/086325272</td>\n      <td data-cell-id=\"r8c2\">15</td>\n      <td data-cell-id=\"r8c3\">33,756</td>\n      <td data-cell-id=\"r8c4\"></td>\n      <td data-cell-id=\"r8c5\">506,34</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\"></td>\n      <td data-cell-id=\"r9c1\">ALBARAN: 1654 DEL: 03/07/25<br>NTRO. PEDIDO Nº 0.880/25<br>VTRO. PEDIDO Nº</td>\n      <td data-cell-id=\"r9c2\"></td>\n      <td data-cell-id=\"r9c3\"></td>\n      <td data-cell-id=\"r9c4\"></td>\n      <td data-cell-id=\"r9c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">084512</td>\n      <td data-cell-id=\"r10c1\">HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS<br>ENV/1685/895481867</td>\n      <td data-cell-id=\"r10c2\">56</td>\n      <td data-cell-id=\"r10c3\">10,929</td>\n      <td data-cell-id=\"r10c4\"></td>\n      <td data-cell-id=\"r10c5\">612,02</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\"></td>\n      <td data-cell-id=\"r11c1\">ALBARAN: 7352 DEL: 18/07/26<br>NTRO. PEDIDO Nº 8.937/83<br>VTRO. PEDIDO Nº 61/77</td>\n      <td data-cell-id=\"r11c2\"></td>\n      <td data-cell-id=\"r11c3\"></td>\n      <td data-cell-id=\"r11c4\"></td>\n      <td data-cell-id=\"r11c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\">030120</td>\n      <td data-cell-id=\"r12c1\">GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L.<br>ENV/0645/895173162</td>\n      <td data-cell-id=\"r12c2\">25</td>\n      <td data-cell-id=\"r12c3\">32,385</td>\n      <td data-cell-id=\"r12c4\"></td>\n      <td data-cell-id=\"r12c5\">809,62</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r13c0\">063310</td>\n      <td data-cell-id=\"r13c1\">TOALLA 22X21 CELULOSA C/20 PAQUETES<br>ENV/2548/581352582</td>\n      <td data-cell-id=\"r13c2\">67</td>\n      <td data-cell-id=\"r13c3\">15,525</td>\n      <td data-cell-id=\"r13c4\"></td>\n      <td data-cell-id=\"r13c5\">1.040,17</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r14c0\">021045</td>\n      <td data-cell-id=\"r14c1\">BOBINA IND. 2C CELULOSA BLANCA P/2<br>ENV/0954/700884204</td>\n      <td data-cell-id=\"r14c2\">74</td>\n      <td data-cell-id=\"r14c3\">25,207</td>\n      <td data-cell-id=\"r14c4\"></td>\n      <td data-cell-id=\"r14c5\">1.865,32</td>\n    </tr>\n  </tbody>\n</table>\n\nMercantil\nReg.\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r15c0\">BASE DTO</th>\n      <th data-cell-id=\"r15c1\">%DTO</th>\n      <th data-cell-id=\"r15c2\">IMPORTE DTO</th>\n      <th data-cell-id=\"r15c3\">PORTES</th>\n      <th data-cell-id=\"r15c4\">BASE IMPONIBLE</th>\n      <th data-cell-id=\"r15c5\">% IVA</th>\n      <th data-cell-id=\"r15c6\">IMPORTE</th>\n      <th data-cell-id=\"r15c7\">% R.E.</th>\n      <th data-cell-id=\"r15c8\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r16c0\"></td>\n      <td data-cell-id=\"r16c1\"></td>\n      <td data-cell-id=\"r16c2\"></td>\n      <td data-cell-id=\"r16c3\"></td>\n      <td data-cell-id=\"r16c4\">5.585,96</td>\n      <td data-cell-id=\"r16c5\">21,00</td>\n      <td data-cell-id=\"r16c6\">1.173,05</td>\n      <td data-cell-id=\"r16c7\"></td>\n      <td data-cell-id=\"r16c8\"></td>\n    </tr>\n    <tr>\n      <td colspan=\"4\" data-cell-id=\"r17c0\"></td>\n      <td data-cell-id=\"r17c4\">TOTAL FACTURA</td>\n      <td colspan=\"4\" data-cell-id=\"r17c5\">6.759,01 Euros</td>\n    </tr>\n  </tbody>\n</table>\n\nFORMA DE PAGO..: GIRO 60 DIAS F/F\nDOMICILIACION BANCARIA.: 0000 0000 00 00000*****\nVENCIMIENTOS :09/09/2026 -   6.759,01\n\n<a id=\"p1_b5\"></a>\n\n<figure-description>\n\n***figure-description:***\nThe image shows the word NORLIM in white, bold, sans-serif capital letters against a dark gray background.\n\n</figure-description>\n\n<a id=\"p1_b3\"></a>\n\n**NORTE LIMPIEZA S.L.U.**\nPolígono Industrial Los Olivos, Nave 5\nParcela 12, 28840, Mejorada del Campo, Madrid\nTel. +34 900 000 000 · Móv. +34 600 000 000\ninfo@nortelimpieza.example · www.nortelimpieza.example",
+      "layout_confidence": 0.469,
+      "parse_confidence": 98.8,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.02019053707603647,
+            "y0": 0.05247030915104012,
+            "x1": 0.9956660238959467,
+            "y1": 0.9190447849307931
+          },
+          "layout_confidence": 0.4645071029663086,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.03604112130111445,
+                "y0": 0.06061815879140057,
+                "x1": 0.9956660238959467,
+                "y1": 0.9190447849307931
+              },
+              "type": "table",
+              "text": "NORLIM D I S T R I B U C I O N E S S U M I N I S T R O S D E H I G I E N E Y L I M P I E Z A P A R A I N D U S T R I A , H O S T E L E R I A Y C O L E C T I V I D A D E S IBERCLEAN IBERCLEAN PARTS, S.L. AV. DE LA INDUSTRIA, 100 28080 - GETAFE MADRID CIF : B-99887766 Nº FACTURA FECHA Nº CLIENTE AGENTE F- 5462560 01/02/2024 1504 6 B-11.223.344 CIF: / Inscripción · 0000 M Hoja · Folio · 000 Libro / Madrid CODIGO CONCEPTO CANTIDAD PRECIO DTO IMPORTE ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964 NTRO. PEDIDO Nº 8.336/32 VTRO. PEDIDO Nº 370521 047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28 ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976 NTRO. PEDIDO Nº 6.414/26 VTRO. PEDIDO Nº 923104 092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21 ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163 NTRO. PEDIDO Nº 7.737/21 VTRO. PEDIDO Nº 033637 055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34 ALBARAN: 1654 DEL: 03/07/25 NTRO. PEDIDO Nº 0.880/25 VTRO. PEDIDO Nº 084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02 ALBARAN: 7352 DEL: 18/07/26 NTRO. PEDIDO Nº 8.937/83 VTRO. PEDIDO Nº 61/77 030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62 063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17 021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32 Mercantil Reg. BASE DTO %DTO IMPORTE DTO PORTES BASE IMPONIBLE % IVA IMPORTE % R.E. IMPORTE 5.585,96 21,00 1.173,05 TOTAL FACTURA 6.759,01 Euros FORMA DE PAGO..: GIRO 60 DIAS F/F DOMICILIACION BANCARIA.: 0000 0000 00 00000* VENCIMIENTOS :09/09/2026 - 6.759,01"
+            },
+            {
+              "bbox": {
+                "x0": 0.01870724769772289,
+                "y0": 0.354578664844084,
+                "x1": 0.039359824843501874,
+                "y1": 0.719695144659844
+              },
+              "type": "other",
+              "text": "Reg. Mercantil de Madrid / Libro 000 · Folio 00 · Hoja M 0000 · Inscripción 1ª / CIF: B-11.223.344"
+            },
+            {
+              "bbox": {
+                "x0": 0.0547429458055075,
+                "y0": 0.8245389301484342,
+                "x1": 0.4459561199689012,
+                "y1": 0.8582392607350898
+              },
+              "type": "other",
+              "text": "FORMA DE PAGO..: GIRO 60 DIAS F/F DOMICILIACION BANCARIA.: 0000 0000 00 00000***** VENCIMIENTOS :09/09/2026 - 6.759,01"
+            }
+          ],
+          "content": "NORLIM\n\n    D I S T R I B U C I O N E S\n\n       S U M I N I S T R O S D E H I G I E N E Y L I M P I E Z A\nP A R A I N D U S T R I A , H O S T E L E R I A Y C O L E C T I V I D A D E S\n\n    IBERCLEAN\nIBERCLEAN PARTS, S.L. AV. DE LA INDUSTRIA, 100 28080 - GETAFE\n    MADRID\n    CIF : B-99887766\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Nº FACTURA</th>\n      <th data-cell-id=\"r0c1\">FECHA</th>\n      <th data-cell-id=\"r0c2\">Nº CLIENTE</th>\n      <th data-cell-id=\"r0c3\">AGENTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r1c0\">F- 5462560</td>\n      <td data-cell-id=\"r1c1\">01/02/2024</td>\n      <td data-cell-id=\"r1c2\">1504</td>\n      <td data-cell-id=\"r1c3\">6</td>\n    </tr>\n  </tbody>\n</table>\n\nB-11.223.344\n\nCIF:\n/\n\nInscripción\n·\n0000\nM\nHoja\n·\n\nFolio\n·\n000\nLibro\n/\nMadrid\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r2c0\">CODIGO</th>\n      <th data-cell-id=\"r2c1\">CONCEPTO</th>\n      <th data-cell-id=\"r2c2\">CANTIDAD</th>\n      <th data-cell-id=\"r2c3\">PRECIO</th>\n      <th data-cell-id=\"r2c4\">DTO</th>\n      <th data-cell-id=\"r2c5\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r3c0\"></td>\n      <td data-cell-id=\"r3c1\">ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964<br>NTRO. PEDIDO Nº 8.336/32<br>VTRO. PEDIDO Nº 370521</td>\n      <td data-cell-id=\"r3c2\"></td>\n      <td data-cell-id=\"r3c3\"></td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">047810</td>\n      <td data-cell-id=\"r4c1\">BAYETA MICROFIBRA AZUL PACK/10 UNID.<br>ENV/0980/529735652</td>\n      <td data-cell-id=\"r4c2\">31</td>\n      <td data-cell-id=\"r4c3\">21,751</td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\">674,28</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\"></td>\n      <td data-cell-id=\"r5c1\">ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976<br>NTRO. PEDIDO Nº 6.414/26<br>VTRO. PEDIDO Nº 923104</td>\n      <td data-cell-id=\"r5c2\"></td>\n      <td data-cell-id=\"r5c3\"></td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">092140</td>\n      <td data-cell-id=\"r6c1\">FRIEGASUELOS AROMATICO FLORAL E/5L.<br>ENV/0523/414990211</td>\n      <td data-cell-id=\"r6c2\">3</td>\n      <td data-cell-id=\"r6c3\">26,069</td>\n      <td data-cell-id=\"r6c4\"></td>\n      <td data-cell-id=\"r6c5\">78,21</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\"></td>\n      <td data-cell-id=\"r7c1\">ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163<br>NTRO. PEDIDO Nº 7.737/21<br>VTRO. PEDIDO Nº 033637</td>\n      <td data-cell-id=\"r7c2\"></td>\n      <td data-cell-id=\"r7c3\"></td>\n      <td data-cell-id=\"r7c4\"></td>\n      <td data-cell-id=\"r7c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">055200</td>\n      <td data-cell-id=\"r8c1\">DETERGENTE MULTIUSOS CONCENTRADO E/5L.<br>ENV/1830/086325272</td>\n      <td data-cell-id=\"r8c2\">15</td>\n      <td data-cell-id=\"r8c3\">33,756</td>\n      <td data-cell-id=\"r8c4\"></td>\n      <td data-cell-id=\"r8c5\">506,34</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\"></td>\n      <td data-cell-id=\"r9c1\">ALBARAN: 1654 DEL: 03/07/25<br>NTRO. PEDIDO Nº 0.880/25<br>VTRO. PEDIDO Nº</td>\n      <td data-cell-id=\"r9c2\"></td>\n      <td data-cell-id=\"r9c3\"></td>\n      <td data-cell-id=\"r9c4\"></td>\n      <td data-cell-id=\"r9c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">084512</td>\n      <td data-cell-id=\"r10c1\">HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS<br>ENV/1685/895481867</td>\n      <td data-cell-id=\"r10c2\">56</td>\n      <td data-cell-id=\"r10c3\">10,929</td>\n      <td data-cell-id=\"r10c4\"></td>\n      <td data-cell-id=\"r10c5\">612,02</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\"></td>\n      <td data-cell-id=\"r11c1\">ALBARAN: 7352 DEL: 18/07/26<br>NTRO. PEDIDO Nº 8.937/83<br>VTRO. PEDIDO Nº 61/77</td>\n      <td data-cell-id=\"r11c2\"></td>\n      <td data-cell-id=\"r11c3\"></td>\n      <td data-cell-id=\"r11c4\"></td>\n      <td data-cell-id=\"r11c5\"></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\">030120</td>\n      <td data-cell-id=\"r12c1\">GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L.<br>ENV/0645/895173162</td>\n      <td data-cell-id=\"r12c2\">25</td>\n      <td data-cell-id=\"r12c3\">32,385</td>\n      <td data-cell-id=\"r12c4\"></td>\n      <td data-cell-id=\"r12c5\">809,62</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r13c0\">063310</td>\n      <td data-cell-id=\"r13c1\">TOALLA 22X21 CELULOSA C/20 PAQUETES<br>ENV/2548/581352582</td>\n      <td data-cell-id=\"r13c2\">67</td>\n      <td data-cell-id=\"r13c3\">15,525</td>\n      <td data-cell-id=\"r13c4\"></td>\n      <td data-cell-id=\"r13c5\">1.040,17</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r14c0\">021045</td>\n      <td data-cell-id=\"r14c1\">BOBINA IND. 2C CELULOSA BLANCA P/2<br>ENV/0954/700884204</td>\n      <td data-cell-id=\"r14c2\">74</td>\n      <td data-cell-id=\"r14c3\">25,207</td>\n      <td data-cell-id=\"r14c4\"></td>\n      <td data-cell-id=\"r14c5\">1.865,32</td>\n    </tr>\n  </tbody>\n</table>\n\nMercantil\nReg.\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r15c0\">BASE DTO</th>\n      <th data-cell-id=\"r15c1\">%DTO</th>\n      <th data-cell-id=\"r15c2\">IMPORTE DTO</th>\n      <th data-cell-id=\"r15c3\">PORTES</th>\n      <th data-cell-id=\"r15c4\">BASE IMPONIBLE</th>\n      <th data-cell-id=\"r15c5\">% IVA</th>\n      <th data-cell-id=\"r15c6\">IMPORTE</th>\n      <th data-cell-id=\"r15c7\">% R.E.</th>\n      <th data-cell-id=\"r15c8\">IMPORTE</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r16c0\"></td>\n      <td data-cell-id=\"r16c1\"></td>\n      <td data-cell-id=\"r16c2\"></td>\n      <td data-cell-id=\"r16c3\"></td>\n      <td data-cell-id=\"r16c4\">5.585,96</td>\n      <td data-cell-id=\"r16c5\">21,00</td>\n      <td data-cell-id=\"r16c6\">1.173,05</td>\n      <td data-cell-id=\"r16c7\"></td>\n      <td data-cell-id=\"r16c8\"></td>\n    </tr>\n    <tr>\n      <td colspan=\"4\" data-cell-id=\"r17c0\"></td>\n      <td data-cell-id=\"r17c4\">TOTAL FACTURA</td>\n      <td colspan=\"4\" data-cell-id=\"r17c5\">6.759,01 Euros</td>\n    </tr>\n  </tbody>\n</table>\n\nFORMA DE PAGO..: GIRO 60 DIAS F/F\nDOMICILIACION BANCARIA.: 0000 0000 00 00000*****\nVENCIMIENTOS :09/09/2026 -   6.759,01",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Nº FACTURA"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "FECHA"
+              },
+              {
+                "cell_id": "r0c2",
+                "text": "Nº CLIENTE"
+              },
+              {
+                "cell_id": "r0c3",
+                "text": "AGENTE"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "F- 5462560"
+              },
+              {
+                "cell_id": "r1c1",
+                "text": "01/02/2024"
+              },
+              {
+                "cell_id": "r1c2",
+                "text": "1504"
+              },
+              {
+                "cell_id": "r1c3",
+                "text": "6"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "CODIGO"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "CONCEPTO"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "CANTIDAD"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "PRECIO"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": "DTO"
+              },
+              {
+                "cell_id": "r2c5",
+                "text": "IMPORTE"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964<br>NTRO. PEDIDO Nº 8.336/32<br>VTRO. PEDIDO Nº 370521"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "047810"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": "BAYETA MICROFIBRA AZUL PACK/10 UNID.<br>ENV/0980/529735652"
+              },
+              {
+                "cell_id": "r4c2",
+                "text": "31"
+              },
+              {
+                "cell_id": "r4c3",
+                "text": "21,751"
+              },
+              {
+                "cell_id": "r4c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c5",
+                "text": "674,28"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c1",
+                "text": "ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976<br>NTRO. PEDIDO Nº 6.414/26<br>VTRO. PEDIDO Nº 923104"
+              },
+              {
+                "cell_id": "r5c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "092140"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": "FRIEGASUELOS AROMATICO FLORAL E/5L.<br>ENV/0523/414990211"
+              },
+              {
+                "cell_id": "r6c2",
+                "text": "3"
+              },
+              {
+                "cell_id": "r6c3",
+                "text": "26,069"
+              },
+              {
+                "cell_id": "r6c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r6c5",
+                "text": "78,21"
+              }
+            ],
+            [
+              {
+                "cell_id": "r7c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r7c1",
+                "text": "ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163<br>NTRO. PEDIDO Nº 7.737/21<br>VTRO. PEDIDO Nº 033637"
+              },
+              {
+                "cell_id": "r7c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r7c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r7c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r7c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r8c0",
+                "text": "055200"
+              },
+              {
+                "cell_id": "r8c1",
+                "text": "DETERGENTE MULTIUSOS CONCENTRADO E/5L.<br>ENV/1830/086325272"
+              },
+              {
+                "cell_id": "r8c2",
+                "text": "15"
+              },
+              {
+                "cell_id": "r8c3",
+                "text": "33,756"
+              },
+              {
+                "cell_id": "r8c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r8c5",
+                "text": "506,34"
+              }
+            ],
+            [
+              {
+                "cell_id": "r9c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r9c1",
+                "text": "ALBARAN: 1654 DEL: 03/07/25<br>NTRO. PEDIDO Nº 0.880/25<br>VTRO. PEDIDO Nº"
+              },
+              {
+                "cell_id": "r9c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r9c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r9c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r9c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r10c0",
+                "text": "084512"
+              },
+              {
+                "cell_id": "r10c1",
+                "text": "HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS<br>ENV/1685/895481867"
+              },
+              {
+                "cell_id": "r10c2",
+                "text": "56"
+              },
+              {
+                "cell_id": "r10c3",
+                "text": "10,929"
+              },
+              {
+                "cell_id": "r10c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r10c5",
+                "text": "612,02"
+              }
+            ],
+            [
+              {
+                "cell_id": "r11c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r11c1",
+                "text": "ALBARAN: 7352 DEL: 18/07/26<br>NTRO. PEDIDO Nº 8.937/83<br>VTRO. PEDIDO Nº 61/77"
+              },
+              {
+                "cell_id": "r11c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r11c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r11c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r11c5",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r12c0",
+                "text": "030120"
+              },
+              {
+                "cell_id": "r12c1",
+                "text": "GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L.<br>ENV/0645/895173162"
+              },
+              {
+                "cell_id": "r12c2",
+                "text": "25"
+              },
+              {
+                "cell_id": "r12c3",
+                "text": "32,385"
+              },
+              {
+                "cell_id": "r12c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r12c5",
+                "text": "809,62"
+              }
+            ],
+            [
+              {
+                "cell_id": "r13c0",
+                "text": "063310"
+              },
+              {
+                "cell_id": "r13c1",
+                "text": "TOALLA 22X21 CELULOSA C/20 PAQUETES<br>ENV/2548/581352582"
+              },
+              {
+                "cell_id": "r13c2",
+                "text": "67"
+              },
+              {
+                "cell_id": "r13c3",
+                "text": "15,525"
+              },
+              {
+                "cell_id": "r13c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r13c5",
+                "text": "1.040,17"
+              }
+            ],
+            [
+              {
+                "cell_id": "r14c0",
+                "text": "021045"
+              },
+              {
+                "cell_id": "r14c1",
+                "text": "BOBINA IND. 2C CELULOSA BLANCA P/2<br>ENV/0954/700884204"
+              },
+              {
+                "cell_id": "r14c2",
+                "text": "74"
+              },
+              {
+                "cell_id": "r14c3",
+                "text": "25,207"
+              },
+              {
+                "cell_id": "r14c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r14c5",
+                "text": "1.865,32"
+              }
+            ],
+            [
+              {
+                "cell_id": "r15c0",
+                "text": "BASE DTO"
+              },
+              {
+                "cell_id": "r15c1",
+                "text": "%DTO"
+              },
+              {
+                "cell_id": "r15c2",
+                "text": "IMPORTE DTO"
+              },
+              {
+                "cell_id": "r15c3",
+                "text": "PORTES"
+              },
+              {
+                "cell_id": "r15c4",
+                "text": "BASE IMPONIBLE"
+              },
+              {
+                "cell_id": "r15c5",
+                "text": "% IVA"
+              },
+              {
+                "cell_id": "r15c6",
+                "text": "IMPORTE"
+              },
+              {
+                "cell_id": "r15c7",
+                "text": "% R.E."
+              },
+              {
+                "cell_id": "r15c8",
+                "text": "IMPORTE"
+              }
+            ],
+            [
+              {
+                "cell_id": "r16c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r16c1",
+                "text": ""
+              },
+              {
+                "cell_id": "r16c2",
+                "text": ""
+              },
+              {
+                "cell_id": "r16c3",
+                "text": ""
+              },
+              {
+                "cell_id": "r16c4",
+                "text": "5.585,96"
+              },
+              {
+                "cell_id": "r16c5",
+                "text": "21,00"
+              },
+              {
+                "cell_id": "r16c6",
+                "text": "1.173,05"
+              },
+              {
+                "cell_id": "r16c7",
+                "text": ""
+              },
+              {
+                "cell_id": "r16c8",
+                "text": ""
+              }
+            ],
+            [
+              {
+                "cell_id": "r17c0",
+                "text": ""
+              },
+              {
+                "cell_id": "r17c4",
+                "text": "TOTAL FACTURA"
+              },
+              {
+                "cell_id": "r17c5",
+                "text": "6.759,01 Euros"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.014249435858660155,
+            "y0": 0.9502256851015068,
+            "x1": 0.10983748992716841,
+            "y1": 0.9719119290094592
+          },
+          "layout_confidence": 0.6021533608436584,
+          "parse_confidence": null,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.014249435858660155,
+                "y0": 0.9510148901774262,
+                "x1": 0.10983748992716841,
+                "y1": 0.9719119290094592
+              },
+              "type": "text",
+              "text": "NORLIM"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nThe image shows the word NORLIM in white, bold, sans-serif capital letters against a dark gray background.\n\n</figure-description>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b3",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.6762919071149047,
+            "y0": 0.9287358838913532,
+            "x1": 0.9942829295929749,
+            "y1": 0.9921984597116823
+          },
+          "layout_confidence": 0.4959363043308258,
+          "parse_confidence": 92.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.6762919071149047,
+                "y0": 0.9287358838913532,
+                "x1": 0.9942829295929749,
+                "y1": 0.9921984597116823
+              },
+              "type": "text",
+              "text": "NORTE LIMPIEZA S.L.U. Polígono Industrial Los Olivos, Nave 5 Parcela 12, 28840, Mejorada del Campo, Madrid Tel. +34 900 000 000 · Móv. +34 600 000 000 info@nortelimpieza.example · www.nortelimpieza.example"
+            }
+          ],
+          "content": "**NORTE LIMPIEZA S.L.U.**\nPolígono Industrial Los Olivos, Nave 5\nParcela 12, 28840, Mejorada del Campo, Madrid\nTel. +34 900 000 000 · Móv. +34 600 000 000\ninfo@nortelimpieza.example · www.nortelimpieza.example",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [
+      {
+        "category": "Factura",
+        "confidence": 100.0,
+        "evidence": "El documento indica «Nº FACTURA F-5462560», incluye «BASE IMPONIBLE 5.585,96», «% IVA 21,00», «IMPORTE 1.173,05» y «TOTAL FACTURA 6.759,01 Euros»."
+      }
+    ],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "numero_factura": {
+            "value": "F- 5462560",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Nº FACTURA FECHA Nº CLIENTE AGENTE\nF- 5462560 01/02/2024 1504 6",
+                "page_number": 1
+              }
+            ]
+          },
+          "fecha_factura": {
+            "value": "2024-02-01",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Nº FACTURA FECHA Nº CLIENTE AGENTE\nF- 5462560 01/02/2024 1504 6",
+                "page_number": 1
+              }
+            ]
+          },
+          "proveedor_nombre": {
+            "value": "NORTE LIMPIEZA S.L.U.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "NORTE LIMPIEZA S.L.U.\nPolígono Industrial Los Olivos, Nave 5\nParcela 12, 28840, Mejorada del Campo, Madrid",
+                "page_number": 1
+              }
+            ]
+          },
+          "proveedor_nif": {
+            "value": "B11223344",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 3.0,
+            "evidence": [
+              {
+                "text": "B-11.223.344\n\nCIF:",
+                "page_number": 1
+              }
+            ]
+          },
+          "cliente_nombre": {
+            "value": "IBERCLEAN PARTS, S.L.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "IBERCLEAN PARTS, S.L. AV. DE LA INDUSTRIA, 100 28080 - GETAFE\nMADRID\nCIF : B-99887766",
+                "page_number": 1
+              }
+            ]
+          },
+          "cliente_nif": {
+            "value": "B11223344",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 88.0,
+            "evidence": [
+              {
+                "text": "B-11.223.344\n\nCIF:",
+                "page_number": 1
+              }
+            ]
+          },
+          "albaranes_referenciados": {
+            "value": "5622,4758,2211,1654,7352",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964 NTRO. PEDIDO Nº 8.336/32 VTRO. PEDIDO Nº 370521",
+                "page_number": 1
+              },
+              {
+                "text": "ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976 NTRO. PEDIDO Nº 6.414/26 VTRO. PEDIDO Nº 923104",
+                "page_number": 1
+              },
+              {
+                "text": "ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163 NTRO. PEDIDO Nº 7.737/21 VTRO. PEDIDO Nº 033637",
+                "page_number": 1
+              },
+              {
+                "text": "ALBARAN: 1654 DEL: 03/07/25 NTRO. PEDIDO Nº 0.880/25 VTRO. PEDIDO Nº",
+                "page_number": 1
+              },
+              {
+                "text": "ALBARAN: 7352 DEL: 18/07/26 NTRO. PEDIDO Nº 8.937/83 VTRO. PEDIDO Nº 61/77",
+                "page_number": 1
+              }
+            ]
+          },
+          "base_imponible": {
+            "value": "5585.96",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "BASE IMPONIBLE % IVA IMPORTE % R.E. IMPORTE 5.585,96 21,00 1.173,05",
+                "page_number": 1
+              }
+            ]
+          },
+          "iva_importe": {
+            "value": "1173.05",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "BASE IMPONIBLE % IVA IMPORTE % R.E. IMPORTE 5.585,96 21,00 1.173,05",
+                "page_number": 1
+              }
+            ]
+          },
+          "total": {
+            "value": "6759.01",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "TOTAL FACTURA 6.759,01 Euros",
+                "page_number": 1
+              }
+            ]
+          },
+          "lineas": [
+            {
+              "albaran": {
+                "value": "5622",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964 NTRO. PEDIDO Nº 8.336/32 VTRO. PEDIDO Nº 370521",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero_pedido": {
+                "value": "138964",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964 NTRO. PEDIDO Nº 8.336/32 VTRO. PEDIDO Nº 370521",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "047810",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "BAYETA MICROFIBRA AZUL PACK/10 UNID.",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "31.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio_unitario": {
+                "value": "21.751",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "674.28",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "4758",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976 NTRO. PEDIDO Nº 6.414/26 VTRO. PEDIDO Nº 923104",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero_pedido": {
+                "value": "789976",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976 NTRO. PEDIDO Nº 6.414/26 VTRO. PEDIDO Nº 923104",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "092140",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "FRIEGASUELOS AROMATICO FLORAL E/5L.",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "3.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio_unitario": {
+                "value": "26.069",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "78.21",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "2211",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163 NTRO. PEDIDO Nº 7.737/21 VTRO. PEDIDO Nº 033637",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero_pedido": {
+                "value": "074163",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163 NTRO. PEDIDO Nº 7.737/21 VTRO. PEDIDO Nº 033637",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "055200",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "DETERGENTE MULTIUSOS CONCENTRADO E/5L.",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "15.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio_unitario": {
+                "value": "33.756",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "506.34",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "1654",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ALBARAN: 1654 DEL: 03/07/25 NTRO. PEDIDO Nº 0.880/25 VTRO. PEDIDO Nº",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero_pedido": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "referencia": {
+                "value": "084512",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "56.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio_unitario": {
+                "value": "10.929",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "612.02",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "7352",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ALBARAN: 7352 DEL: 18/07/26 NTRO. PEDIDO Nº 8.937/83 VTRO. PEDIDO Nº 61/77",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero_pedido": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "referencia": {
+                "value": "030120",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L.",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "25.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio_unitario": {
+                "value": "32.385",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "809.62",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "7352",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ALBARAN: 7352 DEL: 18/07/26 NTRO. PEDIDO Nº 8.937/83 VTRO. PEDIDO Nº 61/77",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero_pedido": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "referencia": {
+                "value": "063310",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "TOALLA 22X21 CELULOSA C/20 PAQUETES",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "67.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio_unitario": {
+                "value": "15.525",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "1040.17",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "7352",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "ALBARAN: 7352 DEL: 18/07/26 NTRO. PEDIDO Nº 8.937/83 VTRO. PEDIDO Nº 61/77",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "numero_pedido": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": null,
+                "evidence": []
+              },
+              "referencia": {
+                "value": "021045",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "BOBINA IND. 2C CELULOSA BLANCA P/2",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "74.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio_unitario": {
+                "value": "25.207",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "1865.32",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "validations": [
+          {
+            "rule_id": "lineas_suman_base",
+            "description": "La suma del importe de todas las filas de lineas debe ser igual a base_imponible, con un margen de 0,02. Calcula la suma exacta y falla si no coincide.",
+            "severity": "error",
+            "status": "pass",
+            "detail": "La suma exacta de los importes de las líneas es 5.585,96 €, que coincide con la base imponible dentro del margen permitido de 0,02 € (diferencia: 0,00 €).",
+            "compared_values": {
+              "diferencia": 0.0,
+              "suma_lineas": 5585.96,
+              "base_imponible": 5585.96,
+              "lineas_importes": [
+                674.28,
+                78.21,
+                506.34,
+                612.02,
+                809.62,
+                1040.17,
+                1865.32
+              ]
+            },
+            "source_fields": []
+          },
+          {
+            "rule_id": "base_mas_iva_es_total",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "data.base_imponible + data.iva_importe - data.total <= 0.02 && data.total - (data.base_imponible + data.iva_importe) <= 0.02 is true.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "numero_factura": {
+        "value": "F- 5462560",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Nº FACTURA FECHA Nº CLIENTE AGENTE\nF- 5462560 01/02/2024 1504 6",
+            "page_number": 1
+          }
+        ]
+      },
+      "fecha_factura": {
+        "value": "2024-02-01",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Nº FACTURA FECHA Nº CLIENTE AGENTE\nF- 5462560 01/02/2024 1504 6",
+            "page_number": 1
+          }
+        ]
+      },
+      "proveedor_nombre": {
+        "value": "NORTE LIMPIEZA S.L.U.",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "NORTE LIMPIEZA S.L.U.\nPolígono Industrial Los Olivos, Nave 5\nParcela 12, 28840, Mejorada del Campo, Madrid",
+            "page_number": 1
+          }
+        ]
+      },
+      "proveedor_nif": {
+        "value": "B11223344",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 3.0,
+        "evidence": [
+          {
+            "text": "B-11.223.344\n\nCIF:",
+            "page_number": 1
+          }
+        ]
+      },
+      "cliente_nombre": {
+        "value": "IBERCLEAN PARTS, S.L.",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "IBERCLEAN PARTS, S.L. AV. DE LA INDUSTRIA, 100 28080 - GETAFE\nMADRID\nCIF : B-99887766",
+            "page_number": 1
+          }
+        ]
+      },
+      "cliente_nif": {
+        "value": "B11223344",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 88.0,
+        "evidence": [
+          {
+            "text": "B-11.223.344\n\nCIF:",
+            "page_number": 1
+          }
+        ]
+      },
+      "albaranes_referenciados": {
+        "value": "5622,4758,2211,1654,7352",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964 NTRO. PEDIDO Nº 8.336/32 VTRO. PEDIDO Nº 370521",
+            "page_number": 1
+          },
+          {
+            "text": "ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976 NTRO. PEDIDO Nº 6.414/26 VTRO. PEDIDO Nº 923104",
+            "page_number": 1
+          },
+          {
+            "text": "ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163 NTRO. PEDIDO Nº 7.737/21 VTRO. PEDIDO Nº 033637",
+            "page_number": 1
+          },
+          {
+            "text": "ALBARAN: 1654 DEL: 03/07/25 NTRO. PEDIDO Nº 0.880/25 VTRO. PEDIDO Nº",
+            "page_number": 1
+          },
+          {
+            "text": "ALBARAN: 7352 DEL: 18/07/26 NTRO. PEDIDO Nº 8.937/83 VTRO. PEDIDO Nº 61/77",
+            "page_number": 1
+          }
+        ]
+      },
+      "base_imponible": {
+        "value": "5585.96",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "BASE IMPONIBLE % IVA IMPORTE % R.E. IMPORTE 5.585,96 21,00 1.173,05",
+            "page_number": 1
+          }
+        ]
+      },
+      "iva_importe": {
+        "value": "1173.05",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "BASE IMPONIBLE % IVA IMPORTE % R.E. IMPORTE 5.585,96 21,00 1.173,05",
+            "page_number": 1
+          }
+        ]
+      },
+      "total": {
+        "value": "6759.01",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "TOTAL FACTURA 6.759,01 Euros",
+            "page_number": 1
+          }
+        ]
+      },
+      "lineas": [
+        {
+          "albaran": {
+            "value": "5622",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964 NTRO. PEDIDO Nº 8.336/32 VTRO. PEDIDO Nº 370521",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero_pedido": {
+            "value": "138964",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 5622 DEL: 25/10/26 S/PEDIDO: 138964 NTRO. PEDIDO Nº 8.336/32 VTRO. PEDIDO Nº 370521",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "047810",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "BAYETA MICROFIBRA AZUL PACK/10 UNID.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "31.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio_unitario": {
+            "value": "21.751",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "674.28",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "047810 BAYETA MICROFIBRA AZUL PACK/10 UNID. ENV/0980/529735652 31 21,751 674,28",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "4758",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976 NTRO. PEDIDO Nº 6.414/26 VTRO. PEDIDO Nº 923104",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero_pedido": {
+            "value": "789976",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 4758 DEL: 27/10/24 S/PEDIDO: 789976 NTRO. PEDIDO Nº 6.414/26 VTRO. PEDIDO Nº 923104",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "092140",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "FRIEGASUELOS AROMATICO FLORAL E/5L.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "3.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio_unitario": {
+            "value": "26.069",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "78.21",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "092140 FRIEGASUELOS AROMATICO FLORAL E/5L. ENV/0523/414990211 3 26,069 78,21",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "2211",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163 NTRO. PEDIDO Nº 7.737/21 VTRO. PEDIDO Nº 033637",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero_pedido": {
+            "value": "074163",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 2211 DEL: 06/05/26 S/PEDIDO: 074163 NTRO. PEDIDO Nº 7.737/21 VTRO. PEDIDO Nº 033637",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "055200",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "DETERGENTE MULTIUSOS CONCENTRADO E/5L.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "15.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio_unitario": {
+            "value": "33.756",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "506.34",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "055200 DETERGENTE MULTIUSOS CONCENTRADO E/5L. ENV/1830/086325272 15 33,756 506,34",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "1654",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 1654 DEL: 03/07/25 NTRO. PEDIDO Nº 0.880/25 VTRO. PEDIDO Nº",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero_pedido": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "referencia": {
+            "value": "084512",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "56.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio_unitario": {
+            "value": "10.929",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "612.02",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "084512 HIGIENICO IND. 2C CELULOSA O45 P/18 ROLLOS ENV/1685/895481867 56 10,929 612,02",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "7352",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 7352 DEL: 18/07/26 NTRO. PEDIDO Nº 8.937/83 VTRO. PEDIDO Nº 61/77",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero_pedido": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "referencia": {
+            "value": "030120",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "25.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio_unitario": {
+            "value": "32.385",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "809.62",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "030120 GEL DE MANOS NEUTRO ECO \"CLINEX\" E/10L. ENV/0645/895173162 25 32,385 809,62",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "7352",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 7352 DEL: 18/07/26 NTRO. PEDIDO Nº 8.937/83 VTRO. PEDIDO Nº 61/77",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero_pedido": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "referencia": {
+            "value": "063310",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "TOALLA 22X21 CELULOSA C/20 PAQUETES",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "67.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio_unitario": {
+            "value": "15.525",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "1040.17",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "063310 TOALLA 22X21 CELULOSA C/20 PAQUETES ENV/2548/581352582 67 15,525 1.040,17",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "7352",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "ALBARAN: 7352 DEL: 18/07/26 NTRO. PEDIDO Nº 8.937/83 VTRO. PEDIDO Nº 61/77",
+                "page_number": 1
+              }
+            ]
+          },
+          "numero_pedido": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "referencia": {
+            "value": "021045",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "BOBINA IND. 2C CELULOSA BLANCA P/2",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "74.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio_unitario": {
+            "value": "25.207",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "1865.32",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "021045 BOBINA IND. 2C CELULOSA BLANCA P/2 ENV/0954/700884204 74 25,207 1.865,32",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -58,8 +58,10 @@ Si la app abre, lista tus workflows y procesa un PDF de `samples/`, estás listo
 | `samples/facturas/` | Facturas reales de proveedores, anonimizadas (1–91 páginas) |
 | `ground_truth/calas/` | La respuesta correcta de cada PDF de calas, campo a campo |
 | `referencia/calas-luismi/` | El workflow de calas tal como está hoy en la cuenta de IBM, más una ejecución de ejemplo |
-| `docs/` | Una guía por bloque y el informe de partida de calas (`calas-baseline.md`) |
-| `tools/score_calas.py` | Compara resultados con el ground truth y da la precisión por campo |
+| `docs/` | Una guía por bloque, el informe de partida de calas (`calas-baseline.md`) y su revisión (`calas-v2.md`: de 70 % a 97 %) |
+| `workflows/` | Los workflows en formato de la API: facturas, calas de partida y calas v2 |
+| `tools/run_calas.py` · `tools/score_calas.py` | Ejecutan los PDFs de calas en un workflow y los puntúan contra el ground truth |
+| `tools/build_calas_v2.py` | Genera `workflows/calas-v2.json` |
 
 ## Cómo funciona anyformat, en una tabla
 

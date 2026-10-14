@@ -1,0 +1,338 @@
+{
+  "id": "06acf4aa-e655-7be3-8000-5ff1e489733e",
+  "workflow_id": "06acf4a9-8548-7384-8000-f0b4ea0c800a",
+  "document_packet_id": "06acf4aa-e4d5-7353-8000-723c32ef1757",
+  "status": "processed",
+  "created_at": "2026-10-14T09:26:06.420704Z",
+  "updated_at": "2026-10-14T09:26:30.195770Z",
+  "results": {
+    "document_packet_id": "06acf4aa-e4d5-7353-8000-723c32ef1757",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a/files/06acf4aa-e121-76ed-8000-7b3c67514aa0?versionId=pm8d3Iz-lw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nLogo of i-DE Grupo IBERDROLA, featuring a green lowercase 'i' followed by a blue leaf icon and the uppercase letters 'DE' in green, with the text 'Grupo IBERDROLA' underneath.\n\n</figure-description>\n\n\n<a id=\"p1_b1\"></a>\n\n# GESTIÓN DE RESIDUOS Y DE ACOPIOS\n\n\n<a id=\"p1_b2\"></a>\n\nGESTIÓN DE RESIDUOS: El tratamiento de los residuos se realizará con contratas\nhomologadas y mediante gestores autorizados.\n\n\n<a id=\"p1_b3\"></a>\n\nACOPIO DE MATERIALES: Los materiales, útiles y herramientas se colocarán en un\nemplazamiento, cerrado y señalizado mediante vallas unidas entre sí de modo que minimice\nsu incidencia en el tráfico rodado o peatonal.\n\n\n<a id=\"p1_b4\"></a>\n\ni-DE REDES ELÉCTRICAS INTELIGENTES, S.A.U.\n\n\n<a id=\"p1_b6\"></a>\n\n<sub>i-DE REDES ELÉCTRICAS INTELIGENTES, S.A.U., N.I.F. A−95075578\nDomicilio social: Av. San Adrián, 48 - Bilbao- Reg. Merc. de Vizcaya. t. 3863; libro 0, folio 179, sección 8, hoja BI−27057</sub>",
+      "text": "<a id=\"p1_b0\"></a>\n\n<figure-description>\n\n***figure-description:***\nLogo of i-DE Grupo IBERDROLA, featuring a green lowercase 'i' followed by a blue leaf icon and the uppercase letters 'DE' in green, with the text 'Grupo IBERDROLA' underneath.\n\n</figure-description>\n\n<a id=\"p1_b1\"></a>\n\n# GESTIÓN DE RESIDUOS Y DE ACOPIOS\n\n<a id=\"p1_b2\"></a>\n\nGESTIÓN DE RESIDUOS: El tratamiento de los residuos se realizará con contratas\nhomologadas y mediante gestores autorizados.\n\n<a id=\"p1_b3\"></a>\n\nACOPIO DE MATERIALES: Los materiales, útiles y herramientas se colocarán en un\nemplazamiento, cerrado y señalizado mediante vallas unidas entre sí de modo que minimice\nsu incidencia en el tráfico rodado o peatonal.\n\n<a id=\"p1_b4\"></a>\n\ni-DE REDES ELÉCTRICAS INTELIGENTES, S.A.U.\n\n<a id=\"p1_b6\"></a>\n\n<sub>i-DE REDES ELÉCTRICAS INTELIGENTES, S.A.U., N.I.F. A−95075578\nDomicilio social: Av. San Adrián, 48 - Bilbao- Reg. Merc. de Vizcaya. t. 3863; libro 0, folio 179, sección 8, hoja BI−27057</sub>",
+      "layout_confidence": 0.898,
+      "parse_confidence": 97.2,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "picture",
+          "page": 1,
+          "bbox": {
+            "x0": 0.10943396226415095,
+            "y0": 0.048536358556466104,
+            "x1": 0.2990566037735849,
+            "y1": 0.12666666666666668
+          },
+          "layout_confidence": 0.8808426260948181,
+          "parse_confidence": null,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.11066636035923802,
+                "y0": 0.048536358556466104,
+                "x1": 0.29759856550408104,
+                "y1": 0.12619086400521723
+              },
+              "type": "picture",
+              "text": "iDE Grupo IBERDROLA"
+            }
+          ],
+          "content": "<figure-description>\n\n***figure-description:***\nLogo of i-DE Grupo IBERDROLA, featuring a green lowercase 'i' followed by a blue leaf icon and the uppercase letters 'DE' in green, with the text 'Grupo IBERDROLA' underneath.\n\n</figure-description>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b1",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.23018867924528302,
+            "y0": 0.20844022531497167,
+            "x1": 0.7932974689672763,
+            "y1": 0.23460836357517903
+          },
+          "layout_confidence": 0.8508704304695129,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.23153597959728311,
+                "y0": 0.20844022531497167,
+                "x1": 0.7932974689672763,
+                "y1": 0.23460836357517903
+              },
+              "type": "title",
+              "text": "GESTIÓN DE RESIDUOS Y DE ACOPIOS"
+            }
+          ],
+          "content": "# GESTIÓN DE RESIDUOS Y DE ACOPIOS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b2",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09150943396226414,
+            "y0": 0.306,
+            "x1": 0.8459462323817262,
+            "y1": 0.341526457161514
+          },
+          "layout_confidence": 0.9384388327598572,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09355527054441884,
+                "y0": 0.30698836099494975,
+                "x1": 0.8459462323817262,
+                "y1": 0.341526457161514
+              },
+              "type": "text",
+              "text": "GESTIÓN DE RESIDUOS: El tratamiento de los residuos se realizará con contratas homologadas y mediante gestores autorizados."
+            }
+          ],
+          "content": "GESTIÓN DE RESIDUOS: El tratamiento de los residuos se realizará con contratas\nhomologadas y mediante gestores autorizados.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b3",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09245283018867924,
+            "y0": 0.3893333333333333,
+            "x1": 0.9301432340868727,
+            "y1": 0.44015256336174646
+          },
+          "layout_confidence": 0.9584150314331055,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09491431756348247,
+                "y0": 0.3898105629492438,
+                "x1": 0.9301432340868727,
+                "y1": 0.44015256336174646
+              },
+              "type": "text",
+              "text": "ACOPIO DE MATERIALES: Los materiales, útiles y herramientas se colocarán en un emplazamiento, cerrado y señalizado mediante vallas unidas entre sí de modo que minimice su incidencia en el tráfico rodado o peatonal."
+            }
+          ],
+          "content": "ACOPIO DE MATERIALES: Los materiales, útiles y herramientas se colocarán en un\nemplazamiento, cerrado y señalizado mediante vallas unidas entre sí de modo que minimice\nsu incidencia en el tráfico rodado o peatonal.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b4",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.2709144121790451,
+            "y0": 0.816,
+            "x1": 0.7048830634305093,
+            "y1": 0.8335398282185229
+          },
+          "layout_confidence": 0.584337055683136,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.2709144121790451,
+                "y0": 0.8166572273975257,
+                "x1": 0.7048830634305093,
+                "y1": 0.8335398282185229
+              },
+              "type": "text",
+              "text": "i-DE REDES ELÉCTRICAS INTELIGENTES, S.A.U."
+            }
+          ],
+          "content": "i-DE REDES ELÉCTRICAS INTELIGENTES, S.A.U.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b6",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.2679245283018868,
+            "y0": 0.94,
+            "x1": 0.7550447364816354,
+            "y1": 0.9584082073001282
+          },
+          "layout_confidence": 0.9023961424827576,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.26807092668932325,
+                "y0": 0.9402668574978623,
+                "x1": 0.7550447364816354,
+                "y1": 0.9584082073001282
+              },
+              "type": "text",
+              "text": "i-DE REDES ELÉCTRICAS INTELIGENTES, S.A.U., N.I.F. A−95075578 Domicilio social: Av. San Adrián, 48 - Bilbao- Reg. Merc. de Vizcaya. t. 3863; libro 0, folio 179, sección 8, hoja BI−27057"
+            }
+          ],
+          "content": "<sub>i-DE REDES ELÉCTRICAS INTELIGENTES, S.A.U., N.I.F. A−95075578\nDomicilio social: Av. San Adrián, 48 - Bilbao- Reg. Merc. de Vizcaya. t. 3863; libro 0, folio 179, sección 8, hoja BI−27057</sub>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [
+      {
+        "category": "Residuos/Acopio",
+        "confidence": 100.0,
+        "evidence": "El documento se titula «GESTIÓN DE RESIDUOS Y DE ACOPIOS» e incluye indicaciones sobre el tratamiento de residuos y el acopio de materiales, útiles y herramientas."
+      }
+    ],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "gestion_residuos": {
+            "value": "El tratamiento de los residuos se realizará con contratas homologadas y mediante gestores autorizados.",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "GESTIÓN DE RESIDUOS: El tratamiento de los residuos se realizará con contratas homologadas y mediante gestores autorizados.",
+                "page_number": 1
+              }
+            ]
+          },
+          "gestores_autorizados": {
+            "value": "True",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 91.0,
+            "evidence": [
+              {
+                "text": "GESTIÓN DE RESIDUOS: El tratamiento de los residuos se realizará con contratas homologadas y mediante gestores autorizados.",
+                "page_number": 1
+              }
+            ]
+          },
+          "id_proyecto_contratista": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "id_obra": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "municipio": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "ubicacion_de_la_obra": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "motivo_de_la_obra": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "direccion": [],
+          "medidas_acera": [],
+          "medidas_calzada": []
+        },
+        "validations": []
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "gestion_residuos": {
+        "value": "El tratamiento de los residuos se realizará con contratas homologadas y mediante gestores autorizados.",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "GESTIÓN DE RESIDUOS: El tratamiento de los residuos se realizará con contratas homologadas y mediante gestores autorizados.",
+            "page_number": 1
+          }
+        ]
+      },
+      "gestores_autorizados": {
+        "value": "True",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 91.0,
+        "evidence": [
+          {
+            "text": "GESTIÓN DE RESIDUOS: El tratamiento de los residuos se realizará con contratas homologadas y mediante gestores autorizados.",
+            "page_number": 1
+          }
+        ]
+      },
+      "id_proyecto_contratista": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "id_obra": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "municipio": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "ubicacion_de_la_obra": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "motivo_de_la_obra": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "direccion": [],
+      "medidas_acera": [],
+      "medidas_calzada": []
+    }
+  }
+}
