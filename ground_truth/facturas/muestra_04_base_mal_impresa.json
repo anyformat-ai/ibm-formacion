@@ -1,0 +1,52 @@
+{
+  "file": "muestra_04_base_mal_impresa.pdf",
+  "proveedor": "FRENOS DE PRUEBA DEL CENTRO, S.L.",
+  "fields": {
+    "total": 542.2,
+    "ibruto": 448.1,
+    "portes": 0.0,
+    "idto": 0.0,
+    "tnfu": 0.0,
+    "tsigaus": 0.0,
+    "tgases": 0.0,
+    "lineas": [
+      {
+        "albaran": "FC-ALB-901",
+        "fechaalb": "2026-02-11",
+        "npedido": "PED-161511",
+        "referencia": "FC-PZ-118",
+        "descripcion": "ZAPATA FRENO TRASERA",
+        "cantidad": 6.0,
+        "precio": 24.1,
+        "importe": 144.6,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "FC-ALB-901",
+        "fechaalb": "2026-02-11",
+        "npedido": "PED-161511",
+        "referencia": "FC-KT-022",
+        "descripcion": "KIT EMBRAGUE 3 PIEZAS",
+        "cantidad": 1.0,
+        "precio": 186.0,
+        "importe": 186.0,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "FC-ALB-901",
+        "fechaalb": "2026-02-11",
+        "npedido": "PED-161511",
+        "referencia": "FC-SN-410",
+        "descripcion": "SENSOR ABS DELANTERO",
+        "cantidad": 2.0,
+        "precio": 33.75,
+        "importe": 67.5,
+        "dto1": 0.0
+      }
+    ]
+  },
+  "validacion_esperada": "fail",
+  "notas": {
+    "ibruto": "La base impresa (448,10 €) lleva 50,00 € de más: las líneas suman 398,10 €. La validación de cuadre debe fallar."
+  }
+}

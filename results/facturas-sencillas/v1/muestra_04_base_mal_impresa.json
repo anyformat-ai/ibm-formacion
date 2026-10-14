@@ -1,0 +1,1187 @@
+{
+  "id": "06acf596-f865-747c-8000-36daf57203c7",
+  "workflow_id": "06acf584-e287-77d1-8000-bd46d425a3b0",
+  "document_packet_id": "06acf596-f6cd-7f91-8000-0fdd769d64cb",
+  "status": "processed",
+  "created_at": "2026-10-14T10:29:03.559372Z",
+  "updated_at": "2026-10-14T10:29:43.654672Z",
+  "results": {
+    "document_packet_id": "06acf596-f6cd-7f91-8000-0fdd769d64cb",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf584-e287-77d1-8000-bd46d425a3b0/files/06acf596-f37b-78f7-8000-daa0342d6c1a?versionId=2uBSYZY8Xw",
+    "parse": {
+      "markdown": "<a id=\"p1_b2\"></a>\n\n# FRENOS DE PRUEBA DEL CENTRO, S.L.\n\n\n<a id=\"p1_b0\"></a>\n\n# FACTURA\n\n\n<a id=\"p1_b3\"></a>\n\n# **FRENOS DE PRUEBA DEL CENTRO, S.L.**\nC/ de la Prueba, 21 · 45000 Toledo\nCIF: B00000041\n\n\n<a id=\"p1_b4\"></a>\n\n# **FACTURA**\nNº FC-0000391\nFecha: 12/02/2026\nPágina 1 de 1\n\n\n<a id=\"p1_b5\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">\n      CLIENTE<br>\n      <strong>IBERCLEAN PARTS, S.L.</strong><br>\n      Av. de la Industria, 100<br>\n      28080 Getafe (Madrid)<br>\n      CIF: B99887766\n    </td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b6\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">FC-PZ-118</td>\n      <td data-cell-id=\"r2c1\">ZAPATA FRENO TRASERA</td>\n      <td data-cell-id=\"r2c2\">6</td>\n      <td data-cell-id=\"r2c3\">24,10</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">144,60</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">FC-KT-022</td>\n      <td data-cell-id=\"r3c1\">KIT EMBRAGUE 3 PIEZAS</td>\n      <td data-cell-id=\"r3c2\">1</td>\n      <td data-cell-id=\"r3c3\">186,00</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">186,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">FC-SN-410</td>\n      <td data-cell-id=\"r4c1\">SENSOR ABS DELANTERO</td>\n      <td data-cell-id=\"r4c2\">2</td>\n      <td data-cell-id=\"r4c3\">33,75</td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\">67,50</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r5c0\">Suma líneas</td>\n    <td data-cell-id=\"r5c1\">398,10 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\"><strong>BASE IMPONIBLE</strong></td>\n    <td data-cell-id=\"r6c1\"><strong>448,10 €</strong></td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r7c0\">IVA 21%</td>\n    <td data-cell-id=\"r7c1\">94,10 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r8c0\"><strong>TOTAL FACTURA</strong></td>\n    <td data-cell-id=\"r8c1\"><strong>542,20 €</strong></td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b7\"></a>\n\nForma de pago: transferencia a 60 días.\nFRENOS DE PRUEBA DEL CENTRO, S.L. · CIF B00000041 · Inscrita en un registro mercantil ficticio.\n<mark>DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS</mark>",
+      "text": "<a id=\"p1_b2\"></a>\n\n# FRENOS DE PRUEBA DEL CENTRO, S.L.\n\n<a id=\"p1_b0\"></a>\n\n# FACTURA\n\n<a id=\"p1_b3\"></a>\n\n# **FRENOS DE PRUEBA DEL CENTRO, S.L.**\nC/ de la Prueba, 21 · 45000 Toledo\nCIF: B00000041\n\n<a id=\"p1_b4\"></a>\n\n# **FACTURA**\nNº FC-0000391\nFecha: 12/02/2026\nPágina 1 de 1\n\n<a id=\"p1_b5\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">\n      CLIENTE<br>\n      <strong>IBERCLEAN PARTS, S.L.</strong><br>\n      Av. de la Industria, 100<br>\n      28080 Getafe (Madrid)<br>\n      CIF: B99887766\n    </td>\n  </tr>\n</table>\n\n<a id=\"p1_b6\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">FC-PZ-118</td>\n      <td data-cell-id=\"r2c1\">ZAPATA FRENO TRASERA</td>\n      <td data-cell-id=\"r2c2\">6</td>\n      <td data-cell-id=\"r2c3\">24,10</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">144,60</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">FC-KT-022</td>\n      <td data-cell-id=\"r3c1\">KIT EMBRAGUE 3 PIEZAS</td>\n      <td data-cell-id=\"r3c2\">1</td>\n      <td data-cell-id=\"r3c3\">186,00</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">186,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">FC-SN-410</td>\n      <td data-cell-id=\"r4c1\">SENSOR ABS DELANTERO</td>\n      <td data-cell-id=\"r4c2\">2</td>\n      <td data-cell-id=\"r4c3\">33,75</td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\">67,50</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r5c0\">Suma líneas</td>\n    <td data-cell-id=\"r5c1\">398,10 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\"><strong>BASE IMPONIBLE</strong></td>\n    <td data-cell-id=\"r6c1\"><strong>448,10 €</strong></td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r7c0\">IVA 21%</td>\n    <td data-cell-id=\"r7c1\">94,10 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r8c0\"><strong>TOTAL FACTURA</strong></td>\n    <td data-cell-id=\"r8c1\"><strong>542,20 €</strong></td>\n  </tr>\n</table>\n\n<a id=\"p1_b7\"></a>\n\nForma de pago: transferencia a 60 días.\nFRENOS DE PRUEBA DEL CENTRO, S.L. · CIF B00000041 · Inscrita en un registro mercantil ficticio.\n<mark>DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS</mark>",
+      "layout_confidence": 0.788,
+      "parse_confidence": 98.6,
+      "blocks": [
+        {
+          "id": "p1_b2",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09245283018867924,
+            "y0": 0.06733333333333333,
+            "x1": 0.5881749145064994,
+            "y1": 0.0881633783008564
+          },
+          "layout_confidence": 0.8231151103973389,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09326537200300408,
+                "y0": 0.06738272116906932,
+                "x1": 0.5881749145064994,
+                "y1": 0.0881633783008564
+              },
+              "type": "title",
+              "text": "FRENOS DE PRUEBA DEL CENTRO, S.L."
+            }
+          ],
+          "content": "# FRENOS DE PRUEBA DEL CENTRO, S.L.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b0",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7396226415094339,
+            "y0": 0.06333333333333334,
+            "x1": 0.9075471698113208,
+            "y1": 0.0876725593557109
+          },
+          "layout_confidence": 0.5533981323242188,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7414659271793758,
+                "y0": 0.06374131129714555,
+                "x1": 0.9048743841870087,
+                "y1": 0.0876725593557109
+              },
+              "type": "title",
+              "text": "FACTURA"
+            }
+          ],
+          "content": "# FACTURA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b3",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09150943396226414,
+            "y0": 0.094,
+            "x1": 0.3325724849677864,
+            "y1": 0.12366658145925744
+          },
+          "layout_confidence": 0.8942234516143799,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09361873197728518,
+                "y0": 0.09403620504221889,
+                "x1": 0.3325724849677864,
+                "y1": 0.12366658145925744
+              },
+              "type": "text",
+              "text": "C/ de la Prueba, 21 · 45000 Toledo CIF: B00000041"
+            }
+          ],
+          "content": "# **FRENOS DE PRUEBA DEL CENTRO, S.L.**\nC/ de la Prueba, 21 · 45000 Toledo\nCIF: B00000041",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b4",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7622641509433963,
+            "y0": 0.09585209227158709,
+            "x1": 0.9075471698113208,
+            "y1": 0.14476158660719057
+          },
+          "layout_confidence": 0.8531229496002197,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7625454922252872,
+                "y0": 0.09585209227158709,
+                "x1": 0.9066748105917473,
+                "y1": 0.14476158660719057
+              },
+              "type": "text",
+              "text": "Nº FC-0000391 Fecha: 12/02/2026 Página 1 de 1"
+            }
+          ],
+          "content": "# **FACTURA**\nNº FC-0000391\nFecha: 12/02/2026\nPágina 1 de 1",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5209032494615327,
+            "y0": 0.1538792708430753,
+            "x1": 0.9061794442450121,
+            "y1": 0.23647918635935497
+          },
+          "layout_confidence": 0.7202295064926147,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5209032494615327,
+                "y0": 0.1538792708430753,
+                "x1": 0.9061794442450121,
+                "y1": 0.23647918635935497
+              },
+              "type": "table",
+              "text": "CLIENTE IBERCLEAN PARTS, S.L. Av. de la Industria, 100 28080 Getafe (Madrid) CIF: B99887766"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">\n      CLIENTE<br>\n      <strong>IBERCLEAN PARTS, S.L.</strong><br>\n      Av. de la Industria, 100<br>\n      28080 Getafe (Madrid)<br>\n      CIF: B99887766\n    </td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "CLIENTE<br>\n      <strong>IBERCLEAN PARTS, S.L.</strong><br>\n      Av. de la Industria, 100<br>\n      28080 Getafe (Madrid)<br>\n      CIF: B99887766"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b6",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.08470062477268649,
+            "y0": 0.2578259386940867,
+            "x1": 0.9142731340216899,
+            "y1": 0.4735221716011116
+          },
+          "layout_confidence": 0.7869924902915955,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.08470062477268649,
+                "y0": 0.2578259386940867,
+                "x1": 0.9142731340216899,
+                "y1": 0.4735221716011116
+              },
+              "type": "table",
+              "text": "Referencia Descripción Cant. Precio Dto % Importe Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511 FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60 FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00 FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50 Suma líneas 398,10 € BASE IMPONIBLE 448,10 € IVA 21% 94,10 € TOTAL FACTURA 542,20 €"
+            }
+          ],
+          "content": "<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">FC-PZ-118</td>\n      <td data-cell-id=\"r2c1\">ZAPATA FRENO TRASERA</td>\n      <td data-cell-id=\"r2c2\">6</td>\n      <td data-cell-id=\"r2c3\">24,10</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">144,60</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">FC-KT-022</td>\n      <td data-cell-id=\"r3c1\">KIT EMBRAGUE 3 PIEZAS</td>\n      <td data-cell-id=\"r3c2\">1</td>\n      <td data-cell-id=\"r3c3\">186,00</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">186,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r4c0\">FC-SN-410</td>\n      <td data-cell-id=\"r4c1\">SENSOR ABS DELANTERO</td>\n      <td data-cell-id=\"r4c2\">2</td>\n      <td data-cell-id=\"r4c3\">33,75</td>\n      <td data-cell-id=\"r4c4\"></td>\n      <td data-cell-id=\"r4c5\">67,50</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r5c0\">Suma líneas</td>\n    <td data-cell-id=\"r5c1\">398,10 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r6c0\"><strong>BASE IMPONIBLE</strong></td>\n    <td data-cell-id=\"r6c1\"><strong>448,10 €</strong></td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r7c0\">IVA 21%</td>\n    <td data-cell-id=\"r7c1\">94,10 €</td>\n  </tr>\n  <tr>\n    <td data-cell-id=\"r8c0\"><strong>TOTAL FACTURA</strong></td>\n    <td data-cell-id=\"r8c1\"><strong>542,20 €</strong></td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Referencia"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "Descripción"
+              },
+              {
+                "cell_id": "r0c2",
+                "text": "Cant."
+              },
+              {
+                "cell_id": "r0c3",
+                "text": "Precio"
+              },
+              {
+                "cell_id": "r0c4",
+                "text": "Dto %"
+              },
+              {
+                "cell_id": "r0c5",
+                "text": "Importe"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "<i>Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511</i>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "FC-PZ-118"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "ZAPATA FRENO TRASERA"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "6"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "24,10"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c5",
+                "text": "144,60"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "FC-KT-022"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "KIT EMBRAGUE 3 PIEZAS"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "1"
+              },
+              {
+                "cell_id": "r3c3",
+                "text": "186,00"
+              },
+              {
+                "cell_id": "r3c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c5",
+                "text": "186,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "FC-SN-410"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": "SENSOR ABS DELANTERO"
+              },
+              {
+                "cell_id": "r4c2",
+                "text": "2"
+              },
+              {
+                "cell_id": "r4c3",
+                "text": "33,75"
+              },
+              {
+                "cell_id": "r4c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r4c5",
+                "text": "67,50"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "Suma líneas"
+              },
+              {
+                "cell_id": "r5c1",
+                "text": "398,10 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "<strong>BASE IMPONIBLE</strong>"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": "<strong>448,10 €</strong>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r7c0",
+                "text": "IVA 21%"
+              },
+              {
+                "cell_id": "r7c1",
+                "text": "94,10 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r8c0",
+                "text": "<strong>TOTAL FACTURA</strong>"
+              },
+              {
+                "cell_id": "r8c1",
+                "text": "<strong>542,20 €</strong>"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b7",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09245283018867924,
+            "y0": 0.916,
+            "x1": 0.7060073797186744,
+            "y1": 0.9623337672683305
+          },
+          "layout_confidence": 0.8097937107086182,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09247652766494105,
+                "y0": 0.9164626768584331,
+                "x1": 0.7060073797186744,
+                "y1": 0.9623337672683305
+              },
+              "type": "text",
+              "text": "Forma de pago: transferencia a 60 días. FRENOS DE PRUEBA DEL CENTRO, S.L. · CIF B00000041 · Inscrita en un registro mercantil ficticio. DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS"
+            }
+          ],
+          "content": "Forma de pago: transferencia a 60 días.\nFRENOS DE PRUEBA DEL CENTRO, S.L. · CIF B00000041 · Inscrita en un registro mercantil ficticio.\n<mark>DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS</mark>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "total": {
+            "value": "542.2",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "TOTAL FACTURA 542,20 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "ibruto": {
+            "value": "448.1",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "BASE IMPONIBLE 448,10 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "portes": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tnfu": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tsigaus": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tgases": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "idto": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "lineas": [
+            {
+              "albaran": {
+                "value": "FC-ALB-901",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-02-11",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "PED-161511",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "FC-PZ-118",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "ZAPATA FRENO TRASERA",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "6.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "24.1",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "144.6",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "FC-ALB-901",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-02-11",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "PED-161511",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "FC-KT-022",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "KIT EMBRAGUE 3 PIEZAS",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "1.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "186.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "186.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "FC-ALB-901",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-02-11",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "PED-161511",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "FC-SN-410",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "SENSOR ABS DELANTERO",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "2.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "33.75",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "67.5",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "validations": [
+          {
+            "rule_id": "QxcORiyrds",
+            "description": "",
+            "severity": "error",
+            "status": "fail",
+            "detail": "(has(data.ibruto) && type(data.ibruto) != null_type) ? [0.0, -(has(data.idto) && type(data.idto) != null_type ? num(data.idto) : 0.0)].exists(a, [0.0, (has(data.portes) && type(data.portes) != null_type ? num(data.portes) : 0.0)].exists(b, [0.0, ((has(data.tsigaus) && type(data.tsigaus) != null_type ? num(data.tsigaus) : 0.0) + (has(data.tnfu) && type(data.tnfu) != null_type ? num(data.tnfu) : 0.0) + (has(data.tgases) && type(data.tgases) != null_type ? num(data.tgases) : 0.0))].exists(c, abs(sum((has(data.lineas) && type(data.lineas) != null_type ? data.lineas : []).map(l, has(l.importe) && type(l.importe) != null_type ? num(l.importe) : 0.0)) + a + b + c - num(data.ibruto)) <= (0.005 * abs(num(data.ibruto)) < 10.0 ? 0.005 * abs(num(data.ibruto)) : 10.0)))) : true is false.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "total": {
+        "value": "542.2",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "TOTAL FACTURA 542,20 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "ibruto": {
+        "value": "448.1",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "BASE IMPONIBLE 448,10 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "portes": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "tnfu": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "tsigaus": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "tgases": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "idto": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "lineas": [
+        {
+          "albaran": {
+            "value": "FC-ALB-901",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-02-11",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "PED-161511",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "FC-PZ-118",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "ZAPATA FRENO TRASERA",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "6.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "24.1",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "144.6",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-PZ-118 ZAPATA FRENO TRASERA 6 24,10 144,60",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "FC-ALB-901",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-02-11",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "PED-161511",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "FC-KT-022",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "KIT EMBRAGUE 3 PIEZAS",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "1.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "186.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "186.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-KT-022 KIT EMBRAGUE 3 PIEZAS 1 186,00 186,00",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "FC-ALB-901",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-02-11",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "PED-161511",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán FC-ALB-901 de 11/02/2026 · Su pedido PED-161511",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "FC-SN-410",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "SENSOR ABS DELANTERO",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "2.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "33.75",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "67.5",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FC-SN-410 SENSOR ABS DELANTERO 2 33,75 67,50",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

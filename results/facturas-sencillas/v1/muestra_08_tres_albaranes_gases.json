@@ -1,0 +1,871 @@
+{
+  "id": "06acf596-fa53-7d2d-8000-aa117bbad757",
+  "workflow_id": "06acf584-e287-77d1-8000-bd46d425a3b0",
+  "document_packet_id": "06acf596-f7d9-76c3-8000-7cc3404466ce",
+  "status": "processed",
+  "created_at": "2026-10-14T10:29:03.663619Z",
+  "updated_at": "2026-10-14T10:29:28.973607Z",
+  "results": {
+    "document_packet_id": "06acf596-f7d9-76c3-8000-7cc3404466ce",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf584-e287-77d1-8000-bd46d425a3b0/files/06acf596-f406-786c-8000-1da4adcd3491?versionId=2uBSYZY8Xw",
+    "parse": {
+      "markdown": "<a id=\"p1_b2\"></a>\n\n# CLIMATIZACION FICTICIA DEL OESTE, S.L.\n\n\n<a id=\"p1_b0\"></a>\n\n# FACTURA\n\n\n<a id=\"p1_b4\"></a>\n\nC/ del Ejemplo, 88 · 06000 Badajoz\nCIF: B00000066\n\n\n<a id=\"p1_b5\"></a>\n\nNº CO-26/0158\nFecha: 20/02/2026\nPágina 1 de 1\n\n\n<a id=\"p1_b6\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">\n      CLIENTE<br>\n      <strong>IBERCLEAN PARTS, S.L.</strong><br>\n      Av. de la Industria, 100<br>\n      28080 Getafe (Madrid)<br>\n      CIF: B99887766\n    </td>\n  </tr>\n</table>\n\n\n<a id=\"p1_b7\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán CO-901 de 16/02/2026 · Su pedido PED-161900</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">CO-R1234-5</td>\n      <td data-cell-id=\"r2c1\">GAS REFRIGERANTE R1234YF 5KG</td>\n      <td data-cell-id=\"r2c2\">1</td>\n      <td data-cell-id=\"r2c3\">289,00</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">289,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">CO-ACE-PAG</td>\n      <td data-cell-id=\"r3c1\">ACEITE COMPRESOR PAG 46 250ML</td>\n      <td data-cell-id=\"r3c2\">4</td>\n      <td data-cell-id=\"r3c3\">11,80</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">47,20</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r4c0\"><i>Albarán CO-907 de 18/02/2026 · Su pedido PED-161900</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">CO-FIL-DES</td>\n      <td data-cell-id=\"r5c1\">FILTRO DESHIDRATADOR A/C</td>\n      <td data-cell-id=\"r5c2\">3</td>\n      <td data-cell-id=\"r5c3\">21,40</td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\">64,20</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">CO-VAL-EXP</td>\n      <td data-cell-id=\"r6c1\">VALVULA EXPANSION A/C</td>\n      <td data-cell-id=\"r6c2\">1</td>\n      <td data-cell-id=\"r6c3\">47,60</td>\n      <td data-cell-id=\"r6c4\">10,00</td>\n      <td data-cell-id=\"r6c5\">42,84</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r7c0\"><i>Albarán CO-913 de 19/02/2026 · Su pedido PED-161955</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">CO-CND-01</td>\n      <td data-cell-id=\"r8c1\">CONDENSADOR A/C</td>\n      <td data-cell-id=\"r8c2\">1</td>\n      <td data-cell-id=\"r8c3\">132,00</td>\n      <td data-cell-id=\"r8c4\"></td>\n      <td data-cell-id=\"r8c5\">132,00</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r9c0\">Suma líneas</td>\n      <td data-cell-id=\"r9c1\">575,24 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">Portes</td>\n      <td data-cell-id=\"r10c1\">9,50 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\">Tasa gases fluorados</td>\n      <td data-cell-id=\"r11c1\">60,69 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\"><strong>BASE IMPONIBLE</strong></td>\n      <td data-cell-id=\"r12c1\"><strong>645,43 €</strong></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r13c0\">IVA 21%</td>\n      <td data-cell-id=\"r13c1\">135,54 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r14c0\"><strong>TOTAL FACTURA</strong></td>\n      <td data-cell-id=\"r14c1\"><strong>780,97 €</strong></td>\n    </tr>\n  </tbody>\n</table>\n\n\n<a id=\"p1_b8\"></a>\n\nForma de pago: transferencia a 60 días.\nCLIMATIZACION FICTICIA DEL OESTE, S.L. · CIF B00000066 · Inscrita en un registro mercantil ficticio.\n<span style=\"color: #C0504D\">DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS</span>",
+      "text": "<a id=\"p1_b2\"></a>\n\n# CLIMATIZACION FICTICIA DEL OESTE, S.L.\n\n<a id=\"p1_b0\"></a>\n\n# FACTURA\n\n<a id=\"p1_b4\"></a>\n\nC/ del Ejemplo, 88 · 06000 Badajoz\nCIF: B00000066\n\n<a id=\"p1_b5\"></a>\n\nNº CO-26/0158\nFecha: 20/02/2026\nPágina 1 de 1\n\n<a id=\"p1_b6\"></a>\n\n<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">\n      CLIENTE<br>\n      <strong>IBERCLEAN PARTS, S.L.</strong><br>\n      Av. de la Industria, 100<br>\n      28080 Getafe (Madrid)<br>\n      CIF: B99887766\n    </td>\n  </tr>\n</table>\n\n<a id=\"p1_b7\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán CO-901 de 16/02/2026 · Su pedido PED-161900</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">CO-R1234-5</td>\n      <td data-cell-id=\"r2c1\">GAS REFRIGERANTE R1234YF 5KG</td>\n      <td data-cell-id=\"r2c2\">1</td>\n      <td data-cell-id=\"r2c3\">289,00</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">289,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">CO-ACE-PAG</td>\n      <td data-cell-id=\"r3c1\">ACEITE COMPRESOR PAG 46 250ML</td>\n      <td data-cell-id=\"r3c2\">4</td>\n      <td data-cell-id=\"r3c3\">11,80</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">47,20</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r4c0\"><i>Albarán CO-907 de 18/02/2026 · Su pedido PED-161900</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">CO-FIL-DES</td>\n      <td data-cell-id=\"r5c1\">FILTRO DESHIDRATADOR A/C</td>\n      <td data-cell-id=\"r5c2\">3</td>\n      <td data-cell-id=\"r5c3\">21,40</td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\">64,20</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">CO-VAL-EXP</td>\n      <td data-cell-id=\"r6c1\">VALVULA EXPANSION A/C</td>\n      <td data-cell-id=\"r6c2\">1</td>\n      <td data-cell-id=\"r6c3\">47,60</td>\n      <td data-cell-id=\"r6c4\">10,00</td>\n      <td data-cell-id=\"r6c5\">42,84</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r7c0\"><i>Albarán CO-913 de 19/02/2026 · Su pedido PED-161955</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">CO-CND-01</td>\n      <td data-cell-id=\"r8c1\">CONDENSADOR A/C</td>\n      <td data-cell-id=\"r8c2\">1</td>\n      <td data-cell-id=\"r8c3\">132,00</td>\n      <td data-cell-id=\"r8c4\"></td>\n      <td data-cell-id=\"r8c5\">132,00</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r9c0\">Suma líneas</td>\n      <td data-cell-id=\"r9c1\">575,24 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">Portes</td>\n      <td data-cell-id=\"r10c1\">9,50 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\">Tasa gases fluorados</td>\n      <td data-cell-id=\"r11c1\">60,69 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\"><strong>BASE IMPONIBLE</strong></td>\n      <td data-cell-id=\"r12c1\"><strong>645,43 €</strong></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r13c0\">IVA 21%</td>\n      <td data-cell-id=\"r13c1\">135,54 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r14c0\"><strong>TOTAL FACTURA</strong></td>\n      <td data-cell-id=\"r14c1\"><strong>780,97 €</strong></td>\n    </tr>\n  </tbody>\n</table>\n\n<a id=\"p1_b8\"></a>\n\nForma de pago: transferencia a 60 días.\nCLIMATIZACION FICTICIA DEL OESTE, S.L. · CIF B00000066 · Inscrita en un registro mercantil ficticio.\n<span style=\"color: #C0504D\">DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS</span>",
+      "layout_confidence": 0.769,
+      "parse_confidence": 98.3,
+      "blocks": [
+        {
+          "id": "p1_b2",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09337522790394498,
+            "y0": 0.06511083608667895,
+            "x1": 0.6184837036870844,
+            "y1": 0.08964493441196526
+          },
+          "layout_confidence": 0.8092557787895203,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09337522790394498,
+                "y0": 0.06712901689089888,
+                "x1": 0.6184837036870844,
+                "y1": 0.08816436989381814
+              },
+              "type": "title",
+              "text": "CLIMATIZACION FICTICIA DEL OESTE, S.L."
+            }
+          ],
+          "content": "# CLIMATIZACION FICTICIA DEL OESTE, S.L.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b0",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7414396532789828,
+            "y0": 0.05875608673404806,
+            "x1": 0.9049378548452615,
+            "y1": 0.09146820877220481
+          },
+          "layout_confidence": 0.5721793174743652,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7414396532789828,
+                "y0": 0.06367698822739085,
+                "x1": 0.9049378548452615,
+                "y1": 0.08771403664551825
+              },
+              "type": "title",
+              "text": "FACTURA"
+            }
+          ],
+          "content": "# FACTURA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b4",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09327213421121618,
+            "y0": 0.09288517827426526,
+            "x1": 0.3343426152036729,
+            "y1": 0.12440849951158232
+          },
+          "layout_confidence": 0.3374302089214325,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09364278255956204,
+                "y0": 0.09401132388724481,
+                "x1": 0.3340751159003741,
+                "y1": 0.12359123344144132
+              },
+              "type": "text",
+              "text": "C/ del Ejemplo, 88 · 06000 Badajoz CIF: B00000066"
+            }
+          ],
+          "content": "C/ del Ejemplo, 88 · 06000 Badajoz\nCIF: B00000066",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7625191445218032,
+            "y0": 0.09497523547647947,
+            "x1": 0.9070611697730879,
+            "y1": 0.14476386988045772
+          },
+          "layout_confidence": 0.8372050523757935,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7625191445218032,
+                "y0": 0.09581460744817831,
+                "x1": 0.9070611697730879,
+                "y1": 0.14476386988045772
+              },
+              "type": "text",
+              "text": "Nº CO-26/0158 Fecha: 20/02/2026 Página 1 de 1"
+            }
+          ],
+          "content": "Nº CO-26/0158\nFecha: 20/02/2026\nPágina 1 de 1",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b6",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5208371218920043,
+            "y0": 0.1538503580798752,
+            "x1": 0.9062372320652584,
+            "y1": 0.23636377015751925
+          },
+          "layout_confidence": 0.6357895135879517,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5208371218920043,
+                "y0": 0.1538503580798752,
+                "x1": 0.9062372320652584,
+                "y1": 0.23636377015751925
+              },
+              "type": "table",
+              "text": "CLIENTE IBERCLEAN PARTS, S.L. Av. de la Industria, 100 28080 Getafe (Madrid) CIF: B99887766"
+            }
+          ],
+          "content": "<table>\n  <tr>\n    <td data-cell-id=\"r0c0\">\n      CLIENTE<br>\n      <strong>IBERCLEAN PARTS, S.L.</strong><br>\n      Av. de la Industria, 100<br>\n      28080 Getafe (Madrid)<br>\n      CIF: B99887766\n    </td>\n  </tr>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "CLIENTE<br>\n      <strong>IBERCLEAN PARTS, S.L.</strong><br>\n      Av. de la Industria, 100<br>\n      28080 Getafe (Madrid)<br>\n      CIF: B99887766"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b7",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.08583036558803941,
+            "y0": 0.25828896041811406,
+            "x1": 0.913827141942828,
+            "y1": 0.6068887111212057
+          },
+          "layout_confidence": 0.7855212092399597,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.08583036558803941,
+                "y0": 0.25828896041811406,
+                "x1": 0.913827141942828,
+                "y1": 0.6068887111212057
+              },
+              "type": "table",
+              "text": "Referencia Descripción Cant. Precio Dto % Importe Albarán CO-901 de 16/02/2026 · Su pedido PED-161900 CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00 CO-ACE-PAG ACEITE COMPRESOR PAG 46 250ML 4 11,80 47,20 Albarán CO-907 de 18/02/2026 · Su pedido PED-161900 CO-FIL-DES FILTRO DESHIDRATADOR A/C 3 21,40 64,20 CO-VAL-EXP VALVULA EXPANSION A/C 1 47,60 10,00 42,84 Albarán CO-913 de 19/02/2026 · Su pedido PED-161955 CO-CND-01 CONDENSADOR A/C 1 132,00 132,00 Suma líneas 575,24 € Portes 9,50 € Tasa gases fluorados 60,69 € BASE IMPONIBLE 645,43 € IVA 21% 135,54 € TOTAL FACTURA 780,97 €"
+            }
+          ],
+          "content": "<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán CO-901 de 16/02/2026 · Su pedido PED-161900</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">CO-R1234-5</td>\n      <td data-cell-id=\"r2c1\">GAS REFRIGERANTE R1234YF 5KG</td>\n      <td data-cell-id=\"r2c2\">1</td>\n      <td data-cell-id=\"r2c3\">289,00</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">289,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">CO-ACE-PAG</td>\n      <td data-cell-id=\"r3c1\">ACEITE COMPRESOR PAG 46 250ML</td>\n      <td data-cell-id=\"r3c2\">4</td>\n      <td data-cell-id=\"r3c3\">11,80</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">47,20</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r4c0\"><i>Albarán CO-907 de 18/02/2026 · Su pedido PED-161900</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">CO-FIL-DES</td>\n      <td data-cell-id=\"r5c1\">FILTRO DESHIDRATADOR A/C</td>\n      <td data-cell-id=\"r5c2\">3</td>\n      <td data-cell-id=\"r5c3\">21,40</td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\">64,20</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">CO-VAL-EXP</td>\n      <td data-cell-id=\"r6c1\">VALVULA EXPANSION A/C</td>\n      <td data-cell-id=\"r6c2\">1</td>\n      <td data-cell-id=\"r6c3\">47,60</td>\n      <td data-cell-id=\"r6c4\">10,00</td>\n      <td data-cell-id=\"r6c5\">42,84</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r7c0\"><i>Albarán CO-913 de 19/02/2026 · Su pedido PED-161955</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">CO-CND-01</td>\n      <td data-cell-id=\"r8c1\">CONDENSADOR A/C</td>\n      <td data-cell-id=\"r8c2\">1</td>\n      <td data-cell-id=\"r8c3\">132,00</td>\n      <td data-cell-id=\"r8c4\"></td>\n      <td data-cell-id=\"r8c5\">132,00</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r9c0\">Suma líneas</td>\n      <td data-cell-id=\"r9c1\">575,24 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">Portes</td>\n      <td data-cell-id=\"r10c1\">9,50 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\">Tasa gases fluorados</td>\n      <td data-cell-id=\"r11c1\">60,69 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r12c0\"><strong>BASE IMPONIBLE</strong></td>\n      <td data-cell-id=\"r12c1\"><strong>645,43 €</strong></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r13c0\">IVA 21%</td>\n      <td data-cell-id=\"r13c1\">135,54 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r14c0\"><strong>TOTAL FACTURA</strong></td>\n      <td data-cell-id=\"r14c1\"><strong>780,97 €</strong></td>\n    </tr>\n  </tbody>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Referencia"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "Descripción"
+              },
+              {
+                "cell_id": "r0c2",
+                "text": "Cant."
+              },
+              {
+                "cell_id": "r0c3",
+                "text": "Precio"
+              },
+              {
+                "cell_id": "r0c4",
+                "text": "Dto %"
+              },
+              {
+                "cell_id": "r0c5",
+                "text": "Importe"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "<i>Albarán CO-901 de 16/02/2026 · Su pedido PED-161900</i>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "CO-R1234-5"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "GAS REFRIGERANTE R1234YF 5KG"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "1"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "289,00"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c5",
+                "text": "289,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "CO-ACE-PAG"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "ACEITE COMPRESOR PAG 46 250ML"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "4"
+              },
+              {
+                "cell_id": "r3c3",
+                "text": "11,80"
+              },
+              {
+                "cell_id": "r3c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c5",
+                "text": "47,20"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "<i>Albarán CO-907 de 18/02/2026 · Su pedido PED-161900</i>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "CO-FIL-DES"
+              },
+              {
+                "cell_id": "r5c1",
+                "text": "FILTRO DESHIDRATADOR A/C"
+              },
+              {
+                "cell_id": "r5c2",
+                "text": "3"
+              },
+              {
+                "cell_id": "r5c3",
+                "text": "21,40"
+              },
+              {
+                "cell_id": "r5c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c5",
+                "text": "64,20"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "CO-VAL-EXP"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": "VALVULA EXPANSION A/C"
+              },
+              {
+                "cell_id": "r6c2",
+                "text": "1"
+              },
+              {
+                "cell_id": "r6c3",
+                "text": "47,60"
+              },
+              {
+                "cell_id": "r6c4",
+                "text": "10,00"
+              },
+              {
+                "cell_id": "r6c5",
+                "text": "42,84"
+              }
+            ],
+            [
+              {
+                "cell_id": "r7c0",
+                "text": "<i>Albarán CO-913 de 19/02/2026 · Su pedido PED-161955</i>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r8c0",
+                "text": "CO-CND-01"
+              },
+              {
+                "cell_id": "r8c1",
+                "text": "CONDENSADOR A/C"
+              },
+              {
+                "cell_id": "r8c2",
+                "text": "1"
+              },
+              {
+                "cell_id": "r8c3",
+                "text": "132,00"
+              },
+              {
+                "cell_id": "r8c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r8c5",
+                "text": "132,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r9c0",
+                "text": "Suma líneas"
+              },
+              {
+                "cell_id": "r9c1",
+                "text": "575,24 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r10c0",
+                "text": "Portes"
+              },
+              {
+                "cell_id": "r10c1",
+                "text": "9,50 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r11c0",
+                "text": "Tasa gases fluorados"
+              },
+              {
+                "cell_id": "r11c1",
+                "text": "60,69 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r12c0",
+                "text": "<strong>BASE IMPONIBLE</strong>"
+              },
+              {
+                "cell_id": "r12c1",
+                "text": "<strong>645,43 €</strong>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r13c0",
+                "text": "IVA 21%"
+              },
+              {
+                "cell_id": "r13c1",
+                "text": "135,54 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r14c0",
+                "text": "<strong>TOTAL FACTURA</strong>"
+              },
+              {
+                "cell_id": "r14c1",
+                "text": "<strong>780,97 €</strong>"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b8",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09219405555955733,
+            "y0": 0.915710867753718,
+            "x1": 0.7190753978281816,
+            "y1": 0.962437222342488
+          },
+          "layout_confidence": 0.7756413817405701,
+          "parse_confidence": 90.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09219405555955733,
+                "y0": 0.9163697802546494,
+                "x1": 0.7190753978281816,
+                "y1": 0.9623539122621847
+              },
+              "type": "text",
+              "text": "Forma de pago: transferencia a 60 días. CLIMATIZACION FICTICIA DEL OESTE, S.L. · CIF B00000066 · Inscrita en un registro mercantil ficticio. DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS"
+            }
+          ],
+          "content": "Forma de pago: transferencia a 60 días.\nCLIMATIZACION FICTICIA DEL OESTE, S.L. · CIF B00000066 · Inscrita en un registro mercantil ficticio.\n<span style=\"color: #C0504D\">DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS</span>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "total": {
+            "value": "780.97",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "TOTAL FACTURA 780,97 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "ibruto": {
+            "value": "645.43",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "BASE IMPONIBLE 645,43 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "portes": {
+            "value": "9.5",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Portes 9,50 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "tnfu": {
+            "value": "60.69",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Tasa gases fluorados 60,69 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "tsigaus": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tgases": {
+            "value": "60.69",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Tasa gases fluorados 60,69 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "idto": {
+            "value": "10.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "CO-VAL-EXP VALVULA EXPANSION A/C 1 47,60 10,00 42,84",
+                "page_number": 1
+              }
+            ]
+          },
+          "lineas": [
+            {
+              "albaran": {
+                "value": "CO-901",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán CO-901 de 16/02/2026 · Su pedido PED-161900",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-02-16",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán CO-901 de 16/02/2026 · Su pedido PED-161900",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "PED-161900",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán CO-901 de 16/02/2026 · Su pedido PED-161900",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "CO-R1234-5",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "GAS REFRIGERANTE R1234YF 5KG",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "1.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "289.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "289.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "validations": [
+          {
+            "rule_id": "QxcORiyrds",
+            "description": "",
+            "severity": "error",
+            "status": "fail",
+            "detail": "(has(data.ibruto) && type(data.ibruto) != null_type) ? [0.0, -(has(data.idto) && type(data.idto) != null_type ? num(data.idto) : 0.0)].exists(a, [0.0, (has(data.portes) && type(data.portes) != null_type ? num(data.portes) : 0.0)].exists(b, [0.0, ((has(data.tsigaus) && type(data.tsigaus) != null_type ? num(data.tsigaus) : 0.0) + (has(data.tnfu) && type(data.tnfu) != null_type ? num(data.tnfu) : 0.0) + (has(data.tgases) && type(data.tgases) != null_type ? num(data.tgases) : 0.0))].exists(c, abs(sum((has(data.lineas) && type(data.lineas) != null_type ? data.lineas : []).map(l, has(l.importe) && type(l.importe) != null_type ? num(l.importe) : 0.0)) + a + b + c - num(data.ibruto)) <= (0.005 * abs(num(data.ibruto)) < 10.0 ? 0.005 * abs(num(data.ibruto)) : 10.0)))) : true is false.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "total": {
+        "value": "780.97",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "TOTAL FACTURA 780,97 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "ibruto": {
+        "value": "645.43",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "BASE IMPONIBLE 645,43 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "portes": {
+        "value": "9.5",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Portes 9,50 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "tnfu": {
+        "value": "60.69",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Tasa gases fluorados 60,69 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "tsigaus": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "tgases": {
+        "value": "60.69",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Tasa gases fluorados 60,69 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "idto": {
+        "value": "10.0",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "CO-VAL-EXP VALVULA EXPANSION A/C 1 47,60 10,00 42,84",
+            "page_number": 1
+          }
+        ]
+      },
+      "lineas": [
+        {
+          "albaran": {
+            "value": "CO-901",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán CO-901 de 16/02/2026 · Su pedido PED-161900",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-02-16",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán CO-901 de 16/02/2026 · Su pedido PED-161900",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "PED-161900",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán CO-901 de 16/02/2026 · Su pedido PED-161900",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "CO-R1234-5",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "GAS REFRIGERANTE R1234YF 5KG",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "1.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "289.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "289.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "CO-R1234-5 GAS REFRIGERANTE R1234YF 5KG 1 289,00 289,00",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

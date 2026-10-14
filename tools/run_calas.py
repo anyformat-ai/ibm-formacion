@@ -21,17 +21,20 @@ API = "https://api.anyformat.ai/v3"
 KEY = os.environ.get("ANYFORMAT_API_KEY")
 
 
-def curl(*args):
-    proc = subprocess.run(["curl", "-s", "-H", f"Authorization: Bearer {KEY}", *args],
-                          capture_output=True, text=True)
-    if proc.returncode:
-        raise RuntimeError(f"curl salió con código {proc.returncode}")
-    return json.loads(proc.stdout)
+def curl(*args, intentos=4):
+    for intento in range(intentos):
+        proc = subprocess.run(["curl", "-s", "-H", f"Authorization: Bearer {KEY}", *args],
+                              capture_output=True, text=True)
+        if proc.returncode == 0:
+            return json.loads(proc.stdout)
+        time.sleep(3 * (intento + 1))  # errores de red puntuales (TLS, timeouts)
+    raise RuntimeError(f"curl salió con código {proc.returncode}")
 
 
 def run_one(workflow_id, pdf, out_dir):
     name = os.path.splitext(os.path.basename(pdf))[0]
-    sub = curl("-X", "POST", "-F", f'file=@"{pdf}"', f"{API}/workflows/{workflow_id}/upload/run/?on_conflict=rename")
+    sub = curl("-X", "POST", "-F", f'file=@"{pdf}"', "-F", "on_conflict=rename",
+               f"{API}/workflows/{workflow_id}/upload/run/?on_conflict=rename")
     run_id = sub.get("run_id")
     if not run_id:
         return name, f"error al subir: {sub}"

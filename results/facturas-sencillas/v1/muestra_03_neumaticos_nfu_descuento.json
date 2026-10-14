@@ -1,0 +1,1236 @@
+{
+  "id": "06acf596-f892-7243-8000-fbe128771ced",
+  "workflow_id": "06acf584-e287-77d1-8000-bd46d425a3b0",
+  "document_packet_id": "06acf596-f6f5-7091-8000-b0a86e2b8a27",
+  "status": "processed",
+  "created_at": "2026-10-14T10:29:03.569053Z",
+  "updated_at": "2026-10-14T10:29:44.822797Z",
+  "results": {
+    "document_packet_id": "06acf596-f6f5-7091-8000-b0a86e2b8a27",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf584-e287-77d1-8000-bd46d425a3b0/files/06acf596-f3a7-7248-8000-a50ab6eb4e46?versionId=2uBSYZY8Xw",
+    "parse": {
+      "markdown": "<a id=\"p1_b2\"></a>\n\n# NEUMATICOS EJEMPLO DEL SUR, S.L.\n\n\n<a id=\"p1_b0\"></a>\n\n# FACTURA\n\n\n<a id=\"p1_b3\"></a>\n\n# **NEUMATICOS EJEMPLO DEL SUR, S.L.**\nAv. de los Ejemplos, 7 · 41000 Sevilla\nCIF: B00000033\n\n\n<a id=\"p1_b4\"></a>\n\n# **FACTURA**\nNº NS/2026/1199\nFecha: 10/02/2026\nPágina 1 de 1\n\n\n<a id=\"p1_b5\"></a>\n\nCLIENTE\n**IBERCLEAN PARTS, S.L.**\nAv. de la Industria, 100\n28080 Getafe (Madrid)\nCIF: B99887766\n\n\n<a id=\"p1_b6\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">NS-20555R16</td>\n      <td data-cell-id=\"r2c1\">NEUMATICO 205/55 R16 91V</td>\n      <td data-cell-id=\"r2c2\">8</td>\n      <td data-cell-id=\"r2c3\">58,00</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">464,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">NS-22545R17</td>\n      <td data-cell-id=\"r3c1\">NEUMATICO 225/45 R17 94W</td>\n      <td data-cell-id=\"r3c2\">4</td>\n      <td data-cell-id=\"r3c3\">79,50</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">318,00</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r4c0\"><i>Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">NS-VALV-01</td>\n      <td data-cell-id=\"r5c1\">VALVULA CAUCHO TR414</td>\n      <td data-cell-id=\"r5c2\">12</td>\n      <td data-cell-id=\"r5c3\">0,95</td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\">11,40</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r6c0\">Suma líneas</td>\n      <td data-cell-id=\"r6c1\">793,40 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\">Ecotasa NFU</td>\n      <td data-cell-id=\"r7c1\">16,68 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">Descuento pronto pago</td>\n      <td data-cell-id=\"r8c1\">-15,00 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\"><strong>BASE IMPONIBLE</strong></td>\n      <td data-cell-id=\"r9c1\"><strong>795,08 €</strong></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">IVA 21%</td>\n      <td data-cell-id=\"r10c1\">166,97 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\"><strong>TOTAL FACTURA</strong></td>\n      <td data-cell-id=\"r11c1\"><strong>962,05 €</strong></td>\n    </tr>\n  </tbody>\n</table>\n\n\n<a id=\"p1_b7\"></a>\n\nForma de pago: transferencia a 60 días.\nNEUMATICOS EJEMPLO DEL SUR, S.L. · CIF B00000033 · Inscrita en un registro mercantil ficticio.\nDOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS",
+      "text": "<a id=\"p1_b2\"></a>\n\n# NEUMATICOS EJEMPLO DEL SUR, S.L.\n\n<a id=\"p1_b0\"></a>\n\n# FACTURA\n\n<a id=\"p1_b3\"></a>\n\n# **NEUMATICOS EJEMPLO DEL SUR, S.L.**\nAv. de los Ejemplos, 7 · 41000 Sevilla\nCIF: B00000033\n\n<a id=\"p1_b4\"></a>\n\n# **FACTURA**\nNº NS/2026/1199\nFecha: 10/02/2026\nPágina 1 de 1\n\n<a id=\"p1_b5\"></a>\n\nCLIENTE\n**IBERCLEAN PARTS, S.L.**\nAv. de la Industria, 100\n28080 Getafe (Madrid)\nCIF: B99887766\n\n<a id=\"p1_b6\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">NS-20555R16</td>\n      <td data-cell-id=\"r2c1\">NEUMATICO 205/55 R16 91V</td>\n      <td data-cell-id=\"r2c2\">8</td>\n      <td data-cell-id=\"r2c3\">58,00</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">464,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">NS-22545R17</td>\n      <td data-cell-id=\"r3c1\">NEUMATICO 225/45 R17 94W</td>\n      <td data-cell-id=\"r3c2\">4</td>\n      <td data-cell-id=\"r3c3\">79,50</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">318,00</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r4c0\"><i>Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">NS-VALV-01</td>\n      <td data-cell-id=\"r5c1\">VALVULA CAUCHO TR414</td>\n      <td data-cell-id=\"r5c2\">12</td>\n      <td data-cell-id=\"r5c3\">0,95</td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\">11,40</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r6c0\">Suma líneas</td>\n      <td data-cell-id=\"r6c1\">793,40 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\">Ecotasa NFU</td>\n      <td data-cell-id=\"r7c1\">16,68 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">Descuento pronto pago</td>\n      <td data-cell-id=\"r8c1\">-15,00 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\"><strong>BASE IMPONIBLE</strong></td>\n      <td data-cell-id=\"r9c1\"><strong>795,08 €</strong></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">IVA 21%</td>\n      <td data-cell-id=\"r10c1\">166,97 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\"><strong>TOTAL FACTURA</strong></td>\n      <td data-cell-id=\"r11c1\"><strong>962,05 €</strong></td>\n    </tr>\n  </tbody>\n</table>\n\n<a id=\"p1_b7\"></a>\n\nForma de pago: transferencia a 60 días.\nNEUMATICOS EJEMPLO DEL SUR, S.L. · CIF B00000033 · Inscrita en un registro mercantil ficticio.\nDOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS",
+      "layout_confidence": 0.811,
+      "parse_confidence": 98.6,
+      "blocks": [
+        {
+          "id": "p1_b2",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09310758099446417,
+            "y0": 0.06724581610397072,
+            "x1": 0.5714800279979406,
+            "y1": 0.08818422132396657
+          },
+          "layout_confidence": 0.8389136791229248,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09310758099446417,
+                "y0": 0.06724581610397072,
+                "x1": 0.5714800279979406,
+                "y1": 0.08818422132396657
+              },
+              "type": "title",
+              "text": "NEUMATICOS EJEMPLO DEL SUR, S.L."
+            }
+          ],
+          "content": "# NEUMATICOS EJEMPLO DEL SUR, S.L.",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b0",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7396226415094339,
+            "y0": 0.06333333333333334,
+            "x1": 0.9075471698113208,
+            "y1": 0.08768676131543261
+          },
+          "layout_confidence": 0.5640368461608887,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.74127197265625,
+                "y0": 0.06369118366347465,
+                "x1": 0.9050416957942866,
+                "y1": 0.08768676131543261
+              },
+              "type": "title",
+              "text": "FACTURA"
+            }
+          ],
+          "content": "# FACTURA",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b3",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09150943396226414,
+            "y0": 0.09266666666666666,
+            "x1": 0.3502163316203144,
+            "y1": 0.12368600885294197
+          },
+          "layout_confidence": 0.9315946102142334,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09365992332744483,
+                "y0": 0.09409440893961762,
+                "x1": 0.3502163316203144,
+                "y1": 0.12368600885294197
+              },
+              "type": "text",
+              "text": "Av. de los Ejemplos, 7 · 41000 Sevilla CIF: B00000033"
+            }
+          ],
+          "content": "# **NEUMATICOS EJEMPLO DEL SUR, S.L.**\nAv. de los Ejemplos, 7 · 41000 Sevilla\nCIF: B00000033",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b4",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7613207547169811,
+            "y0": 0.09533333333333334,
+            "x1": 0.9075471698113208,
+            "y1": 0.14474621691628367
+          },
+          "layout_confidence": 0.8368901014328003,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.762268730634069,
+                "y0": 0.09588891168392943,
+                "x1": 0.9070707641749168,
+                "y1": 0.14474621691628367
+              },
+              "type": "text",
+              "text": "Nº NS/2026/1199 Fecha: 10/02/2026 Página 1 de 1"
+            }
+          ],
+          "content": "# **FACTURA**\nNº NS/2026/1199\nFecha: 10/02/2026\nPágina 1 de 1",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5208898172989722,
+            "y0": 0.15382453752104264,
+            "x1": 0.9062719933211155,
+            "y1": 0.23650126235002938
+          },
+          "layout_confidence": 0.7263615727424622,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5208898172989722,
+                "y0": 0.15382453752104264,
+                "x1": 0.9062719933211155,
+                "y1": 0.23650126235002938
+              },
+              "type": "table",
+              "text": "CLIENTE IBERCLEAN PARTS, S.L. Av. de la Industria, 100 28080 Getafe (Madrid) CIF: B99887766"
+            }
+          ],
+          "content": "CLIENTE\n**IBERCLEAN PARTS, S.L.**\nAv. de la Industria, 100\n28080 Getafe (Madrid)\nCIF: B99887766",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b6",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.08534885577163788,
+            "y0": 0.25888853493079306,
+            "x1": 0.9143383759541264,
+            "y1": 0.541960352147018
+          },
+          "layout_confidence": 0.807571530342102,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.08534885577163788,
+                "y0": 0.25888853493079306,
+                "x1": 0.9143383759541264,
+                "y1": 0.541960352147018
+              },
+              "type": "table",
+              "text": "Referencia Descripción Cant. Precio Dto % Importe Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340 NS-20555R16 NEUMATICO 205/55 R16 91V 8 58,00 464,00 NS-22545R17 NEUMATICO 225/45 R17 94W 4 79,50 318,00 Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340 NS-VALV-01 VALVULA CAUCHO TR414 12 0,95 11,40 Suma líneas 793,40 € Ecotasa NFU 16,68 € Descuento pronto pago -15,00 € BASE IMPONIBLE 795,08 € IVA 21% 166,97 € TOTAL FACTURA 962,05 €"
+            }
+          ],
+          "content": "<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">NS-20555R16</td>\n      <td data-cell-id=\"r2c1\">NEUMATICO 205/55 R16 91V</td>\n      <td data-cell-id=\"r2c2\">8</td>\n      <td data-cell-id=\"r2c3\">58,00</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">464,00</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">NS-22545R17</td>\n      <td data-cell-id=\"r3c1\">NEUMATICO 225/45 R17 94W</td>\n      <td data-cell-id=\"r3c2\">4</td>\n      <td data-cell-id=\"r3c3\">79,50</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">318,00</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r4c0\"><i>Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\">NS-VALV-01</td>\n      <td data-cell-id=\"r5c1\">VALVULA CAUCHO TR414</td>\n      <td data-cell-id=\"r5c2\">12</td>\n      <td data-cell-id=\"r5c3\">0,95</td>\n      <td data-cell-id=\"r5c4\"></td>\n      <td data-cell-id=\"r5c5\">11,40</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r6c0\">Suma líneas</td>\n      <td data-cell-id=\"r6c1\">793,40 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\">Ecotasa NFU</td>\n      <td data-cell-id=\"r7c1\">16,68 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r8c0\">Descuento pronto pago</td>\n      <td data-cell-id=\"r8c1\">-15,00 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r9c0\"><strong>BASE IMPONIBLE</strong></td>\n      <td data-cell-id=\"r9c1\"><strong>795,08 €</strong></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r10c0\">IVA 21%</td>\n      <td data-cell-id=\"r10c1\">166,97 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r11c0\"><strong>TOTAL FACTURA</strong></td>\n      <td data-cell-id=\"r11c1\"><strong>962,05 €</strong></td>\n    </tr>\n  </tbody>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Referencia"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "Descripción"
+              },
+              {
+                "cell_id": "r0c2",
+                "text": "Cant."
+              },
+              {
+                "cell_id": "r0c3",
+                "text": "Precio"
+              },
+              {
+                "cell_id": "r0c4",
+                "text": "Dto %"
+              },
+              {
+                "cell_id": "r0c5",
+                "text": "Importe"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "<i>Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340</i>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "NS-20555R16"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "NEUMATICO 205/55 R16 91V"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "8"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "58,00"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c5",
+                "text": "464,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "NS-22545R17"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "NEUMATICO 225/45 R17 94W"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "4"
+              },
+              {
+                "cell_id": "r3c3",
+                "text": "79,50"
+              },
+              {
+                "cell_id": "r3c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c5",
+                "text": "318,00"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "<i>Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340</i>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "NS-VALV-01"
+              },
+              {
+                "cell_id": "r5c1",
+                "text": "VALVULA CAUCHO TR414"
+              },
+              {
+                "cell_id": "r5c2",
+                "text": "12"
+              },
+              {
+                "cell_id": "r5c3",
+                "text": "0,95"
+              },
+              {
+                "cell_id": "r5c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r5c5",
+                "text": "11,40"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "Suma líneas"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": "793,40 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r7c0",
+                "text": "Ecotasa NFU"
+              },
+              {
+                "cell_id": "r7c1",
+                "text": "16,68 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r8c0",
+                "text": "Descuento pronto pago"
+              },
+              {
+                "cell_id": "r8c1",
+                "text": "-15,00 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r9c0",
+                "text": "<strong>BASE IMPONIBLE</strong>"
+              },
+              {
+                "cell_id": "r9c1",
+                "text": "<strong>795,08 €</strong>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r10c0",
+                "text": "IVA 21%"
+              },
+              {
+                "cell_id": "r10c1",
+                "text": "166,97 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r11c0",
+                "text": "<strong>TOTAL FACTURA</strong>"
+              },
+              {
+                "cell_id": "r11c1",
+                "text": "<strong>962,05 €</strong>"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b7",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09242626775997581,
+            "y0": 0.916,
+            "x1": 0.6976341238333207,
+            "y1": 0.9623531816147392
+          },
+          "layout_confidence": 0.8303829431533813,
+          "parse_confidence": 97.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09242626775997581,
+                "y0": 0.9163826187740487,
+                "x1": 0.6976341238333207,
+                "y1": 0.9623531816147392
+              },
+              "type": "text",
+              "text": "Forma de pago: transferencia a 60 días. NEUMATICOS EJEMPLO DEL SUR, S.L. · CIF B00000033 · Inscrita en un registro mercantil ficticio. DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS"
+            }
+          ],
+          "content": "Forma de pago: transferencia a 60 días.\nNEUMATICOS EJEMPLO DEL SUR, S.L. · CIF B00000033 · Inscrita en un registro mercantil ficticio.\nDOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "total": {
+            "value": "962.05",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "TOTAL FACTURA 962,05 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "ibruto": {
+            "value": "795.08",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "BASE IMPONIBLE 795,08 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "portes": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tnfu": {
+            "value": "16.68",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Ecotasa NFU 16,68 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "tsigaus": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tgases": {
+            "value": "16.68",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Ecotasa NFU 16,68 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "idto": {
+            "value": "-15.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "Descuento pronto pago -15,00 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "lineas": [
+            {
+              "albaran": {
+                "value": "NS-A-3301",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-02-06",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "PED-161340",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "NS-20555R16",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "NEUMATICO 205/55 R16 91V",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "8.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "58.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "464.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "NS-A-3301",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-02-06",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "PED-161340",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "NS-22545R17",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "NEUMATICO 225/45 R17 94W",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "4.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "79.5",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "318.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "NS-A-3318",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-02-09",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "PED-161340",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "NS-VALV-01",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "VALVULA CAUCHO TR414",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "12.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "0.95",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "11.4",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "validations": [
+          {
+            "rule_id": "QxcORiyrds",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "(has(data.ibruto) && type(data.ibruto) != null_type) ? [0.0, -(has(data.idto) && type(data.idto) != null_type ? num(data.idto) : 0.0)].exists(a, [0.0, (has(data.portes) && type(data.portes) != null_type ? num(data.portes) : 0.0)].exists(b, [0.0, ((has(data.tsigaus) && type(data.tsigaus) != null_type ? num(data.tsigaus) : 0.0) + (has(data.tnfu) && type(data.tnfu) != null_type ? num(data.tnfu) : 0.0) + (has(data.tgases) && type(data.tgases) != null_type ? num(data.tgases) : 0.0))].exists(c, abs(sum((has(data.lineas) && type(data.lineas) != null_type ? data.lineas : []).map(l, has(l.importe) && type(l.importe) != null_type ? num(l.importe) : 0.0)) + a + b + c - num(data.ibruto)) <= (0.005 * abs(num(data.ibruto)) < 10.0 ? 0.005 * abs(num(data.ibruto)) : 10.0)))) : true is true.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "total": {
+        "value": "962.05",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "TOTAL FACTURA 962,05 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "ibruto": {
+        "value": "795.08",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "BASE IMPONIBLE 795,08 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "portes": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "tnfu": {
+        "value": "16.68",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Ecotasa NFU 16,68 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "tsigaus": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "tgases": {
+        "value": "16.68",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Ecotasa NFU 16,68 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "idto": {
+        "value": "-15.0",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "Descuento pronto pago -15,00 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "lineas": [
+        {
+          "albaran": {
+            "value": "NS-A-3301",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-02-06",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "PED-161340",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "NS-20555R16",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "NEUMATICO 205/55 R16 91V",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "8.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "58.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "464.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-20555R16 | NEUMATICO 205/55 R16 91V | 8 | 58,00 |  | 464,00",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "NS-A-3301",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-02-06",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "PED-161340",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán NS-A-3301 de 06/02/2026 · Su pedido PED-161340",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "NS-22545R17",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "NEUMATICO 225/45 R17 94W",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "4.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "79.5",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "318.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-22545R17 | NEUMATICO 225/45 R17 94W | 4 | 79,50 |  | 318,00",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "NS-A-3318",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-02-09",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "PED-161340",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán NS-A-3318 de 09/02/2026 · Su pedido PED-161340",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "NS-VALV-01",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "VALVULA CAUCHO TR414",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "12.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "0.95",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "11.4",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "NS-VALV-01 | VALVULA CAUCHO TR414 | 12 | 0,95 |  | 11,40",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

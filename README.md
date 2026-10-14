@@ -36,6 +36,7 @@ Están en la cuenta de la formación; los enlaces abren si tu usuario tiene acce
 | [Calas y canalizaciones](https://app.anyformat.ai/workflows/06a2bbef-6dfd-7c28-8000-52a06458ebc0) | El original de IBM (junio), sin tocar | 2 |
 | [Formación IBM · Calas y canalizaciones (punto de partida)](https://app.anyformat.ai/workflows/06acf4a9-7b63-71c3-8000-09e272982895) | Copia del original para practicar con Annie | 2 |
 | [Formación IBM · Calas y canalizaciones (v2)](https://app.anyformat.ai/workflows/06acf4a9-8548-7384-8000-f0b4ea0c800a) | La revisión: de 70 % a 97 % ([`docs/calas-v2.md`](docs/calas-v2.md)) | 2 |
+| [Formación IBM · Facturas sencillas (para el optimizer)](https://app.anyformat.ai/workflows/06acf584-e287-77d1-8000-bd46d425a3b0) | Health y optimizer: 8 facturas ficticias en el dataset, evaluación de partida 83,5 % | 2 |
 
 ## Antes de empezar (10 minutos, mejor antes de la sesión)
 
@@ -67,13 +68,14 @@ Si la app abre, lista tus workflows y procesa un PDF de `samples/`, estás listo
 |---|---|
 | `app/` | La app de partida: Next 15 + TypeScript + Shift (el sistema de diseño de anyformat) + `@anyformat/sdk` |
 | `samples/calas/` | PDFs de expedientes de calas y canalizaciones (memoria, planos, presupuesto, residuos…) |
-| `samples/facturas/` | Facturas reales de proveedores, anonimizadas (1–91 páginas) |
+| `samples/facturas/` | Facturas reales de proveedores, anonimizadas (1–91 páginas), y en `sencillas/` 8 ficticias para el dataset |
 | `ground_truth/calas/` | La respuesta correcta de cada PDF de calas, campo a campo |
 | `referencia/calas-luismi/` | El workflow de calas tal como está hoy en la cuenta de IBM, más una ejecución de ejemplo |
 | `docs/` | Una guía por bloque, el informe de partida de calas (`calas-baseline.md`) y su revisión (`calas-v2.md`: de 70 % a 97 %) |
 | `workflows/` | Los workflows en formato de la API: factura y albarán (para Studio), `demo_facturas` (producción, se importa desde la app), calas de partida y calas v2 |
 | `tools/run_calas.py` · `tools/score_calas.py` | Ejecutan los PDFs de calas en un workflow y los puntúan contra el ground truth |
 | `tools/build_calas_v2.py` | Genera `workflows/calas-v2.json` |
+| `tools/make_facturas.py` · `tools/dataset_facturas.py` | Generan las facturas ficticias y las suben, con su ground truth, al dataset de un workflow |
 
 `media/` no se sube al repo (está en `.gitignore`): ahí va el vídeo de la demo de Salta Madrid para
 proyectarlo en local.

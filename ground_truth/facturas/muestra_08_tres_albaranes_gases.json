@@ -1,0 +1,71 @@
+{
+  "file": "muestra_08_tres_albaranes_gases.pdf",
+  "proveedor": "CLIMATIZACION FICTICIA DEL OESTE, S.L.",
+  "fields": {
+    "total": 780.97,
+    "ibruto": 645.43,
+    "portes": 9.5,
+    "idto": 0.0,
+    "tnfu": 0.0,
+    "tsigaus": 0.0,
+    "tgases": 60.69,
+    "lineas": [
+      {
+        "albaran": "CO-901",
+        "fechaalb": "2026-02-16",
+        "npedido": "PED-161900",
+        "referencia": "CO-R1234-5",
+        "descripcion": "GAS REFRIGERANTE R1234YF 5KG",
+        "cantidad": 1.0,
+        "precio": 289.0,
+        "importe": 289.0,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "CO-901",
+        "fechaalb": "2026-02-16",
+        "npedido": "PED-161900",
+        "referencia": "CO-ACE-PAG",
+        "descripcion": "ACEITE COMPRESOR PAG 46 250ML",
+        "cantidad": 4.0,
+        "precio": 11.8,
+        "importe": 47.2,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "CO-907",
+        "fechaalb": "2026-02-18",
+        "npedido": "PED-161900",
+        "referencia": "CO-FIL-DES",
+        "descripcion": "FILTRO DESHIDRATADOR A/C",
+        "cantidad": 3.0,
+        "precio": 21.4,
+        "importe": 64.2,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "CO-907",
+        "fechaalb": "2026-02-18",
+        "npedido": "PED-161900",
+        "referencia": "CO-VAL-EXP",
+        "descripcion": "VALVULA EXPANSION A/C",
+        "cantidad": 1.0,
+        "precio": 47.6,
+        "importe": 42.84,
+        "dto1": 10.0
+      },
+      {
+        "albaran": "CO-913",
+        "fechaalb": "2026-02-19",
+        "npedido": "PED-161955",
+        "referencia": "CO-CND-01",
+        "descripcion": "CONDENSADOR A/C",
+        "cantidad": 1.0,
+        "precio": 132.0,
+        "importe": 132.0,
+        "dto1": 0.0
+      }
+    ]
+  },
+  "validacion_esperada": "pass"
+}

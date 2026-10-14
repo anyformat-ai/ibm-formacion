@@ -1,0 +1,49 @@
+{
+  "file": "muestra_02_aceite_sigaus_portes.pdf",
+  "proveedor": "LUBRICANTES DE MUESTRA DEL NORTE, S.A.",
+  "fields": {
+    "total": 629.85,
+    "ibruto": 520.54,
+    "portes": 12.5,
+    "idto": 0.0,
+    "tnfu": 0.0,
+    "tsigaus": 4.76,
+    "tgases": 0.0,
+    "lineas": [
+      {
+        "albaran": "ALB-55120",
+        "fechaalb": "2026-02-04",
+        "npedido": "PED-161002",
+        "referencia": "LN-5W30-5",
+        "descripcion": "ACEITE MOTOR 5W30 SINTETICO 5L",
+        "cantidad": 12.0,
+        "precio": 31.2,
+        "importe": 355.68,
+        "dto1": 5.0
+      },
+      {
+        "albaran": "ALB-55120",
+        "fechaalb": "2026-02-04",
+        "npedido": "PED-161002",
+        "referencia": "LN-ATF-1",
+        "descripcion": "ACEITE TRANSMISION ATF 1L",
+        "cantidad": 8.0,
+        "precio": 9.9,
+        "importe": 79.2,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "ALB-55120",
+        "fechaalb": "2026-02-04",
+        "npedido": "PED-161002",
+        "referencia": "LN-REF-5",
+        "descripcion": "ANTICONGELANTE 50% 5L",
+        "cantidad": 6.0,
+        "precio": 11.4,
+        "importe": 68.4,
+        "dto1": 0.0
+      }
+    ]
+  },
+  "validacion_esperada": "pass"
+}

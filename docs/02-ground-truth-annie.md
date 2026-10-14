@@ -40,7 +40,7 @@ Para documentos propios, el ground truth se prepara igual: un agente lo propone 
 revisa. En la app, cada documento revisado y verificado se puede añadir al **dataset** del workflow
 (**Health → Datasets**).
 
-## 2. Medir (10 min)
+## 2. Medir (6 min)
 
 Las ejecuciones de la primera versión sobre 11 de los 13 PDFs están en `results/calas/baseline/`. El informe completo está en
 [`calas-baseline.md`](calas-baseline.md):
@@ -72,7 +72,7 @@ Además, **68 de los 86 errores tienen confianza ≥ 90.** Tres patrones:
 el modelo tiende a rellenar algo. Y las descripciones no dicen cuándo devolver null. Es lo que le pasa a
 casi cualquier primera versión, y por eso se mide.
 
-## 3. Mejorar con Annie (12 min)
+## 3. Mejorar con Annie (8 min)
 
 Abre el workflow en la app y abre **Annie**. Pega estos prompts, de uno en uno. Después de cada uno,
 mira en **Studio** qué ha cambiado.
@@ -113,6 +113,50 @@ Para comparar con la versión de referencia: `python3 tools/score_calas.py resul
 | El documento trae el dato | 90 % | 96 % |
 | El documento no trae el dato y se pide | 55 % | 95 % |
 | Errores con confianza ≥ 90 | 68 | 8 |
+
+## 5. La vía automática: Health y el optimizer (8 min)
+
+Annie cambia la estructura cuando se lo pides. El **optimizer** hace otra cosa: reescribe las descripciones
+de los campos él solo, las prueba contra el dataset y se queda con la versión que más acierta. Lo enseñamos
+con facturas, porque con 8 documentos de una página va rápido.
+
+**El punto de partida**: [Formación IBM · Facturas sencillas (para el optimizer)](https://app.anyformat.ai/workflows/06acf584-e287-77d1-8000-bd46d425a3b0).
+Tiene los mismos campos que `demo_facturas`, pero con descripciones de una o dos palabras ("Total",
+"Albarán", "Pedido"), sin prompt de parse y con el extract en `standard`.
+
+**El dataset**: 8 facturas ficticias de `samples/facturas/sencillas/`, generadas con
+`tools/make_facturas.py`, con su respuesta correcta en `ground_truth/facturas/`:
+
+| Factura | Qué tiene |
+|---|---|
+| `muestra_01` | Dos albaranes, un descuento por línea |
+| `muestra_02` | Aceite: tasa SIGAUS y portes |
+| `muestra_03` | Neumáticos: tasa NFU y descuento de pronto pago |
+| `muestra_04` | La base impresa lleva 50 € de más: la validación falla |
+| `muestra_05` | Abono: importes en negativo |
+| `muestra_06` | Dos páginas con «suma y sigue» / «suma anterior» |
+| `muestra_07` | Escaneada: gris, torcida y con ruido |
+| `muestra_08` | Tres albaranes, dos con el mismo pedido; tasa de gases fluorados |
+
+En la app, dentro del workflow, pestaña **Health**:
+
+1. **Datasets**: las 8 facturas con su ground truth. Abre una y compara.
+2. **Evaluations**: la evaluación de partida, **83,5 %** (325 de 389 campos; [ver evaluación](https://app.anyformat.ai/workflows/06acf584-e287-77d1-8000-bd46d425a3b0/evals/06acf587-a715-7af8-8000-60de09051038)). Mira qué campos fallan.
+3. **Optimizer → Run optimization**, con 3 iteraciones. Cada iteración propone descripciones nuevas y las
+   puntúa contra el dataset; solo se queda con un cambio si mejora.
+4. La mejor iteración se guarda como **versión nueva** del workflow. En la página del optimizer se ve la
+   precisión de cada iteración y qué ha cambiado en cada descripción.
+
+Para repetirlo en otra cuenta:
+
+```bash
+uv run --python 3.12 --with anyformat python3 tools/dataset_facturas.py dataset <workflow_id>
+uv run --python 3.12 --with anyformat python3 tools/dataset_facturas.py eval <workflow_id>
+```
+
+**Annie o el optimizer:** Annie para cambios de estructura (dividir un extract, añadir reglas o
+categorías). El optimizer para afinar descripciones con datos. Y los dos necesitan lo mismo: un dataset con
+la respuesta correcta.
 
 ## Qué llevarse
 

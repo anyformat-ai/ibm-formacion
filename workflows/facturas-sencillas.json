@@ -1,0 +1,135 @@
+{
+  "name": "Formación IBM · Facturas sencillas (para el optimizer)",
+  "description": "Mismos campos que demo_facturas, con descripciones mínimas: el punto de partida para enseñar Health y el optimizer.",
+  "nodes": [
+    {
+      "id": "parse_1",
+      "type": "parse",
+      "mode": "standard"
+    },
+    {
+      "id": "extract_1",
+      "type": "extract",
+      "mode": "standard",
+      "extraction_schema": {
+        "fields": [
+          {
+            "name": "total",
+            "data_type": "float",
+            "description": "Total"
+          },
+          {
+            "name": "ibruto",
+            "data_type": "float",
+            "description": "Base imponible"
+          },
+          {
+            "name": "portes",
+            "data_type": "float",
+            "description": "Portes"
+          },
+          {
+            "name": "tnfu",
+            "data_type": "float",
+            "description": "Tasa NFU"
+          },
+          {
+            "name": "tsigaus",
+            "data_type": "float",
+            "description": "Tasa SIGAUS"
+          },
+          {
+            "name": "tgases",
+            "data_type": "float",
+            "description": "Tasa gases"
+          },
+          {
+            "name": "idto",
+            "data_type": "float",
+            "description": "Descuento"
+          },
+          {
+            "name": "lineas",
+            "data_type": "object",
+            "description": "Líneas de la factura",
+            "nested_fields": [
+              {
+                "name": "albaran",
+                "data_type": "string",
+                "description": "Albarán"
+              },
+              {
+                "name": "fechaalb",
+                "data_type": "date",
+                "description": "Fecha albarán"
+              },
+              {
+                "name": "npedido",
+                "data_type": "string",
+                "description": "Pedido"
+              },
+              {
+                "name": "referencia",
+                "data_type": "string",
+                "description": "Referencia"
+              },
+              {
+                "name": "descripcion",
+                "data_type": "string",
+                "description": "Descripción"
+              },
+              {
+                "name": "cantidad",
+                "data_type": "float",
+                "description": "Cantidad"
+              },
+              {
+                "name": "precio",
+                "data_type": "float",
+                "description": "Precio"
+              },
+              {
+                "name": "importe",
+                "data_type": "float",
+                "description": "Importe"
+              },
+              {
+                "name": "dto1",
+                "data_type": "float",
+                "description": "Descuento %"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "validate_1",
+      "type": "validate",
+      "rules": [
+        {
+          "id": "QxcORiyrds",
+          "kind": "deterministic",
+          "check": {
+            "type": "expression",
+            "expression": "(has(data.ibruto) && type(data.ibruto) != null_type) ? [0.0, -(has(data.idto) && type(data.idto) != null_type ? num(data.idto) : 0.0)].exists(a, [0.0, (has(data.portes) && type(data.portes) != null_type ? num(data.portes) : 0.0)].exists(b, [0.0, ((has(data.tsigaus) && type(data.tsigaus) != null_type ? num(data.tsigaus) : 0.0) + (has(data.tnfu) && type(data.tnfu) != null_type ? num(data.tnfu) : 0.0) + (has(data.tgases) && type(data.tgases) != null_type ? num(data.tgases) : 0.0))].exists(c, abs(sum((has(data.lineas) && type(data.lineas) != null_type ? data.lineas : []).map(l, has(l.importe) && type(l.importe) != null_type ? num(l.importe) : 0.0)) + a + b + c - num(data.ibruto)) <= (0.005 * abs(num(data.ibruto)) < 10.0 ? 0.005 * abs(num(data.ibruto)) : 10.0)))) : true"
+          },
+          "name": "Líneas + portes + tasas − descuento = base imponible",
+          "severity": "error"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "branch": null,
+      "source": "parse_1",
+      "target": "extract_1"
+    },
+    {
+      "branch": null,
+      "source": "extract_1",
+      "target": "validate_1"
+    }
+  ]
+}

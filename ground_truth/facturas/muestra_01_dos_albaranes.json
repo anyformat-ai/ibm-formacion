@@ -1,0 +1,71 @@
+{
+  "file": "muestra_01_dos_albaranes.pdf",
+  "proveedor": "RECAMBIOS FICTICIOS DEL LEVANTE, S.L.",
+  "fields": {
+    "total": 352.72,
+    "ibruto": 291.5,
+    "portes": 0.0,
+    "idto": 0.0,
+    "tnfu": 0.0,
+    "tsigaus": 0.0,
+    "tgases": 0.0,
+    "lineas": [
+      {
+        "albaran": "AL-7781",
+        "fechaalb": "2026-01-27",
+        "npedido": "PED-160021",
+        "referencia": "FL-1001",
+        "descripcion": "PASTILLA FRENO DELANTERA",
+        "cantidad": 4.0,
+        "precio": 18.5,
+        "importe": 74.0,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "AL-7781",
+        "fechaalb": "2026-01-27",
+        "npedido": "PED-160021",
+        "referencia": "FL-1044",
+        "descripcion": "DISCO FRENO VENTILADO 280MM",
+        "cantidad": 2.0,
+        "precio": 42.9,
+        "importe": 85.8,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "AL-7781",
+        "fechaalb": "2026-01-27",
+        "npedido": "PED-160021",
+        "referencia": "FL-2210",
+        "descripcion": "LIQUIDO FRENOS DOT4 1L",
+        "cantidad": 6.0,
+        "precio": 7.25,
+        "importe": 43.5,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "AL-7795",
+        "fechaalb": "2026-01-30",
+        "npedido": "PED-160058",
+        "referencia": "FL-3307",
+        "descripcion": "ESCOBILLA LIMPIAPARABRISAS 600MM",
+        "cantidad": 10.0,
+        "precio": 6.8,
+        "importe": 61.2,
+        "dto1": 10.0
+      },
+      {
+        "albaran": "AL-7795",
+        "fechaalb": "2026-01-30",
+        "npedido": "PED-160058",
+        "referencia": "FL-3310",
+        "descripcion": "ESCOBILLA TRASERA 350MM",
+        "cantidad": 5.0,
+        "precio": 5.4,
+        "importe": 27.0,
+        "dto1": 0.0
+      }
+    ]
+  },
+  "validacion_esperada": "pass"
+}

@@ -1,0 +1,49 @@
+{
+  "file": "muestra_03_neumaticos_nfu_descuento.pdf",
+  "proveedor": "NEUMATICOS EJEMPLO DEL SUR, S.L.",
+  "fields": {
+    "total": 962.05,
+    "ibruto": 795.08,
+    "portes": 0.0,
+    "idto": 15.0,
+    "tnfu": 16.68,
+    "tsigaus": 0.0,
+    "tgases": 0.0,
+    "lineas": [
+      {
+        "albaran": "NS-A-3301",
+        "fechaalb": "2026-02-06",
+        "npedido": "PED-161340",
+        "referencia": "NS-20555R16",
+        "descripcion": "NEUMATICO 205/55 R16 91V",
+        "cantidad": 8.0,
+        "precio": 58.0,
+        "importe": 464.0,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "NS-A-3301",
+        "fechaalb": "2026-02-06",
+        "npedido": "PED-161340",
+        "referencia": "NS-22545R17",
+        "descripcion": "NEUMATICO 225/45 R17 94W",
+        "cantidad": 4.0,
+        "precio": 79.5,
+        "importe": 318.0,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "NS-A-3318",
+        "fechaalb": "2026-02-09",
+        "npedido": "PED-161340",
+        "referencia": "NS-VALV-01",
+        "descripcion": "VALVULA CAUCHO TR414",
+        "cantidad": 12.0,
+        "precio": 0.95,
+        "importe": 11.4,
+        "dto1": 0.0
+      }
+    ]
+  },
+  "validacion_esperada": "pass"
+}

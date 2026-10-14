@@ -1,0 +1,905 @@
+{
+  "id": "06acf596-f986-781c-8000-ef8ec0c746ec",
+  "workflow_id": "06acf584-e287-77d1-8000-bd46d425a3b0",
+  "document_packet_id": "06acf596-f7b4-7543-8000-ab597d9a4f1a",
+  "status": "processed",
+  "created_at": "2026-10-14T10:29:03.616493Z",
+  "updated_at": "2026-10-14T10:29:39.524841Z",
+  "results": {
+    "document_packet_id": "06acf596-f7b4-7543-8000-ab597d9a4f1a",
+    "verification_url": "https://app.anyformat.ai/workflows/06acf584-e287-77d1-8000-bd46d425a3b0/files/06acf596-f462-744c-8000-d836873138d1?versionId=2uBSYZY8Xw",
+    "parse": {
+      "markdown": "<a id=\"p1_b0\"></a>\n\n# RECAMBIOS FICTICIOS DEL LEVANTE, S.L. FACTURA RECTIFICATIVA (ABONO)\n\n\n<a id=\"p1_b1\"></a>\n\n# **RECAMBIOS FICTICIOS DEL LEVANTE, S.L.**\nC/ Inventada, 12 · 46000 Valencia\nCIF: B00000017\n\n\n<a id=\"p1_b2\"></a>\n\n# **FACTURA RECTIFICATIVA (ABONO)**\nNº FL-R-2026/0019\nFecha: 14/02/2026\nPágina 1 de 1\n\n\n<a id=\"p1_b3\"></a>\n\nCLIENTE\n**IBERCLEAN PARTS, S.L.**\nAv. de la Industria, 100\n28080 Getafe (Madrid)\nCIF: B99887766\n\n\n<a id=\"p1_b4\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">FL-1044</td>\n      <td data-cell-id=\"r2c1\">DEVOLUCION DISCO FRENO VENTILADO 280MM</td>\n      <td data-cell-id=\"r2c2\">1</td>\n      <td data-cell-id=\"r2c3\">42,90</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">-42,90</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">FL-2210</td>\n      <td data-cell-id=\"r3c1\">DEVOLUCION LIQUIDO FRENOS DOT4 1L</td>\n      <td data-cell-id=\"r3c2\">2</td>\n      <td data-cell-id=\"r3c3\">7,25</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">-14,50</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r4c0\">Suma líneas</td>\n      <td data-cell-id=\"r4c1\">-57,40 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\"><strong>BASE IMPONIBLE</strong></td>\n      <td data-cell-id=\"r5c1\"><strong>-57,40 €</strong></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">IVA 21%</td>\n      <td data-cell-id=\"r6c1\">-12,05 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\"><strong>TOTAL FACTURA</strong></td>\n      <td data-cell-id=\"r7c1\"><strong>-69,45 €</strong></td>\n    </tr>\n  </tbody>\n</table>\n\n\n<a id=\"p1_b5\"></a>\n\n| Referencia | Descripción | Cant. | Precio | Dto % | Importe |\n| :--- | :--- | :---: | :---: | :---: | :---: |\n| *Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021* | | | | | |\n| FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90 |\n| FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50 |\n\n| | |\n| :--- | ---: |\n| Suma líneas | -57,40 € |\n| **BASE IMPONIBLE** | **-57,40 €** |\n| IVA 21% | -12,05 € |\n| **TOTAL FACTURA** | **-69,45 €** |\n\nForma de pago: transferencia a 60 días.\nRECAMBIOS FICTICIOS DEL LEVANTE, S.L. · CIF B00000017 · Inscrita en un registro mercantil ficticio.\n<span style=\"color:red\">DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS</span>",
+      "text": "<a id=\"p1_b0\"></a>\n\n# RECAMBIOS FICTICIOS DEL LEVANTE, S.L. FACTURA RECTIFICATIVA (ABONO)\n\n<a id=\"p1_b1\"></a>\n\n# **RECAMBIOS FICTICIOS DEL LEVANTE, S.L.**\nC/ Inventada, 12 · 46000 Valencia\nCIF: B00000017\n\n<a id=\"p1_b2\"></a>\n\n# **FACTURA RECTIFICATIVA (ABONO)**\nNº FL-R-2026/0019\nFecha: 14/02/2026\nPágina 1 de 1\n\n<a id=\"p1_b3\"></a>\n\nCLIENTE\n**IBERCLEAN PARTS, S.L.**\nAv. de la Industria, 100\n28080 Getafe (Madrid)\nCIF: B99887766\n\n<a id=\"p1_b4\"></a>\n\n<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">FL-1044</td>\n      <td data-cell-id=\"r2c1\">DEVOLUCION DISCO FRENO VENTILADO 280MM</td>\n      <td data-cell-id=\"r2c2\">1</td>\n      <td data-cell-id=\"r2c3\">42,90</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">-42,90</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">FL-2210</td>\n      <td data-cell-id=\"r3c1\">DEVOLUCION LIQUIDO FRENOS DOT4 1L</td>\n      <td data-cell-id=\"r3c2\">2</td>\n      <td data-cell-id=\"r3c3\">7,25</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">-14,50</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r4c0\">Suma líneas</td>\n      <td data-cell-id=\"r4c1\">-57,40 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\"><strong>BASE IMPONIBLE</strong></td>\n      <td data-cell-id=\"r5c1\"><strong>-57,40 €</strong></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">IVA 21%</td>\n      <td data-cell-id=\"r6c1\">-12,05 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\"><strong>TOTAL FACTURA</strong></td>\n      <td data-cell-id=\"r7c1\"><strong>-69,45 €</strong></td>\n    </tr>\n  </tbody>\n</table>\n\n<a id=\"p1_b5\"></a>\n\n| Referencia | Descripción | Cant. | Precio | Dto % | Importe |\n| :--- | :--- | :---: | :---: | :---: | :---: |\n| *Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021* | | | | | |\n| FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90 |\n| FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50 |\n\n| | |\n| :--- | ---: |\n| Suma líneas | -57,40 € |\n| **BASE IMPONIBLE** | **-57,40 €** |\n| IVA 21% | -12,05 € |\n| **TOTAL FACTURA** | **-69,45 €** |\n\nForma de pago: transferencia a 60 días.\nRECAMBIOS FICTICIOS DEL LEVANTE, S.L. · CIF B00000017 · Inscrita en un registro mercantil ficticio.\n<span style=\"color:red\">DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS</span>",
+      "layout_confidence": 0.687,
+      "parse_confidence": 97.3,
+      "blocks": [
+        {
+          "id": "p1_b0",
+          "type": "title",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09227726854465028,
+            "y0": 0.06733333333333333,
+            "x1": 0.9066037735849056,
+            "y1": 0.08885363790406892
+          },
+          "layout_confidence": 0.8437223434448242,
+          "parse_confidence": 100.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09227726854465028,
+                "y0": 0.067901611328125,
+                "x1": 0.9058606886950197,
+                "y1": 0.08885363790406892
+              },
+              "type": "title",
+              "text": "RECAMBIOS FICTICIOS DEL LEVAATEJBARECTIFICATIVA (ABONO)"
+            }
+          ],
+          "content": "# RECAMBIOS FICTICIOS DEL LEVANTE, S.L. FACTURA RECTIFICATIVA (ABONO)",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b1",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.09150943396226414,
+            "y0": 0.09333333333333334,
+            "x1": 0.32449115720884975,
+            "y1": 0.12373624086481937
+          },
+          "layout_confidence": 0.5753529667854309,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.09315352341860642,
+                "y0": 0.09404449658599762,
+                "x1": 0.32449115720884975,
+                "y1": 0.12373624086481937
+              },
+              "type": "text",
+              "text": "C/ Inventada, 12 · 46000 Valencia CIF: B00000017"
+            }
+          ],
+          "content": "# **RECAMBIOS FICTICIOS DEL LEVANTE, S.L.**\nC/ Inventada, 12 · 46000 Valencia\nCIF: B00000017",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b2",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.7566037735849057,
+            "y0": 0.09567921586707394,
+            "x1": 0.9075471698113208,
+            "y1": 0.14484614600173018
+          },
+          "layout_confidence": 0.9226517677307129,
+          "parse_confidence": 95.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.7577905804819756,
+                "y0": 0.09567921586707394,
+                "x1": 0.906511631957565,
+                "y1": 0.14484614600173018
+              },
+              "type": "text",
+              "text": "Nº FL-R-2026/0019 Fecha: 14/02/2026 Página 1 de 1"
+            }
+          ],
+          "content": "# **FACTURA RECTIFICATIVA (ABONO)**\nNº FL-R-2026/0019\nFecha: 14/02/2026\nPágina 1 de 1",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b3",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.5210421837803242,
+            "y0": 0.15395624977036795,
+            "x1": 0.9061092575054791,
+            "y1": 0.2365336978776988
+          },
+          "layout_confidence": 0.7805668711662292,
+          "parse_confidence": 96.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.5210421837803242,
+                "y0": 0.15395624977036795,
+                "x1": 0.9061092575054791,
+                "y1": 0.2365336978776988
+              },
+              "type": "table",
+              "text": "CLIENTE IBERCLEAN PARTS, S.L. Av. de la Industria, 100 28080 Getafe (Madrid) CIF: B99887766"
+            }
+          ],
+          "content": "CLIENTE\n**IBERCLEAN PARTS, S.L.**\nAv. de la Industria, 100\n28080 Getafe (Madrid)\nCIF: B99887766",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        },
+        {
+          "id": "p1_b4",
+          "type": "table",
+          "page": 1,
+          "bbox": {
+            "x0": 0.0855632537509683,
+            "y0": 0.25714468823482256,
+            "x1": 0.9134753964111624,
+            "y1": 0.4556027298658615
+          },
+          "layout_confidence": 0.6002914309501648,
+          "parse_confidence": 99.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.0855632537509683,
+                "y0": 0.25714468823482256,
+                "x1": 0.9134753964111624,
+                "y1": 0.4556027298658615
+              },
+              "type": "table",
+              "text": "Referencia Descripción Cant. Precio Dto % Importe Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021 FL-1044 DEVOLUCION DISCO FRENO VENTILADO 280MM 1 42,90 -42,90 FL-2210 DEVOLUCION LIQUIDO FRENOS DOT4 1L 2 7,25 -14,50 Suma líneas -57,40 € BASE IMPONIBLE -57,40 € IVA 21% -12,05 € TOTAL FACTURA -69,45 €"
+            }
+          ],
+          "content": "<table>\n  <thead>\n    <tr>\n      <th data-cell-id=\"r0c0\">Referencia</th>\n      <th data-cell-id=\"r0c1\">Descripción</th>\n      <th data-cell-id=\"r0c2\">Cant.</th>\n      <th data-cell-id=\"r0c3\">Precio</th>\n      <th data-cell-id=\"r0c4\">Dto %</th>\n      <th data-cell-id=\"r0c5\">Importe</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\" data-cell-id=\"r1c0\"><i>Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021</i></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r2c0\">FL-1044</td>\n      <td data-cell-id=\"r2c1\">DEVOLUCION DISCO FRENO VENTILADO 280MM</td>\n      <td data-cell-id=\"r2c2\">1</td>\n      <td data-cell-id=\"r2c3\">42,90</td>\n      <td data-cell-id=\"r2c4\"></td>\n      <td data-cell-id=\"r2c5\">-42,90</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r3c0\">FL-2210</td>\n      <td data-cell-id=\"r3c1\">DEVOLUCION LIQUIDO FRENOS DOT4 1L</td>\n      <td data-cell-id=\"r3c2\">2</td>\n      <td data-cell-id=\"r3c3\">7,25</td>\n      <td data-cell-id=\"r3c4\"></td>\n      <td data-cell-id=\"r3c5\">-14,50</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <tbody>\n    <tr>\n      <td data-cell-id=\"r4c0\">Suma líneas</td>\n      <td data-cell-id=\"r4c1\">-57,40 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r5c0\"><strong>BASE IMPONIBLE</strong></td>\n      <td data-cell-id=\"r5c1\"><strong>-57,40 €</strong></td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r6c0\">IVA 21%</td>\n      <td data-cell-id=\"r6c1\">-12,05 €</td>\n    </tr>\n    <tr>\n      <td data-cell-id=\"r7c0\"><strong>TOTAL FACTURA</strong></td>\n      <td data-cell-id=\"r7c1\"><strong>-69,45 €</strong></td>\n    </tr>\n  </tbody>\n</table>",
+          "hyperlinks": [],
+          "rows": [
+            [
+              {
+                "cell_id": "r0c0",
+                "text": "Referencia"
+              },
+              {
+                "cell_id": "r0c1",
+                "text": "Descripción"
+              },
+              {
+                "cell_id": "r0c2",
+                "text": "Cant."
+              },
+              {
+                "cell_id": "r0c3",
+                "text": "Precio"
+              },
+              {
+                "cell_id": "r0c4",
+                "text": "Dto %"
+              },
+              {
+                "cell_id": "r0c5",
+                "text": "Importe"
+              }
+            ],
+            [
+              {
+                "cell_id": "r1c0",
+                "text": "<i>Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021</i>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r2c0",
+                "text": "FL-1044"
+              },
+              {
+                "cell_id": "r2c1",
+                "text": "DEVOLUCION DISCO FRENO VENTILADO 280MM"
+              },
+              {
+                "cell_id": "r2c2",
+                "text": "1"
+              },
+              {
+                "cell_id": "r2c3",
+                "text": "42,90"
+              },
+              {
+                "cell_id": "r2c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r2c5",
+                "text": "-42,90"
+              }
+            ],
+            [
+              {
+                "cell_id": "r3c0",
+                "text": "FL-2210"
+              },
+              {
+                "cell_id": "r3c1",
+                "text": "DEVOLUCION LIQUIDO FRENOS DOT4 1L"
+              },
+              {
+                "cell_id": "r3c2",
+                "text": "2"
+              },
+              {
+                "cell_id": "r3c3",
+                "text": "7,25"
+              },
+              {
+                "cell_id": "r3c4",
+                "text": ""
+              },
+              {
+                "cell_id": "r3c5",
+                "text": "-14,50"
+              }
+            ],
+            [
+              {
+                "cell_id": "r4c0",
+                "text": "Suma líneas"
+              },
+              {
+                "cell_id": "r4c1",
+                "text": "-57,40 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r5c0",
+                "text": "<strong>BASE IMPONIBLE</strong>"
+              },
+              {
+                "cell_id": "r5c1",
+                "text": "<strong>-57,40 €</strong>"
+              }
+            ],
+            [
+              {
+                "cell_id": "r6c0",
+                "text": "IVA 21%"
+              },
+              {
+                "cell_id": "r6c1",
+                "text": "-12,05 €"
+              }
+            ],
+            [
+              {
+                "cell_id": "r7c0",
+                "text": "<strong>TOTAL FACTURA</strong>"
+              },
+              {
+                "cell_id": "r7c1",
+                "text": "<strong>-69,45 €</strong>"
+              }
+            ]
+          ],
+          "image_base64": null
+        },
+        {
+          "id": "p1_b5",
+          "type": "text",
+          "page": 1,
+          "bbox": {
+            "x0": 0.0924848305126776,
+            "y0": 0.916,
+            "x1": 0.7223121799897975,
+            "y1": 0.9623529728583262
+          },
+          "layout_confidence": 0.840447723865509,
+          "parse_confidence": 94.0,
+          "regions": [
+            {
+              "bbox": {
+                "x0": 0.0924848305126776,
+                "y0": 0.9163989017742625,
+                "x1": 0.7223121799897975,
+                "y1": 0.9623529728583262
+              },
+              "type": "text",
+              "text": "Forma de pago: transferencia a 60 días. RECAMBIOS FICTICIOS DEL LEVANTE, S.L. · CIF B00000017 - Inscrita en un registro mercantil ficticio. DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS"
+            }
+          ],
+          "content": "| Referencia | Descripción | Cant. | Precio | Dto % | Importe |\n| :--- | :--- | :---: | :---: | :---: | :---: |\n| *Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021* | | | | | |\n| FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90 |\n| FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50 |\n\n| | |\n| :--- | ---: |\n| Suma líneas | -57,40 € |\n| **BASE IMPONIBLE** | **-57,40 €** |\n| IVA 21% | -12,05 € |\n| **TOTAL FACTURA** | **-69,45 €** |\n\nForma de pago: transferencia a 60 días.\nRECAMBIOS FICTICIOS DEL LEVANTE, S.L. · CIF B00000017 · Inscrita en un registro mercantil ficticio.\n<span style=\"color:red\">DOCUMENTO DE MUESTRA PARA FORMACIÓN · TODOS LOS DATOS SON FICTICIOS</span>",
+          "hyperlinks": [],
+          "rows": null,
+          "image_base64": null
+        }
+      ]
+    },
+    "classifications": [],
+    "splits": [],
+    "extractions": [
+      {
+        "split_name": null,
+        "partition": null,
+        "fields": {
+          "total": {
+            "value": "-69.45",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "TOTAL FACTURA -69,45 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "ibruto": {
+            "value": "-57.4",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 92.0,
+            "evidence": [
+              {
+                "text": "BASE IMPONIBLE -57,40 €",
+                "page_number": 1
+              }
+            ]
+          },
+          "portes": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tnfu": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tsigaus": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "tgases": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "idto": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": null,
+            "evidence": []
+          },
+          "lineas": [
+            {
+              "albaran": {
+                "value": "DEV-0233",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-02-13",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "PED-160021",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "FL-1044",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "DEVOLUCION DISCO FRENO VENTILADO 280MM",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "1.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "42.9",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "-42.9",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                    "page_number": 1
+                  }
+                ]
+              }
+            },
+            {
+              "albaran": {
+                "value": "DEV-0233",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "fechaalb": {
+                "value": "2026-02-13",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "npedido": {
+                "value": "PED-160021",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "referencia": {
+                "value": "FL-2210",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "descripcion": {
+                "value": "DEVOLUCION LIQUIDO FRENOS DOT4 1L",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "cantidad": {
+                "value": "2.0",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "precio": {
+                "value": "7.25",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "importe": {
+                "value": "-14.5",
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                    "page_number": 1
+                  }
+                ]
+              },
+              "dto1": {
+                "value": null,
+                "value_override": null,
+                "verification_status": "not_verified",
+                "confidence": 98.0,
+                "evidence": [
+                  {
+                    "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                    "page_number": 1
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "validations": [
+          {
+            "rule_id": "QxcORiyrds",
+            "description": "",
+            "severity": "error",
+            "status": "pass",
+            "detail": "(has(data.ibruto) && type(data.ibruto) != null_type) ? [0.0, -(has(data.idto) && type(data.idto) != null_type ? num(data.idto) : 0.0)].exists(a, [0.0, (has(data.portes) && type(data.portes) != null_type ? num(data.portes) : 0.0)].exists(b, [0.0, ((has(data.tsigaus) && type(data.tsigaus) != null_type ? num(data.tsigaus) : 0.0) + (has(data.tnfu) && type(data.tnfu) != null_type ? num(data.tnfu) : 0.0) + (has(data.tgases) && type(data.tgases) != null_type ? num(data.tgases) : 0.0))].exists(c, abs(sum((has(data.lineas) && type(data.lineas) != null_type ? data.lineas : []).map(l, has(l.importe) && type(l.importe) != null_type ? num(l.importe) : 0.0)) + a + b + c - num(data.ibruto)) <= (0.005 * abs(num(data.ibruto)) < 10.0 ? 0.005 * abs(num(data.ibruto)) : 10.0)))) : true is true.",
+            "compared_values": null,
+            "source_fields": []
+          }
+        ]
+      }
+    ],
+    "edits": [],
+    "extraction": {
+      "total": {
+        "value": "-69.45",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "TOTAL FACTURA -69,45 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "ibruto": {
+        "value": "-57.4",
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": 92.0,
+        "evidence": [
+          {
+            "text": "BASE IMPONIBLE -57,40 €",
+            "page_number": 1
+          }
+        ]
+      },
+      "portes": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "tnfu": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "tsigaus": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "tgases": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "idto": {
+        "value": null,
+        "value_override": null,
+        "verification_status": "not_verified",
+        "confidence": null,
+        "evidence": []
+      },
+      "lineas": [
+        {
+          "albaran": {
+            "value": "DEV-0233",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-02-13",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "PED-160021",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "FL-1044",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "DEVOLUCION DISCO FRENO VENTILADO 280MM",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "1.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "42.9",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "-42.9",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-1044 | DEVOLUCION DISCO FRENO VENTILADO 280MM | 1 | 42,90 | | -42,90",
+                "page_number": 1
+              }
+            ]
+          }
+        },
+        {
+          "albaran": {
+            "value": "DEV-0233",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                "page_number": 1
+              }
+            ]
+          },
+          "fechaalb": {
+            "value": "2026-02-13",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                "page_number": 1
+              }
+            ]
+          },
+          "npedido": {
+            "value": "PED-160021",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "Albarán DEV-0233 de 13/02/2026 · Su pedido PED-160021",
+                "page_number": 1
+              }
+            ]
+          },
+          "referencia": {
+            "value": "FL-2210",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                "page_number": 1
+              }
+            ]
+          },
+          "descripcion": {
+            "value": "DEVOLUCION LIQUIDO FRENOS DOT4 1L",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                "page_number": 1
+              }
+            ]
+          },
+          "cantidad": {
+            "value": "2.0",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                "page_number": 1
+              }
+            ]
+          },
+          "precio": {
+            "value": "7.25",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                "page_number": 1
+              }
+            ]
+          },
+          "importe": {
+            "value": "-14.5",
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                "page_number": 1
+              }
+            ]
+          },
+          "dto1": {
+            "value": null,
+            "value_override": null,
+            "verification_status": "not_verified",
+            "confidence": 98.0,
+            "evidence": [
+              {
+                "text": "FL-2210 | DEVOLUCION LIQUIDO FRENOS DOT4 1L | 2 | 7,25 | | -14,50",
+                "page_number": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

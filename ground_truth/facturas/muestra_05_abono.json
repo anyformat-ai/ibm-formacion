@@ -1,0 +1,38 @@
+{
+  "file": "muestra_05_abono.pdf",
+  "proveedor": "RECAMBIOS FICTICIOS DEL LEVANTE, S.L.",
+  "fields": {
+    "total": -69.45,
+    "ibruto": -57.4,
+    "portes": 0.0,
+    "idto": 0.0,
+    "tnfu": 0.0,
+    "tsigaus": 0.0,
+    "tgases": 0.0,
+    "lineas": [
+      {
+        "albaran": "DEV-0233",
+        "fechaalb": "2026-02-13",
+        "npedido": "PED-160021",
+        "referencia": "FL-1044",
+        "descripcion": "DEVOLUCION DISCO FRENO VENTILADO 280MM",
+        "cantidad": 1.0,
+        "precio": 42.9,
+        "importe": -42.9,
+        "dto1": 0.0
+      },
+      {
+        "albaran": "DEV-0233",
+        "fechaalb": "2026-02-13",
+        "npedido": "PED-160021",
+        "referencia": "FL-2210",
+        "descripcion": "DEVOLUCION LIQUIDO FRENOS DOT4 1L",
+        "cantidad": 2.0,
+        "precio": 7.25,
+        "importe": -14.5,
+        "dto1": 0.0
+      }
+    ]
+  },
+  "validacion_esperada": "pass"
+}
