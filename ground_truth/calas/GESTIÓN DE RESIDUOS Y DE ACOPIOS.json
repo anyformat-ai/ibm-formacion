@@ -1,0 +1,37 @@
+{
+  "file": "GESTIÓN DE RESIDUOS Y DE ACOPIOS.pdf",
+  "tipo": "residuos_acopio",
+  "expediente": "i-DE (San Mateo 17)",
+  "fields": {
+    "descripcion_de_la_obra": null,
+    "plazo_de_ejecucion": null,
+    "id_proyecto_contratista": null,
+    "ubicacion_de_la_obra": null,
+    "id_obra": null,
+    "total_presupuesto": null,
+    "gestion_residuos": "El tratamiento de los residuos se realizará con contratas homologadas y mediante gestores autorizados.",
+    "gestores_autorizados": true,
+    "tipo_de_suministro": null,
+    "municipio": null,
+    "potencia": null,
+    "motivo_de_la_obra": null,
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": null,
+    "otras_unidades": null,
+    "duracion_dias": null,
+    "presupuesto": null,
+    "direccion": null,
+    "medidas_acera": [],
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run). El workflow devuelve '0000-01-01'.",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "direccion": "La única dirección es el domicilio social de i-DE (Av. San Adrián 48, Bilbao) -> no es la obra -> null."
+  },
+  "revisar": [
+    "expediente: documento genérico de i-DE sin dirección de obra; asumimos que acompaña a San Mateo 17"
+  ]
+}

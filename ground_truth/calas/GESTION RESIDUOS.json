@@ -1,0 +1,48 @@
+{
+  "file": "GESTION RESIDUOS.pdf",
+  "tipo": "residuos_acopio",
+  "expediente": "Telefónica 8570820 - CL Raimundo Fdez. Villaverde 69",
+  "fields": {
+    "descripcion_de_la_obra": null,
+    "plazo_de_ejecucion": null,
+    "id_proyecto_contratista": {
+      "any_of": [
+        null,
+        "8570820"
+      ]
+    },
+    "ubicacion_de_la_obra": null,
+    "id_obra": "8570820",
+    "total_presupuesto": null,
+    "gestion_residuos": {
+      "any_of": [
+        "Inertes (tierras, hormigón, escombros) a vertedero o depósito controlado por la contrata; peligrosos y electrónicos a gestor autorizado; asimilables a urbanos por servicio municipal",
+        "Todos los residuos generados serán depositados en gestor autorizado para su correcta manipulación y reciclado"
+      ]
+    },
+    "gestores_autorizados": true,
+    "tipo_de_suministro": null,
+    "municipio": "Madrid",
+    "potencia": null,
+    "motivo_de_la_obra": null,
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": null,
+    "otras_unidades": null,
+    "duracion_dias": null,
+    "presupuesto": null,
+    "direccion": null,
+    "medidas_acera": [],
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run). '03/12/2025' es la fecha del informe.",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "_alcance": "Extracto (hojas 28-32) del proyecto 8570820.",
+    "id_obra": "Cabecera: 'PROYECTO Nº: 8570820'."
+  },
+  "revisar": [
+    "gestion_residuos: el workflow devolvió el párrafo genérico de cumplimiento normativo; lo damos como error (no dice tratamiento ni destino)"
+  ]
+}

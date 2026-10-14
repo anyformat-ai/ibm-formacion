@@ -1,0 +1,67 @@
+{
+  "file": "L4.032.12.pdf",
+  "tipo": "plano",
+  "expediente": "Canal de Isabel II (?) 032.12 - Calle del Mar de Bering (Hortaleza)",
+  "fields": {
+    "descripcion_de_la_obra": "Obras de renovación de tuberías de la red de abastecimiento",
+    "plazo_de_ejecucion": null,
+    "id_proyecto_contratista": null,
+    "ubicacion_de_la_obra": "Calle del Mar de Bering",
+    "id_obra": {
+      "any_of": [
+        "032.12",
+        "L4.032.12"
+      ]
+    },
+    "total_presupuesto": null,
+    "gestion_residuos": null,
+    "gestores_autorizados": null,
+    "tipo_de_suministro": {
+      "any_of": [
+        "Agua",
+        "Abastecimiento"
+      ]
+    },
+    "municipio": "Madrid",
+    "potencia": null,
+    "motivo_de_la_obra": {
+      "any_of": [
+        "Renovación de tuberías",
+        "Renovación de red de abastecimiento"
+      ]
+    },
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": null,
+    "otras_unidades": null,
+    "duracion_dias": null,
+    "presupuesto": null,
+    "direccion": {
+      "tipo": "Calle",
+      "nombre": {
+        "any_of": [
+          "del Mar de Bering",
+          "Mar de Bering"
+        ]
+      },
+      "numero": null,
+      "categoria_fiscal": null,
+      "distrito": "Hortaleza",
+      "barrio": null
+    },
+    "medidas_acera": [],
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "_alcance": "Plano de situación de 1 pág. con 3 'superficies de cala' marcadas; cajetín 'OBRAS DE RENOVACIÓN DE TUBERÍAS RED DE ABASTECIMIENTO EN EL MUNICIPIO DE MADRID - HORTALEZA, Calle: del Mar de Bering, 032.12'.",
+    "medidas_acera": "Las calas están dibujadas pero no acotadas -> vacío.",
+    "_baseline": "Sin run en el workflow de junio (el document packet está en 'not_started')."
+  },
+  "revisar": [
+    "id_obra ('032.12' del cajetín / 'L4.032.12' del nombre de fichero)",
+    "direccion.distrito: Hortaleza aparece como 'MADRID - HORTALEZA'"
+  ]
+}

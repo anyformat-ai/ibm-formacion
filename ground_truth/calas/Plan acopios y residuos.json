@@ -1,0 +1,66 @@
+{
+  "file": "Plan acopios y residuos.pdf",
+  "tipo": "residuos_acopio",
+  "expediente": "Nedgia ACT250600117588 - C/ Pastrana 8B",
+  "fields": {
+    "descripcion_de_la_obra": null,
+    "plazo_de_ejecucion": null,
+    "id_proyecto_contratista": null,
+    "ubicacion_de_la_obra": "PASTRANA 8B (DESPLAZAMIENTO RED)",
+    "id_obra": null,
+    "total_presupuesto": null,
+    "gestion_residuos": "Prevención y separación de residuos; reutilización, reciclado o valorización a través de Gestor Autorizado de Residuos; el resto a vertedero autorizado",
+    "gestores_autorizados": true,
+    "tipo_de_suministro": null,
+    "municipio": {
+      "any_of": [
+        null,
+        "Madrid"
+      ]
+    },
+    "potencia": null,
+    "motivo_de_la_obra": {
+      "any_of": [
+        null,
+        "Desplazamiento de red"
+      ]
+    },
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": null,
+    "otras_unidades": null,
+    "duracion_dias": null,
+    "presupuesto": null,
+    "direccion": {
+      "tipo": {
+        "any_of": [
+          null,
+          "Calle"
+        ]
+      },
+      "nombre": "PASTRANA",
+      "numero": "8B",
+      "categoria_fiscal": null,
+      "distrito": "San Blas",
+      "barrio": null
+    },
+    "medidas_acera": [
+      {
+        "largo": 13.8,
+        "ancho": null,
+        "tipo_pavimento": null
+      }
+    ],
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run). El workflow devuelve '1970-01-01'.",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "tipo_de_suministro": "No se indica. El workflow devolvió 'Agua' (conf. 99) por la línea 'Agua: se utilizará agua suministrada en bidones... para la preparación del cemento'.",
+    "gestores_autorizados": "'...los cuales se entregarán a un Gestor Autorizado de Residuos'.",
+    "medidas_acera": "'Metros 13,80' / '13,80 metros en acera'; '0,00 metros en calzada'.",
+    "profundidad_m": "No aparece."
+  },
+  "revisar": []
+}

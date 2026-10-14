@@ -1,0 +1,82 @@
+{
+  "file": "MA_Memoria y plazo de ejecucion_Madrid (1).pdf",
+  "tipo": "memoria",
+  "expediente": "Nedgia ACT250600117588 - C/ Pastrana 8B",
+  "fields": {
+    "descripcion_de_la_obra": "A partir de la tubería existente se canaliza hasta el punto de suministro indicado en (1) y según trazado indicado en los planos adjuntos.",
+    "plazo_de_ejecucion": 9,
+    "id_proyecto_contratista": {
+      "any_of": [
+        null,
+        "ACT250600117588"
+      ]
+    },
+    "ubicacion_de_la_obra": "C/ PASTRANA 8B (DESPLAZAMIENTO RED)",
+    "id_obra": "ACT250600117588",
+    "total_presupuesto": null,
+    "gestion_residuos": {
+      "any_of": [
+        null,
+        "Retirada de tierras a vertedero"
+      ]
+    },
+    "gestores_autorizados": null,
+    "tipo_de_suministro": {
+      "any_of": [
+        "Gas",
+        "Gas natural"
+      ]
+    },
+    "municipio": {
+      "any_of": [
+        null,
+        "Madrid"
+      ]
+    },
+    "potencia": null,
+    "motivo_de_la_obra": {
+      "any_of": [
+        "Atender la solicitud de suministro de gas",
+        "Desplazamiento Terceros",
+        "Desplazamiento de red"
+      ]
+    },
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": 0.8,
+    "otras_unidades": null,
+    "duracion_dias": 9,
+    "presupuesto": null,
+    "direccion": {
+      "tipo": "Calle",
+      "nombre": "PASTRANA",
+      "numero": "8B",
+      "categoria_fiscal": null,
+      "distrito": "San Blas",
+      "barrio": null
+    },
+    "medidas_acera": [
+      {
+        "largo": 13.8,
+        "ancho": null,
+        "tipo_pavimento": "Loseta"
+      }
+    ],
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run). El workflow devolvió 2026-07-07 = el día en que se lanzó el run.",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "plazo_de_ejecucion": "Pág. 2: 'El plazo de ejecución de la obra previsto es de 9,00 días'.",
+    "total_presupuesto": "La memoria no tiene presupuesto -> null. El workflow devuelve 0.0 con confianza 99.",
+    "id_obra": "'CÓDIGO GODA: ACT250600117588' / 'CÓDIGO: ACT250600117588'. Ojo: el plano usa otro código (022025649558).",
+    "profundidad_m": "'quedando a una profundidad mínima de 0,80 m'.",
+    "medidas_acera": "Tabla pavimentos: acera LOSETA 13,8; calzada ASFALTO 0 -> calzada vacía.",
+    "municipio": "Solo 'DISTRITO: San Blas' y logo 'nedgia Madrid'; aceptamos null o Madrid."
+  },
+  "revisar": [
+    "id_obra vs id_proyecto_contratista (mismo código ACT...)",
+    "gestion_residuos (la memoria solo lo menciona en la leyenda del programa)"
+  ]
+}

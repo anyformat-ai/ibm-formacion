@@ -1,0 +1,92 @@
+{
+  "file": "MADRID_MADRID_SP250600117588_PLANO_DE_PERMISO.pdf (1).pdf",
+  "tipo": "plano",
+  "expediente": "Nedgia ACT250600117588 - C/ Pastrana 8B",
+  "fields": {
+    "descripcion_de_la_obra": {
+      "any_of": [
+        null,
+        "Desplazamiento de 3º: canalización de polietileno 110 mm de 10 m y acometida de 63 mm de 3,80 m"
+      ]
+    },
+    "plazo_de_ejecucion": null,
+    "id_proyecto_contratista": null,
+    "ubicacion_de_la_obra": "PASTRANA 8B (DESPLAZAMIENTO RED)",
+    "id_obra": "022025649558",
+    "total_presupuesto": null,
+    "gestion_residuos": null,
+    "gestores_autorizados": null,
+    "tipo_de_suministro": {
+      "any_of": [
+        "Gas natural",
+        "Gas"
+      ]
+    },
+    "municipio": "Madrid",
+    "potencia": null,
+    "motivo_de_la_obra": {
+      "any_of": [
+        "Desplazamiento de 3º",
+        "Desplazamiento de red",
+        "Desplazamiento Terceros"
+      ]
+    },
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": {
+      "any_of": [
+        0.6,
+        0.8
+      ]
+    },
+    "otras_unidades": null,
+    "duracion_dias": null,
+    "presupuesto": null,
+    "direccion": {
+      "tipo": "Calle",
+      "nombre": "PASTRANA",
+      "numero": "8B",
+      "categoria_fiscal": null,
+      "distrito": "San Blas",
+      "barrio": null
+    },
+    "medidas_acera": {
+      "any_of": [
+        [
+          {
+            "largo": 10.0,
+            "ancho": null,
+            "tipo_pavimento": "Losetas especiales"
+          },
+          {
+            "largo": 3.8,
+            "ancho": null,
+            "tipo_pavimento": "Losetas especiales"
+          }
+        ],
+        [
+          {
+            "largo": 13.8,
+            "ancho": null,
+            "tipo_pavimento": "Losetas especiales"
+          }
+        ]
+      ]
+    },
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run). '09/12/25' es la fecha del plano.",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "id_obra": "Cajetín: 'Código Obra 022025649558'.",
+    "tipo_de_suministro": "'TIPO DE GAS: GAS NATURAL'.",
+    "profundidad_m": "'Canalización de profundidad => 0.60' (acometidas => 0,30).",
+    "medidas_acera": "Apertura zanja acera pavimentada: canalización 10,00 + acometidas 3,80 = 13,80. Pavimento: 'Losetas especiales 4.42 m2' (el workflow puso 'Aglomerado asfáltico', que está vacío en la tabla).",
+    "total_presupuesto": "Un plano no lleva presupuesto -> null."
+  },
+  "revisar": [
+    "medidas_acera: ¿2 filas (10 + 3,8) o 1 fila 13,8? El scorer acepta las dos",
+    "profundidad_m 0.6 (canalización)"
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "name": "Formación IBM · Calas y canalizaciones (punto de partida)",
+  "description": "Copia del workflow de calas de IBM (junio): parse → classify en 4 tipos → un extract de 22 campos, sin validaciones.",
+  "nodes": [
+    {
+      "id": "classify_1",
+      "type": "classify",
+      "user_prompt": "El proceso de clasifación de los documentos implica que un documento solo puede ser de un tipo de los 4 documentos que exige el ayuntamiento subir a las contratas de calas y canalizaciones",
+      "categories": [
+        {
+          "id": "AGNyRiwbMm",
+          "name": "Memoria",
+          "description": "Es la memoria descripcitiva del proyecto de calas y canalizaciones"
+        },
+        {
+          "id": "HVK5l1a4wQ",
+          "name": "Plano",
+          "description": "Es un documento de planos representativos de la obra de cala o canalizacion"
+        },
+        {
+          "id": "G7SlT5BXg3",
+          "name": "Presupuestos",
+          "description": "Es un documento que recoge la documentación presupuestaria"
+        },
+        {
+          "id": "Tc5WdvaO8o",
+          "name": "Residuos/Acopio",
+          "description": "Documento que explica qué se debe hacer con los residuos de la obra"
+        }
+      ]
+    },
+    {
+      "id": "extract_1",
+      "type": "extract",
+      "mode": "standard",
+      "extraction_schema": {
+        "fields": [
+          {
+            "name": "Descripción de la obra",
+            "description": "Descripción detallada de la obra de cala.",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "Plazo de ejecución",
+            "description": "Plazo de ejecución previsto en días naturales tal como se indica en la memoria del proyecto. Extraer únicamente el número entero de días (ej. 30). Buscar en la sección de planificación o plazos de la memoria descriptiva, NO en otros documentos del expediente.",
+            "source": "extraction",
+            "data_type": "integer"
+          },
+          {
+            "name": "Id Proyecto contratista",
+            "description": "Identificador o código de referencia interno del proyecto asignado por el contratista.",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "Ubicación de la obra",
+            "description": "Dirección exacta, calle o ubicación geográfica donde se realizará la obra.",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "ID Obra",
+            "description": "Identificador único de la obra o presupuesto. Extraer siempre como texto exacto tal como aparece en el documento (puede contener letras, números, barras, guiones u otros caracteres). No convertir a número ni eliminar caracteres.",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "Total Presupuesto",
+            "description": "Importe total final del presupuesto de la obra, incluyendo todos los conceptos e impuestos si aparecen sumados. Extraer el valor numérico exacto con sus decimales tal como figura en el documento (ej. 2092.38). No redondear ni omitir céntimos. Buscar la cifra que representa el TOTAL o importe final del presupuesto.",
+            "source": "extraction",
+            "data_type": "float"
+          },
+          {
+            "name": "Gestion residuos",
+            "description": "Descripción del tratamiento y destino de los residuos.",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "Gestores Autorizados",
+            "description": "Indica si se hace uso de gestores de residuos autorizados.",
+            "source": "extraction",
+            "data_type": "boolean"
+          },
+          {
+            "name": "Tipo de suministro",
+            "description": "Tipo o naturaleza del suministro energético tal como se indica en los planos o documentación técnica del proyecto (ej. 'Electricidad', 'Gas', 'Agua'). Extraer la denominación exacta que aparece en el documento, sin parafrasear.",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "Municipio",
+            "description": "Nombre oficial del municipio o localidad.",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "Potencia",
+            "description": "Potencia eléctrica o capacidad nominal tal como figura en los planos o esquemas técnicos del proyecto. Extraer el valor numérico exacto junto con su unidad (ej. '3,45 kW', '5,75 kW'). Copiar con total precisión, sin redondear ni alterar decimales.",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "Motivo de la obra",
+            "description": "Motivo o justificación de la obra: razón por la que se ejecuta la cala o canalización (ej. avería, nueva acometida, renovación de red, etc.).",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "Subcontratista",
+            "description": "Nombre de la empresa subcontratista que ejecuta la obra, si figura en el documento.",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "Fecha inicio prevista",
+            "description": "Fecha prevista de inicio de la obra, en formato ISO-8601 (YYYY-MM-DD).",
+            "source": "extraction",
+            "data_type": "date"
+          },
+          {
+            "name": "Fecha fin prevista",
+            "description": "Fecha prevista de finalización de la obra, en formato ISO-8601 (YYYY-MM-DD).",
+            "source": "extraction",
+            "data_type": "date"
+          },
+          {
+            "name": "Dirección",
+            "description": "Dirección principal de la obra. Extraer SOLO la dirección principal aunque el documento mencione varias ubicaciones.",
+            "source": "extraction",
+            "data_type": "object",
+            "nested_fields": [
+              {
+                "name": "Tipo",
+                "description": "Tipo de vía asociado a la dirección (Calle, Avenida, Plaza, Paseo, etc.).",
+                "source": "extraction",
+                "data_type": "string"
+              },
+              {
+                "name": "Nombre",
+                "description": "Nombre de la calle, avenida, plaza, etc.",
+                "source": "extraction",
+                "data_type": "string"
+              },
+              {
+                "name": "Número",
+                "description": "Número de portal o policía asociado a la dirección. Si no tiene, indicar 'Sin número'.",
+                "source": "extraction",
+                "data_type": "string"
+              },
+              {
+                "name": "Categoría fiscal",
+                "description": "Categoría fiscal de la dirección, si figura en el documento.",
+                "source": "extraction",
+                "data_type": "string"
+              },
+              {
+                "name": "Distrito",
+                "description": "Distrito asociado a la dirección.",
+                "source": "extraction",
+                "data_type": "string"
+              },
+              {
+                "name": "Barrio",
+                "description": "Barrio asociado a la dirección.",
+                "source": "extraction",
+                "data_type": "string"
+              },
+              {
+                "name": "Descripción ubicación",
+                "description": "Descripción extra de la ubicación (referencias, tramo, cruces, etc.).",
+                "source": "extraction",
+                "data_type": "string"
+              }
+            ]
+          },
+          {
+            "name": "Medidas Acera",
+            "description": "Cada una de las medidas de acera indicadas en el documento (puede haber varias). Extraer una fila por cada medida distinta de acera que aparezca.",
+            "source": "extraction",
+            "data_type": "object",
+            "nested_fields": [
+              {
+                "name": "Largo",
+                "description": "Largo de la medida de acera, en metros.",
+                "source": "extraction",
+                "data_type": "float"
+              },
+              {
+                "name": "Ancho",
+                "description": "Ancho de la medida de acera, en metros.",
+                "source": "extraction",
+                "data_type": "float"
+              },
+              {
+                "name": "Tipo pavimento",
+                "description": "Tipo de pavimento de la acera en ese tramo (ej. baldosa hidráulica, adoquín, hormigón, etc.).",
+                "source": "extraction",
+                "data_type": "string"
+              }
+            ]
+          },
+          {
+            "name": "Medidas Calzada",
+            "description": "Cada una de las medidas de calzada indicadas en el documento (puede haber varias). Extraer una fila por cada medida distinta de calzada que aparezca.",
+            "source": "extraction",
+            "data_type": "object",
+            "nested_fields": [
+              {
+                "name": "Largo",
+                "description": "Largo de la medida de calzada, en metros.",
+                "source": "extraction",
+                "data_type": "float"
+              },
+              {
+                "name": "Ancho",
+                "description": "Ancho de la medida de calzada, en metros.",
+                "source": "extraction",
+                "data_type": "float"
+              },
+              {
+                "name": "Tipo pavimento",
+                "description": "Tipo de pavimento de la calzada en ese tramo (ej. asfalto, hormigón, adoquín, etc.).",
+                "source": "extraction",
+                "data_type": "string"
+              }
+            ]
+          },
+          {
+            "name": "Profundidad (m)",
+            "description": "Profundidad estimada de la obra/zanja, en metros.",
+            "source": "extraction",
+            "data_type": "float"
+          },
+          {
+            "name": "Otras unidades",
+            "description": "Otras unidades de obra o superficies afectadas distintas de acera y calzada, si el documento las menciona (ej. jardines, zonas verdes, aparcamientos).",
+            "source": "extraction",
+            "data_type": "string"
+          },
+          {
+            "name": "Duración (días)",
+            "description": "Duración estimada de la obra, en días. Mismo criterio que 'Plazo de ejecución': extraer el número entero de días tal como figura en la memoria del proyecto.",
+            "source": "extraction",
+            "data_type": "integer"
+          },
+          {
+            "name": "Presupuesto",
+            "description": "Presupuesto total de la obra. Mismo criterio que 'Total Presupuesto': importe final exacto con decimales.",
+            "source": "extraction",
+            "data_type": "float"
+          }
+        ]
+      },
+      "lookup_file_ids": [],
+      "lookup_suggestion": null,
+      "lookup_reasoning_effort": null,
+      "lookup_file_uploads": [],
+      "use_images": false
+    },
+    {
+      "id": "parse_1",
+      "type": "parse",
+      "mode": "standard",
+      "prompt_hint": null,
+      "figure_enhancement": true,
+      "annotation_reading": false,
+      "cache": true,
+      "effort": "mid",
+      "ocr_effort": "high",
+      "scanned_pages": "ocr"
+    }
+  ],
+  "edges": [
+    {
+      "source": "parse_1",
+      "target": "classify_1",
+      "branch": null
+    },
+    {
+      "source": "classify_1",
+      "target": "extract_1",
+      "branch": "AGNyRiwbMm"
+    },
+    {
+      "source": "classify_1",
+      "target": "extract_1",
+      "branch": "HVK5l1a4wQ"
+    },
+    {
+      "source": "classify_1",
+      "target": "extract_1",
+      "branch": "G7SlT5BXg3"
+    },
+    {
+      "source": "classify_1",
+      "target": "extract_1",
+      "branch": "Tc5WdvaO8o"
+    }
+  ]
+}

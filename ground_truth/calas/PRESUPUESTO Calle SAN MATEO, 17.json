@@ -1,0 +1,48 @@
+{
+  "file": "PRESUPUESTO Calle SAN MATEO, 17.pdf",
+  "tipo": "presupuestos",
+  "expediente": "i-DE 9045838454 - Calle San Mateo 17",
+  "fields": {
+    "descripcion_de_la_obra": null,
+    "plazo_de_ejecucion": null,
+    "id_proyecto_contratista": null,
+    "ubicacion_de_la_obra": "Calle SAN MATEO, 17",
+    "id_obra": null,
+    "total_presupuesto": 2092.38,
+    "gestion_residuos": null,
+    "gestores_autorizados": null,
+    "tipo_de_suministro": null,
+    "municipio": null,
+    "potencia": null,
+    "motivo_de_la_obra": null,
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": null,
+    "otras_unidades": null,
+    "duracion_dias": null,
+    "presupuesto": 2092.38,
+    "direccion": {
+      "tipo": "Calle",
+      "nombre": "SAN MATEO",
+      "numero": "17",
+      "categoria_fiscal": null,
+      "distrito": null,
+      "barrio": null
+    },
+    "medidas_acera": [],
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "total_presupuesto": "'TOTAL PRESUPUESTO 2.092,38 €'.",
+    "descripcion_de_la_obra": "Solo hay partidas de presupuesto (excavación, pavimentación), no una descripción de la obra.",
+    "medidas_acera": "Solo hay m2 de pavimentación (2 m2), no medidas largo/ancho de acera -> lista vacía.",
+    "plazo_de_ejecucion": "No aparece (el workflow devuelve 0, que no es lo mismo que 'no consta').",
+    "municipio": "No aparece en el documento."
+  },
+  "revisar": [
+    "descripcion_de_la_obra (null vs. lista de partidas)"
+  ]
+}

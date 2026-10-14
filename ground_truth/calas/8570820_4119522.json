@@ -1,0 +1,107 @@
+{
+  "file": "8570820_4119522.pdf",
+  "tipo": "memoria",
+  "expediente": "Telefónica 8570820 - CL Raimundo Fdez. Villaverde 69",
+  "fields": {
+    "descripcion_de_la_obra": "Ejecución de 1 arqueta tipo M In Situ y 2 canalizaciones tipo 2 C.PVC 63 B2 con un total de 8,60 metros en acera",
+    "plazo_de_ejecucion": 10,
+    "id_proyecto_contratista": {
+      "any_of": [
+        null,
+        "8570820"
+      ]
+    },
+    "ubicacion_de_la_obra": "CL RAIMUNDO FDEZ VILLAVERDE 69 MADRID",
+    "id_obra": "8570820",
+    "total_presupuesto": 973.04,
+    "gestion_residuos": {
+      "any_of": [
+        "Inertes (tierras, hormigón, escombros) a vertedero o depósito controlado por la contrata; peligrosos y electrónicos a gestor autorizado; asimilables a urbanos por servicio municipal",
+        "Todos los residuos generados serán depositados en gestor autorizado para su correcta manipulación y reciclado"
+      ]
+    },
+    "gestores_autorizados": true,
+    "tipo_de_suministro": {
+      "any_of": [
+        "Telecomunicaciones",
+        "Fibra óptica",
+        "Comunicaciones electrónicas"
+      ]
+    },
+    "municipio": "Madrid",
+    "potencia": null,
+    "motivo_de_la_obra": "Atender la petición de variación de instalaciones de telecomunicaciones",
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": {
+      "any_of": [
+        0.45,
+        0.6,
+        0.63
+      ]
+    },
+    "otras_unidades": {
+      "any_of": [
+        null,
+        "1 arqueta tipo M In Situ"
+      ]
+    },
+    "duracion_dias": 10,
+    "presupuesto": 973.04,
+    "direccion": {
+      "tipo": "Calle",
+      "nombre": {
+        "any_of": [
+          "RAIMUNDO FDEZ VILLAVERDE",
+          "RAIMUNDO FERNANDEZ VILLAVERDE"
+        ]
+      },
+      "numero": "69",
+      "categoria_fiscal": null,
+      "distrito": null,
+      "barrio": null
+    },
+    "medidas_acera": {
+      "any_of": [
+        [
+          {
+            "largo": 6.2,
+            "ancho": null,
+            "tipo_pavimento": null
+          },
+          {
+            "largo": 2.4,
+            "ancho": null,
+            "tipo_pavimento": null
+          }
+        ],
+        [
+          {
+            "largo": 8.6,
+            "ancho": null,
+            "tipo_pavimento": null
+          }
+        ]
+      ]
+    },
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run). Solo hay fecha de documento 03/12/2025. El workflow devolvió '0325-12-03' / '0425-12-03'.",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "_alcance": "Documento de 47 págs (memoria técnica completa: memoria + seguridad y salud + residuos + plazo + presupuesto + planos). Se rellenan los campos que aplican al proyecto completo.",
+    "plazo_de_ejecucion": "Pág. 33, apdo. 13: 'será de 10 días'.",
+    "total_presupuesto": "Pág. 33, apdo. 14.1: 'TOTAL PRESUPUESTO 973,04 €' (PEM; reposición de pavimentos 192,06 € incluida).",
+    "ubicacion_de_la_obra": "Pág. 6-7: 'CL RAIMUNDO FDEZ VILLAVERDE 69 MADRID (MADRID)', ref. catastral 1380335VK4718A0001PU.",
+    "id_obra": "'PROYECTO NÚMERO: 8570820' (portada y cabeceras). También 'M.AZ: 45867'.",
+    "subcontratista": "Smart Telecom Consulting 2004 SL redacta la memoria; la empresa colaboradora que ejecuta no se nombra -> null.",
+    "profundidad_m": "Plano 03: 0,45 m de relleno en acera (+0,18 de prisma = 0,63); texto pág. 11: H mínima 60 cm en acera. Aceptamos 0.45/0.6/0.63.",
+    "medidas_acera": "Pág. 7: canalizaciones de 6,20 m y 2,40 m (total 8,60 m) en acera. El workflow devolvió las 3 (8,6 + 6,2 + 2,4) -> doble conteo."
+  },
+  "revisar": [
+    "profundidad_m (0.45 vs 0.6 vs 0.63)",
+    "tipo_de_suministro (telecomunicaciones/fibra; el doc no tiene un campo 'tipo de suministro')",
+    "id_obra vs id_proyecto_contratista (8570820 / M.AZ 45867)"
+  ]
+}

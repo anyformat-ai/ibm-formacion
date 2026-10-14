@@ -1,0 +1,277 @@
+{
+  "name": "Formación IBM · Factura y albarán",
+  "description": "Clasifica cada documento como factura o albarán, extrae sus datos (con el albarán de cada línea) y comprueba los totales de la factura.",
+  "nodes": [
+    {
+      "id": "parse",
+      "type": "parse",
+      "mode": "standard"
+    },
+    {
+      "id": "classify",
+      "type": "classify",
+      "user_prompt": "Cada documento es una factura o un albarán de entrega de un proveedor. Un documento es de un solo tipo.",
+      "categories": [
+        {
+          "id": "factura",
+          "name": "Factura",
+          "description": "Factura de un proveedor: tiene número de factura, base imponible, IVA y total a pagar."
+        },
+        {
+          "id": "albaran",
+          "name": "Albarán",
+          "description": "Albarán o nota de entrega: lista la mercancía entregada con cantidades, normalmente sin importes ni impuestos."
+        }
+      ]
+    },
+    {
+      "id": "extract_factura",
+      "type": "extract",
+      "mode": "standard",
+      "extraction_schema": {
+        "fields": [
+          {
+            "name": "numero_factura",
+            "data_type": "string",
+            "description": "Número de factura tal como aparece impreso, sin cambiar ningún carácter."
+          },
+          {
+            "name": "fecha_factura",
+            "data_type": "date",
+            "description": "Fecha de emisión de la factura, en formato YYYY-MM-DD."
+          },
+          {
+            "name": "proveedor_nombre",
+            "data_type": "string",
+            "description": "Razón social del proveedor que emite la factura (no el cliente)."
+          },
+          {
+            "name": "proveedor_nif",
+            "data_type": "string",
+            "description": "NIF/CIF del proveedor, sin espacios ni guiones (ej. B12345678)."
+          },
+          {
+            "name": "cliente_nombre",
+            "data_type": "string",
+            "description": "Razón social del cliente al que se factura."
+          },
+          {
+            "name": "cliente_nif",
+            "data_type": "string",
+            "description": "NIF/CIF del cliente, sin espacios ni guiones."
+          },
+          {
+            "name": "albaranes_referenciados",
+            "data_type": "string",
+            "description": "Todos los números de albarán que aparecen en la factura (en cabecera o encima de cada grupo de líneas, p. ej. 'ALBARAN: 5622', 'Albarán 2026EXP0000062', 'ALB N.º293/2026'), separados por comas y sin repetir. Null si no cita ninguno."
+          },
+          {
+            "name": "lineas",
+            "data_type": "object",
+            "description": "Cada línea de artículo facturada, una fila por línea, en todas las páginas. No incluyas líneas de portes, subtotales ni comentarios.",
+            "nested_fields": [
+              {
+                "name": "albaran",
+                "data_type": "string",
+                "description": "Número del albarán bajo el que aparece esta línea (el último encabezado de albarán por encima de ella). Null si la factura no agrupa por albarán."
+              },
+              {
+                "name": "numero_pedido",
+                "data_type": "string",
+                "description": "Número de pedido del cliente asociado a la línea o a su albarán (p. ej. 'S/PEDIDO', 'Su pedido', 'Núm. pedido'). Null si no aparece."
+              },
+              {
+                "name": "referencia",
+                "data_type": "string",
+                "description": "Código o referencia del artículo."
+              },
+              {
+                "name": "descripcion",
+                "data_type": "string",
+                "description": "Descripción del artículo o servicio."
+              },
+              {
+                "name": "cantidad",
+                "data_type": "float",
+                "description": "Cantidad facturada."
+              },
+              {
+                "name": "precio_unitario",
+                "data_type": "float",
+                "description": "Precio por unidad antes de impuestos."
+              },
+              {
+                "name": "importe",
+                "data_type": "float",
+                "description": "Importe de la línea antes de impuestos, tal como está impreso."
+              }
+            ]
+          },
+          {
+            "name": "base_imponible",
+            "data_type": "float",
+            "description": "Base imponible total antes de IVA."
+          },
+          {
+            "name": "iva_importe",
+            "data_type": "float",
+            "description": "Cuota total de IVA. 0 si no aparece."
+          },
+          {
+            "name": "total",
+            "data_type": "float",
+            "description": "Total de la factura a pagar, IVA incluido."
+          }
+        ]
+      }
+    },
+    {
+      "id": "extract_albaran",
+      "type": "extract",
+      "mode": "standard",
+      "extraction_schema": {
+        "fields": [
+          {
+            "name": "numero_albaran",
+            "data_type": "string",
+            "description": "Número del albarán tal como aparece impreso."
+          },
+          {
+            "name": "fecha_entrega",
+            "data_type": "date",
+            "description": "Fecha de entrega o del albarán, en formato YYYY-MM-DD."
+          },
+          {
+            "name": "proveedor_nombre",
+            "data_type": "string",
+            "description": "Razón social del proveedor que entrega la mercancía."
+          },
+          {
+            "name": "proveedor_nif",
+            "data_type": "string",
+            "description": "NIF/CIF del proveedor, sin espacios ni guiones."
+          },
+          {
+            "name": "cliente_nombre",
+            "data_type": "string",
+            "description": "Cliente o destinatario de la entrega."
+          },
+          {
+            "name": "numero_pedido",
+            "data_type": "string",
+            "description": "Número de pedido del cliente, si aparece."
+          },
+          {
+            "name": "lineas",
+            "data_type": "object",
+            "description": "Cada artículo entregado, una fila por línea.",
+            "nested_fields": [
+              {
+                "name": "referencia",
+                "data_type": "string",
+                "description": "Código o referencia del artículo."
+              },
+              {
+                "name": "descripcion",
+                "data_type": "string",
+                "description": "Descripción del artículo."
+              },
+              {
+                "name": "cantidad",
+                "data_type": "float",
+                "description": "Cantidad entregada."
+              }
+            ]
+          },
+          {
+            "name": "firmado",
+            "data_type": "boolean",
+            "description": "True si el albarán tiene firma o sello de recepción del cliente."
+          }
+        ]
+      }
+    },
+    {
+      "id": "validate_factura",
+      "type": "validate",
+      "rules": [
+        {
+          "id": "base_mas_iva_es_total",
+          "name": "Base + IVA = total",
+          "kind": "deterministic",
+          "severity": "error",
+          "check": {
+            "type": "expression",
+            "expression": "data.base_imponible + data.iva_importe - data.total <= 0.02 && data.total - (data.base_imponible + data.iva_importe) <= 0.02"
+          }
+        },
+        {
+          "id": "lineas_suman_base",
+          "name": "Las líneas suman la base imponible",
+          "kind": "ai",
+          "severity": "error",
+          "description": "La suma del importe de todas las filas de lineas debe ser igual a base_imponible, con un margen de 0,02. Calcula la suma exacta y falla si no coincide."
+        }
+      ]
+    },
+    {
+      "id": "check_failed",
+      "type": "if_else",
+      "condition": {
+        "type": "any_of",
+        "checks": [
+          {
+            "type": "validation",
+            "rule_id": "base_mas_iva_es_total",
+            "status": "fail"
+          },
+          {
+            "type": "validation",
+            "rule_id": "lineas_suman_base",
+            "status": "fail"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aviso",
+      "type": "slack_alert",
+      "channel_id": "C0BQJK90D40",
+      "channel_name": "test-alerts",
+      "severity": "warning",
+      "message_template": ":warning: La factura ${field.numero_factura} de ${field.proveedor_nombre} no cuadra\nBase ${field.base_imponible} + IVA ${field.iva_importe} vs total ${field.total}\nBase + IVA: ${validation.base_mas_iva_es_total.status} · Líneas: ${validation.lineas_suman_base.status}"
+    }
+  ],
+  "edges": [
+    {
+      "source": "parse",
+      "target": "classify",
+      "branch": null
+    },
+    {
+      "source": "classify",
+      "target": "extract_factura",
+      "branch": "factura"
+    },
+    {
+      "source": "classify",
+      "target": "extract_albaran",
+      "branch": "albaran"
+    },
+    {
+      "source": "extract_factura",
+      "target": "validate_factura",
+      "branch": null
+    },
+    {
+      "source": "validate_factura",
+      "target": "check_failed",
+      "branch": null
+    },
+    {
+      "source": "check_failed",
+      "target": "aviso",
+      "branch": "true"
+    }
+  ]
+}

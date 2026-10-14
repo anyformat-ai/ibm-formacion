@@ -1,0 +1,39 @@
+{
+  "file": "Datos Subcontratistas.pdf",
+  "tipo": "otro",
+  "expediente": "Ninguno (captura de la plataforma Metacontratas: subcontrata de ascensores en Málaga)",
+  "fields": {
+    "descripcion_de_la_obra": null,
+    "plazo_de_ejecucion": null,
+    "id_proyecto_contratista": null,
+    "ubicacion_de_la_obra": null,
+    "id_obra": null,
+    "total_presupuesto": null,
+    "gestion_residuos": null,
+    "gestores_autorizados": null,
+    "tipo_de_suministro": null,
+    "municipio": null,
+    "potencia": null,
+    "motivo_de_la_obra": null,
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": null,
+    "otras_unidades": null,
+    "duracion_dias": null,
+    "presupuesto": null,
+    "direccion": null,
+    "medidas_acera": [],
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "_alcance": "No es documentación de calas: es una captura de 'Datos de la Empresa' de una subcontrata (A.C.R. MONTAJES Y REPARACIONES SL, Málaga, montaje de ascensores). Sirve para enseñar que el clasificador del workflow no tiene categoría 'Otro' y fuerza una de las 4.",
+    "_baseline": "Sin run en el workflow de junio.",
+    "subcontratista": "Aunque aparece 'A.C.R. MONTAJES Y REPARACIONES SL', no es subcontratista de ninguna obra de calas -> null. Lo correcto es clasificar como 'Otro' y no extraer."
+  },
+  "revisar": [
+    "subcontratista: ¿null o 'A.C.R. MONTAJES Y REPARACIONES SL'? Depende de si queréis que el workflow lo rechace"
+  ]
+}

@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.DS_Store
+
+# Claves: nunca al repo
+.env
+.env*.local

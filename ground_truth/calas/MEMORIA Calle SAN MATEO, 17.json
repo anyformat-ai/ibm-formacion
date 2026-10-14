@@ -1,0 +1,70 @@
+{
+  "file": "MEMORIA Calle SAN MATEO, 17.pdf",
+  "tipo": "memoria",
+  "expediente": "i-DE 9045838454 - Calle San Mateo 17",
+  "fields": {
+    "descripcion_de_la_obra": "Obra de apertura de cala en acera para tendido de cable subterráneo de Baja Tensión por nueva acometida en la Calle SAN MATEO, 17",
+    "plazo_de_ejecucion": 30,
+    "id_proyecto_contratista": {
+      "any_of": [
+        null,
+        "9045838454"
+      ]
+    },
+    "ubicacion_de_la_obra": "Calle SAN MATEO, 17",
+    "id_obra": "9045838454",
+    "total_presupuesto": 2092.38,
+    "gestion_residuos": null,
+    "gestores_autorizados": null,
+    "tipo_de_suministro": {
+      "any_of": [
+        "Baja Tensión",
+        "Electricidad",
+        "Eléctrico"
+      ]
+    },
+    "municipio": "Madrid",
+    "potencia": null,
+    "motivo_de_la_obra": "Acometida de Baja Tensión para nuevo suministro",
+    "subcontratista": "TRADIVEL",
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": null,
+    "otras_unidades": null,
+    "duracion_dias": 30,
+    "presupuesto": 2092.38,
+    "direccion": {
+      "tipo": "Calle",
+      "nombre": "SAN MATEO",
+      "numero": "17",
+      "categoria_fiscal": null,
+      "distrito": null,
+      "barrio": null
+    },
+    "medidas_acera": [
+      {
+        "largo": 6.0,
+        "ancho": null,
+        "tipo_pavimento": null
+      }
+    ],
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run). La única fecha es la de firma: 'Madrid, 14 de Noviembre de 2025'.",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "plazo_de_ejecucion": "'PLAZO DE EJECUCIÓN: 30 días'.",
+    "total_presupuesto": "'La Obra Civil asciende a la cantidad de 2.092,38- €'.",
+    "id_obra": "'número de expediente 9045838454'.",
+    "subcontratista": "'CONTRATISTA: TRADIVEL' (empresa que ejecuta para el promotor i-DE).",
+    "gestion_residuos": "No aparece en la memoria (va en el documento de residuos).",
+    "gestores_autorizados": "No se menciona -> null (no False).",
+    "profundidad_m": "No aparece.",
+    "medidas_acera": "'Cala de 6 m a reponer en acera'. Sin ancho ni tipo de pavimento."
+  },
+  "revisar": [
+    "subcontratista (¿TRADIVEL cuenta como subcontratista? figura como CONTRATISTA)",
+    "id_proyecto_contratista (aceptamos null o el nº de expediente)",
+    "tipo_de_suministro (aceptamos 'Baja Tensión'/'Electricidad')"
+  ]
+}

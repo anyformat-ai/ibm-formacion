@@ -1,0 +1,79 @@
+{
+  "file": "PLANOS.pdf",
+  "tipo": "plano",
+  "expediente": "Telefónica 8570820 - CL Raimundo Fdez. Villaverde 69",
+  "fields": {
+    "descripcion_de_la_obra": {
+      "any_of": [
+        null,
+        "Nueva canalización 2 C.PVC 63 B2 de 6,20 m y 2,40 m en acera y nueva arqueta ARQ M In situ"
+      ]
+    },
+    "plazo_de_ejecucion": null,
+    "id_proyecto_contratista": {
+      "any_of": [
+        null,
+        "8570820"
+      ]
+    },
+    "ubicacion_de_la_obra": null,
+    "id_obra": "8570820",
+    "total_presupuesto": null,
+    "gestion_residuos": null,
+    "gestores_autorizados": null,
+    "tipo_de_suministro": null,
+    "municipio": "Madrid",
+    "potencia": null,
+    "motivo_de_la_obra": null,
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": {
+      "any_of": [
+        0.45,
+        0.63
+      ]
+    },
+    "otras_unidades": null,
+    "duracion_dias": null,
+    "presupuesto": null,
+    "direccion": null,
+    "medidas_acera": {
+      "any_of": [
+        [
+          {
+            "largo": 6.2,
+            "ancho": null,
+            "tipo_pavimento": null
+          },
+          {
+            "largo": 2.4,
+            "ancho": null,
+            "tipo_pavimento": null
+          }
+        ],
+        [
+          {
+            "largo": 8.6,
+            "ancho": null,
+            "tipo_pavimento": null
+          }
+        ]
+      ]
+    },
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run). '03/12/2025' es la fecha del plano.",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "_alcance": "Extracto (hojas 42-47) del proyecto 8570820: portada, localización, obra civil, detalle canalizado, detalle arqueta, leyenda.",
+    "subcontratista": "'DIBUJADO: SMART TELECOM CONSULTING 2004 SL' es quien dibuja el plano, no un subcontratista -> null.",
+    "profundidad_m": "Plano 03: '0,45 EN ACERA / 0,60 EN CALZADA' (relleno sobre prisma de 0,18). La obra es solo en acera -> 0.45 (o 0.63 total).",
+    "medidas_acera": "Plano 02: '6,20 metros en acera' y '2,40 metros en acera'. El workflow devolvió 0,45 / 0,60 (profundidades) como largos.",
+    "direccion": "Los planos no incluyen la calle (solo 'Madrid') -> null."
+  },
+  "revisar": [
+    "profundidad_m (0.45 vs 0.63)",
+    "subcontratista null (Smart Telecom = 'DIBUJADO')"
+  ]
+}

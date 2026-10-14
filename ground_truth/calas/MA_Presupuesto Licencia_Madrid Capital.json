@@ -1,0 +1,79 @@
+{
+  "file": "MA_Presupuesto Licencia_Madrid Capital.pdf",
+  "tipo": "presupuestos",
+  "expediente": "Nedgia ACT250600117588 - C/ Pastrana 8B",
+  "fields": {
+    "descripcion_de_la_obra": {
+      "any_of": [
+        null,
+        "Desplazamiento Terceros",
+        "PASTRANA 8 (DESPLAZAMIENTO RED)"
+      ]
+    },
+    "plazo_de_ejecucion": null,
+    "id_proyecto_contratista": {
+      "any_of": [
+        null,
+        "ACT250600117588"
+      ]
+    },
+    "ubicacion_de_la_obra": "PASTRANA 8 (DESPLAZAMIENTO RED)",
+    "id_obra": "ACT250600117588",
+    "total_presupuesto": 1446.24,
+    "gestion_residuos": null,
+    "gestores_autorizados": null,
+    "tipo_de_suministro": null,
+    "municipio": {
+      "any_of": [
+        null,
+        "Madrid"
+      ]
+    },
+    "potencia": null,
+    "motivo_de_la_obra": {
+      "any_of": [
+        "Desplazamiento Terceros",
+        "Desplazamiento de red"
+      ]
+    },
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": null,
+    "otras_unidades": null,
+    "duracion_dias": null,
+    "presupuesto": 1446.24,
+    "direccion": {
+      "tipo": {
+        "any_of": [
+          null,
+          "Calle"
+        ]
+      },
+      "nombre": "PASTRANA",
+      "numero": "8",
+      "categoria_fiscal": null,
+      "distrito": null,
+      "barrio": null
+    },
+    "medidas_acera": [
+      {
+        "largo": 13.8,
+        "ancho": null,
+        "tipo_pavimento": "Loseta especial"
+      }
+    ],
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run). '09/12/25' es la fecha de firma.",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "total_presupuesto": "'Total Presupuesto: 1.446,24' (= 978,56 + 211,83 + 255,85).",
+    "id_obra": "'Ref.: ACT250600117588'. El workflow puso la denominación 'PASTRANA 8 (DESPLAZAMIENTO RED)' como ID.",
+    "medidas_acera": "Acera 10 + 3,8 = 13,80 m, loseta especial. Calzada 0 m (la palabra 'Asfalto' es solo el tipo de pavimento de calzada).",
+    "municipio": "'Madrid 09/12/25' es lugar de firma; aceptamos null o Madrid."
+  },
+  "revisar": [
+    "direccion.numero: aquí pone '8' (no '8B')"
+  ]
+}

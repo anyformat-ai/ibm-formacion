@@ -1,0 +1,73 @@
+{
+  "file": "9045838454 Calle SAN MATEO, 17.pdf",
+  "tipo": "plano",
+  "expediente": "i-DE 9045838454 - Calle San Mateo 17",
+  "fields": {
+    "descripcion_de_la_obra": "Apertura y posterior reposición de canalización con 4 tubos de 160 mm y tendido de cable XZ1 3x(1x150) + 1x95 mm2 AL; entronque y refuerzo; instalación de nuevas CGP",
+    "plazo_de_ejecucion": null,
+    "id_proyecto_contratista": {
+      "any_of": [
+        null,
+        "9045838454"
+      ]
+    },
+    "ubicacion_de_la_obra": "Calle SAN MATEO, 17, Bajo ASCN",
+    "id_obra": "9045838454",
+    "total_presupuesto": null,
+    "gestion_residuos": null,
+    "gestores_autorizados": null,
+    "tipo_de_suministro": {
+      "any_of": [
+        "Cambio tensión",
+        "Electricidad",
+        "Baja Tensión"
+      ]
+    },
+    "municipio": "Madrid",
+    "potencia": "73,5 kW",
+    "motivo_de_la_obra": {
+      "any_of": [
+        "Cambio tensión",
+        "Cambio de tensión de la finca de 127/230 V a 230/400 V normalizada"
+      ]
+    },
+    "subcontratista": null,
+    "fecha_inicio_prevista": null,
+    "fecha_fin_prevista": null,
+    "profundidad_m": {
+      "any_of": [
+        null,
+        0.96,
+        1.16,
+        0.8
+      ]
+    },
+    "otras_unidades": null,
+    "duracion_dias": null,
+    "presupuesto": null,
+    "direccion": {
+      "tipo": "Calle",
+      "nombre": "SAN MATEO",
+      "numero": "17",
+      "categoria_fiscal": null,
+      "distrito": null,
+      "barrio": null
+    },
+    "medidas_acera": [],
+    "medidas_calzada": []
+  },
+  "notas": {
+    "fecha_inicio_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run). Las fechas 24/09/2025 y 30/09/2024 son sellos de impresión de los planos.",
+    "fecha_fin_prevista": "El documento no contiene fecha prevista de inicio/fin. Cualquier fecha devuelta es inventada (fecha del documento, del plano o de la ejecución del run).",
+    "tipo_de_suministro": "Cajetín: 'TIPO DE SUMINISTRO: Cambio tensión'.",
+    "potencia": "Cajetín: 'POTENCIA: 73,5 Kw'.",
+    "profundidad_m": "Pág. 2 son secciones tipo en mm (960 mm acera, 1160 mm calzada; tubos a 80 cm). El workflow devolvió 11.6 (error de unidades mm->m x10).",
+    "medidas_acera": "Los planos no acotan largo de la canalización; 420/580 mm son anchos de sección tipo -> lista vacía.",
+    "total_presupuesto": "Un plano no lleva presupuesto -> null (el workflow devuelve 0.0 con confianza 100)."
+  },
+  "revisar": [
+    "profundidad_m (sección tipo; aceptamos null/0.96/1.16/0.8)",
+    "medidas_acera/medidas_calzada (vacías: el plano no acota longitudes)",
+    "tipo_de_suministro y motivo_de_la_obra ('Cambio tensión' literal)"
+  ]
+}

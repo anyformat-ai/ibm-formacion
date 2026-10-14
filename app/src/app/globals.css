@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+/* Shift, el sistema de diseño de anyformat — tema claro. Tokens copiados de autocae-app
+   (skin-shift-tokens.css), sin el prefijo `--sh-`. */
+:root {
+  --ground: #eef1f4; --canvas: #f9fafb; --surface: #ffffff; --well: #f1f3f6;
+  --ink: #0e1116; --ink-2: #555b66; --ink-3: #878c97; --ink-4: #b9bdc6;
+  --hair: rgba(14,17,22,.075); --hair-2: rgba(14,17,22,.12); --hair-3: rgba(14,17,22,.2);
+  --accent: #0058f0; --accent-2: #004cd1; --accent-soft: #ebf2ff;
+  --accent-line: rgba(0,88,240,.22); --accent-ring: rgba(0,88,240,.14);
+  --accent-from: #1a6bff; --accent-to: #0055ea; --on-accent: #ffffff; --on-accent-shadow: rgba(0,32,110,.35);
+  --success: #0f7f59; --success-soft: #e6f4ee;
+  --warning: #b56a00; --warning-soft: #fdf3e2;
+  --danger: #cc2d47; --danger-soft: #fcebee;
+
+  --e0: inset 0 0 0 .5px rgba(14,17,22,.2);
+  --e1: 0 1px 2px rgba(14,17,22,.05), 0 3px 10px -2px rgba(14,17,22,.08);
+  --e1h: 0 2px 4px rgba(14,17,22,.05), 0 12px 28px -10px rgba(14,17,22,.18);
+  --e-window: 0 2px 6px rgba(14,17,22,.05), 0 40px 90px -40px rgba(14,17,22,.35);
+  --e-primary: inset 0 1px 0 rgba(255,255,255,.25), 0 0 0 .5px rgba(0,50,170,.6), 0 1px 2px rgba(0,50,160,.25);
+  --focus: 0 0 0 .5px #0058f0, 0 0 0 4px rgba(0,88,240,.14);
+  --ease: cubic-bezier(.2,.8,.2,1);
+}
+
+/* Los tokens como utilidades de Tailwind: `bg-surface`, `text-ink-2`, `rounded-card`, `shadow-card`… */
+@theme inline {
+  --color-ground: var(--ground); --color-canvas: var(--canvas); --color-surface: var(--surface); --color-well: var(--well);
+  --color-ink: var(--ink); --color-ink-2: var(--ink-2); --color-ink-3: var(--ink-3); --color-ink-4: var(--ink-4);
+  --color-hair: var(--hair); --color-hair-2: var(--hair-2); --color-hair-3: var(--hair-3);
+  --color-accent: var(--accent); --color-accent-2: var(--accent-2); --color-accent-soft: var(--accent-soft);
+  --color-success: var(--success); --color-success-soft: var(--success-soft);
+  --color-warning: var(--warning); --color-warning-soft: var(--warning-soft);
+  --color-danger: var(--danger); --color-danger-soft: var(--danger-soft);
+
+  --radius-window: 22px; --radius-card: 16px; --radius-control: 10px; --radius-chip: 8px; --radius-badge: 6px;
+  --shadow-card: var(--e0), var(--e1);
+  --shadow-window: var(--e0), var(--e-window);
+
+  --font-sans: var(--font-instrument), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, Menlo, monospace;
+}
+
+body {
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  letter-spacing: -0.006em;
+  -webkit-font-smoothing: antialiased;
+}
+::selection { background: var(--accent-soft); color: var(--ink); }
+
+/* --- Primitivas de Shift ---------------------------------------------------------------------------- */
+@layer components {
+  .btn {
+    display: inline-flex; align-items: center; gap: 6px; height: 32px; padding-inline: 12px;
+    border-radius: var(--radius-control); font-size: 13px; font-weight: 550; cursor: pointer;
+    background: var(--surface); color: var(--ink); box-shadow: var(--e0), var(--e1);
+    transition: box-shadow 200ms var(--ease), filter 150ms var(--ease), transform 120ms var(--ease);
+  }
+  .btn:hover:not(:disabled) { box-shadow: var(--e0), var(--e1h); }
+  .btn:active:not(:disabled) { transform: translateY(.5px) scale(.985); }
+  .btn:focus-visible { outline: none; box-shadow: var(--focus); }
+  .btn-primary {
+    background-image: linear-gradient(180deg, var(--accent-from), var(--accent-to));
+    color: var(--on-accent); text-shadow: 0 1px 1px var(--on-accent-shadow); box-shadow: var(--e-primary);
+  }
+  .btn-primary:hover:not(:disabled) { box-shadow: var(--e-primary), 0 4px 12px -6px var(--accent-line); filter: brightness(1.04); }
+  .btn:disabled { background: var(--well); color: var(--ink-4); text-shadow: none; box-shadow: var(--e0); cursor: default; }
+
+  .control {
+    height: 32px; padding-inline: 10px; border: 1px solid var(--hair-2); border-radius: var(--radius-control);
+    background: var(--surface); color: var(--ink); font-size: 13px;
+    transition: box-shadow 150ms var(--ease), border-color 150ms var(--ease);
+  }
+  .control:hover:not(:focus) { border-color: var(--hair-3); }
+  .control:focus-visible { outline: none; border-color: var(--accent); box-shadow: var(--focus); }
+
+  .label { font-size: 12px; font-weight: 550; color: var(--ink-3); }
+
+  /* Tabla: cabecera 12 px gris, filas con hairline. */
+  .table { width: 100%; font-size: 13px; border-collapse: separate; border-spacing: 0; }
+  .table th { text-align: left; font-size: 12px; font-weight: 550; color: var(--ink-3); padding: 8px 10px; border-bottom: .5px solid var(--hair-2); }
+  .table td { padding: 8px 10px; border-bottom: .5px solid var(--hair); vertical-align: top; }
+  .table tbody tr:hover { background: var(--well); }
+}
+
+input[type="range"] { accent-color: var(--accent); }
